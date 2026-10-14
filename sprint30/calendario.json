@@ -1,6 +1,6 @@
 [
  {
-  "data": "2026-10-15",
+  "data": "2026-10-14",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -10,9 +10,9 @@
   "legenda": "A IA é ótima pra rascunho. Mas o detalhe que faz seu cliente pensar \"isso é comigo\" só você tem. Use os dois.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-15",
+  "data": "2026-10-14",
   "slot": "almoco",
-  "hora": "12:07",
+  "hora": "15:07",
   "tipo": "carrossel",
   "id": "c01",
   "serie": "Psicologia da Venda",
@@ -28,7 +28,7 @@
   "legenda": "Psicologia da Venda: efeito halo. 😇\n\nUma única coisa bem feita faz o cliente presumir que todo o resto também é. E uma coisa mal feita faz o contrário.\n\nSalva e revisa o primeiro contato do seu perfil hoje.\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-10-15",
+  "data": "2026-10-14",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -41,7 +41,20 @@
   "legenda": "Nenhum editor abriu um programa pra fazer esse vídeo. 🎬\n\nRoteiro escrito com IA e revisado por mim, narração sintetizada, cada animação programada em código e renderizada sozinha.\n\nIsso não tira o trabalho humano. Tira o trabalho repetitivo. O que dizer, pra quem e por quê continua sendo decisão nossa.\n\nComenta MOTION que eu te mostro os bastidores. 👇\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-16",
+  "data": "2026-10-14",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h01",
+  "serie": "Vida de Empresário",
+  "numero_serie": 1,
+  "titulo": "Desconto no desconto",
+  "video": "sprint30/reel/h01.mp4",
+  "capa": "sprint30/reel/h01_capa.jpg",
+  "legenda": "O preço já estava com desconto. Ele pediu outro. E ainda perguntou se o frete era grátis. 🙃\n\nQuem nunca? Marca o amigo que já passou por isso.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-15",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -51,7 +64,7 @@
   "legenda": "Ninguém lê seu post palavra por palavra. Frases curtas, uma ideia por linha, o mais importante primeiro.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-16",
+  "data": "2026-10-15",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -69,7 +82,7 @@
   "legenda": "Metade do retrabalho em marketing nasce de um briefing ruim. 📝\n\nObjetivo claro, referências, material completo e uma pessoa que decide. Com isso, a primeira versão já chega perto.\n\nSalva pra usar na próxima contratação (com a Arche ou com qualquer agência).\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-10-16",
+  "data": "2026-10-15",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -82,7 +95,20 @@
   "legenda": "Psicologia da Venda #1: ancoragem. ⚓\n\nO primeiro número que o cliente vê vira a régua de tudo que vem depois. Se você abre com o pacote mais barato, o resto parece caro. Se abre com o completo, o intermediário parece razoável.\n\nNão é enganar: é ordenar. O preço é o mesmo, a percepção muda.\n\nSegue pra não perder as próximas.\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-10-17",
+  "data": "2026-10-15",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h02",
+  "serie": "Vida de Empresário",
+  "numero_serie": 2,
+  "titulo": "Tipos de cliente no WhatsApp",
+  "video": "sprint30/reel/h02.mp4",
+  "capa": "sprint30/reel/h02_capa.jpg",
+  "legenda": "Qual desses aparece mais no seu WhatsApp? 😂\n\n1️⃣ áudio de 4 minutos\n2️⃣ \"oi\" e some\n3️⃣ \"quanto fica?\"\n\nComenta o número e marca quem atende esse povo todo dia.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-16",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -92,7 +118,7 @@
   "legenda": "\"Preço no direct\" gera desconfiança. Explicar o que o valor inclui gera confiança.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-17",
+  "data": "2026-10-16",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -110,7 +136,7 @@
   "legenda": "5 prompts que eu usaria se tivesse uma loja amanhã. 📋\n\nO segredo está nos colchetes: quanto mais específico o que você coloca ali, menos genérico o que volta.\n\nSalva pra não perder e me conta qual funcionou melhor.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-17",
+  "data": "2026-10-16",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -123,7 +149,20 @@
   "legenda": "Raio-X do Comércio Local #1: a fachada. 🏪\n\nFaça o teste da calçada: atravesse a rua e olhe pra sua loja como um desconhecido.\n• Dá pra ler o nome de longe?\n• Dá pra saber o que você vende?\n• Parece aberto?\n\nSe alguma resposta for não, sua fachada está espantando cliente de graça.\n\nManda a foto no WhatsApp (27 99954-8690) que eu dou o veredito.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-10-18",
+  "data": "2026-10-16",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h03",
+  "serie": "Vida de Empresário",
+  "numero_serie": 3,
+  "titulo": "Ser o próprio chefe",
+  "video": "sprint30/reel/h03.mp4",
+  "capa": "sprint30/reel/h03_capa.jpg",
+  "legenda": "Saí do emprego pra não ter chefe. Hoje tenho dezenas, e o mais exigente mora no meu espelho. 😅\n\nManda no grupo dos empreendedores.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-17",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -133,7 +172,7 @@
   "legenda": "Se a primeira frase não diz o que é e pra quem é, o cliente segue rolando o feed.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-18",
+  "data": "2026-10-17",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -151,7 +190,7 @@
   "legenda": "Psicologia da Venda: viés do status quo. 🛋️\n\nSeu concorrente não ganha porque é melhor. Ganha porque já está lá. A saída é tornar a troca fácil e sem risco.\n\nMarca alguém que vive tentando roubar cliente da concorrência.\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-10-18",
+  "data": "2026-10-17",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -164,7 +203,20 @@
   "legenda": "Ninguém gravou essa narração. 🎙️\n\nÉ um modelo de voz que roda no computador, sem estúdio e sem custo por minuto. Errou uma palavra? Troca o texto e gera de novo.\n\nNão substitui uma voz marcante de verdade, mas resolve 80% dos vídeos do dia a dia: aviso de horário, novidade, oferta, tutorial.\n\nComenta VOZ que eu te digo onde ela cabe no seu negócio.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-19",
+  "data": "2026-10-17",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h04",
+  "serie": "Vida de Empresário",
+  "numero_serie": 4,
+  "titulo": "Frases que todo empresário já ouviu",
+  "video": "sprint30/reel/h04.mp4",
+  "capa": "sprint30/reel/h04_capa.jpg",
+  "legenda": "Fez bingo essa semana? 🎯\n\nComenta a frase que faltou nessa lista. A melhor vira vídeo.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-18",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -174,7 +226,7 @@
   "legenda": "O conteúdo que mais é salvo e compartilhado é o que faz quem lê parecer inteligente pros amigos.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-19",
+  "data": "2026-10-18",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -192,7 +244,7 @@
   "legenda": "Um errinho na arte parece pequeno. Pro cliente, vira \"será que o resto é bem feito?\". ✍️\n\nQuatro trocas comuns em placa, post e cardápio. Revisa antes de imprimir.\n\nQual erro você mais vê por aí? Comenta (sem expor ninguém 😅).\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-10-19",
+  "data": "2026-10-18",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -205,7 +257,20 @@
   "legenda": "Psicologia da Venda #2: efeito chamariz. 🍿\n\nQuando a média custa quase o mesmo que a grande, ninguém quer a média. Ela existe pra fazer a grande parecer um ótimo negócio.\n\n(Os preços do vídeo são só um exemplo pra ilustrar.)\n\nFunciona em combo, plano de serviço, tamanho de bolo. Comenta ISCA que eu te ajudo a montar o seu.\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-10-20",
+  "data": "2026-10-18",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h05",
+  "serie": "Vida de Empresário",
+  "numero_serie": 5,
+  "titulo": "O sobrinho que mexe com computador",
+  "video": "sprint30/reel/h05.mp4",
+  "capa": "sprint30/reel/h05_capa.jpg",
+  "legenda": "Todo mundo tem um. E ele sempre está \"quase terminando\" o site. 🧑‍💻\n\nMarca o sobrinho (com carinho).\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-19",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -215,9 +280,9 @@
   "legenda": "Ninguém quer comprar seu produto. As pessoas querem o resultado que ele entrega. Venda o quadro na parede.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-20",
+  "data": "2026-10-19",
   "slot": "almoco",
-  "hora": "15:07",
+  "hora": "12:07",
   "tipo": "carrossel",
   "id": "c06",
   "serie": "Feito por IA",
@@ -233,7 +298,7 @@
   "legenda": "Antes de pedir qualquer texto pra IA, escreva isso uma vez. 🗂️\n\nUma página com quem você é, pra quem vende, como fala e o que não pode. Cole no início de cada pedido e a diferença aparece na primeira resposta.\n\nQuer um modelo pronto? Comenta FICHA.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-20",
+  "data": "2026-10-19",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -246,7 +311,20 @@
   "legenda": "Raio-X do Comércio Local #2: o domingo à noite. 🌙\n\nDomingo à noite muita gente está no sofá, organizando a semana: onde almoçar, quando cortar o cabelo, o que comprar.\n\nUm story simples nesse horário (agenda da semana, novidade, horário de funcionamento) coloca você na lista antes da segunda começar.\n\nTesta no próximo domingo e me conta o que aconteceu.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-10-21",
+  "data": "2026-10-19",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h06",
+  "serie": "Vida de Empresário",
+  "numero_serie": 6,
+  "titulo": "É rapidinho",
+  "video": "sprint30/reel/h06.mp4",
+  "capa": "sprint30/reel/h06_capa.jpg",
+  "legenda": "\"É só uma alteraçãozinha, rapidinho.\" ⏳\n\nTrês dias depois, de volta à versão 1. Manda pra quem trabalha com criação.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-20",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -256,7 +334,7 @@
   "legenda": "Velocidade importa. Mas um erro publicado custa mais caro que um dia de atraso.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-21",
+  "data": "2026-10-20",
   "slot": "almoco",
   "hora": "15:07",
   "tipo": "carrossel",
@@ -274,7 +352,7 @@
   "legenda": "Psicologia da Venda: heurística da disponibilidade. 🧠\n\nO cliente não pesquisa todas as opções. Ele chama quem lembra primeiro. E quem é lembrado é quem aparece.\n\nFaz o teste com 5 clientes e me conta o resultado.\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-10-21",
+  "data": "2026-10-20",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -284,10 +362,23 @@
   "titulo": "30 dias de conteúdo numa noite",
   "video": "sprint30/reel/r07.mp4",
   "capa": "sprint30/reel/r07_capa.jpg",
-  "legenda": "Esse post faz parte de 90 conteúdos que eu planejei, escrevi e produzi numa única noite. 🌙\n\nNão foi a IA sozinha. Foi método:\n1. Pilares fixos (o que a marca fala)\n2. Ganchos testados (como começa)\n3. Revisão humana (o que não pode sair)\n\nIA sem método vira texto genérico em escala. Com método, vira calendário.\n\nSegue a Arche pra acompanhar o resto da série.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
+  "legenda": "Esse vídeo faz parte de 120 conteúdos que eu planejei, escrevi e produzi numa única noite. 🌙\n\nNão foi a IA sozinha. Foi método:\n1. Pilares fixos (o que a marca fala)\n2. Ganchos testados (como começa)\n3. Revisão humana (o que não pode sair)\n\nIA sem método vira texto genérico em escala. Com método, vira calendário.\n\nSegue a Arche pra acompanhar o resto da série.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-22",
+  "data": "2026-10-20",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h07",
+  "serie": "Vida de Empresário",
+  "numero_serie": 7,
+  "titulo": "Expectativa x realidade do post",
+  "video": "sprint30/reel/h07.mp4",
+  "capa": "sprint30/reel/h07_capa.jpg",
+  "legenda": "E a terceira curtida foi sem querer. 😂\n\nAjuda esse aqui a fugir da estatística: manda pra alguém.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-21",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -297,9 +388,9 @@
   "legenda": "Falar com todo mundo é não falar com ninguém. Escolha uma pessoa e escreva pra ela.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-22",
+  "data": "2026-10-21",
   "slot": "almoco",
-  "hora": "12:07",
+  "hora": "15:07",
   "tipo": "carrossel",
   "id": "c08",
   "serie": "Comércio Local",
@@ -315,7 +406,7 @@
   "legenda": "Seu cliente ouviu falar de você. Foi procurar. Achou? 🔍\n\nUm @ difícil de digitar perde cliente todo dia, sem você saber. Faça o teste com alguém hoje.\n\nManda pro amigo do @ impossível.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-10-22",
+  "data": "2026-10-21",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -328,7 +419,20 @@
   "legenda": "Psicologia da Venda #3: aversão à perda. 💸\n\nA pesquisa de Kahneman e Tversky mostrou: perder algo pesa mais do que ganhar a mesma coisa. Por isso \"você já tem um benefício liberado\" mexe mais do que \"ganhe um benefício\".\n\nUse com verdade. Benefício falso queima a marca na primeira vez.\n\nSegue pra próxima da série.\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-10-23",
+  "data": "2026-10-21",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h08",
+  "serie": "Vida de Empresário",
+  "numero_serie": 8,
+  "titulo": "A semana do empresário",
+  "video": "sprint30/reel/h08.mp4",
+  "capa": "sprint30/reel/h08_capa.jpg",
+  "legenda": "A organização sempre começa na segunda que vem. 📅\n\nMarca quem vive essa semana em loop.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-22",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -338,7 +442,7 @@
   "legenda": "Marca não é logo. É o que as pessoas esperam de você e você entrega, de novo e de novo.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-23",
+  "data": "2026-10-22",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -356,7 +460,7 @@
   "legenda": "Robô no atendimento ajuda muito ou atrapalha muito. Depende de onde você coloca. 🤖\n\nRegra simples: o que é sempre igual, automatize. O que envolve emoção ou dinheiro, gente responde.\n\nSalva pra montar o seu fluxo.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-23",
+  "data": "2026-10-22",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -369,7 +473,20 @@
   "legenda": "Raio-X do Comércio Local #3: o rosto do negócio. 🙋\n\nUm feed só de produto parece catálogo de qualquer lugar. Quando aparece quem abre a porta às 7h, quem faz o produto, quem atende, vira o lugar daquela pessoa.\n\nNão precisa virar blogueiro. Uma foto sua por semana já muda o jogo.\n\nMarca um dono que precisa aparecer mais.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-10-24",
+  "data": "2026-10-22",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h09",
+  "serie": "Vida de Empresário",
+  "numero_serie": 9,
+  "titulo": "Oi às 23h47",
+  "video": "sprint30/reel/h09.mp4",
+  "capa": "sprint30/reel/h09_capa.jpg",
+  "legenda": "Pode ser venda. Pode ser alguém perguntando se você abre domingo. Mas você responde. 🌙\n\nMarca quem responde cliente de madrugada.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-23",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -379,7 +496,7 @@
   "legenda": "Viralizar traz atenção. Se o produto não sustenta, traz atenção pro problema.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-24",
+  "data": "2026-10-23",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -397,7 +514,7 @@
   "legenda": "Psicologia da Venda: viés de confirmação. 🔎\n\nO cliente chega com uma opinião pronta e procura provas dela. Seu trabalho é colocar a crença certa antes, pelo conteúdo, e responder a errada logo de cara.\n\nQual crença errada seu cliente tem sobre você?\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-10-24",
+  "data": "2026-10-23",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -410,7 +527,20 @@
   "legenda": "A IA não é ruim. O pedido que é vago. 🎯\n\n❌ \"Faz uma legenda pra minha loja\"\n✅ \"Sou uma loja de roupa feminina em Guarapari. Minha cliente tem 30 a 45 anos e compra pra trabalhar. Quero um tom próximo, sem exagero. A peça é um blazer de linho. Termine pedindo pra chamar no WhatsApp.\"\n\nA segunda versão dá trabalho de escrever uma vez. Depois é só trocar o produto.\n\nSalva e testa no próximo post.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-25",
+  "data": "2026-10-23",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h10",
+  "serie": "Vida de Empresário",
+  "numero_serie": 10,
+  "titulo": "Tipos de dono de loja no Instagram",
+  "video": "sprint30/reel/h10.mp4",
+  "capa": "sprint30/reel/h10_capa.jpg",
+  "legenda": "1, 2 ou 3? Sem julgamento (só um pouquinho). 😅\n\nComenta o número.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-24",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -420,7 +550,7 @@
   "legenda": "Nenhum anúncio convence como um cliente contando pro amigo. Cuide desse vendedor.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-25",
+  "data": "2026-10-24",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -438,7 +568,7 @@
   "legenda": "O cliente do seu vizinho pode ser o seu próximo cliente. 🤝\n\nParceria entre negócios do mesmo bairro é o marketing mais barato que existe: cupom cruzado, sorteio junto, post em collab.\n\nMarca um vizinho de negócio pra fazer uma parceria.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-10-25",
+  "data": "2026-10-24",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -451,7 +581,20 @@
   "legenda": "Psicologia da Venda #4: o paradoxo da escolha. 🫙\n\nNum estudo clássico (Iyengar e Lepper), uma banca com 24 geleias atraiu mais curiosos, mas a de 6 geleias vendeu cerca de 10 vezes mais.\n\nNo seu negócio: catálogo pode ter tudo, mas a vitrine (e o post) destaca 3 campeões e diz pra quem é cada um.\n\nMarca o amigo do cardápio de 80 itens. 😅\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-10-26",
+  "data": "2026-10-24",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h11",
+  "serie": "Vida de Empresário",
+  "numero_serie": 11,
+  "titulo": "Me faz um logo rapidinho",
+  "video": "sprint30/reel/h11.mp4",
+  "capa": "sprint30/reel/h11_capa.jpg",
+  "legenda": "\"É só um desenho\" é a frase favorita de todo designer. ✏️\n\nManda pra quem já ouviu isso.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-25",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -461,7 +604,7 @@
   "legenda": "\"Pra quando você precisa?\" vende mais que cinco minutos falando de qualidade.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-26",
+  "data": "2026-10-25",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -479,7 +622,7 @@
   "legenda": "Gravar todo dia cansa. Reaproveitar não. ♻️\n\nUm bom vídeo rende pelo menos 7 peças: o Reels, 3 cortes para Stories, um carrossel, uma frase e um bastidor.\n\nSalva e aplica no próximo vídeo que você gravar.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-26",
+  "data": "2026-10-25",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -492,7 +635,20 @@
   "legenda": "Raio-X do Comércio Local #4: a embalagem. 🛍️\n\nSua sacola sai da loja e passeia pela cidade: rua, praia, carro, casa do cliente. É mídia que você já paga.\n\nColoque seu @, um QR pro WhatsApp e uma frase que dê vontade de tirar foto. Cliente que posta sua embalagem faz propaganda de graça.\n\nA sua passa no teste? Comenta aqui.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-10-27",
+  "data": "2026-10-25",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h12",
+  "serie": "Vida de Empresário",
+  "numero_serie": 12,
+  "titulo": "Reunião que podia ser um áudio",
+  "video": "sprint30/reel/h12.mp4",
+  "capa": "sprint30/reel/h12_capa.jpg",
+  "legenda": "Pauta: alinhar. Resultado: marcar outra reunião para alinhar. 🔁\n\nMarca quem vive em reunião.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-26",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -502,9 +658,9 @@
   "legenda": "Automatize o repetitivo. Mas problema de cliente pede gente do outro lado.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-27",
+  "data": "2026-10-26",
   "slot": "almoco",
-  "hora": "15:07",
+  "hora": "12:07",
   "tipo": "carrossel",
   "id": "c13",
   "serie": "Psicologia da Venda",
@@ -520,7 +676,7 @@
   "legenda": "Psicologia da Venda: o efeito do preço zero. 🎁\n\nO \"grátis\" mexe com o cérebro de um jeito que nenhum desconto mexe. Mas usado sem critério, ele atrai curioso e espanta cliente bom.\n\nO que você pode dar grátis que custa pouco e vale muito?\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-10-27",
+  "data": "2026-10-26",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -533,7 +689,20 @@
   "legenda": "A IA leu a internet inteira. Mas nunca atendeu o seu cliente. 🧠\n\nEla não sabe que a sua cliente mais fiel vem toda sexta. Não sabe do erro que quase quebrou sua loja em 2020. Não sabe como é o seu bairro.\n\nÉ isso que transforma um texto rápido num texto que vende. Use IA pra velocidade e você pra verdade.\n\nConcorda? Comenta SIM ou NÃO.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-28",
+  "data": "2026-10-26",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h13",
+  "serie": "Vida de Empresário",
+  "numero_serie": 13,
+  "titulo": "Home office",
+  "video": "sprint30/reel/h13.mp4",
+  "capa": "sprint30/reel/h13_capa.jpg",
+  "legenda": "A praia de Guarapari está logo ali. O sinal do Wi-Fi, não. 🏖️\n\nManda pra quem trabalha de casa.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-27",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -543,7 +712,7 @@
   "legenda": "Chamar pelo nome, lembrar do último pedido, perguntar da família. Gesto pequeno que nenhum aplicativo consegue copiar.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-28",
+  "data": "2026-10-27",
   "slot": "almoco",
   "hora": "15:07",
   "tipo": "carrossel",
@@ -561,7 +730,7 @@
   "legenda": "Nem todo marketing está no celular. 🎧\n\nSom, cheiro, luz e equipe fazem o cliente sentir alguma coisa antes de ver qualquer preço.\n\nQual desses 4 a sua loja precisa ajustar primeiro?\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-10-28",
+  "data": "2026-10-27",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -574,7 +743,20 @@
   "legenda": "Psicologia da Venda #5: efeito IKEA. 🪛\n\nPesquisadores de Harvard mostraram que as pessoas pagam mais pelo que ajudaram a montar. O esforço vira apego.\n\nAçaí que o cliente monta, cesta que ele escolhe os itens, camiseta que ele personaliza. Quanto mais \"meu\", menos ele compara preço.\n\nSegue pra próxima da série.\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-10-29",
+  "data": "2026-10-27",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h14",
+  "serie": "Vida de Empresário",
+  "numero_serie": 14,
+  "titulo": "O que o empresário fala x o que significa",
+  "video": "sprint30/reel/h14.mp4",
+  "capa": "sprint30/reel/h14_capa.jpg",
+  "legenda": "Dicionário do empresário, edição de bolso. 📖\n\nComenta a frase que precisa de tradução.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-28",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -584,9 +766,9 @@
   "legenda": "Cliente não liga se você é grande. Liga se você responde, entrega e cumpre.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-29",
+  "data": "2026-10-28",
   "slot": "almoco",
-  "hora": "12:07",
+  "hora": "15:07",
   "tipo": "carrossel",
   "id": "c15",
   "serie": "Feito por IA",
@@ -602,7 +784,7 @@
   "legenda": "Nem tudo que é bom precisa ser pago. 🧰\n\nEssas são ferramentas que entram no meu processo de produção. A diferença entre o resultado amador e o profissional não está na assinatura, está no método.\n\nQual você já usa? Comenta aí.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-29",
+  "data": "2026-10-28",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -615,7 +797,20 @@
   "legenda": "Raio-X do Comércio Local #5: o Pix. 💳\n\nO cliente vai pagar, aparece um nome de pessoa ou uma razão social que ele nunca viu… e ele trava. \"Será golpe?\"\n\nTrês ajustes:\n• avise antes qual nome vai aparecer\n• use uma chave no nome da empresa\n• confirme o recebimento na hora\n\nJá desistiu de pagar por isso? Comenta EU.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-10-30",
+  "data": "2026-10-28",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h15",
+  "serie": "Vida de Empresário",
+  "numero_serie": 15,
+  "titulo": "Moderno mas clássico",
+  "video": "sprint30/reel/h15.mp4",
+  "capa": "sprint30/reel/h15_capa.jpg",
+  "legenda": "O briefing mais famoso do mercado. 🎨\n\nMarca um designer que precisa rir um pouco hoje.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-29",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -625,7 +820,7 @@
   "legenda": "Todo mundo tem ideia. Pouca gente testa, mede e ajusta. É aí que está a vantagem.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-30",
+  "data": "2026-10-29",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -643,7 +838,7 @@
   "legenda": "Psicologia da Venda: contabilidade mental. 🗃️\n\nO cliente não tem um bolso só. Ele tem gavetas, e cada uma tem uma regra diferente de gasto. Fale com a gaveta certa.\n\nEm qual gaveta seu produto deveria estar?\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-10-30",
+  "data": "2026-10-29",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -656,7 +851,20 @@
   "legenda": "Três coisas que tomam horas do dono e a IA faz em minutos: ⏱️\n\n1. Descrição de produto pro catálogo\n2. Resposta pronta pras 10 perguntas que todo cliente faz\n3. Roteiro de vídeo curto pro Reels\n\nVocê revisa, ajusta pro seu jeito e usa. O tempo que sobra vai pro que só você faz: vender.\n\nManda pra aquele amigo que tem loja e vive sem tempo.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-31",
+  "data": "2026-10-29",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h16",
+  "serie": "Vida de Empresário",
+  "numero_serie": 16,
+  "titulo": "Coloca a logo maior",
+  "video": "sprint30/reel/h16.mp4",
+  "capa": "sprint30/reel/h16_capa.jpg",
+  "legenda": "Na versão 8 ele pede pra diminuir. 😂\n\nManda pra quem trabalha com arte.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-30",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -666,7 +874,7 @@
   "legenda": "Quando o cliente não entende, ele não diz não. Diz \"vou pensar\". E não volta.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-10-31",
+  "data": "2026-10-30",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -684,7 +892,7 @@
   "legenda": "O cliente entrou. Os próximos 10 segundos decidem se ele fica. 🚪\n\nEntrada livre, campeão na altura dos olhos, cumprimento rápido e sinalização clara.\n\nAmanhã, entre na sua loja como cliente. O que você muda?\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-10-31",
+  "data": "2026-10-30",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -697,7 +905,20 @@
   "legenda": "Psicologia da Venda #6: efeito Zeigarnik. 🧩\n\nA gente lembra mais do que ficou incompleto. É por isso que novela termina no suspense e você assistiu esse vídeo inteiro.\n\nNo seu conteúdo: prometa no começo, entregue no fim, e transforme assunto bom em série.\n\nFuncionou com você? Então segue pra próxima. 😉\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-11-01",
+  "data": "2026-10-30",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h17",
+  "serie": "Vida de Empresário",
+  "numero_serie": 17,
+  "titulo": "O dia em que o WhatsApp caiu",
+  "video": "sprint30/reel/h17.mp4",
+  "capa": "sprint30/reel/h17_capa.jpg",
+  "legenda": "Se o WhatsApp cai e sua empresa para, talvez seja hora de ter um plano B. Mas primeiro, rir. 📵\n\nMarca quem entrou em pânico da última vez.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-10-31",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -707,7 +928,7 @@
   "legenda": "Antes de criar um argumento novo, veja se o antigo está claro.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-01",
+  "data": "2026-10-31",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -725,7 +946,7 @@
   "legenda": "A IA gera quase qualquer imagem. Isso não quer dizer que você pode publicar qualquer imagem. ⚖️\n\nCuidado com rosto de cliente, marca de terceiros e depoimento que nunca aconteceu. Na dúvida, mostre o que é seu.\n\nManda pra quem está empolgado com IA. 😅\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-01",
+  "data": "2026-10-31",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -738,7 +959,20 @@
   "legenda": "Raio-X do Comércio Local #6: o QR do balcão. 📱\n\n\"Siga a gente\" não é motivo pra ninguém pegar o celular. \"Veja o prato do dia\", \"concorra ao sorteio do mês\", \"ative sua garantia\" são.\n\nQuem já está dentro da sua loja é o seguidor mais fácil que existe. Dê um motivo.\n\nSalva e troca o texto do seu QR essa semana.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-11-02",
+  "data": "2026-10-31",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h18",
+  "serie": "Vida de Empresário",
+  "numero_serie": 18,
+  "titulo": "A IA pediu contexto",
+  "video": "sprint30/reel/h18.mp4",
+  "capa": "sprint30/reel/h18_capa.jpg",
+  "legenda": "Até a IA sabe que \"faz um post aí\" não é briefing. 🤖\n\nSegue a Arche que aqui a gente ensina a pedir direito.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-11-01",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -748,7 +982,7 @@
   "legenda": "Mil seguidores que não compram valem menos que cinquenta que compram. A pergunta é: quem está te seguindo?\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-02",
+  "data": "2026-11-01",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -766,7 +1000,7 @@
   "legenda": "Psicologia da Venda: efeito de posição. 📍\n\nO meio da lista é a zona esquecida. O começo e o fim são lembrados. Use isso no cardápio, no catálogo e no post.\n\nSalva e reorganiza o seu cardápio hoje.\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-11-02",
+  "data": "2026-11-01",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -779,7 +1013,20 @@
   "legenda": "A IA da Arche não começa do zero a cada pedido. 📘\n\nEla segue manuais que eu escrevi, chamados skills: como a gente faz anúncio, como monta um vídeo, quais cores usar, o que nunca inventar (preço, depoimento, resultado).\n\nÉ por isso que o vídeo de hoje tem a mesma cara do de ontem. Padrão é o que separa marca de improviso.\n\nComenta SKILL que eu mostro uma por dentro.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-03",
+  "data": "2026-11-01",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h19",
+  "serie": "Vida de Empresário",
+  "numero_serie": 19,
+  "titulo": "Fim do mês",
+  "video": "sprint30/reel/h19.mp4",
+  "capa": "sprint30/reel/h19_capa.jpg",
+  "legenda": "O mês tem 30 dias e o boleto chega no 28. Todo mês. 📬\n\nMarca quem sente esse frio na barriga.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-11-02",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -789,9 +1036,9 @@
   "legenda": "Trocar de app, de ferramenta, de IA não resolve o que é falta de plano.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-03",
+  "data": "2026-11-02",
   "slot": "almoco",
-  "hora": "15:07",
+  "hora": "12:07",
   "tipo": "carrossel",
   "id": "c20",
   "serie": "Comércio Local",
@@ -807,7 +1054,7 @@
   "legenda": "\"Mas eu achei que estava incluso…\" ✍️\n\nQuatro pontos por escrito evitam a maioria dos atritos com cliente: escopo, prazo, pagamento e alterações. Não precisa ser complicado, precisa ser claro.\n\nNão sou advogado: para contratos importantes, consulte um. Salva como checklist.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-11-03",
+  "data": "2026-11-02",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -820,7 +1067,20 @@
   "legenda": "Psicologia da Venda #7: preço como sinal de qualidade. 🏷️\n\nQuando o cliente não consegue avaliar a qualidade sozinho, ele usa o preço como pista. Barato demais vira \"tem alguma coisa errada\".\n\nAntes de baixar preço, tente explicar melhor: o que está incluso, quanto tempo leva, o que você faz que ninguém faz.\n\nJá baixou preço e vendeu menos? Conta aqui.\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-11-04",
+  "data": "2026-11-02",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h20",
+  "serie": "Vida de Empresário",
+  "numero_serie": 20,
+  "titulo": "Grupos de WhatsApp do empreendedor",
+  "video": "sprint30/reel/h20.mp4",
+  "capa": "sprint30/reel/h20_capa.jpg",
+  "legenda": "E ainda tem o grupo do condomínio. 😂\n\nManda nesse grupo aí que você silenciou.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-11-03",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -830,7 +1090,7 @@
   "legenda": "Quem sabe explicar o próprio trabalho sofre menos com pedido de desconto.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-04",
+  "data": "2026-11-03",
   "slot": "almoco",
   "hora": "15:07",
   "tipo": "carrossel",
@@ -848,7 +1108,7 @@
   "legenda": "Seus clientes já te disseram o que precisam saber. Está no seu WhatsApp. 💬\n\nEm 15 minutos você transforma isso num FAQ que economiza horas por semana.\n\nSalva e faz ainda hoje.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-04",
+  "data": "2026-11-03",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -861,7 +1121,20 @@
   "legenda": "Raio-X do Comércio Local #7: a inauguração. 🎉\n\nAbrir a porta e esperar não é lançamento. A inauguração começa um mês antes:\n• bastidor da obra (gera curiosidade)\n• lista VIP no WhatsApp (gera compromisso)\n• convite pessoal pros vizinhos (gera fila)\n\nNo dia, o melhor post é a fila na porta.\n\nVai inaugurar? Chama no WhatsApp: 27 99954-8690.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-11-05",
+  "data": "2026-11-03",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h21",
+  "serie": "Vida de Empresário",
+  "numero_serie": 21,
+  "titulo": "Pode ficar à vontade pra cobrar",
+  "video": "sprint30/reel/h21.mp4",
+  "capa": "sprint30/reel/h21_capa.jpg",
+  "legenda": "\"Fica à vontade\" tem limite, e ele aparece no orçamento. 💸\n\nMarca quem já caiu nessa.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-11-04",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -871,9 +1144,9 @@
   "legenda": "Toda empresa precisa comunicar. A diferença é quem faz isso de propósito.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-05",
+  "data": "2026-11-04",
   "slot": "almoco",
-  "hora": "12:07",
+  "hora": "15:07",
   "tipo": "carrossel",
   "id": "c22",
   "serie": "Psicologia da Venda",
@@ -889,7 +1162,7 @@
   "legenda": "Psicologia da Venda: o efeito do progresso. 🎟️\n\nNo estudo de Nunes e Drèze, o cartão que já vinha com 2 carimbos (de 10) foi completado por muito mais clientes que o de 8 vazio. Mesmo esforço, outra sensação.\n\nSeu cartão fidelidade já começa carimbado?\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-11-05",
+  "data": "2026-11-04",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -902,7 +1175,20 @@
   "legenda": "Me perguntam quantas pessoas trabalham na Arche. 👀\n\nA resposta honesta: um diretor e um time de IA. Ela pesquisa, rascunha roteiro, edita, agenda. Eu decido o que vai pro ar, o que fica e o que é mentira demais pra publicar.\n\nPequeno não é desvantagem quando a estrutura é inteligente.\n\nSegue a Arche e acompanha essa construção.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-06",
+  "data": "2026-11-04",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h22",
+  "serie": "Vida de Empresário",
+  "numero_serie": 22,
+  "titulo": "Planejamento anual",
+  "video": "sprint30/reel/h22.mp4",
+  "capa": "sprint30/reel/h22_capa.jpg",
+  "legenda": "Esse ano vai. De novo. 📊\n\nManda pro sócio que fez a planilha colorida.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-11-05",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -912,7 +1198,7 @@
   "legenda": "Atendimento é emoção. O que fica não é o roteiro, é a sensação.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-06",
+  "data": "2026-11-05",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -930,7 +1216,7 @@
   "legenda": "Críticas acontecem. O que define sua marca é a resposta. 🧯\n\nQuem lê sua resposta não é só o cliente insatisfeito. São todos os clientes que ainda vão te escolher.\n\nSalva pra próxima vez que o sangue subir. 😅\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-11-06",
+  "data": "2026-11-05",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -943,7 +1229,20 @@
   "legenda": "Psicologia da Venda #8: reciprocidade. 🤝\n\nRobert Cialdini descreveu: quando alguém nos dá algo de valor, sentimos vontade de retribuir. Não é truque, é educação humana.\n\nA amostra no balcão, a dica que resolve, o diagnóstico sem compromisso. Você ajuda primeiro e vende depois.\n\nEsse vídeo foi o meu \"primeiro\". Segue a Arche. 😄\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-11-07",
+  "data": "2026-11-05",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h23",
+  "serie": "Vida de Empresário",
+  "numero_serie": 23,
+  "titulo": "Feriado prolongado",
+  "video": "sprint30/reel/h23.mp4",
+  "capa": "sprint30/reel/h23_capa.jpg",
+  "legenda": "O funcionário postou a praia. O dono postou o estoque contado. 🧾\n\nMarca o dono que vai trabalhar no feriado.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-11-06",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -953,7 +1252,7 @@
   "legenda": "No post, no anúncio, no cardápio: se a primeira linha não prende, o resto não é lido.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-07",
+  "data": "2026-11-06",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -971,7 +1270,7 @@
   "legenda": "Por trás de cada vídeo da Arche existe um manual. 📘\n\nSkills são instruções que a IA segue sempre: como montar o roteiro, quais cores usar, o que nunca inventar. É assim que a gente produz rápido sem perder a cara da marca.\n\nComenta SKILL se quer ver uma por dentro.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-07",
+  "data": "2026-11-06",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -984,7 +1283,20 @@
   "legenda": "Raio-X do Comércio Local #8: quanto vale um cliente. 🧮\n\nExemplo: ticket de R$ 30, duas visitas por mês, durante um ano. Esse cliente não vale R$ 30. Vale R$ 720.\n\nQuando você enxerga assim, lembrar o nome, guardar o contato e chamar de volta deixa de ser gentileza e vira estratégia.\n\nFaz a conta do seu cliente médio e comenta o valor.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-11-08",
+  "data": "2026-11-06",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h24",
+  "serie": "Vida de Empresário",
+  "numero_serie": 24,
+  "titulo": "Vi mais barato na internet",
+  "video": "sprint30/reel/h24.mp4",
+  "capa": "sprint30/reel/h24_capa.jpg",
+  "legenda": "A internet não te ajuda a escolher o tamanho, não troca no dia seguinte e não lembra seu nome. 🛒\n\nManda pro lojista que ouve isso toda semana.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-11-07",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -994,7 +1306,7 @@
   "legenda": "Quando o cliente recusa, pergunte o que faltou. Quase sempre é uma dúvida, não o preço.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-08",
+  "data": "2026-11-07",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -1012,7 +1324,7 @@
   "legenda": "Psicologia da Venda: compromisso e consistência. ✔️\n\nPedir a venda direto é pular etapas. Um pequeno sim antes (uma escolha, uma enquete, uma resposta) deixa o próximo passo natural.\n\nQual pequeno sim você pode pedir hoje?\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-11-08",
+  "data": "2026-11-07",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -1025,7 +1337,20 @@
   "legenda": "\"Desvende os segredos para potencializar seus resultados 🚀✨💡\"\n\nVocê leu e já sabia que foi máquina. Seu cliente também sabe. 🤖\n\nO conserto é simples: troque a frase bonita por um caso real. Um cliente, um número que você mediu, um erro que você cometeu. Uma frase verdadeira vale mais que dez polidas.\n\nMarca alguém que posta assim (com carinho).\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-09",
+  "data": "2026-11-07",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h25",
+  "serie": "Vida de Empresário",
+  "numero_serie": 25,
+  "titulo": "Como sumir com um cliente",
+  "video": "sprint30/reel/h25.mp4",
+  "capa": "sprint30/reel/h25_capa.jpg",
+  "legenda": "Tutorial que ninguém pediu, mas muita gente aplica. 🫥\n\nMarca quem precisa desaprender esses passos.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-11-08",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -1035,7 +1360,7 @@
   "legenda": "Crítica dói. Mas é a informação mais barata que você vai receber.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-09",
+  "data": "2026-11-08",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
@@ -1053,7 +1378,7 @@
   "legenda": "Antes de contratar qualquer agência, faça essas 4 perguntas. 🧐\n\nResultado medido em venda, portfólio real, contas no seu nome e saída clara. Se alguém fugir de alguma delas, você já tem a sua resposta.\n\nPode fazer pra Arche também. A gente responde todas.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-11-09",
+  "data": "2026-11-08",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -1066,7 +1391,20 @@
   "legenda": "Psicologia da Venda #9: enquadramento. 🖼️\n\nA mesma informação, dita de outro jeito, muda a decisão. \"95% sem gordura\" vende mais que \"5% de gordura\", e é a mesma coisa.\n\nReescreva sua oferta:\n• prazo vira benefício (\"chega antes do fim de semana\")\n• preço vira por dia\n• risco vira garantia\n\nSó vale se for verdade. Salva e reescreve hoje.\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-11-10",
+  "data": "2026-11-08",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h26",
+  "serie": "Vida de Empresário",
+  "numero_serie": 26,
+  "titulo": "Primeira venda pelo Instagram",
+  "video": "sprint30/reel/h26.mp4",
+  "capa": "sprint30/reel/h26_capa.jpg",
+  "legenda": "A primeira venda pelo Instagram é igual primeiro salário: inesquecível. 🖼️\n\nComenta: qual foi a sua?\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-11-09",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -1076,9 +1414,9 @@
   "legenda": "Antes de pedir pra IA escrever, decida o que precisa ser dito.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-10",
+  "data": "2026-11-09",
   "slot": "almoco",
-  "hora": "15:07",
+  "hora": "12:07",
   "tipo": "carrossel",
   "id": "c27",
   "serie": "Feito por IA",
@@ -1094,7 +1432,7 @@
   "legenda": "Antes de apertar publicar, passe por esse checklist. ✅\n\nO texto da IA chega rápido, mas é você que assina. Quatro conferências evitam o post genérico e o erro de informação.\n\nSalva e usa antes do próximo post.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-10",
+  "data": "2026-11-09",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -1107,7 +1445,20 @@
   "legenda": "Raio-X do Comércio Local #9: a frase que mata a venda. 🪦\n\n\"Qualquer coisa, estou à disposição\" parece educado. Mas devolve a decisão pro cliente, e o cliente quase nunca volta sozinho.\n\nTermine sempre com um próximo passo:\n• \"Separo o seu até as 18h?\"\n• \"Prefere o azul ou o preto?\"\n• \"Te mando a foto do tamanho M?\"\n\nManda pro seu vendedor.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-11-11",
+  "data": "2026-11-09",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h27",
+  "serie": "Vida de Empresário",
+  "numero_serie": 27,
+  "titulo": "Se marketing fosse academia",
+  "video": "sprint30/reel/h27.mp4",
+  "capa": "sprint30/reel/h27_capa.jpg",
+  "legenda": "Ninguém fica forte em um treino. Nenhum perfil cresce em um post. 🏋️\n\nMarca seu parceiro de \"segunda eu começo\".\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-11-10",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -1117,7 +1468,7 @@
   "legenda": "Você não precisa do plano perfeito pra começar. Precisa começar pra ter um plano.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-11",
+  "data": "2026-11-10",
   "slot": "almoco",
   "hora": "15:07",
   "tipo": "carrossel",
@@ -1135,7 +1486,7 @@
   "legenda": "Psicologia da Venda: o poder da história. 📖\n\nListas informam, histórias convencem. Quando o cliente imagina a cena, ele para de procurar defeito.\n\nUse histórias reais dos seus clientes, com autorização. Qual história o seu produto já viveu?\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-11-11",
+  "data": "2026-11-10",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -1148,7 +1499,20 @@
   "legenda": "Esse é o último vídeo da série \"Feito por IA, dirigido pela Arche\". 🎬\n\nDo briefing ao vídeo pronto: roteiro com gancho, narração, trilha, cada animação cortada na batida. Tudo gerado por código, revisado por gente.\n\nQuer um assim pro seu negócio? Chama no WhatsApp: 27 99954-8690.\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-12",
+  "data": "2026-11-10",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h28",
+  "serie": "Vida de Empresário",
+  "numero_serie": 28,
+  "titulo": "Cliente que some e volta",
+  "video": "sprint30/reel/h28.mp4",
+  "capa": "sprint30/reel/h28_capa.jpg",
+  "legenda": "Seis meses de silêncio e de repente é pra amanhã. ⏰\n\nManda no grupo, todo mundo tem esse cliente.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-11-11",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -1158,9 +1522,9 @@
   "legenda": "Quem vende bem não convence. Ajuda o cliente a ter certeza.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-12",
+  "data": "2026-11-11",
   "slot": "almoco",
-  "hora": "12:07",
+  "hora": "15:07",
   "tipo": "carrossel",
   "id": "c29",
   "serie": "Comércio Local",
@@ -1173,10 +1537,10 @@
    "sprint30/carrossel/c29/05.jpg",
    "sprint30/carrossel/c29/06.jpg"
   ],
-  "legenda": "30 dias, 90 conteúdos. Fechando o sprint. 🏁\n\nObrigado a cada pessoa que salvou, comentou e mandou pra alguém. Agora quero ouvir você: qual série continua?\n\n1️⃣ Feito por IA\n2️⃣ Psicologia da Venda\n3️⃣ Raio-X do Comércio Local\n\nComenta o número.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
+  "legenda": "30 dias, 120 conteúdos. Fechando o sprint. 🏁\n\nObrigado a cada pessoa que salvou, comentou e mandou pra alguém. Agora quero ouvir você: qual série continua?\n\n1️⃣ Feito por IA\n2️⃣ Psicologia da Venda\n3️⃣ Raio-X do Comércio Local\n4️⃣ Vida de Empresário\n\nComenta o número.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
  },
  {
-  "data": "2026-11-12",
+  "data": "2026-11-11",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -1189,7 +1553,20 @@
   "legenda": "Psicologia da Venda #10 (último da série): regra do pico-fim. 🎢\n\nKahneman mostrou que a gente não lembra de uma experiência inteira. Lembra do momento mais forte e do final.\n\nVocê não precisa de perfeição do começo ao fim. Precisa de um momento uau e de uma despedida caprichada.\n\nGostou da série? Segue que vem outra.\n\n#psicologiadevendas #marketing #vendas #empreendedorismo #archeagencia"
  },
  {
-  "data": "2026-11-13",
+  "data": "2026-11-11",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h29",
+  "serie": "Vida de Empresário",
+  "numero_serie": 29,
+  "titulo": "Empresário de férias",
+  "video": "sprint30/reel/h29.mp4",
+  "capa": "sprint30/reel/h29_capa.jpg",
+  "legenda": "Férias de empresário: mesmo trabalho, paisagem melhor. 🏝️\n\nMarca o empresário que precisa de férias de verdade.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
+ },
+ {
+  "data": "2026-11-12",
   "slot": "manha",
   "hora": "07:52",
   "tipo": "post",
@@ -1199,13 +1576,13 @@
   "legenda": "Faturamento sem margem é só movimento. Olhe pro caixa.\n\n#empreendedorismo #marketing #vendas #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-13",
+  "data": "2026-11-12",
   "slot": "almoco",
   "hora": "12:07",
   "tipo": "carrossel",
   "id": "c30",
   "serie": "Feito por IA",
-  "titulo": "O que eu aprendi produzindo 90 conteúdos com IA",
+  "titulo": "O que eu aprendi produzindo 120 conteúdos com IA",
   "slides": [
    "sprint30/carrossel/c30/01.jpg",
    "sprint30/carrossel/c30/02.jpg",
@@ -1217,7 +1594,7 @@
   "legenda": "Fechando o mês de conteúdo diário, o que ficou de lição. 📝\n\nIA acelera tudo, inclusive o erro. O que fez diferença foi decidir antes: pilares, séries, o que nunca publicar.\n\nQual dessas mais fez sentido pra você?\n\n#marketingcomia #inteligenciaartificial #empreendedorismo #guarapari #archeagencia"
  },
  {
-  "data": "2026-11-13",
+  "data": "2026-11-12",
   "slot": "noite",
   "hora": "18:52",
   "tipo": "reel",
@@ -1228,5 +1605,18 @@
   "video": "sprint30/reel/r30.mp4",
   "capa": "sprint30/reel/r30_capa.jpg",
   "legenda": "Raio-X do Comércio Local #10 (último da série): o dono gargalo. 🧱\n\nSe tudo passa por você (preço, foto, post, resposta, pedido), seu negócio tem o tamanho da sua agenda.\n\nComece pequeno:\n1. Escreva o que você repete todo dia\n2. Ensine uma pessoa\n3. Automatize o resto\n\nQuer montar isso comigo? Chama no WhatsApp: 27 99954-8690.\n\n#pequenosnegocios #guarapari #espiritosanto #comerciolocal #archeagencia"
+ },
+ {
+  "data": "2026-11-12",
+  "slot": "noite2",
+  "hora": "21:22",
+  "tipo": "reel2",
+  "id": "h30",
+  "serie": "Vida de Empresário",
+  "numero_serie": 30,
+  "titulo": "A vida de quem empreende",
+  "video": "sprint30/reel/h30.mp4",
+  "capa": "sprint30/reel/h30_capa.jpg",
+  "legenda": "Último da série Vida de Empresário. Obrigado por rir com a gente. ❤️\n\nSegue a Arche que tem muito mais vindo aí.\n\n#vidadeempresario #humorempreendedor #empreendedorismo #pequenosnegocios #archeagencia"
  }
 ]
