@@ -1,0 +1,1082 @@
+[
+ {
+  "id": "r01",
+  "data": "2026-10-14",
+  "serie": "Feito por IA, dirigido pela Arche",
+  "falas": [
+   "Ó, esse vídeo aqui não teve editor nenhum, meu irmão.",
+   "Foi tudo escrito em código, do roteiro até o som.",
+   "O roteiro saiu da inteligência artificial com revisão minha, a voz é sintetizada e a animação é código puro.",
+   "Mas quem dirige é gente, tá? A inteligência artificial só executa.",
+   "Quer ver como é feito? Comenta môuchon aí embaixo."
+  ],
+  "busca": [
+   "computer-code",
+   "programming",
+   "laptop",
+   "thinking",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h01",
+  "data": "2026-10-14",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Pô, vê se pode, meu irmão! O cliente pediu desconto no desconto.",
+   "O preço já tava com vinte por cento off. E ele: faz um precinho aí?",
+   "Você, por dentro: respira e sorri.",
+   "Marca aquele amigo que já passou por isso!"
+  ],
+  "busca": [
+   "sale",
+   "cashier",
+   "stress",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r02",
+  "data": "2026-10-15",
+  "serie": "Psicologia da Venda",
+  "falas": [
+   "O primeiro preço que o cliente vê manda em tudo.",
+   "Isso tem nome: ancoragem.",
+   "Mostrar o básico primeiro barateia tudo. Mostra o completo primeiro.",
+   "Premium no topo, depois o intermediário, o básico por último.",
+   "Segue pra próxima da série Psicologia da Venda."
+  ],
+  "busca": [
+   "price-tag",
+   "anchor",
+   "shopping",
+   "menu",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h02",
+  "data": "2026-10-15",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Tipos de cliente no WhatsApp, olha só.",
+   "O do áudio de quatro minutos, o do oi que some, e o do quanto fica? sem dizer o quê.",
+   "E você responde todos. Com amor.",
+   "Marca quem atende esse povo todo dia!"
+  ],
+  "busca": [
+   "phone",
+   "phone-call",
+   "smile",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r03",
+  "data": "2026-10-16",
+  "serie": "Raio-X do Comércio Local",
+  "falas": [
+   "Tua fachada fala com quem passa?",
+   "O cliente decide num olhar, lá da calçada.",
+   "Dá pra ler de longe? Diz o que vende? Parece aberto?",
+   "Nome bonito sozinho não vende. Nome e o que você vende, aí sim.",
+   "Manda a foto da tua fachada no WhatsApp que eu dou o veredito."
+  ],
+  "busca": [
+   "storefront",
+   "street",
+   "shop-window",
+   "neon-sign",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h03",
+  "data": "2026-10-16",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Abri empresa pra ser meu próprio chefe.",
+   "Expectativa: nenhum chefe. Realidade: quarenta chefes, chamados clientes.",
+   "E o pior chefe de todos sou eu.",
+   "Manda no grupo dos empreendedores!"
+  ],
+  "busca": [
+   "office",
+   "busy",
+   "mirror",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r04",
+  "data": "2026-10-17",
+  "serie": "Feito por IA, dirigido pela Arche",
+  "falas": [
+   "Sabe essa voz que tá falando contigo? Ela nem existe.",
+   "É uma inteligência artificial rodando de graça, meu irmão.",
+   "Sem estúdio, sem regravar, e eu mudo tudo em um minuto.",
+   "Antes era dias esperando locutor. Agora sai na hora.",
+   "Quer saber onde usar isso no teu negócio? Comenta voz."
+  ],
+  "busca": [
+   "microphone",
+   "technology",
+   "recording-studio",
+   "clock",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h04",
+  "data": "2026-10-17",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Frases que todo empresário já ouviu.",
+   "Faz um precinho? Meu sobrinho faz mais barato. Vou pensar e te falo.",
+   "Bingo se ouviu as três essa semana.",
+   "Qual frase faltou? Comenta aí!"
+  ],
+  "busca": [
+   "store",
+   "customer",
+   "bingo",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "r05",
+  "data": "2026-10-18",
+  "serie": "Psicologia da Venda",
+  "falas": [
+   "Por que existe a pipoca média?",
+   "Ela é isca, meu irmão, pra você levar a grande.",
+   "Pequena doze, média dezenove, grande vinte e um.",
+   "Chama efeito chamariz.",
+   "Quer montar o teu? Comenta isca."
+  ],
+  "busca": [
+   "popcorn",
+   "cinema",
+   "popcorn",
+   "shopping",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h05",
+  "data": "2026-10-18",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "O sobrinho que mexe com computador.",
+   "Logo no Paint, site que não abre e post com seis fontes.",
+   "Saiu barato. E saiu caro.",
+   "Marca o sobrinho, com carinho!"
+  ],
+  "busca": [
+   "teenager",
+   "computer",
+   "facepalm",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r06",
+  "data": "2026-10-19",
+  "serie": "Raio-X do Comércio Local",
+  "falas": [
+   "Domingo, nove da noite.",
+   "Hora que muita gente tá planejando a semana.",
+   "Aparece com a agenda, a novidade e o horário.",
+   "Quem aparece antes é lembrado.",
+   "Testa no próximo domingo e me conta."
+  ],
+  "busca": [
+   "night",
+   "couch",
+   "phone-scrolling",
+   "calendar",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h06",
+  "data": "2026-10-19",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "É rapidinho.",
+   "Nunca é rapidinho, meu irmão.",
+   "Três versões, muda a cor e volta pra primeira.",
+   "Manda pra quem trabalha com criação!"
+  ],
+  "busca": [
+   "clock",
+   "waiting",
+   "designer",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r07",
+  "data": "2026-10-20",
+  "serie": "Feito por IA, dirigido pela Arche",
+  "falas": [
+   "Trinta dias de conteúdo feitos numa noite só.",
+   "E o segredo não é a inteligência artificial não, é o método.",
+   "Pilar definido, gancho testado e revisão de gente.",
+   "Pedir faz um post aí não funciona. Contexto completo, aí sim.",
+   "Segue aí que a série continua."
+  ],
+  "busca": [
+   "night-city",
+   "notebook",
+   "planning",
+   "typing",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h07",
+  "data": "2026-10-20",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Postei. Agora é só esperar.",
+   "Expectativa: viralizar. Realidade: três curtidas, e uma é tua.",
+   "A outra é da tua mãe.",
+   "Ajuda esse post a não passar por isso. Compartilha!"
+  ],
+  "busca": [
+   "phone-scrolling",
+   "bored",
+   "mother",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r08",
+  "data": "2026-10-21",
+  "serie": "Psicologia da Venda",
+  "falas": [
+   "Perder dói mais que ganhar, cara.",
+   "Ganhe dez por cento convence menos que não perca teus dez por cento.",
+   "Teste grátis que acaba, ponto que vence, benefício já liberado.",
+   "Não é truque não, é o cérebro funcionando.",
+   "Segue pra próxima da série."
+  ],
+  "busca": [
+   "sad",
+   "discount",
+   "calendar",
+   "brain",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h08",
+  "data": "2026-10-21",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "A semana do empresário.",
+   "Segunda motivado, quarta boleto, sexta semana que vem eu organizo.",
+   "E sábado? Trabalhando.",
+   "Marca quem vive essa semana em loop!"
+  ],
+  "busca": [
+   "calendar",
+   "office",
+   "tired",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r09",
+  "data": "2026-10-22",
+  "serie": "Raio-X do Comércio Local",
+  "falas": [
+   "Mostra a tua cara, meu irmão.",
+   "Gente compra de gente.",
+   "Só produto parece loja qualquer. Dono e bastidor viram confiança.",
+   "Começa com quem abre a loja, quem faz e quem atende.",
+   "Marca um dono que precisa aparecer mais."
+  ],
+  "busca": [
+   "shop-owner",
+   "people",
+   "bakery",
+   "barista",
+   "laughing"
+  ]
+ },
+ {
+  "id": "h09",
+  "data": "2026-10-22",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Chegou um oi às onze e quarenta e sete da noite.",
+   "Você ia dormir. Agora tá respondendo de pijama.",
+   "Porque pode ser venda, né?",
+   "Marca quem responde cliente de madrugada!"
+  ],
+  "busca": [
+   "night-phone",
+   "bed",
+   "smile",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r10",
+  "data": "2026-10-23",
+  "serie": "Feito por IA, dirigido pela Arche",
+  "falas": [
+   "Teu prompt é o problema, meu irmão.",
+   "Faz uma legenda pra loja gera texto genérico. Fala a loja, o público, o tom e a oferta.",
+   "Sempre diz quem é o cliente, o que ele sente e o que ele tem que fazer.",
+   "inteligência artificial boa é briefing bem feito.",
+   "Salva esse vídeo pra usar no próximo post."
+  ],
+  "busca": [
+   "frustrated",
+   "typing",
+   "customer",
+   "laptop",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h10",
+  "data": "2026-10-23",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Tipos de dono de loja no Instagram.",
+   "Posta dez num dia e some três meses. Só reposta promoção. Foto do produto no chão.",
+   "Qual é você?",
+   "Confessa e comenta o número!"
+  ],
+  "busca": [
+   "store",
+   "phone-scrolling",
+   "thinking",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "r11",
+  "data": "2026-10-24",
+  "serie": "Psicologia da Venda",
+  "falas": [
+   "Mais opção, menos venda.",
+   "O cliente trava e vai embora.",
+   "No estudo das geleias, seis opções venderam dez vezes mais que vinte e quatro.",
+   "Destaca três campeões e fala qual é pra quem.",
+   "Marca aquele amigo do cardápio de oitenta itens."
+  ],
+  "busca": [
+   "supermarket",
+   "confused",
+   "jam",
+   "shop",
+   "laughing"
+  ]
+ },
+ {
+  "id": "h11",
+  "data": "2026-10-24",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Me faz um logo? É só um desenho.",
+   "O desenho: a cara da tua marca por dez anos.",
+   "Tem pesquisa, conceito, versões e manual.",
+   "Manda pra quem já ouviu isso!"
+  ],
+  "busca": [
+   "drawing",
+   "branding",
+   "designer",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r12",
+  "data": "2026-10-25",
+  "serie": "Raio-X do Comércio Local",
+  "falas": [
+   "Tua sacola é anúncio, cara.",
+   "Ela anda pela cidade inteira.",
+   "Teu arroba, um QR e uma frase que dá vontade de foto.",
+   "Sacola genérica some. Sacola bonita vira post do cliente.",
+   "A tua passa no teste? Comenta aqui."
+  ],
+  "busca": [
+   "shopping-bag",
+   "walking-city",
+   "packaging",
+   "selfie",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h12",
+  "data": "2026-10-25",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Reunião de duas horas.",
+   "Decisão tomada: nenhuma. Podia ser um áudio de trinta segundos.",
+   "E ainda marcaram outra.",
+   "Marca quem vive em reunião!"
+  ],
+  "busca": [
+   "meeting",
+   "bored",
+   "facepalm",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r13",
+  "data": "2026-10-26",
+  "serie": "Feito por IA, dirigido pela Arche",
+  "falas": [
+   "A inteligência artificial não tem a tua história, cara.",
+   "Só você tem teus clientes, teus erros e tua cidade.",
+   "Ela escreve rápido. Você entra com a verdade.",
+   "Sem você é texto de qualquer um. Com você é texto que só você posta.",
+   "Concorda? Comenta sim ou não aí."
+  ],
+  "busca": [
+   "old-photos",
+   "street",
+   "writing",
+   "laptop",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h13",
+  "data": "2026-10-26",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Trabalhar de casa.",
+   "Expectativa: notebook na praia. Realidade: o wi-fi caiu.",
+   "E o vizinho furando a parede.",
+   "Manda pra quem trabalha de casa!"
+  ],
+  "busca": [
+   "home-office",
+   "beach",
+   "drill",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r14",
+  "data": "2026-10-27",
+  "serie": "Psicologia da Venda",
+  "falas": [
+   "Quem monta, valoriza.",
+   "Chama efeito Iquéia.",
+   "Deixa o cliente escolher, montar o kit e dar o nome.",
+   "Produto pronto é só produto. Montado por ele vira o meu.",
+   "Segue pra próxima da série Psicologia da Venda."
+  ],
+  "busca": [
+   "furniture",
+   "assembling",
+   "ice-cream",
+   "gift",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h14",
+  "data": "2026-10-27",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "O que o empresário fala e o que significa.",
+   "Tá tranquilo é desespero. Vou ver com o sócio é não. Semana que vem é nunca.",
+   "Tradução oficial.",
+   "Qual tradução faltou? Comenta a tua!"
+  ],
+  "busca": [
+   "businessman",
+   "talking",
+   "dictionary",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "r15",
+  "data": "2026-10-28",
+  "serie": "Raio-X do Comércio Local",
+  "falas": [
+   "Pix pra quem?",
+   "Nome estranho na hora do Pix trava a venda.",
+   "Avisa o nome que aparece, usa chave da loja e manda o comprovante.",
+   "Confiança mora no detalhe.",
+   "Já desistiu de pagar por isso? Comenta eu."
+  ],
+  "busca": [
+   "payment",
+   "confused",
+   "smartphone",
+   "handshake",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h15",
+  "data": "2026-10-28",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Quero algo moderno, mas clássico.",
+   "Minimalista mas chamativo, sério mas divertido. E pra ontem.",
+   "Designer: carregando.",
+   "Marca um designer que precisa rir hoje!"
+  ],
+  "busca": [
+   "designer",
+   "confused",
+   "loading",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r16",
+  "data": "2026-10-29",
+  "serie": "Feito por IA, dirigido pela Arche",
+  "falas": [
+   "Tarefa chata? A inteligência artificial já faz pra você.",
+   "Descrição de produto, resposta de dúvida e roteiro de vídeo.",
+   "E você ganha tempo pra fazer o que importa: vender.",
+   "Antes preso no celular. Agora atendendo cliente.",
+   "Manda pra aquele amigo que tem loja e vive sem tempo."
+  ],
+  "busca": [
+   "bored",
+   "shop",
+   "handshake",
+   "store",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h16",
+  "data": "2026-10-29",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Coloca a logo maior.",
+   "Versão um: logo elegante. Versão sete: só a logo.",
+   "Cliente: ficou ótimo.",
+   "Manda pra quem trabalha com arte!"
+  ],
+  "busca": [
+   "computer",
+   "designer",
+   "thumbs-up",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r17",
+  "data": "2026-10-30",
+  "serie": "Psicologia da Venda",
+  "falas": [
+   "Você vai ver até o fim. E eu sei por quê.",
+   "O cérebro odeia coisa aberta.",
+   "Promessa no começo, resposta no fim e série em partes.",
+   "Por isso você ficou até aqui.",
+   "E por isso você vai seguir pra próxima."
+  ],
+  "busca": [
+   "watching",
+   "puzzle",
+   "tv",
+   "surprised",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h17",
+  "data": "2026-10-30",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "O WhatsApp caiu.",
+   "Funcionário: pausa merecida. Dono: pânico total.",
+   "A loja inteira parou.",
+   "Marca quem entrou em pânico da última vez!"
+  ],
+  "busca": [
+   "phone",
+   "panic",
+   "empty-store",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r18",
+  "data": "2026-10-31",
+  "serie": "Raio-X do Comércio Local",
+  "falas": [
+   "Teu QR code leva pra onde?",
+   "QR pro perfil ninguém escaneia. QR com motivo, aí sim.",
+   "Cardápio do dia, sorteio do mês, garantia ativada.",
+   "E o balcão vira seguidor.",
+   "Salva e troca teu QR essa semana."
+  ],
+  "busca": [
+   "qr-code",
+   "scanning",
+   "restaurant",
+   "cafe",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h18",
+  "data": "2026-10-31",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Pedi pra inteligência artificial fazer meu post.",
+   "Ela pediu contexto, meu irmão.",
+   "Eu falei faz aí. Ela fez um texto que serve pra qualquer um.",
+   "Moral: dá contexto. E segue a Arche."
+  ],
+  "busca": [
+   "laptop",
+   "robot",
+   "typing",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "r19",
+  "data": "2026-11-01",
+  "serie": "Feito por IA, dirigido pela Arche",
+  "falas": [
+   "Eu escrevi o manual da minha inteligência artificial, meu irmão.",
+   "Chama skill: são as regras que ela segue sempre.",
+   "Nossas cores, nosso tom e nossos limites.",
+   "Resultado: o mesmo padrão em todo vídeo.",
+   "Quer ver uma por dentro? Comenta isquiu."
+  ],
+  "busca": [
+   "notebook",
+   "checklist",
+   "design",
+   "editing",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h19",
+  "data": "2026-11-01",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Dia vinte e oito. Ele tá chegando.",
+   "O boleto. Em câmera lenta.",
+   "Revisa o extrato, revisa de novo e liga pro cliente que deve.",
+   "Marca quem sente esse frio na barriga!"
+  ],
+  "busca": [
+   "calendar",
+   "bills",
+   "calculator",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r20",
+  "data": "2026-11-02",
+  "serie": "Psicologia da Venda",
+  "falas": [
+   "Barato demais assusta, meu irmão.",
+   "Preço também comunica qualidade.",
+   "Menor preço da cidade gera dúvida. Preço justo explicado gera confiança.",
+   "Explica o que tá incluso, o prazo e o que ninguém faz.",
+   "Já baixou preço e vendeu menos? Conta aqui."
+  ],
+  "busca": [
+   "price-tag",
+   "luxury",
+   "store",
+   "explaining",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h20",
+  "data": "2026-11-02",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Os grupos de WhatsApp do empreendedor.",
+   "O do bom dia com flor, o de networking que só tem venda, e o da família pedindo desconto.",
+   "Silenciados: todos.",
+   "Manda nesse grupo que você silenciou!"
+  ],
+  "busca": [
+   "phone",
+   "flowers",
+   "silence",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r21",
+  "data": "2026-11-03",
+  "serie": "Raio-X do Comércio Local",
+  "falas": [
+   "Inaugurou. E ninguém foi.",
+   "Inauguração começa trinta dias antes, meu irmão.",
+   "Bastidor da obra, lista VIP e convite pros vizinhos.",
+   "No dia, o post é a fila na porta.",
+   "Vai inaugurar? Chama no WhatsApp."
+  ],
+  "busca": [
+   "empty-store",
+   "construction",
+   "neighborhood",
+   "crowd",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h21",
+  "data": "2026-11-03",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Pode ficar à vontade pra cobrar.",
+   "Você manda o preço justo. E ele: nossa, tudo isso?",
+   "À vontade até a página dois.",
+   "Marca quem já caiu nessa!"
+  ],
+  "busca": [
+   "handshake",
+   "shocked",
+   "facepalm",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r22",
+  "data": "2026-11-04",
+  "serie": "Feito por IA, dirigido pela Arche",
+  "falas": [
+   "Agência de um homem só? Será?",
+   "É um diretor e um time de inteligência artificial.",
+   "Pesquisa, roteiro, edição e agendamento.",
+   "Mas a decisão é minha. Sempre.",
+   "Acompanha essa jornada. Segue a Arche."
+  ],
+  "busca": [
+   "man-working",
+   "technology",
+   "office",
+   "thinking",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h22",
+  "data": "2026-11-04",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Planejamento anual.",
+   "Janeiro planilha colorida. Março planilha perdida.",
+   "Em dezembro: ano que vem vai.",
+   "Manda pro sócio da planilha colorida!"
+  ],
+  "busca": [
+   "planning",
+   "spreadsheet",
+   "fireworks",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r23",
+  "data": "2026-11-05",
+  "serie": "Psicologia da Venda",
+  "falas": [
+   "Quem dá primeiro vende depois.",
+   "Chama reciprocidade.",
+   "Uma dica que resolve, uma amostra, um diagnóstico.",
+   "Pedir a venda no primeiro contato afasta. Ajudar aproxima.",
+   "Esse vídeo foi meu primeiro passo. Segue a Arche."
+  ],
+  "busca": [
+   "gift",
+   "handshake",
+   "sample",
+   "conversation",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h23",
+  "data": "2026-11-05",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Feriado prolongado.",
+   "Funcionário: praia. Dono: inventário.",
+   "Feriado de dono não existe, meu irmão.",
+   "Marca o dono que vai trabalhar no feriado!"
+  ],
+  "busca": [
+   "beach",
+   "warehouse",
+   "tired",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r24",
+  "data": "2026-11-06",
+  "serie": "Raio-X do Comércio Local",
+  "falas": [
+   "Esse cliente vale setecentos e vinte reais.",
+   "Trinta reais, duas vezes por mês, um ano: setecentos e vinte.",
+   "Você não vende uma vez só.",
+   "Lembra o nome, guarda o contato, chama de volta.",
+   "Faz a conta do teu e comenta o valor."
+  ],
+  "busca": [
+   "money",
+   "coffee-shop",
+   "cashier",
+   "conversation",
+   "calculator"
+  ]
+ },
+ {
+  "id": "h24",
+  "data": "2026-11-06",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Vi mais barato na internet.",
+   "Mas lá não tem garantia, troca na hora nem você atendendo.",
+   "Preço é uma coisa. Valor é outra.",
+   "Manda pro lojista que ouve isso toda semana!"
+  ],
+  "busca": [
+   "online-shopping",
+   "store",
+   "quality",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r25",
+  "data": "2026-11-07",
+  "serie": "Feito por IA, dirigido pela Arche",
+  "falas": [
+   "Todo mundo percebe, tá?",
+   "Quando é texto de inteligência artificial sem revisão nenhuma.",
+   "Emoji em todo verso, palavra de robô e zero exemplo real.",
+   "Corrige com uma história tua. De verdade.",
+   "Já viu post assim? Marca quem precisa ver."
+  ],
+  "busca": [
+   "reading-phone",
+   "typing",
+   "emoji",
+   "writing",
+   "laughing"
+  ]
+ },
+ {
+  "id": "h25",
+  "data": "2026-11-07",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Como sumir com um cliente em três passos.",
+   "Demora dois dias pra responder, manda o preço sem explicar e manda um PDF de quarenta páginas.",
+   "Funciona sempre. Infelizmente.",
+   "Marca quem precisa desaprender isso!"
+  ],
+  "busca": [
+   "disappear",
+   "documents",
+   "facepalm",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r26",
+  "data": "2026-11-08",
+  "serie": "Psicologia da Venda",
+  "falas": [
+   "Noventa e cinco por cento sem gordura ou cinco por cento de gordura?",
+   "Mesmo dado, outra venda.",
+   "Entrega em até sete dias pesa. Chega antes do fim de semana vende.",
+   "Prazo vira benefício, preço vira por dia, risco vira garantia.",
+   "Salva e reescreve tua oferta hoje."
+  ],
+  "busca": [
+   "yogurt",
+   "supermarket",
+   "delivery",
+   "writing",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h26",
+  "data": "2026-11-08",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Primeira venda pelo Instagram.",
+   "Tira print, manda pra família, imprime e emoldura.",
+   "E tá certíssimo.",
+   "Lembra da tua primeira? Comenta!"
+  ],
+  "busca": [
+   "celebration",
+   "picture-frame",
+   "proud",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "r27",
+  "data": "2026-11-09",
+  "serie": "Raio-X do Comércio Local",
+  "falas": [
+   "Qualquer coisa, estou à disposição.",
+   "Essa frase encerra a conversa, meu irmão.",
+   "Troca por uma pergunta: separo o teu até as seis?",
+   "Termina com uma pergunta, uma opção e um próximo passo.",
+   "Manda esse vídeo pro teu vendedor."
+  ],
+  "busca": [
+   "salesman",
+   "walking-away",
+   "clothing-store",
+   "conversation",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h27",
+  "data": "2026-11-09",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Se marketing fosse academia.",
+   "Posta uma vez e quer resultado. Paga e não vai. Copia o treino do vizinho.",
+   "Resultado vem de frequência.",
+   "Marca teu parceiro do segunda eu começo!"
+  ],
+  "busca": [
+   "gym",
+   "workout",
+   "running",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r28",
+  "data": "2026-11-10",
+  "serie": "Feito por IA, dirigido pela Arche",
+  "falas": [
+   "Briefing entra, vídeo sai.",
+   "No meio tem roteiro com gancho, voz, trilha e animação na batida.",
+   "Tudo por código.",
+   "E é isso que você tá vendo agora.",
+   "Quer um vídeo assim pro teu negócio? Chama no WhatsApp."
+  ],
+  "busca": [
+   "video-editing",
+   "music-production",
+   "computer-code",
+   "screen",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h28",
+  "data": "2026-11-10",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Sumiu seis meses. Voltou com: é urgente.",
+   "Ele: pra amanhã, pode? Você: já abrindo a agenda.",
+   "Porque boleto não espera.",
+   "Manda no grupo, todo mundo tem esse cliente!"
+  ],
+  "busca": [
+   "phone-call",
+   "agenda",
+   "bills",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r29",
+  "data": "2026-11-11",
+  "serie": "Psicologia da Venda",
+  "falas": [
+   "O cliente lembra do pico e do fim.",
+   "Regra do pico e do fim.",
+   "Capricha no momento uau, na despedida e no bilhete na sacola.",
+   "Fim corrido apaga o resto. Fim caprichado faz voltar.",
+   "Fim da série. Segue que vem mais."
+  ],
+  "busca": [
+   "concert",
+   "roller-coaster",
+   "shopping-bag",
+   "smile",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h29",
+  "data": "2026-11-11",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Empresário de férias.",
+   "Desliga o celular, liga o celular, responde só um rapidinho.",
+   "Dia dois: trabalhando da praia.",
+   "Marca o empresário que precisa de férias de verdade!"
+  ],
+  "busca": [
+   "beach",
+   "phone-beach",
+   "laptop-beach",
+   "laughing"
+  ]
+ },
+ {
+  "id": "r30",
+  "data": "2026-11-12",
+  "serie": "Raio-X do Comércio Local",
+  "falas": [
+   "Se você parar, a loja para?",
+   "Então você é o gargalo.",
+   "Escreve o que repete, ensina alguém, automatiza o resto.",
+   "Empresa que cresce funciona sem você.",
+   "Quer montar isso comigo? Chama no WhatsApp."
+  ],
+  "busca": [
+   "tired",
+   "traffic",
+   "teaching",
+   "team",
+   "smartphone"
+  ]
+ },
+ {
+  "id": "h30",
+  "data": "2026-11-12",
+  "serie": "Vida de Empresário",
+  "falas": [
+   "Empreender em uma frase.",
+   "Resolver um problema por hora.",
+   "E mesmo assim, não trocaria por nada.",
+   "Segue que amanhã tem mais."
+  ],
+  "busca": [
+   "sunrise",
+   "busy",
+   "happy",
+   "smartphone"
+  ]
+ }
+]
