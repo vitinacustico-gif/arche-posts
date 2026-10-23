@@ -1,0 +1,57 @@
+name: reflexao-fotos
+# Baixa do Pexels as fotos da série "reflexão" e guarda no branch fotos-reflexao
+# (só as fotos, sem o resto do repositório), para o gerador dos slides usar.
+on:
+  push:
+    branches: [main]
+    paths:
+      - reflexao/src/fotos.py
+      - .github/workflows/reflexao-fotos.yml
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  fotos:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout: reflexao/src
+      - name: Baixar fotos
+        run: |
+          mkdir -p /tmp/fotos
+          python3 - <<'PY'
+          import sys, json, urllib.request, concurrent.futures as cf
+          sys.path.insert(0, "reflexao/src")
+          from fotos import GRUPOS
+          ids = sorted({p for g in GRUPOS.values() for p in g} | {19566900, 7792752, 28704057, 8972265, 6694530, 6943430, 7984773, 18045304, 5332520, 31146885})
+          def get(p):
+              u = f"https://images.pexels.com/photos/{p}/pexels-photo-{p}.jpeg?auto=compress&cs=tinysrgb&w=1600"
+              try:
+                  req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0"})
+                  data = urllib.request.urlopen(req, timeout=60).read()
+                  if len(data) < 20000:
+                      return p, False
+                  open(f"/tmp/fotos/{p}.jpg", "wb").write(data)
+                  return p, True
+              except Exception as e:
+                  print(p, e)
+                  return p, False
+          with cf.ThreadPoolExecutor(12) as ex:
+              res = dict(ex.map(get, ids))
+          falhas = [p for p, ok in res.items() if not ok]
+          json.dump({"ok": [p for p, ok in res.items() if ok], "falhas": falhas}, open("/tmp/fotos/status.json", "w"))
+          print(len(res) - len(falhas), "ok;", len(falhas), "falhas:", falhas)
+          PY
+      - name: Publicar no branch fotos-reflexao
+        run: |
+          cd /tmp/fotos
+          git init -q -b fotos-reflexao
+          git config user.name "github-actions"
+          git config user.email "github-actions@users.noreply.github.com"
+          git add -A
+          git commit -qm "Fotos da série reflexão (Pexels)"
+          git push -q --force "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git" fotos-reflexao
