@@ -2,8 +2,8 @@
  {
   "id": "r01",
   "titulo": "O empresário que ninguém vê",
-  "data": "2026-10-24",
-  "hora": "07:00",
+  "data": "2026-10-23",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -24,7 +24,7 @@
   "id": "r02",
   "titulo": "Os 30 chegaram",
   "data": "2026-10-24",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -44,8 +44,8 @@
  {
   "id": "r03",
   "titulo": "O fim do mês chega antes do dinheiro",
-  "data": "2026-10-25",
-  "hora": "07:00",
+  "data": "2026-10-24",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -66,7 +66,7 @@
   "id": "r04",
   "titulo": "Cansado de carregar tudo sozinho",
   "data": "2026-10-25",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -86,8 +86,8 @@
  {
   "id": "r05",
   "titulo": "Seu capítulo 1 e o capítulo 20 dos outros",
-  "data": "2026-10-26",
-  "hora": "07:00",
+  "data": "2026-10-25",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -108,7 +108,7 @@
   "id": "r06",
   "titulo": "Os amigos que ficaram pelo caminho",
   "data": "2026-10-26",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -128,8 +128,8 @@
  {
   "id": "r07",
   "titulo": "A culpa de descansar",
-  "data": "2026-10-27",
-  "hora": "07:00",
+  "data": "2026-10-26",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -150,7 +150,7 @@
   "id": "r08",
   "titulo": "Quando o negócio não vende",
   "data": "2026-10-27",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -170,8 +170,8 @@
  {
   "id": "r09",
   "titulo": "Ninguém aplaude os bastidores",
-  "data": "2026-10-28",
-  "hora": "07:00",
+  "data": "2026-10-27",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -192,7 +192,7 @@
   "id": "r10",
   "titulo": "Você mudou. E tudo bem.",
   "data": "2026-10-28",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -212,8 +212,8 @@
  {
   "id": "r11",
   "titulo": "O medo de largar a carteira assinada",
-  "data": "2026-10-29",
-  "hora": "07:00",
+  "data": "2026-10-28",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -234,7 +234,7 @@
   "id": "r12",
   "titulo": "Quando tudo dá errado ao mesmo tempo",
   "data": "2026-10-29",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -254,8 +254,8 @@
  {
   "id": "r13",
   "titulo": "Ser o forte da família",
-  "data": "2026-10-30",
-  "hora": "07:00",
+  "data": "2026-10-29",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -276,7 +276,7 @@
   "id": "r14",
   "titulo": "A pressão do 'já devia'",
   "data": "2026-10-30",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -296,8 +296,8 @@
  {
   "id": "r15",
   "titulo": "As decisões que só você pode tomar",
-  "data": "2026-10-31",
-  "hora": "07:00",
+  "data": "2026-10-30",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -318,7 +318,7 @@
   "id": "r16",
   "titulo": "O cliente que sumiu",
   "data": "2026-10-31",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -338,8 +338,8 @@
  {
   "id": "r17",
   "titulo": "Aprender a dizer não",
-  "data": "2026-11-01",
-  "hora": "07:00",
+  "data": "2026-10-31",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -360,7 +360,7 @@
   "id": "r18",
   "titulo": "Recomeçar depois dos 30",
   "data": "2026-11-01",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -380,8 +380,8 @@
  {
   "id": "r19",
   "titulo": "O sonho que parece pequeno",
-  "data": "2026-11-02",
-  "hora": "07:00",
+  "data": "2026-11-01",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -402,7 +402,7 @@
   "id": "r20",
   "titulo": "Você não precisa provar nada",
   "data": "2026-11-02",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -422,8 +422,8 @@
  {
   "id": "r21",
   "titulo": "Trabalhar com a família",
-  "data": "2026-11-03",
-  "hora": "07:00",
+  "data": "2026-11-02",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -444,7 +444,7 @@
   "id": "r22",
   "titulo": "As pequenas vitórias",
   "data": "2026-11-03",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -464,8 +464,8 @@
  {
   "id": "r23",
   "titulo": "A cabeça que não desliga",
-  "data": "2026-11-04",
-  "hora": "07:00",
+  "data": "2026-11-03",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -486,7 +486,7 @@
   "id": "r24",
   "titulo": "Saudade de quem você era",
   "data": "2026-11-04",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -506,8 +506,8 @@
  {
   "id": "r25",
   "titulo": "O que seus pais fizeram com tão pouco",
-  "data": "2026-11-05",
-  "hora": "07:00",
+  "data": "2026-11-04",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -528,7 +528,7 @@
   "id": "r26",
   "titulo": "O tempo que você deu a quem não merecia",
   "data": "2026-11-05",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -548,8 +548,8 @@
  {
   "id": "r27",
   "titulo": "Cuidar da saúde enquanto cuida do negócio",
-  "data": "2026-11-06",
-  "hora": "07:00",
+  "data": "2026-11-05",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -570,7 +570,7 @@
   "id": "r28",
   "titulo": "O que é bom demora",
   "data": "2026-11-06",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -590,8 +590,8 @@
  {
   "id": "r29",
   "titulo": "Quando você pensa em desistir",
-  "data": "2026-11-07",
-  "hora": "07:00",
+  "data": "2026-11-06",
+  "hora": "17:35",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [
@@ -612,7 +612,7 @@
   "id": "r30",
   "titulo": "Carta para você daqui a 5 anos",
   "data": "2026-11-07",
-  "hora": "17:35",
+  "hora": "07:00",
   "fuso": "America/Sao_Paulo",
   "tipo": "carrossel",
   "slides": [

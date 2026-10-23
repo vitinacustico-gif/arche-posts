@@ -1,11 +1,12 @@
-"""Monta o plano da série: datas (2 por dia, 07:00 e 17:35, a partir de 24/10/2026) e foto de cada slide,
+"""Monta o plano da série: datas (2 por dia, 07:00 e 17:35, a partir de 23/10/2026 17:35) e foto de cada slide,
 espalhando as fotos para não repetir dentro do carrossel nem em carrosséis próximos."""
 import json, datetime, sys, os
 sys.path.insert(0, os.path.dirname(__file__))
 import roteiros_a, roteiros_b, roteiros_c
 from fotos import GRUPOS, TAG, RESERVA, REPROVADAS
 
-INICIO = datetime.date(2026, 10, 24)
+INICIO = datetime.date(2026, 10, 23)  # 1º post em 23/10 às 17:35 (pedido do Victor)
+PRIMEIRO_SLOT = 1  # 0 = 07:00, 1 = 17:35
 HORAS = ["07:00", "17:35"]
 HASHTAGS = "#vidaadulta #empreendedorismo #pequenosnegocios #mentalidade #crescimentopessoal #Guarapari #ArcheAgencia"
 EXCLUIR = {19566900, 7792752, 28704057, 8972265, 6694530, 6943430, 7984773, 18045304, 5332520, 31146885}  # já usadas no post de 16/10
@@ -30,9 +31,10 @@ def plano(falhas=()):
             p = cand[0]
             usos[p] = usos.get(p, 0) + 1; ultimo[p] = n; usadas.add(p)
             fotos.append(p)
-        dia = INICIO + datetime.timedelta(days=n // 2)
+        k = n + PRIMEIRO_SLOT
+        dia = INICIO + datetime.timedelta(days=k // 2)
         out.append({
-            "id": car["id"], "titulo": car["titulo"], "data": dia.isoformat(), "hora": HORAS[n % 2],
+            "id": car["id"], "titulo": car["titulo"], "data": dia.isoformat(), "hora": HORAS[k % 2],
             "fuso": "America/Sao_Paulo", "tipo": "carrossel",
             "capa": car["capa"], "slides_texto": [list(s[:2]) for s in car["slides"]],
             "fotos": fotos,
