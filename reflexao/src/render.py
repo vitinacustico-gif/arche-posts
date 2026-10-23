@@ -9,8 +9,13 @@ RED = (229, 21, 45); WHITE = (244, 244, 244); GREY = (160, 160, 160); BG = (6, 6
 M = 84
 
 
+COR_ORIGINAL = True  # Victor (23/10/2026): fotos na cor original, sem tratamento
+
+
 def grade(img, w, h, focus=0.45):
     img = ImageOps.fit(img.convert("RGB"), (w, h), centering=(0.5, focus))
+    if COR_ORIGINAL:
+        return img
     g = ImageOps.grayscale(img)
     g = ImageEnhance.Contrast(g).enhance(1.25)
     g = ImageEnhance.Brightness(g).enhance(0.78)
