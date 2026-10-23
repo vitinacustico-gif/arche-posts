@@ -3,7 +3,7 @@ espalhando as fotos para não repetir dentro do carrossel nem em carrosséis pr�
 import json, datetime, sys, os
 sys.path.insert(0, os.path.dirname(__file__))
 import roteiros_a, roteiros_b, roteiros_c
-from fotos import GRUPOS, TAG, RESERVA
+from fotos import GRUPOS, TAG, RESERVA, REPROVADAS
 
 INICIO = datetime.date(2026, 10, 24)
 HORAS = ["07:00", "17:35"]
@@ -13,7 +13,7 @@ EXCLUIR = {19566900, 7792752, 28704057, 8972265, 6694530, 6943430, 7984773, 1804
 
 def plano(falhas=()):
     C = roteiros_a.C + roteiros_b.C + roteiros_c.C
-    falhas = set(falhas) | EXCLUIR
+    falhas = set(falhas) | EXCLUIR | REPROVADAS
     usos, ultimo = {}, {}
     out = []
     for n, car in enumerate(C):

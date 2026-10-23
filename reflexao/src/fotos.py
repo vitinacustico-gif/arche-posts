@@ -55,3 +55,8 @@ TAG = {
 RESERVA = {"palco": "escritorio", "escada": "rua", "porta": "noite", "academia": "final",
            "carro": "rua", "cozinha": "maos", "espelho": "noite", "relogio": "caderno",
            "loja_noite": "loja", "planta": "final", "familia_mesa": "familia", "contas": "caderno"}
+
+# Reprovadas na revisão visual (texto/marca em destaque, cena estrangeira demais, escura demais) ou que falharam no download
+REPROVADAS = {17706652, 8424482, 6943446, 4489405, 6457079, 36729522, 36729529, 7709077, 8628340, 9370133,
+              6148367, 3693143, 4226215, 5563414, 6694864, 6694915, 5900233, 6621854, 3422552, 17706655,
+              4001508, 7103, 157928, 3760538}

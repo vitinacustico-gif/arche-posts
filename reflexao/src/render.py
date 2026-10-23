@@ -58,45 +58,62 @@ def chrome(c, idx, total, F):
 
 
 def cover_words(text):
-    """'TEXTO *VERMELHO* AQUI' -> [(palavra, vermelho?)]"""
-    words, red = [], False
-    for tok in re.split(r"(\*)", text):
-        if tok == "*":
+    """'TEXTO *VERMELHO*. AQUI' -> [(palavra, vermelho?, cola_na_anterior?)]"""
+    words = []
+    for m in re.finditer(r"\S+", text):
+        w = m.group(0)
+        parts = re.split(r"(\*)", w)
+        glue = False
+        for p in parts:
+            if p == "*":
+                words.append(("*", None, None)); continue
+            if p:
+                words.append((p, None, glue)); glue = True
+    out, red = [], False
+    for w, _, g in words:
+        if w == "*":
             red = not red; continue
-        for w in tok.split():
-            words.append((w, red))
-    return words
+        out.append((w, red, g))
+    return out
 
 
 def render_cover(photo, text, F, total, focus=0.45):
     c = Image.new("RGB", (W, H), BG)
     c.paste(grade(photo, W, H, focus), (0, 0), fade(H, int(H * 0.30)))
     d = ImageDraw.Draw(c)
-    words = cover_words(text)
+    units = []
+    for w, r, g in cover_words(text):
+        if g and units:
+            units[-1].append((w, r))
+        else:
+            units.append([(w, r)])
     maxw, maxh = W - 2 * M, int(H * 0.56)
     size = 150
     while True:
         f = F["disp"](size)
         sp = d.textlength(" ", font=f)
+        uw = lambda u: sum(d.textlength(w, font=f) for w, _ in u)
         lines, cur, curw = [], [], 0
-        for w, r in words:
-            ww = d.textlength(w, font=f)
+        for u in units:
+            ww = uw(u)
             if cur and curw + sp + ww > maxw:
                 lines.append(cur); cur, curw = [], 0
-            cur.append((w, r)); curw += (sp if len(cur) > 1 else 0) + ww
+            curw += (sp if cur else 0) + ww; cur.append(u)
         if cur:
             lines.append(cur)
         lh = int(size * F["disp_lh"])
-        widest = max(sum(d.textlength(w, font=f) for w, _ in l) + sp * (len(l) - 1) for l in lines)
+        widest = max(sum(uw(u) for u in l) + sp * (len(l) - 1) for l in lines)
         if (lh * len(lines) <= maxh and widest <= maxw) or size <= 60:
             break
         size -= 4
-    y = H - 175 - lh * len(lines)
+    y = H - 215 - lh * len(lines)
     for l in lines:
         x = M
-        for w, r in l:
-            d.text((x, y), w, font=f, fill=RED if r else WHITE)
-            x += d.textlength(w, font=f) + sp
+        for u in l:
+            for w, r in u:
+                d.text((x, y), w, font=f, fill=RED if r else WHITE)
+                x += d.textlength(w, font=f)
+            x += sp
         y += lh
     d.text((M, H - 150), "ARRASTE PARA O LADO  →", font=F["metab"], fill=GREY)
     chrome(c, 1, total, F)
@@ -113,7 +130,7 @@ def render_slide(photo, head, body, idx, total, F, focus=0.45):
         hl = wrap(d, head, fh, maxw); bl = wrap(d, body, fb, maxw)
         widest = max(d.textlength(l, font=fh) for l in hl)
         hlh, blh, gap = int(hs * F["disp_lh"]), int(bs * 1.28), int(bs * 0.6)
-        th = len(hl) * hlh + 34 + sum(gap if l == "" else blh for l in bl)
+        th = len(hl) * hlh + 46 + sum(gap if l == "" else blh for l in bl)
         if (th <= H - 140 - 470 and widest <= maxw) or bs <= 32:
             break
         bs -= 2; hs = max(56, hs - 4)
@@ -124,7 +141,7 @@ def render_slide(photo, head, body, idx, total, F, focus=0.45):
     y = ytext
     for l in hl:
         d.text((M, y), l, font=fh, fill=RED); y += hlh
-    y += 34
+    y += 46
     for l in bl:
         if l == "":
             y += gap; continue
