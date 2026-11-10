@@ -20,7 +20,7 @@ jobs:
             [ -z "$id" ] && continue
             f="gta6/banco/fotos/${nome}.jpg"
             [ -s "$f" ] && continue
-            curl -fsSL -A "Mozilla/5.0" -o "$f" "https://images.pexels.com/photos/${id}/pexels-photo-${id}.jpeg?auto=compress&cs=tinysrgb&w=1800" || echo "falhou $id"
+            curl -fsSL -A "Mozilla/5.0" -o "$f" "https://images.pexels.com/photos/${id}/pexels-photo-${id}.jpeg?auto=compress&cs=tinysrgb&w=2400" || echo "falhou $id"
           done < gta6/banco/ids.txt
           ls -la gta6/banco/fotos
       - name: Commit

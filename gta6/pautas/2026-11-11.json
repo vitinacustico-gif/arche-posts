@@ -37,46 +37,55 @@
    "destaque": [
     1
    ],
-   "sub": "Tudo o que já é oficial, faltando 8 dias",
+   "sub": "O nº 9 quase ninguém sabe",
    "slides": [
     {
      "titulo": "Sai dia 19 de novembro",
-     "texto": "Libera à meia-noite no horário local de cada região. No Brasil, 0h do dia 19/11."
+     "texto": "Libera à meia-noite no horário local de cada região. No Brasil, 0h do dia 19/11.",
+     "puxa": "E o console?"
     },
     {
      "titulo": "Só PS5 e Xbox Series",
-     "texto": "PlayStation 5 e Xbox Series X|S. PS4 e Xbox One ficaram de fora."
+     "texto": "PlayStation 5 e Xbox Series X|S. PS4 e Xbox One ficaram de fora.",
+     "puxa": "Quanto custa?"
     },
     {
      "titulo": "Standard por R$ 449,90",
-     "texto": "Preço oficial da edição padrão nas lojas da PlayStation e do Xbox no Brasil."
+     "texto": "Preço oficial da edição padrão nas lojas da PlayStation e do Xbox no Brasil.",
+     "puxa": "E a Ultimate?"
     },
     {
      "titulo": "Ultimate por R$ 549,90",
-     "texto": "A edição mais cara sai R$ 100 a mais que a Standard."
+     "texto": "A edição mais cara sai R$ 100 a mais que a Standard.",
+     "puxa": "Tem bônus?"
     },
     {
      "titulo": "Bônus de pré-venda",
-     "texto": "Quem comprar antes de 20/11 leva o Pacote Vintage Vice City e 1 mês de GTA+."
+     "texto": "Quem comprar antes de 20/11 leva o Pacote Vintage Vice City e 1 mês de GTA+.",
+     "puxa": "Onde se passa?"
     },
     {
      "titulo": "Vice City está de volta",
-     "texto": "O jogo se passa no estado de Leonida, com Vice City como cidade principal."
+     "texto": "O jogo se passa no estado de Leonida, com Vice City como cidade principal.",
+     "puxa": "Quem você joga?"
     },
     {
      "titulo": "Lucia e Jason",
-     "texto": "Dois protagonistas, e a história alterna entre os dois."
+     "texto": "Dois protagonistas, e a história alterna entre os dois.",
+     "puxa": "Por que demorou?"
     },
     {
      "titulo": "Adiado duas vezes",
-     "texto": "Era para 2025, foi para maio de 2026 e depois para novembro de 2026."
+     "texto": "Era para 2025, foi para maio de 2026 e depois para novembro de 2026.",
+     "puxa": "Quantos já compraram?"
     },
     {
      "titulo": "Milhões na pré-venda",
      "texto": "A Sensor Tower estima cerca de 7,7 milhões de cópias reservadas."
     }
    ],
-   "legenda": "GTA 6 em 9 fatos que já são oficiais 📋\n\nSalva pra não esquecer e manda pro parça que ainda acha que sai no PC 👀"
+   "legenda": "GTA 6 em 9 fatos que já são oficiais 📋\n\nSalva pra não esquecer e manda pro parça que ainda acha que sai no PC 👀",
+   "puxa_capa": "COMEÇA AQUI  >>"
   },
   {
    "id": "03",
@@ -141,34 +150,46 @@
    "destaque": [
     1
    ],
-   "sub": "Faz isso antes pra jogar sem stress",
+   "sub": "O passo 4 todo mundo esquece",
    "slides": [
     {
      "titulo": "Garanta antes de 20/11",
-     "texto": "A pré-venda até 20/11 dá direito ao Pacote Vintage Vice City e a 1 mês de GTA+."
+     "texto": "A pré-venda até 20/11 dá direito ao Pacote Vintage Vice City e a 1 mês de GTA+.",
+     "puxa": "Depois disso"
     },
     {
      "titulo": "Libere espaço no console",
-     "texto": "Jogo grande pede espaço. Apague o que você não joga mais antes do dia."
+     "texto": "Jogo grande pede espaço. Apague o que você não joga mais antes do dia.",
+     "puxa": "Tem mais"
     },
     {
      "titulo": "Atualize o console",
-     "texto": "Faça as atualizações do sistema antes, pra não perder a meia-noite baixando update."
+     "texto": "Faça as atualizações do sistema antes, pra não perder a meia-noite baixando update.",
+     "puxa": "Esse todo mundo esquece"
     },
     {
      "titulo": "Controle carregado",
-     "texto": "Deixe o controle na carga desde a tarde do dia 18."
+     "texto": "Deixe o controle na carga desde a tarde do dia 18.",
+     "puxa": "O mais difícil"
     },
     {
      "titulo": "Avise a família",
-     "texto": "Dia 19 você está ocupado. Comunique com antecedência."
+     "texto": "Dia 19 você está ocupado. Comunique com antecedência.",
+     "puxa": "Último passo"
     },
     {
      "titulo": "Siga a página",
      "texto": "No dia 19 tem dica, segredo e primeiras impressões aqui."
     }
    ],
-   "legenda": "Checklist pra jogar GTA 6 no dia 19 sem dor de cabeça ✅\n\nSalva e marca quem vai virar a noite com você."
+   "legenda": "Checklist pra jogar GTA 6 no dia 19 sem dor de cabeça ✅\n\nSalva e marca quem vai virar a noite com você.",
+   "fecho": {
+    "titulo": [
+     "MARCA",
+     "O PARÇA"
+    ],
+    "texto": "Quem vai virar a noite do dia 18 com você?"
+   }
   },
   {
    "id": "07",
@@ -214,30 +235,41 @@
    "destaque": [
     1
    ],
-   "sub": "A linha do tempo dos adiamentos",
+   "sub": "Relembra cada capítulo da espera",
    "slides": [
     {
      "titulo": "Previsto pra 2025",
-     "texto": "A primeira janela de lançamento era o outono americano de 2025."
+     "texto": "A primeira janela de lançamento era o outono americano de 2025.",
+     "puxa": "Aí veio o 1º susto"
     },
     {
      "titulo": "Primeiro adiamento",
-     "texto": "A Rockstar empurrou o jogo para 26 de maio de 2026."
+     "texto": "A Rockstar empurrou o jogo para 26 de maio de 2026.",
+     "puxa": "E de novo..."
     },
     {
      "titulo": "Segundo adiamento",
-     "texto": "Em novembro de 2025, a data foi para 19 de novembro de 2026."
+     "texto": "Em novembro de 2025, a data foi para 19 de novembro de 2026.",
+     "puxa": "Agora é oficial"
     },
     {
      "titulo": "Data confirmada",
-     "texto": "A Take-Two reafirmou o dia 19/11 várias vezes ao longo de 2026."
+     "texto": "A Take-Two reafirmou o dia 19/11 várias vezes ao longo de 2026.",
+     "puxa": "E a contagem?"
     },
     {
      "titulo": "Agora faltam 8 dias",
      "texto": "Depois de tanto tempo, a contagem está no fim."
     }
    ],
-   "legenda": "A espera mais longa da história dos games ⏳\n\nVocê já estava esperando desde o primeiro trailer?"
+   "legenda": "A espera mais longa da história dos games ⏳\n\nVocê já estava esperando desde o primeiro trailer?",
+   "fecho": {
+    "titulo": [
+     "VOCÊ",
+     "ESPEROU?"
+    ],
+    "texto": "Comenta desde quando você está esperando o GTA 6."
+   }
   },
   {
    "id": "10",

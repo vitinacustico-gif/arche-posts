@@ -328,7 +328,7 @@ def post(item, saida):
     return [arq]
 
 
-def carrossel(item, saida):
+def carrossel_simples(item, saida):
     W, H = 1080, 1350
     slides = item["slides"]
     # Instagram aceita até 10 itens por carrossel: sem slide de fecho se não couber
@@ -378,6 +378,147 @@ def carrossel(item, saida):
         colar(img, p, (W - p.width) / 2, y); y += p.height + 36
     moldura(img, contador=f"{n:02d}/{n:02d}", link=False)
     arqs.append(saida / f"{item['id']}_{n:02d}.jpg"); img.convert("RGB").save(arqs[-1], quality=90)
+    return arqs
+
+
+# ───────────────────────── carrossel infinito (panorâmico) ─────────────────────────
+def _panorama(N, W=1080, H=1350, seed=11):
+    """Fundo contínuo de N slides: céu, skyline de Vice, sol na 1ª emenda, palmeiras nas emendas,
+    mar com reflexo e uma linha de neon que atravessa tudo. Periódico: a borda direita do último
+    slide encaixa na borda esquerda do primeiro."""
+    PW = N * W
+    rnd = random.Random(seed)
+    hy = int(H * 0.80)
+    ceu = _hex_lerp([(0, (12, 3, 22)), (0.45, (46, 10, 66)), (0.8, (150, 26, 100)), (1.0, (255, 104, 72))], hy)
+    mar = _hex_lerp([(0, (66, 12, 66)), (0.4, (30, 7, 42)), (1, (9, 3, 15))], H - hy)
+    col = np.concatenate([ceu, mar], 0).astype(np.uint8)
+    img = Image.fromarray(np.repeat(col[:, None, :], PW, 1)).convert("RGBA")
+    d = ImageDraw.Draw(img)
+    # estrelas
+    for _ in range(int(PW * hy / 14000)):
+        x, y = rnd.randrange(PW), rnd.randrange(int(hy * 0.5))
+        b = rnd.randint(90, 210); d.point((x, y), fill=(b, b, b, 255))
+    # sol listrado na emenda 1|2 (metade em cada slide)
+    r = 330; sx, sy = W, hy - int(r * 0.35)
+    tons = _hex_lerp([(0, C["amarelo"]), (0.55, C["laranja"]), (1, C["magenta"])], 2 * r)
+    for yy in range(sy - r, min(sy + r, hy)):
+        rel = (yy - sy) / r
+        if rel > -0.15 and ((rel * 7) % 1.0) < min(0.55, (rel + 0.15) * 0.75):
+            continue
+        half = int(math.sqrt(max(0, r * r - (yy - sy) ** 2)))
+        cor = tuple(int(v) for v in tons[min(2 * r - 1, max(0, yy - (sy - r)))])
+        d.line([(sx - half, yy), (sx + half, yy)], fill=cor + (255,))
+    # skyline periódico
+    x = 0
+    while x < PW:
+        w = rnd.randint(50, 150)
+        if x + w > PW - 40:
+            w = PW - x
+        h = rnd.randint(70, 300) if rnd.random() > 0.15 else rnd.randint(320, 430)
+        d.rectangle([x, hy - h, x + w, hy], fill=(16, 5, 28, 255))
+        for wy in range(hy - h + 14, hy - 10, 22):
+            for wx in range(x + 8, x + w - 8, 18):
+                if rnd.random() < 0.28:
+                    c = rnd.choice([C["rosa"], C["ciano"], C["amarelo"]])
+                    d.rectangle([wx, wy, wx + 6, wy + 9], fill=c + (rnd.randint(90, 200),))
+        x += w
+    # reflexo no mar
+    for i in range(0, H - hy, 5):
+        y = hy + i
+        for k in range(N):
+            if rnd.random() < 0.6:
+                cx = k * W + rnd.randint(100, W - 100); ww = rnd.randint(40, 220) * (1 - i / (H - hy))
+                d.line([(cx - ww, y), (cx + ww, y)], fill=C["rosa"] + (int(120 * (1 - i / (H - hy))),), width=2)
+    # palmeiras nas emendas (metade em cada slide)
+    pal = Image.new("RGBA", (PW, H), (0, 0, 0, 0))
+    dp = ImageDraw.Draw(pal)
+    for k in range(1, N + 1):
+        bx = (k * W) % PW
+        for desloc, alt, esc, sd in ((-60, 260, 1.0, k), (90, 120, 0.75, k + 50)):
+            xb = bx + desloc
+            _palmeira(dp, xb - 40, H + 40, xb + (60 if desloc > 0 else -60), hy - alt, esc, seed=sd)
+            if xb < 400:  # parte que vaza pela esquerda reaparece no fim (loop)
+                _palmeira(dp, xb - 40 + PW, H + 40, xb + PW + (60 if desloc > 0 else -60), hy - alt, esc, seed=sd)
+    img.alpha_composite(pal)
+    # véu escuro em cima para leitura
+    veu = np.zeros((H, 1, 4), np.uint8)
+    topo = int(H * 0.66)
+    veu[:topo, 0, 3] = (175 * (1 - np.linspace(0, 1, topo) ** 1.5)).astype(np.uint8)
+    veu[:, 0, :3] = (8, 2, 14)
+    img.alpha_composite(Image.fromarray(np.repeat(veu, PW, 1), "RGBA"))
+    # linha de neon contínua (período = 1 slide, então fecha o loop)
+    ly = lambda xx: int(H * 0.72 + 26 * math.sin(2 * math.pi * xx / W))
+    pts = [(xx, ly(xx)) for xx in range(0, PW + 1, 6)]
+    glow = Image.new("RGBA", (PW, H), (0, 0, 0, 0))
+    ImageDraw.Draw(glow).line(pts, fill=C["magenta"] + (255,), width=22)
+    glow = glow.filter(ImageFilter.GaussianBlur(14))
+    img.alpha_composite(glow)
+    ImageDraw.Draw(img).line(pts, fill=(255, 220, 240, 255), width=5)
+    # grão leve
+    g = np.random.default_rng(seed).normal(0, 5, (H // 2, 540)).astype(np.float32)
+    tile = Image.fromarray(np.clip(128 + g, 0, 255).astype(np.uint8)).resize((1080, H))
+    grao = Image.new("RGBA", (PW, H))
+    for k in range(N):
+        grao.paste(Image.merge("RGBA", (tile, tile, tile, Image.new("L", (1080, H), 18))), (k * W, 0))
+    img.alpha_composite(grao)
+    return img, ly
+
+
+def carrossel(item, saida):
+    W, H = 1080, 1350
+    slides = item["slides"]
+    com_fecho = len(slides) + 2 <= 10
+    N = len(slides) + (2 if com_fecho else 1)
+    if N > 10:
+        raise SystemExit(f"carrossel {item['id']} com {N} slides (máx. 10)")
+    pano, ly = _panorama(N, W, H, seed=sum(map(ord, item["id"] + item.get("capa", [""])[0])))
+    d = ImageDraw.Draw(pano)
+    # marcadores numerados na linha de neon, em cima das emendas (metade aparece antes de arrastar)
+    for k in range(1, N):
+        cx, cy = k * W, ly(k * W)
+        d.ellipse([cx - 58, cy - 58, cx + 58, cy + 58], fill=(12, 4, 20, 255), outline=C["amarelo"] + (255,), width=6)
+        rot = f"{k:02d}" if k <= len(slides) else "+"
+        nb = bloco_titulo([rot], 100, tam=64, sombra=False)
+        colar(pano, nb, cx - nb.width / 2, cy - nb.height / 2 + 4)
+    # capa
+    tit = bloco_titulo(item["capa"], W - 150, tam=175, altura_max=560, destaque=item.get("destaque", []), alinhar="left")
+    y = 180
+    colar(pano, tit, 64, y); y += tit.height + 20
+    if item.get("sub"):
+        sb = bloco_texto(item["sub"], W - 220, 42, "700", alinhar="left")
+        colar(pano, sb, 52, y); y += sb.height
+    seta = pilula(item.get("puxa_capa", "ARRASTA  >>"), 30, fundo=(255, 255, 255), cor=(12, 4, 20), pad=(30, 18))
+    colar(pano, seta, W - seta.width - 28, ly(W) - 210)
+    # miolo
+    for i, s in enumerate(slides, start=1):
+        x0 = i * W
+        num = bloco_titulo([f"{i:02d}"], 300, tam=140, destaque=[0], alinhar="left")
+        tt = bloco_titulo(quebra_titulo(s["titulo"]), W - 150, tam=104, tam_min=54, altura_max=330, alinhar="left")
+        yy = 170
+        colar(pano, num, x0 + 64, yy); yy += num.height
+        colar(pano, tt, x0 + 58, yy); yy += tt.height + 18
+        if s.get("texto"):
+            cp = bloco_texto(s["texto"], W - 230, 42, "700", alinhar="left")
+            colar(pano, cp, x0 + 46, yy); yy += cp.height
+        if s.get("puxa") and (i < len(slides) or com_fecho):
+            pp = pilula(s["puxa"].upper() + "  >>", 26, pad=(26, 16))
+            colar(pano, pp, (i + 1) * W - pp.width - 28, ly((i + 1) * W) - 210)
+    # fecho
+    if com_fecho:
+        x0 = (N - 1) * W
+        fecho = item.get("fecho", {"titulo": ["SALVA", "ESSE POST"], "texto": "E manda pro parça que vai jogar com você."})
+        ft_ = bloco_titulo(fecho["titulo"], W - 150, tam=160, destaque=[len(fecho["titulo"]) - 1], alinhar="left")
+        colar(pano, ft_, x0 + 64, 200)
+        tx = bloco_texto(fecho["texto"], W - 230, 42, "700", alinhar="left")
+        colar(pano, tx, x0 + 52, 200 + ft_.height + 20)
+        cta = pilula("GRUPO VIP + OFERTAS: LINK NA BIO", 28, pad=(30, 18))
+        colar(pano, cta, x0 + 64, 200 + ft_.height + 40 + tx.height)
+    arqs = []
+    for k in range(N):
+        sl = pano.crop((k * W, 0, (k + 1) * W, H))
+        moldura(sl, contador=f"{k + 1:02d}/{N:02d}", link=False)
+        arqs.append(saida / f"{item['id']}_{k + 1:02d}.jpg")
+        sl.convert("RGB").save(arqs[-1], quality=90)
     return arqs
 
 
