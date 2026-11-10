@@ -1,0 +1,52 @@
+{
+ "data": "2026-11-12",
+ "fontes": [
+  "https://rollingstone.com.br/?p=317978",
+  "https://rollingstone.com.br/?p=305783",
+  "https://www.einerd.com/gta-6-pre-venda-preco-brasil/",
+  "https://bpmoney.com.br/?p=433927"
+ ],
+ "itens": [
+  {"id": "01", "formato": "reel", "linhas": ["FALTA", "1 SEMANA"], "destaque": [1], "sub": "7 dias pro GTA 6. Dia 19/11 à meia-noite", "cta": ["ATIVA", "O SININHO"], "cta_sub": "Contagem regressiva todo dia aqui", "tag": "CONTAGEM",
+   "legenda": "Falta 1 semana pro GTA 6 🔥\n\nSete dias. Já separou a madrugada do dia 19?"},
+  {"id": "02", "formato": "carrossel", "capa": ["5 COISAS PRA", "FAZER ANTES"], "destaque": [1], "sub": "Aproveita a última semana sem GTA 6",
+   "slides": [
+    {"titulo": "Termine o que está jogando", "texto": "Depois do dia 19 ninguém vai lembrar daquele jogo pela metade."},
+    {"titulo": "Reveja os trailers", "texto": "Preste atenção nos detalhes de Leonida antes de ver ao vivo."},
+    {"titulo": "Monte seu canto", "texto": "Cadeira, headset e controle carregado. Conforto pra horas de jogo."},
+    {"titulo": "Combine com a galera", "texto": "Quem vai jogar no dia? Monte o grupo e comparem descobertas."},
+    {"titulo": "Durma bem antes", "texto": "Na madrugada do dia 19 você não vai dormir. Guarde energia."}
+   ],
+   "legenda": "5 coisas pra fazer antes do GTA 6 chegar 📝\n\nQual delas você já fez? Salva pra não esquecer."},
+  {"id": "03", "formato": "post", "tipo": "enquete", "linhas": ["STANDARD", "OU ULTIMATE?"], "destaque": [1], "opcoes": ["R$ 449,90", "R$ 549,90"], "sub": "Comenta A ou B: qual edição você vai comprar?",
+   "legenda": "Standard (R$ 449,90) ou Ultimate (R$ 549,90)? 💸\n\nComenta A ou B. Vale os R$ 100 a mais?"},
+  {"id": "04", "formato": "reel", "linhas": ["BÔNUS ATÉ", "DIA 20/11"], "destaque": [1], "sub": "Pacote Vintage Vice City + 1 mês de GTA+ na pré-venda", "cta": ["MARCA", "QUEM VAI"], "cta_sub": "comprar na pré-venda com você", "tag": "PRÉ-VENDA",
+   "legenda": "Último aviso pra quem ainda não reservou ⏰\n\nComprando antes de 20/11 você leva o Pacote Vintage Vice City e 1 mês de GTA+."},
+  {"id": "05", "formato": "post", "tipo": "noticia", "linhas": ["MEIA-NOITE", "NO BRASIL"], "destaque": [0], "texto": "A Rockstar confirmou que GTA 6 libera à meia-noite no horário local de cada região. Aqui, 0h do dia 19/11.", "fonte": "Rockstar Games / Rolling Stone Brasil",
+   "legenda": "Horário confirmado 🕛\n\nGTA 6 libera à meia-noite no horário local. No Brasil, é 0h do dia 19/11. Vai virar a noite?"},
+  {"id": "06", "formato": "carrossel", "capa": ["SETUP PRA", "JOGAR GTA 6"], "destaque": [1], "sub": "Do básico ao completo",
+   "slides": [
+    {"titulo": "Básico", "texto": "Console PS5 ou Xbox Series X|S, o jogo e um controle. Já dá pra jogar no dia."},
+    {"titulo": "Conforto", "texto": "Um segundo controle e um headset fazem diferença nas sessões longas."},
+    {"titulo": "Completo", "texto": "Armazenamento extra, carregador de controle e uma boa cadeira."},
+    {"titulo": "Onde achar oferta", "texto": "No nosso grupo VIP a gente manda as melhores promoções todo dia."}
+   ],
+   "legenda": "O setup pra jogar GTA 6 em 3 níveis 🎧\n\nNo grupo VIP a gente manda as ofertas da semana. Link na bio."},
+  {"id": "07", "formato": "reel", "linhas": ["EU PEDINDO", "FOLGA", "DIA 19"], "destaque": [2], "sub": "Chefe, é um compromisso inadiável", "cta": ["MARCA", "SEU CHEFE"], "cta_sub": "se tiver coragem", "tag": "HUMOR",
+   "legenda": "Eu pedindo folga no dia 19 😂\n\nMarca o colega que vai faltar junto."},
+  {"id": "08", "formato": "post", "tipo": "frase", "linhas": ["QUAL FOI SEU", "PRIMEIRO GTA?"], "destaque": [1], "sub": "Comenta aí e entrega a idade",
+   "legenda": "Qual foi o seu primeiro GTA? 👴🎮\n\nComenta e vamos ver quem joga há mais tempo."},
+  {"id": "09", "formato": "carrossel", "capa": ["GTA 6", "EM NÚMEROS"], "destaque": [1], "sub": "Os números do lançamento mais esperado",
+   "slides": [
+    {"titulo": "R$ 449,90", "texto": "Preço da edição Standard no Brasil."},
+    {"titulo": "R$ 549,90", "texto": "Preço da edição Ultimate no Brasil."},
+    {"titulo": "7,7 milhões", "texto": "Cópias em pré-venda, segundo estimativa da Sensor Tower."},
+    {"titulo": "2 adiamentos", "texto": "De 2025 para maio de 2026, e de maio para novembro."},
+    {"titulo": "2 protagonistas", "texto": "Lucia e Jason dividem a história."},
+    {"titulo": "0h do dia 19", "texto": "Horário de liberação no Brasil."}
+   ],
+   "legenda": "GTA 6 em números 📊\n\nQual número mais te impressionou? Salva e compartilha."},
+  {"id": "10", "formato": "reel", "linhas": ["OFERTAS DE PS5", "E ACESSÓRIOS"], "destaque": [0], "sub": "Grupo VIP no WhatsApp. Link na bio", "cta": ["ENTRA", "NO GRUPO"], "cta_sub": "Promoção todo dia até a Black Friday", "tag": "GRUPO VIP",
+   "legenda": "Vai comprar console ou acessório pro GTA 6? 🛒\n\nNo grupo VIP do WhatsApp a gente manda as melhores ofertas todo dia até a Black Friday. Link na bio."}
+ ]
+}

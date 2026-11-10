@@ -1,0 +1,18 @@
+{
+  "handle": "@leonida.br",
+  "nome": "GTA 6 Brasil",
+  "horarios": ["08:07", "10:07", "11:07", "12:07", "13:07", "15:07", "17:07", "19:07", "20:07", "21:07"],
+  "hashtags": "#GTA6 #GTAVI #GTA6Brasil #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "rodape_legenda": "Página de fã, sem vínculo com a Rockstar Games.",
+  "cta_padrao": "👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.",
+  "lancamento": "2026-11-19",
+  "cores": {
+    "magenta": "#FF2E88",
+    "rosa": "#FF5FA2",
+    "laranja": "#FFB347",
+    "amarelo": "#FFE66D",
+    "ciano": "#2EF2FF",
+    "branco": "#FFFFFF",
+    "noite": "#0B0410"
+  }
+}

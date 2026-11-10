@@ -1,0 +1,46 @@
+{
+ "data": "2026-11-13",
+ "fontes": ["https://rollingstone.com.br/?p=317978", "https://www.einerd.com/gta-6-pre-venda-preco-brasil/"],
+ "itens": [
+  {"id": "01", "formato": "reel", "linhas": ["FALTAM", "6 DIAS"], "destaque": [1], "sub": "Sexta-feira 13 e o GTA 6 cada vez mais perto", "cta": ["ATIVA", "O SININHO"], "cta_sub": "Contagem regressiva todo dia aqui", "tag": "CONTAGEM",
+   "legenda": "Sexta-feira 13 e faltam 6 dias pro GTA 6 🖤\n\nO azar é de quem ainda não reservou. Quem já garantiu o seu?"},
+  {"id": "02", "formato": "carrossel", "capa": ["PRIMEIRA HORA", "NO GTA 6"], "destaque": [0], "sub": "O que a galera diz que vai fazer primeiro",
+   "slides": [
+    {"titulo": "Explorar a praia", "texto": "Andar pela orla de Vice City sem missão nenhuma, só curtindo."},
+    {"titulo": "Pegar o primeiro carro", "texto": "Clássico de todo GTA: escolher a primeira nave da história."},
+    {"titulo": "Seguir a história", "texto": "Entender de cara a dupla Lucia e Jason."},
+    {"titulo": "Testar a física", "texto": "Bater, pular, capotar. Todo mundo faz."},
+    {"titulo": "Tirar print", "texto": "O pôr do sol de Leonida vai lotar a galeria do console."}
+   ],
+   "legenda": "O que você vai fazer na primeira hora de GTA 6? 🌅\n\nComenta o número da sua escolha. E salva esse post."},
+  {"id": "03", "formato": "post", "tipo": "enquete", "linhas": ["HISTÓRIA", "OU ONLINE?"], "destaque": [1], "opcoes": ["História", "Online"], "sub": "Comenta A ou B: qual você joga mais?",
+   "legenda": "Modo história ou online? 🎮\n\nComenta A ou B. Aqui a gente quer saber de que lado você está."},
+  {"id": "04", "formato": "reel", "linhas": ["MINHA MÃE", "PERGUNTANDO", "O QUE É GTA"], "destaque": [2], "sub": "Eu: é um jogo educativo sobre a Flórida", "cta": ["MARCA", "ALGUÉM"], "cta_sub": "que precisa explicar GTA pra família", "tag": "HUMOR",
+   "legenda": "Explicando GTA pra família no dia 19 😂\n\nMarca quem vai ter essa conversa."},
+  {"id": "05", "formato": "post", "tipo": "contagem", "linhas": ["6", "DIAS"], "destaque": [0], "tam": 300, "sub": "GTA 6 chega dia 19/11 no PS5 e no Xbox Series X|S",
+   "legenda": "6 dias ⏳\n\nCompartilha nos stories e marca quem está contando com você."},
+  {"id": "06", "formato": "carrossel", "capa": ["COMO NÃO CAIR", "EM GOLPE"], "destaque": [1], "sub": "Na semana do lançamento aparece de tudo",
+   "slides": [
+    {"titulo": "Desconfie de preço baixo demais", "texto": "Chave de GTA 6 muito abaixo do preço oficial é sinal de golpe."},
+    {"titulo": "Compre em loja oficial", "texto": "No Brasil, a versão digital está na PlayStation Store e na Loja Xbox."},
+    {"titulo": "Nada de dinheiro infinito", "texto": "Promessa de dinheiro no jogo ou hack pode roubar sua conta."},
+    {"titulo": "Proteja sua conta", "texto": "Ative a verificação em duas etapas na PSN e na conta Microsoft."},
+    {"titulo": "Na dúvida, pergunte", "texto": "No grupo VIP a gente avisa quando uma oferta é confiável."}
+   ],
+   "legenda": "Semana de lançamento é semana de golpe ⚠️\n\nSalva e manda pra quem vai comprar GTA 6. Melhor prevenir."},
+  {"id": "07", "formato": "reel", "linhas": ["QUAL CARRO", "VOCÊ PEGA", "PRIMEIRO?"], "destaque": [2], "sub": "Esportivo, moto ou aquele carro velho de sempre?", "cta": ["COMENTA", "AÍ"], "cta_sub": "e marca quem vai roubar seu carro", "tag": "ENQUETE",
+   "legenda": "Primeira coisa que você vai pegar em Vice City? 🏎️🏍️\n\nComenta: esportivo, moto ou carro velho."},
+  {"id": "08", "formato": "post", "tipo": "frase", "linhas": ["GTA 5 FOI BOM", "MAS O 6..."], "destaque": [1], "sub": "Completa a frase nos comentários",
+   "legenda": "GTA 5 foi bom, mas o 6... 👀\n\nCompleta a frase nos comentários."},
+  {"id": "09", "formato": "carrossel", "capa": ["VICE CITY", "X MIAMI"], "destaque": [0], "sub": "A cidade do jogo é inspirada em Miami",
+   "slides": [
+    {"titulo": "Praia e neon", "texto": "Orla, palmeiras e prédios coloridos são a cara das duas."},
+    {"titulo": "Leonida é a Flórida", "texto": "O estado do jogo é inspirado na Flórida, com cidade, pântano e interior."},
+    {"titulo": "Volta às origens", "texto": "Vice City já apareceu em jogos antigos da série. Agora volta bem maior."},
+    {"titulo": "Qual sua aposta?", "texto": "Comenta o lugar real que você quer ver recriado no jogo."}
+   ],
+   "legenda": "Vice City é a Miami do GTA 🌴\n\nQue lugar da Flórida você quer encontrar no jogo?"},
+  {"id": "10", "formato": "reel", "linhas": ["O GUIA DO", "GTA 6 EM", "PORTUGUÊS"], "destaque": [2], "sub": "Primeiras horas, dinheiro e segredos. Lista de espera aberta", "cta": ["LINK", "NA BIO"], "cta_sub": "Entra na lista e recebe primeiro", "tag": "GUIA",
+   "legenda": "Estamos preparando o guia do GTA 6 em português 📘\n\nPrimeiras horas, como fazer dinheiro e os segredos de Leonida. Entra na lista de espera pelo link na bio."}
+ ]
+}
