@@ -1,0 +1,32 @@
+name: gta6-banco
+on:
+  push:
+    branches: [gta6]
+    paths: ["gta6/banco/ids.txt"]
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  baixar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: gta6
+      - name: Baixar fotos do Pexels (licença Pexels, uso comercial livre)
+        run: |
+          mkdir -p gta6/banco/fotos
+          while read -r id nome autor; do
+            [ -z "$id" ] && continue
+            f="gta6/banco/fotos/${nome}.jpg"
+            [ -s "$f" ] && continue
+            curl -fsSL -A "Mozilla/5.0" -o "$f" "https://images.pexels.com/photos/${id}/pexels-photo-${id}.jpeg?auto=compress&cs=tinysrgb&w=1800" || echo "falhou $id"
+          done < gta6/banco/ids.txt
+          ls -la gta6/banco/fotos
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add gta6/banco/fotos
+          git diff --cached --quiet || git commit -m "GTA 6: fotos do banco (Pexels)"
+          git push origin HEAD:gta6
