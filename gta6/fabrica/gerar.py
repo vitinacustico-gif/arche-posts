@@ -34,7 +34,9 @@ def _fonte_titulo():
         p = pathlib.Path.home() / ".gta6_fontkey"
         chave = p.read_text().strip() if p.exists() else None
     if not chave:
-        raise SystemExit("Falta a chave da fonte (GTA6_FONT_KEY).")
+        # sem a chave (ex.: tarefa agendada), usa a Anton (licença OFL, livre) no lugar da Pricedown
+        print("aviso: sem GTA6_FONT_KEY, títulos em Anton", file=sys.stderr)
+        return str(FAB / "fonts/Anton-400.ttf")
     subprocess.run(["openssl", "enc", "-d", "-aes-256-cbc", "-pbkdf2", "-in", str(FAB / "fonts/pricedown.enc"),
                     "-out", str(destino), "-pass", "pass:" + chave], check=True)
     os.chmod(destino, 0o600)
