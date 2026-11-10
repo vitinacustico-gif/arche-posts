@@ -107,7 +107,9 @@
     "Jason"
    ],
    "sub": "Comenta A ou B: quem você quer jogar primeiro?",
-   "legenda": "Decisão difícil 😅 Lucia ou Jason?\n\nComenta A ou B e vamos ver quem ganha."
+   "legenda": "Lucia ou Jason? Essa divide qualquer grupo de amigos 😅\n\nComenta A ou B e marca aquele amigo que vai escolher o errado.",
+   "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-01.jpg",
+   "cta_bio": "comunidade"
   },
   {
    "id": "04",
@@ -134,15 +136,18 @@
    "formato": "post",
    "tipo": "noticia",
    "linhas": [
-    "PC AINDA",
-    "SEM DATA"
+    "CONHEÇA",
+    "LEONIDA"
    ],
    "destaque": [
     1
    ],
-   "texto": "A Take-Two confirmou GTA 6 em 19/11 só para PS5 e Xbox Series X|S. Nenhuma data de PC foi anunciada.",
-   "fonte": "Take-Two / Insider Gaming",
-   "legenda": "Pra quem joga no PC: por enquanto, nada de GTA 6 💻\n\nO lançamento de 19/11 é só no PS5 e no Xbox Series X|S. Você vai esperar ou vai de console?"
+   "texto": "Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia e Mount Kalaga: os lugares que aparecem nas imagens oficiais.",
+   "fonte": "Rockstar Games",
+   "legenda": "Esses são os lugares de Leonida que a Rockstar já mostrou nas imagens oficiais 🌴\n\nVice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia e Mount Kalaga. Qual você vai explorar primeiro? Comenta 👇",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-05.jpg",
+   "tag": "LEONIDA",
+   "cta_bio": "ofertas"
   },
   {
    "id": "06",
@@ -231,7 +236,9 @@
     1
    ],
    "sub": "Encarando o relógio e o botão de jogar",
-   "legenda": "Eu no dia 18 às 23:59 🕛\n\nQuem vai esperar dar meia-noite? Comenta EU."
+   "legenda": "Eu no dia 18 às 23:59 esperando dar meia-noite 🕛\n\nQuem vai virar a noite? Comenta EU que a gente faz a contagem junto.",
+   "imagem": "gta6/banco/oficial/arte-jason-lucia-motel.jpg",
+   "cta_bio": "grupo"
   },
   {
    "id": "09",

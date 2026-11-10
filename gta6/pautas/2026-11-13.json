@@ -90,7 +90,9 @@
     "Online"
    ],
    "sub": "Comenta A ou B: qual você joga mais?",
-   "legenda": "Modo história ou online? 🎮\n\nComenta A ou B. Aqui a gente quer saber de que lado você está."
+   "legenda": "Modo história ou online? 🎮\n\nComenta A ou B. A resposta diz muito sobre você.",
+   "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-03.jpg",
+   "cta_bio": "comunidade"
   },
   {
    "id": "04",
@@ -125,7 +127,9 @@
    ],
    "tam": 300,
    "sub": "GTA 6 chega dia 19/11 no PS5 e no Xbox Series X|S",
-   "legenda": "6 dias ⏳\n\nCompartilha nos stories e marca quem está contando com você."
+   "legenda": "6 dias ⏳ Sexta-feira 13 e o GTA 6 cada vez mais perto.\n\nCompartilha nos stories e marca quem está contando com você.",
+   "imagem": "gta6/banco/oficial/lugar-leonida-keys-02.jpg",
+   "cta_bio": "grupo"
   },
   {
    "id": "06",
@@ -209,7 +213,9 @@
     1
    ],
    "sub": "Completa a frase nos comentários",
-   "legenda": "GTA 5 foi bom, mas o 6... 👀\n\nCompleta a frase nos comentários."
+   "legenda": "GTA 5 foi bom, mas o 6... 👀\n\nCompleta a frase nos comentários. As melhores respostas vão pros stories.",
+   "imagem": "gta6/banco/oficial/pessoa-jason-duval-05.jpg",
+   "cta_bio": "guia"
   },
   {
    "id": "09",

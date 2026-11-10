@@ -26,13 +26,15 @@ Mistura do dia: 4 `reel` (posições 1, 4, 7, 10), 3 `carrossel` (2, 6, 9) e 3 `
 - 4 a 8 slides (máximo 10 imagens no total; com 9 ou mais slides o fecho sai sozinho).
 
 ### post
-`{"id":"03","formato":"post","tipo":"noticia|enquete|contagem|frase","linhas":[...],"destaque":[...],"texto":"(noticia)","fonte":"(noticia)","opcoes":["A","B"] (enquete),"sub":"...","legenda":"..."}`
+`{"id":"03","formato":"post","tipo":"noticia|enquete|contagem|frase","linhas":[...],"destaque":[...],"texto":"(noticia)","fonte":"(noticia)","opcoes":["A","B"] (enquete),"sub":"...","imagem":"gta6/banco/oficial/<arquivo>.jpg","cta_bio":"grupo|guia|ofertas|comunidade","legenda":"..."}`
+- **Todo post leva `imagem`** do `gta6/banco/oficial/` (imagens oficiais que o Victor subiu). Combine o tema: enquete de personagem → `pessoa-*`; notícia, lugar ou contagem → `lugar-*`; humor e frase → `arte-*`. Rode `ls gta6/banco/oficial` e não repita a mesma imagem nos últimos 7 dias (confira em `calendario.json`).
+- Formatos que viralizam (modelar o formato, nunca copiar texto de ninguém): enquete A ou B, notícia urgente com fonte, contagem regressiva, "você reparou nisso?" (detalhe visível na imagem oficial), personagem em destaque, frase de humor da espera, "marca o amigo que...".
 
 ### legenda
-Só o corpo: gancho de 1 linha + 1 linha com pergunta ou pedido (comenta, salva, marca). O gerador acrescenta sozinho o CTA do link na bio, o aviso de página de fã e as hashtags.
+Só o corpo: gancho forte de 1 linha (curiosidade, número ou polêmica leve) + 1 linha com pedido de ação (comenta, salva, marca, compartilha). Toda peça leva `cta_bio` escolhido pelo tema: `grupo` (ofertas e avisos), `guia` (lista de espera do guia), `ofertas` (setup, console, acessório), `comunidade` (enquete, papo, nostalgia). O gerador acrescenta o CTA do link na bio correspondente, o aviso de página de fã e as hashtags. Nos 3 posts do dia, use pelo menos 3 CTAs diferentes.
 
 ## Regras de conteúdo (obrigatórias)
-1. **Nada de material de terceiros.** Nunca baixar nem repostar vídeo, print ou arte de outro criador ou da Rockstar. Toda arte é gerada pelo `gerar.py`.
+1. **Nada de material de outros criadores.** Nunca baixar nem repostar vídeo, print ou arte de outras páginas. Imagens oficiais só as do `gta6/banco/oficial/` (enviadas pelo Victor), sempre dentro da moldura do `gerar.py`; fotos de cenário só do `gta6/banco/fotos/`.
 2. **Fato só com fonte.** Toda informação factual vem de página aberta e lida no dia (WebSearch + WebFetch) e entra em `fontes`. Sem fonte, vira opinião, enquete ou humor. Nunca inventar números, datas, preços, conteúdos de edição ou recursos do jogo.
 3. **Sem vazamento, pirataria, hack, mod de dinheiro, venda de conta.**
 4. **Sem spoiler da história** depois do lançamento sem avisar na 1ª linha ("ALERTA DE SPOILER").

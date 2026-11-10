@@ -92,7 +92,9 @@
     "R$ 549,90"
    ],
    "sub": "Comenta A ou B: qual edição você vai comprar?",
-   "legenda": "Standard (R$ 449,90) ou Ultimate (R$ 549,90)? 💸\n\nComenta A ou B. Vale os R$ 100 a mais?"
+   "legenda": "Standard (R$ 449,90) ou Ultimate (R$ 549,90)? 💸\n\nComenta A ou B e diz se os R$ 100 a mais valem a pena.",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-10.jpg",
+   "cta_bio": "ofertas"
   },
   {
    "id": "04",
@@ -124,9 +126,11 @@
    "destaque": [
     0
    ],
-   "texto": "A Rockstar confirmou que GTA 6 libera à meia-noite no horário local de cada região. Aqui, 0h do dia 19/11.",
-   "fonte": "Rockstar Games / Rolling Stone Brasil",
-   "legenda": "Horário confirmado 🕛\n\nGTA 6 libera à meia-noite no horário local. No Brasil, é 0h do dia 19/11. Vai virar a noite?"
+   "texto": "GTA 6 abre dia 19/11 à meia-noite no horário local. No Brasil, 0h. O pré-download já está liberado.",
+   "fonte": "Rockstar Games / Canaltech",
+   "legenda": "Horário confirmado 🕛 GTA 6 abre à 0h do dia 19/11 no Brasil.\n\nE o pré-download já está liberado: quem fez a pré-venda digital já pode baixar. Você já começou?",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-12.jpg",
+   "cta_bio": "grupo"
   },
   {
    "id": "06",
@@ -205,7 +209,9 @@
     1
    ],
    "sub": "Comenta aí e entrega a idade",
-   "legenda": "Qual foi o seu primeiro GTA? 👴🎮\n\nComenta e vamos ver quem joga há mais tempo."
+   "legenda": "Qual foi o seu primeiro GTA? 👴🎮\n\nComenta e vamos descobrir quem aqui joga há mais tempo.",
+   "imagem": "gta6/banco/oficial/arte-jason-and-lucia-beach.jpg",
+   "cta_bio": "comunidade"
   },
   {
    "id": "09",
