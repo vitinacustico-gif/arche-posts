@@ -68,7 +68,11 @@
      "A SUA?"
     ],
     "texto": "Comenta o número da sua primeira hora em Vice City."
-   }
+   },
+   "fotos": [
+    "carro",
+    "miami"
+   ]
   },
   {
    "id": "03",
@@ -167,7 +171,11 @@
      "PRA FAMÍLIA"
     ],
     "texto": "Quem vai comprar o jogo de presente precisa ver isso."
-   }
+   },
+   "fotos": [
+    "policia",
+    "noite"
+   ]
   },
   {
    "id": "07",
@@ -242,7 +250,11 @@
      "VOCÊ QUER?"
     ],
     "texto": "Comenta o lugar real que você quer ver no jogo."
-   }
+   },
+   "fotos": [
+    "miami",
+    "ceu"
+   ]
   },
   {
    "id": "10",

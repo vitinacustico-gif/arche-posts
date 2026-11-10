@@ -85,7 +85,11 @@
     }
    ],
    "legenda": "GTA 6 em 9 fatos que já são oficiais 📋\n\nSalva pra não esquecer e manda pro parça que ainda acha que sai no PC 👀",
-   "puxa_capa": "COMEÇA AQUI  >>"
+   "puxa_capa": "COMEÇA AQUI  >>",
+   "fotos": [
+    "miami",
+    "luxo"
+   ]
   },
   {
    "id": "03",
@@ -189,7 +193,11 @@
      "O PARÇA"
     ],
     "texto": "Quem vai virar a noite do dia 18 com você?"
-   }
+   },
+   "fotos": [
+    "gamer",
+    "noite"
+   ]
   },
   {
    "id": "07",
@@ -269,7 +277,11 @@
      "ESPEROU?"
     ],
     "texto": "Comenta desde quando você está esperando o GTA 6."
-   }
+   },
+   "fotos": [
+    "ceu",
+    "miami"
+   ]
   },
   {
    "id": "10",

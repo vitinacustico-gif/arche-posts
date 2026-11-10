@@ -70,7 +70,11 @@
      "JÁ FEZ?"
     ],
     "texto": "Comenta o número e salva pra fazer o resto."
-   }
+   },
+   "fotos": [
+    "gamer",
+    "carro"
+   ]
   },
   {
    "id": "03",
@@ -163,7 +167,11 @@
      "TODO DIA"
     ],
     "texto": "No grupo VIP a gente manda as promoções até a Black Friday."
-   }
+   },
+   "fotos": [
+    "gamer",
+    "luxo"
+   ]
   },
   {
    "id": "07",
@@ -248,7 +256,11 @@
      "TE CHOCOU?"
     ],
     "texto": "Comenta o número. Salva e manda pro grupo dos amigos."
-   }
+   },
+   "fotos": [
+    "luxo",
+    "policia"
+   ]
   },
   {
    "id": "10",

@@ -464,6 +464,94 @@ def _panorama(N, W=1080, H=1350, seed=11):
     return img, ly
 
 
+# ───────────────────────── panorâmico com fotos reais (banco licenciado) ─────────────────────────
+BANCO = RAIZ / "banco" / "fotos"
+FORA_DO_BANCO = {"carro-posto-noite"}  # marca em destaque
+TEMAS = {
+    "miami": ["miami", "ocean", "hotel", "rua"],
+    "policia": ["policia"],
+    "carro": ["carro", "moto"],
+    "jacare": ["jacare"],
+    "ceu": ["helicoptero", "miami-aerea", "miami-sunset"],
+    "noite": ["motel", "ocean", "hotel", "moto"],
+    "luxo": ["iate", "carro-lambo", "miami-roda"],
+    "gamer": ["controle", "gamer", "maos"],
+}
+
+
+def _fotos(temas, seed):
+    todas = sorted(p for p in BANCO.glob("*.jpg") if p.stem not in FORA_DO_BANCO)
+    if temas:
+        pref = tuple(x for t in temas for x in TEMAS.get(t, [t]))
+        esc = [p for p in todas if p.stem.startswith(pref)]
+        todas = esc + [p for p in todas if p not in esc]
+    rnd = random.Random(seed)
+    cab = todas[: max(4, len(todas) // 3)] if temas else todas[:]
+    rnd.shuffle(cab)
+    resto = [p for p in todas if p not in cab]
+    rnd.shuffle(resto)
+    return cab + resto
+
+
+def _cobrir(im, w, h):
+    r = max(w / im.width, h / im.height)
+    im = im.resize((int(im.width * r) + 1, int(im.height * r) + 1), Image.LANCZOS)
+    l, t = (im.width - w) // 2, (im.height - h) // 2
+    return im.crop((l, t, l + w, t + h))
+
+
+def _panorama_fotos(N, temas=None, W=1080, H=1350, seed=11):
+    PW = N * W
+    fotos = _fotos(temas, seed)
+    passo = int(W * 1.45)
+    inclina = 110
+    seams = list(range(-int(W * 0.35), PW + passo, passo))
+    pano = Image.new("RGB", (PW, H))
+    for i in range(len(seams) - 1):
+        a, b = seams[i], seams[i + 1]
+        x0 = max(0, a - inclina)
+        x1 = min(PW, b + inclina)
+        foto = Image.open(fotos[i % len(fotos)]).convert("RGB")
+        bloco = _cobrir(foto, x1 - x0, H)
+        mask = Image.new("L", (x1 - x0, H), 0)
+        ImageDraw.Draw(mask).polygon([(a + inclina - x0, 0), (b + inclina - x0, 0), (b - inclina - x0, H), (a - inclina - x0, H)], fill=255)
+        pano.paste(bloco, (x0, 0), mask)
+    # tratamento único (todas as fotos parecem do mesmo "filme"): contraste, cor e tom Vice
+    arr = np.asarray(pano).astype(np.float32)
+    arr = (arr - 128) * 1.12 + 128
+    cinza = arr.mean(axis=2, keepdims=True)
+    arr = cinza + (arr - cinza) * 1.18
+    grad = np.linspace(0, 1, H)[:, None, None]
+    tint = (1 - grad) * np.array([110, 40, 190]) + grad * np.array([255, 70, 140])
+    arr = arr * 0.72 + (arr * tint / 255 * 1.45) * 0.28
+    img = Image.fromarray(np.clip(arr, 0, 255).astype(np.uint8)).convert("RGBA")
+    # emendas em neon
+    glow = Image.new("RGBA", (PW, H), (0, 0, 0, 0))
+    gd = ImageDraw.Draw(glow)
+    for x in seams[1:-1]:
+        gd.line([(x + inclina, 0), (x - inclina, H)], fill=C["magenta"] + (255,), width=16)
+    img.alpha_composite(glow.filter(ImageFilter.GaussianBlur(10)))
+    d = ImageDraw.Draw(img)
+    for x in seams[1:-1]:
+        d.line([(x + inclina, 0), (x - inclina, H)], fill=(255, 220, 240, 255), width=3)
+    # véu para leitura (topo escuro) e base escura
+    veu = np.zeros((H, 1, 4), np.uint8)
+    topo = int(H * 0.68)
+    veu[:topo, 0, 3] = (205 * (1 - np.linspace(0, 1, topo) ** 1.7)).astype(np.uint8)
+    base = H - int(H * 0.82)
+    veu[H - base:, 0, 3] = (150 * np.linspace(0, 1, base) ** 1.4).astype(np.uint8)
+    veu[:, 0, :3] = (8, 2, 14)
+    img.alpha_composite(Image.fromarray(np.repeat(veu, PW, 1), "RGBA"))
+    # linha de neon contínua
+    ly = lambda xx: int(H * 0.74 + 24 * math.sin(2 * math.pi * xx / W))
+    pts = [(xx, ly(xx)) for xx in range(0, PW + 1, 6)]
+    g2 = Image.new("RGBA", (PW, H), (0, 0, 0, 0))
+    ImageDraw.Draw(g2).line(pts, fill=C["magenta"] + (255,), width=20)
+    img.alpha_composite(g2.filter(ImageFilter.GaussianBlur(12)))
+    ImageDraw.Draw(img).line(pts, fill=(255, 220, 240, 255), width=5)
+    return img, ly
+
+
 def carrossel(item, saida):
     W, H = 1080, 1350
     slides = item["slides"]
@@ -471,7 +559,11 @@ def carrossel(item, saida):
     N = len(slides) + (2 if com_fecho else 1)
     if N > 10:
         raise SystemExit(f"carrossel {item['id']} com {N} slides (máx. 10)")
-    pano, ly = _panorama(N, W, H, seed=sum(map(ord, item["id"] + item.get("capa", [""])[0])))
+    semente = sum(map(ord, item["id"] + item.get("capa", [""])[0]))
+    if BANCO.exists() and any(BANCO.glob("*.jpg")):
+        pano, ly = _panorama_fotos(N, item.get("fotos"), W, H, seed=semente)
+    else:
+        pano, ly = _panorama(N, W, H, seed=semente)
     d = ImageDraw.Draw(pano)
     # marcadores numerados na linha de neon, em cima das emendas (metade aparece antes de arrastar)
     for k in range(1, N):

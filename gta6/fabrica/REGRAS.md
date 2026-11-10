@@ -16,8 +16,13 @@ Mistura do dia: 4 `reel` (posições 1, 4, 7, 10), 3 `carrossel` (2, 6, 9) e 3 `
 - `linhas`: 2 ou 3 linhas, no máximo ~14 caracteres cada (a fonte é larga). `destaque`: índices da linha em amarelo.
 - A 1ª linha aparece já no quadro 0: ela é o gancho.
 
-### carrossel
-`{"id":"02","formato":"carrossel","capa":["LINHA 1","LINHA 2"],"destaque":[1],"sub":"...","slides":[{"titulo":"até ~28 caracteres","texto":"1 ou 2 frases"}],"legenda":"..."}`
+### carrossel (SEMPRE infinito e inteligente — pedido do Victor, nada genérico)
+`{"id":"02","formato":"carrossel","capa":["LINHA 1","LINHA 2"],"destaque":[1],"sub":"gancho de curiosidade","puxa_capa":"COMEÇA AQUI  >>","fotos":["miami","carro"],"slides":[{"titulo":"até ~28 caracteres","texto":"1 ou 2 frases","puxa":"pergunta curta que puxa o próximo"}],"fecho":{"titulo":["LINHA","LINHA"],"texto":"pedido de ação específico do tema"},"legenda":"..."}`
+- O motor monta um panorâmico contínuo com FOTOS REAIS do banco licenciado (gta6/banco/fotos, Pexels), emendadas em diagonal com neon, uma linha que atravessa todos os slides e os números nas emendas. Não use fundo gerado.
+- `fotos`: 1 ou 2 temas que combinem com o assunto: miami, policia, carro, jacare, ceu, noite, luxo, gamer.
+- `sub` da capa = promessa ou curiosidade concreta ("O nº 9 quase ninguém sabe", "O 3º rouba contas toda semana"). Nunca "confira", "veja", "tudo sobre".
+- Cada slide tem `puxa`: uma pergunta ou frase curta que obriga a arrastar ("E o PC?", "Agora o absurdo"). O último slide de conteúdo também pode ter puxa para o fecho.
+- `fecho` sempre específico do tema (pergunta para comentar, marcar alguém ou salvar), nunca genérico.
 - 4 a 8 slides (máximo 10 imagens no total; com 9 ou mais slides o fecho sai sozinho).
 
 ### post
