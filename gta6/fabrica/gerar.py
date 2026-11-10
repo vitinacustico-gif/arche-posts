@@ -292,9 +292,35 @@ def cena(W, H, **kw):
     return _cenas[k]
 
 
+def _fundo_foto(caminho, W, H, escurecer=0.62, foco=0.5):
+    """Foto oficial/licenciada em tela cheia com tratamento Vice e véu para leitura do título."""
+    foto = Image.open(caminho).convert("RGB")
+    r = max(W / foto.width, H / foto.height)
+    foto = foto.resize((int(foto.width * r) + 1, int(foto.height * r) + 1), Image.LANCZOS)
+    l = int((foto.width - W) * foco); t = (foto.height - H) // 2
+    foto = foto.crop((l, t, l + W, t + H))
+    arr = np.asarray(foto).astype(np.float32)
+    arr = (arr - 128) * 1.08 + 128
+    grad = np.linspace(0, 1, H)[:, None, None]
+    tint = (1 - grad) * np.array([120, 50, 200]) + grad * np.array([255, 80, 150])
+    arr = arr * 0.82 + (arr * tint / 255 * 1.4) * 0.18
+    img = Image.fromarray(np.clip(arr, 0, 255).astype(np.uint8)).convert("RGBA")
+    veu = np.zeros((H, 1, 4), np.uint8)
+    topo = int(H * 0.62)
+    veu[:topo, 0, 3] = (255 * escurecer * (1 - np.linspace(0, 1, topo) ** 1.6)).astype(np.uint8)
+    base = int(H * 0.22)
+    veu[H - base:, 0, 3] = (190 * np.linspace(0, 1, base) ** 1.3).astype(np.uint8)
+    veu[:, 0, :3] = (8, 2, 14)
+    img.alpha_composite(Image.fromarray(np.repeat(veu, W, 1), "RGBA"))
+    return img
+
+
 def post(item, saida):
     W, H = 1080, 1350
-    img = Image.fromarray(cena(W, H, horizonte=0.76, sol=0.24, escurecer=0.55).render(0)).convert("RGBA")
+    if item.get("imagem"):
+        img = _fundo_foto(RAIZ.parent / item["imagem"], W, H, item.get("escurecer", 0.62), item.get("foco", 0.5))
+    else:
+        img = Image.fromarray(cena(W, H, horizonte=0.76, sol=0.24, escurecer=0.55).render(0)).convert("RGBA")
     tipo = item.get("tipo", "frase")
     tit = bloco_titulo(item["linhas"], W - 140, tam=item.get("tam", 170), altura_max=560, destaque=item.get("destaque", []))
     pecas = [tit]
@@ -314,7 +340,7 @@ def post(item, saida):
         pecas.append(bloco_texto(item["sub"], W - 200, 38, "400", cor=(255, 230, 245)))
     gap = 34
     total = sum(p.height for p in pecas) + gap * (len(pecas) - 1)
-    y = max(170, (int(H * 0.70) - total) // 2 + 40)
+    y = 170 if item.get("imagem") else max(170, (int(H * 0.70) - total) // 2 + 40)
     for p in pecas:
         colar(img, p, (W - p.width) / 2, y); y += p.height + gap
     if item.get("fonte"):
@@ -745,9 +771,18 @@ def reel(item, saida):
 
 
 # ───────────────────────── legenda + calendário ─────────────────────────
-def legenda(item):
+CTA_BIO = {
+    "grupo": "🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.",
+    "guia": "🔗 O guia do GTA 6 em PT-BR está quase pronto. Garante seu lugar na lista de espera pelo link na bio.",
+    "ofertas": "🔗 Vai montar o setup pro dia 19? As melhores ofertas estão no link na bio.",
+    "comunidade": "🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.",
+}
+
+
+def legenda(item, n=0):
     corpo = item["legenda"].strip()
-    return f"{corpo}\n\n{CFG['cta_padrao']}\n\n{CFG['rodape_legenda']}\n{CFG['hashtags']}"
+    chave = item.get("cta_bio") or ["grupo", "guia", "ofertas", "comunidade"][n % 4]
+    return f"{corpo}\n\n{CTA_BIO[chave]}\n\n{CFG['rodape_legenda']}\n{CFG['hashtags']}"
 
 
 def main():
@@ -771,7 +806,7 @@ def main():
         entrada = {"id": f"{data}-{item['id']}", "data": data, "hora": item.get("hora") or horas[n % len(horas)],
                    "formato": fmt, "titulo": " ".join(item.get("linhas") or item.get("capa")),
                    "arquivos": [r for r in rel if not r.endswith("_capa.jpg")],
-                   "legenda": legenda(item)}
+                   "legenda": legenda(item, n)}
         if fmt == "reel":
             entrada["capa"] = [r for r in rel if r.endswith("_capa.jpg")][0]
             entrada["thumb_offset_ms"] = item["_thumb_ms"]
