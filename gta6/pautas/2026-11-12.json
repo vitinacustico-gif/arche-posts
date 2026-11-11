@@ -475,54 +475,122 @@
    "id": "14",
    "hora": "22:00",
    "formato": "carrossel",
-   "capa": [
-    "5 SINAIS QUE",
-    "VOCÊ É VICIADO"
-   ],
-   "destaque": [
-    1
-   ],
-   "sub": "O 5º é o mais grave",
-   "puxa_capa": "ARRASTA  >>",
-   "fotos": [
-    "gamer",
-    "noite"
-   ],
+   "estilo": "grade",
+   "serie": "animais",
+   "cta_bio": "guia",
+   "capa": {
+    "titulo": [
+     "OS ANIMAIS",
+     "DE LEONIDA"
+    ],
+    "destaque": [
+     1
+    ],
+    "sub": "Do jacaré na piscina ao golfinho no mar",
+    "fotos": [
+     "gta6/banco/oficial/lugar-leonida-keys-06.jpg",
+     "gta6/banco/oficial/lugar-grassrivers-06.jpg",
+     "gta6/banco/fotos/jacare-everglades.jpg",
+     "gta6/banco/oficial/lugar-leonida-keys-07.jpg"
+    ]
+   },
+   "puxa_capa": "Arrasta",
    "slides": [
     {
-     "titulo": "Você conta os dias",
-     "texto": "Sabe exatamente quantos dias faltam sem olhar o calendário.",
-     "puxa": "Tem pior"
+     "titulo": "Mais de 150",
+     "puxa": "O rei do pântano",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-grassrivers-04.jpg",
+       "rot": "150+ espécies",
+       "txt": "Número que a Rockstar divulgou pra Leonida."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-05.jpg",
+       "rot": "Por todo o mapa",
+       "txt": "Do pântano às montanhas do Mount Kalaga."
+      }
+     ]
     },
     {
-     "titulo": "Já viu o trailer 50 vezes",
-     "texto": "E ainda pausa pra procurar detalhe.",
-     "puxa": "Segue"
+     "titulo": "O jacaré",
+     "puxa": "Na cidade também",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-grassrivers-06.jpg",
+       "rot": "Rei de Grassrivers",
+       "txt": "Aparece no pântano, numa piscina e até entrando numa loja no trailer 1."
+      },
+      {
+       "foto": "gta6/banco/fotos/jacare-pantano.jpg",
+       "rot": "Igual na vida real",
+       "txt": "Grassrivers é a versão do jogo dos Everglades da Flórida."
+      }
+     ]
     },
     {
-     "titulo": "Pediu folga dia 19",
-     "texto": "Ou está planejando um atestado estratégico.",
-     "puxa": "Esse é clássico"
+     "titulo": "Na cidade e na praia",
+     "puxa": "E no mar?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-06.jpg",
+       "rot": "Iguana",
+       "txt": "Flagrada nas Keys."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-19.jpg",
+       "rot": "Cachorros",
+       "txt": "Tem cão de várias raças, até doberman."
+      }
+     ]
     },
     {
-     "titulo": "Briga por Jason ou Lucia",
-     "texto": "E defende seu favorito como se fosse da família.",
-     "puxa": "O último..."
+     "titulo": "No mar",
+     "puxa": "O que dá pra fazer?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-07.jpg",
+       "rot": "Golfinho e tubarão",
+       "txt": "Os dois aparecem no primeiro trailer."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-04.jpg",
+       "rot": "Debaixo d'água",
+       "txt": "Dá pra mergulhar e ver a vida marinha de perto."
+      }
+     ]
     },
     {
-     "titulo": "Segue o Nerd GTA",
-     "texto": "Aí não tem mais volta. Bem-vindo à família."
+     "titulo": "Dá pra fazer o quê?",
+     "puxa": "Salva",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-05.jpg",
+       "rot": "Caçar e pescar",
+       "txt": "Confirmado no Mount Kalaga."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-grassrivers-04.jpg",
+       "rot": "Catálogo",
+       "txt": "Você estuda e registra os animais que encontra."
+      }
+     ]
     }
    ],
    "fecho": {
+    "foto": "gta6/banco/oficial/lugar-grassrivers-01.jpg",
     "titulo": [
-     "QUANTOS",
-     "VOCÊ TEM?"
+     "QUAL BICHO",
+     "VOCÊ QUER VER?"
     ],
-    "texto": "Comenta de 0 a 5 e marca um viciado."
+    "texto": "Comenta e marca quem morre de medo de jacaré."
    },
-   "cta_bio": "comunidade",
-   "legenda": "5 sinais que você é viciado em GTA 😂\n\nQuantos você tem? Comenta o número e marca o amigo que tem todos."
+   "legenda": "Os animais de Leonida que já apareceram 🐊🦩🐬\n\nSérie Nerd GTA, parte 2. Qual bicho você quer encontrar primeiro?",
+   "fontes": [
+    "https://www.gfinityesports.com/article/rockstar-confirms-how-much-wildlife-is-in-gta-6-and-its-a-lot",
+    "https://www.gamesradar.com/gta-6-trailer-1-breakdown-things-you-missed",
+    "https://www.redbull.com/us-en/gta-6-wildlife"
+   ]
   },
   {
    "id": "12",

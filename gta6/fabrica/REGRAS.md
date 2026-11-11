@@ -40,6 +40,9 @@ Só o corpo: gancho forte de 1 linha (curiosidade, número ou polêmica leve) + 
 
 Antes de escolher os temas do dia, leia `gta6/fabrica/SUGESTOES.md` e use a primeira pauta não riscada (marque [x] depois de usar).
 
+## Série Nerd GTA (30 dias, 11/11 a 10/12)
+Se o `status.py` devolver `serie_no_dia_gerado`, o dia tem 1 peça a mais: um carrossel "tela dividida" do tema indicado, seguindo `gta6/fabrica/SERIE.md` (assunto do dia, regras de cheats e de vazamento). Em dias normais, esse item entra com `"hora":"14:07"` e `"serie":"<tema>"`; o total do dia passa a ser 11 (`pecas_no_dia_gerado`). Marque [feito] na tabela do SERIE.md.
+
 ## Links de afiliado
 Os produtos com link de afiliado do Mercado Livre estão em `gta6/afiliados/produtos.json`. Nas mensagens do WhatsApp (gta6/whatsapp/), use esses links de verdade no lugar de "[COLE AQUI O LINK DE AFILIADO]", escolhendo o produto que combina com o tema do dia (o jogo GTA VI para PS5 é o principal até o dia 19). Não escreva preço fixo: muda todo dia.
 

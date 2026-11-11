@@ -13,8 +13,17 @@ for c in cal:
     d = c.get("pauta", c["data"])
     por_dia[d] = por_dia.get(d, 0) + 1
 INT = CFG.get("intensivo") or {}
+SER = CFG.get("serie") or {}
+def serie(d):
+    if not SER: return None
+    n = (datetime.date.fromisoformat(d) - datetime.date.fromisoformat(SER["de"])).days
+    if 0 <= n < SER["dias"]:
+        return {"dia": n + 1, "tema": SER["temas"][n % len(SER["temas"])]}
+    return None
 def meta(d):
-    return INT.get("por_dia", 10) if INT and INT["de"] <= d <= INT["ate"] else 10
+    if INT and INT["de"] <= d <= INT["ate"]:
+        return INT.get("por_dia", 10)
+    return 10 + (1 if serie(d) else 0)
 gerar = None
 for k in range(1, 4):  # mantém até 3 dias prontos à frente
     d = (hoje + datetime.timedelta(days=k)).isoformat()
@@ -26,5 +35,7 @@ alvo = datetime.date.fromisoformat(gerar) if gerar else None
 recentes = [f'{c.get("pauta", c["data"])} {c["formato"]}: {c["titulo"]}' for c in cal if c["data"] >= (hoje - datetime.timedelta(days=7)).isoformat()]
 print(json.dumps({"hoje": hoje.isoformat(), "gerar": gerar,
                   "faltam_dias_no_dia_gerado": (lanc - alvo).days if alvo else None,
+                  "pecas_no_dia_gerado": meta(gerar) if gerar else None,
+                  "serie_no_dia_gerado": serie(gerar) if gerar else None,
                   "dias_prontos": {d: n for d, n in sorted(por_dia.items()) if d >= hoje.isoformat()},
                   "recentes": recentes}, ensure_ascii=False, indent=1))

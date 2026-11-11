@@ -487,64 +487,121 @@
    "id": "14",
    "hora": "22:00",
    "formato": "carrossel",
-   "capa": [
-    "AS 6 REGIÕES",
-    "DE LEONIDA"
-   ],
-   "destaque": [
-    1
-   ],
-   "sub": "A 4ª é a mais perigosa",
-   "puxa_capa": "ARRASTA  >>",
-   "fotos": [
-    "gta6/banco/oficial/lugar-vice-city-15.jpg",
-    "gta6/banco/oficial/lugar-leonida-keys-01.jpg",
-    "gta6/banco/oficial/lugar-grassrivers-01.jpg",
-    "gta6/banco/oficial/lugar-port-gellhorn-01.jpg",
-    "gta6/banco/oficial/lugar-ambrosia-01.jpg",
-    "gta6/banco/oficial/lugar-mount-kalaga-national-park-01.jpg",
-    "gta6/banco/oficial/lugar-vice-city-27.jpg"
-   ],
+   "estilo": "grade",
+   "serie": "carros",
+   "cta_bio": "ofertas",
+   "capa": {
+    "titulo": [
+     "OS CARROS",
+     "DE GTA 6"
+    ],
+    "destaque": [
+     1
+    ],
+    "sub": "Só o que já apareceu nos trailers e imagens oficiais",
+    "fotos": [
+     "gta6/banco/oficial/lugar-vice-city-09.jpg",
+     "gta6/banco/oficial/pessoa-jason-duval-11.jpg",
+     "gta6/banco/oficial/lugar-leonida-keys-05.jpg",
+     "gta6/banco/oficial/lugar-mount-kalaga-national-park-02.jpg"
+    ]
+   },
+   "puxa_capa": "Arrasta",
    "slides": [
     {
-     "titulo": "Vice City",
-     "texto": "A cidade de neon, praia e art déco. O coração de Leonida.",
-     "puxa": "Bora pras ilhas"
+     "titulo": "Esportivos",
+     "puxa": "E as motos?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-09.jpg",
+       "rot": "Já confirmados",
+       "txt": "Cheetah Classic, Coquette D10 e Pegassi Zorrusso."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-24.jpg",
+       "rot": "Cara de família",
+       "txt": "A maioria tem um parente no GTA 5 e no Online."
+      }
+     ]
     },
     {
-     "titulo": "Leonida Keys",
-     "texto": "Arquipélago tropical, vida tranquila e mar bonito e perigoso.",
-     "puxa": "Agora o pântano"
+     "titulo": "Motos",
+     "puxa": "E na água?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-11.jpg",
+       "rot": "Moto esportiva",
+       "txt": "Jason aparece pilotando nas imagens oficiais."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-ambrosia-01.jpg",
+       "rot": "Gangue de moto",
+       "txt": "Em Ambrosia, quem manda anda de moto."
+      }
+     ]
     },
     {
-     "titulo": "Grassrivers",
-     "texto": "Mangue com jacaré e, segundo a Rockstar, predadores ainda piores.",
-     "puxa": "E o litoral?"
+     "titulo": "Na água",
+     "puxa": "E no céu?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-grassrivers-03.jpg",
+       "rot": "Airboat",
+       "txt": "O barco de pântano é novidade pra cruzar Grassrivers."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-05.jpg",
+       "rot": "Lanchas e jet ski",
+       "txt": "As Keys foram feitas pra andar de barco."
+      }
+     ]
     },
     {
-     "titulo": "Port Gellhorn",
-     "texto": "O litoral esquecido: motel barato e atração fechada.",
-     "puxa": "Pro interior"
+     "titulo": "No céu",
+     "puxa": "Quantos são?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-02.jpg",
+       "rot": "Helicópteros",
+       "txt": "Aparecem em várias imagens oficiais."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-01.jpg",
+       "rot": "Aviões",
+       "txt": "Sobrevoando as ilhas de Leonida."
+      }
+     ]
     },
     {
-     "titulo": "Ambrosia",
-     "texto": "Refinaria de açúcar e uma gangue de motoqueiros mandando no resto.",
-     "puxa": "E lá no norte?"
-    },
-    {
-     "titulo": "Mount Kalaga",
-     "texto": "Parque nacional no norte: caça, pesca e trilha off-road."
+     "titulo": "Quantos são?",
+     "puxa": "Salva",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-17.jpg",
+       "rot": "30+ confirmados",
+       "txt": "Veículos já identificados nos materiais oficiais."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg",
+       "rot": "Lista completa",
+       "txt": "Só no lançamento: a Rockstar ainda não divulgou."
+      }
+     ]
     }
    ],
    "fecho": {
+    "foto": "gta6/banco/oficial/lugar-vice-city-24.jpg",
     "titulo": [
      "QUAL VOCÊ",
-     "VISITA 1º?"
+     "ROUBA 1º?"
     ],
-    "texto": "Comenta o nome da região."
+    "texto": "Comenta o veículo e salva pra conferir dia 19."
    },
-   "cta_bio": "ofertas",
-   "legenda": "As 6 regiões de Leonida que a Rockstar já mostrou 🌴🐊\n\nQual você visita primeiro? Comenta e salva pra consultar no dia 19."
+   "legenda": "Os carros, motos, barcos e helicópteros de GTA 6 que já apareceram oficialmente 🚗🏍️🚤\n\nSérie Nerd GTA, parte 1. Comenta qual você rouba primeiro.",
+   "fontes": [
+    "https://gtaintel.com/news/gta-6-confirmed-vehicles-encyclopedia",
+    "https://beebom.com/gta-6-cars"
+   ]
   },
   {
    "id": "12",

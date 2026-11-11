@@ -105,5 +105,21 @@
         "post"
       ]
     ]
+  },
+  "serie": {
+    "nome": "Série Nerd GTA",
+    "de": "2026-11-11",
+    "dias": 30,
+    "hora_normal": "14:07",
+    "hora_intensivo": "22:00",
+    "temas": [
+      "carros",
+      "animais",
+      "armas",
+      "atividades",
+      "trabalhos",
+      "cheats"
+    ],
+    "nota": "1 carrossel 'tela dividida' por dia, tema em rodízio. Planejamento dia a dia em gta6/fabrica/SERIE.md."
   }
 }

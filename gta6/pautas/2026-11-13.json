@@ -461,52 +461,106 @@
    "id": "14",
    "hora": "22:00",
    "formato": "carrossel",
-   "capa": [
-    "MONTE SEU",
-    "TIME EM LEONIDA"
-   ],
-   "destaque": [
-    1
-   ],
-   "sub": "Marca um amigo pra cada função",
-   "puxa_capa": "ARRASTA  >>",
-   "fotos": [
-    "gta6/banco/oficial/pessoa-jason-and-lucia-08.jpg",
-    "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg",
-    "gta6/banco/oficial/pessoa-jason-and-lucia-13.jpg",
-    "gta6/banco/oficial/lugar-vice-city-24.jpg",
-    "gta6/banco/oficial/pessoa-jason-and-lucia-06.jpg"
-   ],
+   "estilo": "grade",
+   "serie": "armas",
+   "cta_bio": "guia",
+   "capa": {
+    "titulo": [
+     "AS ARMAS",
+     "QUE JÁ VIMOS"
+    ],
+    "destaque": [
+     1
+    ],
+    "sub": "Tudo das imagens e trailers oficiais",
+    "fotos": [
+     "gta6/banco/oficial/pessoa-jason-duval-05.jpg",
+     "gta6/banco/oficial/pessoa-lucia-caminos-13.jpg",
+     "gta6/banco/oficial/pessoa-jason-and-lucia-02.jpg",
+     "gta6/banco/oficial/lugar-vice-city-12.jpg"
+    ]
+   },
+   "puxa_capa": "Arrasta",
    "slides": [
     {
-     "titulo": "O motorista",
-     "texto": "Aquele que não bate o carro nem na fuga.",
-     "puxa": "Próximo"
+     "titulo": "Pistolas",
+     "puxa": "E os fuzis?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-12.jpg",
+       "rot": "Pistola do Jason",
+       "txt": "Inspirada na Beretta 92FS."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-lucia-caminos-13.jpg",
+       "rot": "Pistola da Lucia",
+       "txt": "As duas ganham pintura personalizada na Ultimate."
+      }
+     ]
     },
     {
-     "titulo": "O planejador",
-     "texto": "Tem o plano A, B e C.",
-     "puxa": "Tem mais"
+     "titulo": "Fuzis",
+     "puxa": "Tem mais pesado",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-05.jpg",
+       "rot": "Carabina Duke",
+       "txt": "Inspirada no M4, vista com acessórios diferentes."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-12.jpg",
+       "rot": "Fuzil estilo AK",
+       "txt": "Aparece nas imagens oficiais, até dourado."
+      }
+     ]
     },
     {
-     "titulo": "O mira boa",
-     "texto": "Resolve tudo de longe.",
-     "puxa": "E o último..."
+     "titulo": "Pesadas",
+     "puxa": "Quantas são?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-02.jpg",
+       "rot": "Escopeta",
+       "txt": "Modelo de cano sobreposto aparece no trailer."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-15.jpg",
+       "rot": "Loja de armas",
+       "txt": "A Ammu-Nation do Phil aparece num comercial do trailer 2."
+      }
+     ]
     },
     {
-     "titulo": "O que só atrapalha",
-     "texto": "Todo time tem um. Você sabe quem é."
+     "titulo": "Quantas são?",
+     "puxa": "Salva",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-16.jpg",
+       "rot": "19 armas",
+       "txt": "Contadas nos trailers e imagens oficiais."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-12.jpg",
+       "rot": "Lista completa",
+       "txt": "Só no lançamento."
+      }
+     ]
     }
    ],
    "fecho": {
+    "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-02.jpg",
     "titulo": [
-     "MARCA",
-     "O TIME"
+     "QUAL VOCÊ",
+     "PEGA 1º?"
     ],
-    "texto": "Um amigo pra cada função nos comentários."
+    "texto": "Comenta a arma. Dia 19 a gente confere."
    },
-   "cta_bio": "comunidade",
-   "legenda": "Monte seu time pra Leonida 🚗💨\n\nMarca um amigo pra cada função. Quem é o que só atrapalha? 😂"
+   "legenda": "As armas de GTA 6 que já apareceram oficialmente 🔫\n\nSérie Nerd GTA, parte 3. Qual você pega primeiro em Leonida?",
+   "fontes": [
+    "https://pcgamer.com/games/grand-theft-auto/gta-6-weapons-list/",
+    "https://thegameswiki.com/gta6/wiki/side-activities",
+    "https://gfuel.com/blogs/news/gta-6-weapons-list"
+   ]
   },
   {
    "id": "12",
