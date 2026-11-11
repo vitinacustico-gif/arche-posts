@@ -22,7 +22,29 @@
    ],
    "cta_sub": "Contagem regressiva todo dia aqui",
    "tag": "CONTAGEM",
-   "legenda": "Sexta-feira 13 e faltam 6 dias pro GTA 6 🖤\n\nO azar é de quem ainda não reservou. Quem já garantiu o seu?"
+   "legenda": "Sexta-feira 13 e faltam 6 dias pro GTA 6 🖤\n\nO azar é de quem ainda não reservou. Quem já garantiu o seu?",
+   "hora": "07:00"
+  },
+  {
+   "id": "15",
+   "hora": "08:00",
+   "formato": "post",
+   "tipo": "enquete",
+   "linhas": [
+    "PS5",
+    "OU XBOX?"
+   ],
+   "destaque": [
+    1
+   ],
+   "opcoes": [
+    "PS5",
+    "Xbox"
+   ],
+   "sub": "Onde você vai jogar GTA 6?",
+   "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-08.jpg",
+   "cta_bio": "ofertas",
+   "legenda": "Bom dia ☀️ A guerra eterna: PS5 ou Xbox pro GTA 6?\n\nComenta A ou B."
   },
   {
    "id": "02",
@@ -72,7 +94,8 @@
    "fotos": [
     "carro",
     "miami"
-   ]
+   ],
+   "hora": "09:00"
   },
   {
    "id": "03",
@@ -92,7 +115,8 @@
    "sub": "Comenta A ou B: qual você joga mais?",
    "legenda": "Modo história ou online? 🎮\n\nComenta A ou B. A resposta diz muito sobre você.",
    "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-03.jpg",
-   "cta_bio": "comunidade"
+   "cta_bio": "comunidade",
+   "hora": "10:00"
   },
   {
    "id": "04",
@@ -112,7 +136,56 @@
    ],
    "cta_sub": "que precisa explicar GTA pra família",
    "tag": "HUMOR",
-   "legenda": "Explicando GTA pra família no dia 19 😂\n\nMarca quem vai ter essa conversa."
+   "legenda": "Explicando GTA pra família no dia 19 😂\n\nMarca quem vai ter essa conversa.",
+   "hora": "11:00"
+  },
+  {
+   "id": "13",
+   "hora": "12:00",
+   "formato": "carrossel",
+   "capa": [
+    "COMO NÃO",
+    "LEVAR SPOILER"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O passo 3 salva sua história",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "gamer",
+    "noite"
+   ],
+   "slides": [
+    {
+     "titulo": "Silencie palavras",
+     "texto": "Instagram, X e TikTok deixam esconder palavras como GTA 6, Jason e Lucia.",
+     "puxa": "E o YouTube?"
+    },
+    {
+     "titulo": "Cuidado com recomendações",
+     "texto": "Evite abrir vídeo com miniatura de final na primeira semana.",
+     "puxa": "Esse é o mais importante"
+    },
+    {
+     "titulo": "Sai dos grupos agitados",
+     "texto": "Grupo de amigo apressado é a maior fonte de spoiler.",
+     "puxa": "E aqui?"
+    },
+    {
+     "titulo": "Aqui tem aviso",
+     "texto": "No Nerd GTA, spoiler da história sempre vem com ALERTA na primeira linha."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "SALVA",
+     "E MANDA"
+    ],
+    "texto": "Pro amigo que vai jogar devagar."
+   },
+   "cta_bio": "grupo",
+   "legenda": "Como não levar spoiler do GTA 6 🙈\n\nSalva e manda pro amigo que vai jogar com calma."
   },
   {
    "id": "05",
@@ -129,7 +202,47 @@
    "sub": "GTA 6 chega dia 19/11 no PS5 e no Xbox Series X|S",
    "legenda": "6 dias ⏳ Sexta-feira 13 e o GTA 6 cada vez mais perto.\n\nCompartilha nos stories e marca quem está contando com você.",
    "imagem": "gta6/banco/oficial/lugar-leonida-keys-02.jpg",
-   "cta_bio": "grupo"
+   "cta_bio": "grupo",
+   "hora": "13:00"
+  },
+  {
+   "id": "11",
+   "hora": "14:00",
+   "formato": "reel",
+   "linhas": [
+    "DE MANHÃ",
+    "OU DE",
+    "MADRUGADA?"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "Quando você vai jogar no dia 19?",
+   "cta": [
+    "COMENTA",
+    "SEU HORÁRIO"
+   ],
+   "cta_sub": "A gente faz a live de quem ficar acordado",
+   "tag": "ENQUETE",
+   "cta_bio": "comunidade",
+   "legenda": "Dia 19 você joga à meia-noite ou espera amanhecer? ⏰\n\nComenta MADRUGADA ou MANHÃ."
+  },
+  {
+   "id": "16",
+   "hora": "15:00",
+   "formato": "post",
+   "tipo": "frase",
+   "linhas": [
+    "VOCÊ IRIA",
+    "NESSA FESTA?"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Lama, buggy e muita bagunça",
+   "imagem": "gta6/banco/oficial/lugar-ambrosia-06.jpg",
+   "cta_bio": "comunidade",
+   "legenda": "Festa na lama em Leonida 🤠 Você iria?\n\nComenta SIM ou NÃO e marca quem iria com você."
   },
   {
    "id": "06",
@@ -179,7 +292,25 @@
    "fotos": [
     "policia",
     "noite"
-   ]
+   ],
+   "hora": "16:00"
+  },
+  {
+   "id": "17",
+   "hora": "17:00",
+   "formato": "post",
+   "tipo": "frase",
+   "linhas": [
+    "MARCA QUEM",
+    "VAI SUMIR DIA 19"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Volta só quando zerar",
+   "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-10.jpg",
+   "cta_bio": "comunidade",
+   "legenda": "Aquele amigo que vai sumir no dia 19 e só volta quando zerar 😂\n\nMarca ele aqui."
   },
   {
    "id": "07",
@@ -199,23 +330,8 @@
    ],
    "cta_sub": "e marca quem vai roubar seu carro",
    "tag": "ENQUETE",
-   "legenda": "Primeira coisa que você vai pegar em Vice City? 🏎️🏍️\n\nComenta: esportivo, moto ou carro velho."
-  },
-  {
-   "id": "08",
-   "formato": "post",
-   "tipo": "frase",
-   "linhas": [
-    "GTA 5 FOI BOM",
-    "MAS O 6..."
-   ],
-   "destaque": [
-    1
-   ],
-   "sub": "Completa a frase nos comentários",
-   "legenda": "GTA 5 foi bom, mas o 6... 👀\n\nCompleta a frase nos comentários. As melhores respostas vão pros stories.",
-   "imagem": "gta6/banco/oficial/pessoa-jason-duval-05.jpg",
-   "cta_bio": "guia"
+   "legenda": "Primeira coisa que você vai pegar em Vice City? 🏎️🏍️\n\nComenta: esportivo, moto ou carro velho.",
+   "hora": "18:00"
   },
   {
    "id": "09",
@@ -260,7 +376,8 @@
    "fotos": [
     "miami",
     "ceu"
-   ]
+   ],
+   "hora": "19:00"
   },
   {
    "id": "10",
@@ -280,7 +397,115 @@
    ],
    "cta_sub": "Entra na lista e recebe primeiro",
    "tag": "GUIA",
-   "legenda": "Estamos preparando o guia do GTA 6 em português 📘\n\nPrimeiras horas, como fazer dinheiro e os segredos de Leonida. Entra na lista de espera pelo link na bio."
+   "legenda": "Estamos preparando o guia do GTA 6 em português 📘\n\nPrimeiras horas, como fazer dinheiro e os segredos de Leonida. Entra na lista de espera pelo link na bio.",
+   "hora": "20:00"
+  },
+  {
+   "id": "08",
+   "formato": "post",
+   "tipo": "frase",
+   "linhas": [
+    "GTA 5 FOI BOM",
+    "MAS O 6..."
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Completa a frase nos comentários",
+   "legenda": "GTA 5 foi bom, mas o 6... 👀\n\nCompleta a frase nos comentários. As melhores respostas vão pros stories.",
+   "imagem": "gta6/banco/oficial/pessoa-jason-duval-05.jpg",
+   "cta_bio": "guia",
+   "hora": "21:00"
+  },
+  {
+   "id": "14",
+   "hora": "22:00",
+   "formato": "carrossel",
+   "capa": [
+    "MONTE SEU",
+    "TIME EM LEONIDA"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Marca um amigo pra cada função",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "gta6/banco/oficial/pessoa-jason-and-lucia-08.jpg",
+    "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg",
+    "gta6/banco/oficial/pessoa-jason-and-lucia-13.jpg",
+    "gta6/banco/oficial/lugar-vice-city-24.jpg",
+    "gta6/banco/oficial/pessoa-jason-and-lucia-06.jpg"
+   ],
+   "slides": [
+    {
+     "titulo": "O motorista",
+     "texto": "Aquele que não bate o carro nem na fuga.",
+     "puxa": "Próximo"
+    },
+    {
+     "titulo": "O planejador",
+     "texto": "Tem o plano A, B e C.",
+     "puxa": "Tem mais"
+    },
+    {
+     "titulo": "O mira boa",
+     "texto": "Resolve tudo de longe.",
+     "puxa": "E o último..."
+    },
+    {
+     "titulo": "O que só atrapalha",
+     "texto": "Todo time tem um. Você sabe quem é."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "MARCA",
+     "O TIME"
+    ],
+    "texto": "Um amigo pra cada função nos comentários."
+   },
+   "cta_bio": "comunidade",
+   "legenda": "Monte seu time pra Leonida 🚗💨\n\nMarca um amigo pra cada função. Quem é o que só atrapalha? 😂"
+  },
+  {
+   "id": "12",
+   "hora": "23:00",
+   "formato": "reel",
+   "linhas": [
+    "SEMANA",
+    "QUE VEM",
+    "TEM GTA 6"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "Quinta-feira, 19/11, à meia-noite",
+   "cta": [
+    "ATIVA",
+    "O SININHO"
+   ],
+   "cta_sub": "Contagem regressiva todo dia aqui",
+   "tag": "CONTAGEM",
+   "cta_bio": "grupo",
+   "legenda": "Semana que vem tem GTA 6 🔥\n\nQuinta, 19/11, à meia-noite. Ativa o sininho pra não perder nada."
+  },
+  {
+   "id": "18",
+   "hora": "24:00",
+   "formato": "post",
+   "tipo": "frase",
+   "linhas": [
+    "BOA NOITE,",
+    "VICE CITY"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Faltam 5 dias. Amanhã tem mais.",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-08.jpg",
+   "cta_bio": "grupo",
+   "legenda": "Meia-noite. Faltam 5 dias pro GTA 6 🌆\n\nAtiva o sininho que amanhã tem mais."
   }
  ]
 }

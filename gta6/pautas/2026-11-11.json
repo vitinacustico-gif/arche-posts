@@ -25,7 +25,29 @@
    ],
    "cta_sub": "Todo dia tem contagem regressiva aqui",
    "tag": "CONTAGEM",
-   "legenda": "Faltam 8 dias pro GTA 6 🌴\n\nDia 19/11, à meia-noite, Leonida abre as portas. Você vai estar acordado?"
+   "legenda": "Faltam 8 dias pro GTA 6 🌴\n\nDia 19/11, à meia-noite, Leonida abre as portas. Você vai estar acordado?",
+   "hora": "07:00"
+  },
+  {
+   "id": "15",
+   "hora": "08:00",
+   "formato": "post",
+   "tipo": "enquete",
+   "linhas": [
+    "ROUBA",
+    "OU COMPRA?"
+   ],
+   "destaque": [
+    1
+   ],
+   "opcoes": [
+    "Rouba",
+    "Compra"
+   ],
+   "sub": "Seu primeiro carro em Vice City: como você consegue?",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-24.jpg",
+   "cta_bio": "comunidade",
+   "legenda": "Bom dia, Leonida ☀️ Primeiro carro no GTA 6: você rouba ou compra?\n\nComenta A ou B. Já sei a resposta da maioria 😏"
   },
   {
    "id": "02",
@@ -89,7 +111,8 @@
    "fotos": [
     "miami",
     "luxo"
-   ]
+   ],
+   "hora": "09:00"
   },
   {
    "id": "03",
@@ -109,7 +132,8 @@
    "sub": "Comenta A ou B: quem você quer jogar primeiro?",
    "legenda": "Lucia ou Jason? Essa divide qualquer grupo de amigos 😅\n\nComenta A ou B e marca aquele amigo que vai escolher o errado.",
    "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-01.jpg",
-   "cta_bio": "comunidade"
+   "cta_bio": "comunidade",
+   "hora": "10:00"
   },
   {
    "id": "04",
@@ -129,7 +153,60 @@
    ],
    "cta_sub": "Aquele amigo que vai te dar de presente",
    "tag": "HUMOR",
-   "legenda": "Minha carteira vendo a Ultimate a R$ 549,90 🫠\n\nVai de Standard ou Ultimate? Marca quem vai patrocinar."
+   "legenda": "Minha carteira vendo a Ultimate a R$ 549,90 🫠\n\nVai de Standard ou Ultimate? Marca quem vai patrocinar.",
+   "hora": "11:00"
+  },
+  {
+   "id": "13",
+   "hora": "12:00",
+   "formato": "carrossel",
+   "capa": [
+    "GTA 6 É IGUAL",
+    "AO GTA 5?"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O slide 4 responde de vez",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg",
+    "gta6/banco/oficial/lugar-vice-city-10.jpg",
+    "gta6/banco/oficial/lugar-grassrivers-01.jpg",
+    "gta6/banco/oficial/lugar-leonida-keys-03.jpg",
+    "gta6/banco/oficial/pessoa-jason-and-lucia-08.jpg",
+    "gta6/banco/oficial/lugar-vice-city-27.jpg"
+   ],
+   "slides": [
+    {
+     "titulo": "Agora são 2 protagonistas",
+     "texto": "No 5 eram três: Michael, Franklin e Trevor. No 6, a história é de Jason e Lucia.",
+     "puxa": "E o mapa?"
+    },
+    {
+     "titulo": "Sai Los Santos, volta Vice City",
+     "texto": "O 5 se passava em San Andreas. O 6 leva a gente pra Leonida, inspirada na Flórida.",
+     "puxa": "Só a cidade?"
+    },
+    {
+     "titulo": "Não é só a cidade",
+     "texto": "A Rockstar mostrou 6 regiões: de Vice City aos pântanos de Grassrivers.",
+     "puxa": "E o veredito?"
+    },
+    {
+     "titulo": "Igual não é",
+     "texto": "Mesma alma de GTA, mas outro casal, outro estado e outra geração de console.",
+     "puxa": "Concorda?"
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "5 OU 6?"
+    ],
+    "texto": "Comenta qual GTA você acha que vai ser o melhor."
+   },
+   "cta_bio": "comunidade",
+   "legenda": "GTA 6 é igual ao GTA 5? Arrasta e tira a dúvida 👉\n\nComenta 5 ou 6: qual vai ser o melhor?"
   },
   {
    "id": "05",
@@ -147,7 +224,46 @@
    "legenda": "Esses são os lugares de Leonida que a Rockstar já mostrou nas imagens oficiais 🌴\n\nVice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia e Mount Kalaga. Qual você vai explorar primeiro? Comenta 👇",
    "imagem": "gta6/banco/oficial/lugar-vice-city-05.jpg",
    "tag": "LEONIDA",
-   "cta_bio": "ofertas"
+   "cta_bio": "ofertas",
+   "hora": "13:00"
+  },
+  {
+   "id": "11",
+   "hora": "14:00",
+   "formato": "reel",
+   "linhas": [
+    "GTA 6 TEM",
+    "2 PROTAGONISTAS"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Jason Duval e Lucia Caminos",
+   "cta": [
+    "COMENTA",
+    "SEU FAVORITO"
+   ],
+   "cta_sub": "Time Jason ou time Lucia?",
+   "tag": "PERSONAGENS",
+   "cta_bio": "comunidade",
+   "legenda": "Pela primeira vez, um casal de protagonistas 👀\n\nJason Duval e Lucia Caminos. Comenta J ou L: quem você vai jogar primeiro?"
+  },
+  {
+   "id": "16",
+   "hora": "15:00",
+   "formato": "post",
+   "tipo": "frase",
+   "linhas": [
+    "VOCÊ",
+    "REPAROU?"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "A camiseta da Lucia na academia diz BADDIE",
+   "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-09.jpg",
+   "cta_bio": "guia",
+   "legenda": "Você reparou nesse detalhe? 👀\n\nA camiseta da Lucia diz BADDIE. Qual detalhe das imagens oficiais você achou que ninguém viu?"
   },
   {
    "id": "06",
@@ -202,7 +318,27 @@
    "fotos": [
     "gamer",
     "noite"
-   ]
+   ],
+   "hora": "16:00"
+  },
+  {
+   "id": "17",
+   "hora": "17:00",
+   "formato": "post",
+   "tipo": "noticia",
+   "tag": "AVISO",
+   "linhas": [
+    "ATÉ 212 GB",
+    "NO CONSOLE"
+   ],
+   "destaque": [
+    0
+   ],
+   "texto": "O GTA 6 pode ocupar até 212 GB. Libere espaço antes do dia 19 pra não perder a meia-noite.",
+   "fonte": "Olhar Digital / Canaltech",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg",
+   "cta_bio": "ofertas",
+   "legenda": "Seu console tem 212 GB livres? 💾\n\nÉ o espaço que o GTA 6 pode ocupar. Confere hoje e conta aqui quanto você tem."
   },
   {
    "id": "07",
@@ -222,23 +358,8 @@
    ],
    "cta_sub": "pro parça que jogou o Vice City original",
    "tag": "LEONIDA",
-   "legenda": "Vice City está de volta 🌴🌆\n\nQuem jogou o Vice City original lembra da primeira vez na praia. Qual sua lembrança favorita?"
-  },
-  {
-   "id": "08",
-   "formato": "post",
-   "tipo": "frase",
-   "linhas": [
-    "EU DIA 18",
-    "ÀS 23:59"
-   ],
-   "destaque": [
-    1
-   ],
-   "sub": "Encarando o relógio e o botão de jogar",
-   "legenda": "Eu no dia 18 às 23:59 esperando dar meia-noite 🕛\n\nQuem vai virar a noite? Comenta EU que a gente faz a contagem junto.",
-   "imagem": "gta6/banco/oficial/arte-jason-lucia-motel.jpg",
-   "cta_bio": "grupo"
+   "legenda": "Vice City está de volta 🌴🌆\n\nQuem jogou o Vice City original lembra da primeira vez na praia. Qual sua lembrança favorita?",
+   "hora": "18:00"
   },
   {
    "id": "09",
@@ -288,7 +409,8 @@
    "fotos": [
     "ceu",
     "miami"
-   ]
+   ],
+   "hora": "19:00"
   },
   {
    "id": "10",
@@ -307,7 +429,127 @@
    ],
    "cta_sub": "Ofertas de PS5 e acessórios: link na bio",
    "tag": "ENQUETE",
-   "legenda": "Vai jogar GTA 6 no dia do lançamento? 🎮\n\nComenta SIM ou NÃO. E entra no grupo VIP pra pegar as ofertas da semana do lançamento."
+   "legenda": "Vai jogar GTA 6 no dia do lançamento? 🎮\n\nComenta SIM ou NÃO. E entra no grupo VIP pra pegar as ofertas da semana do lançamento.",
+   "hora": "20:00"
+  },
+  {
+   "id": "08",
+   "formato": "post",
+   "tipo": "frase",
+   "linhas": [
+    "EU DIA 18",
+    "ÀS 23:59"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Encarando o relógio e o botão de jogar",
+   "legenda": "Eu no dia 18 às 23:59 esperando dar meia-noite 🕛\n\nQuem vai virar a noite? Comenta EU que a gente faz a contagem junto.",
+   "imagem": "gta6/banco/oficial/arte-jason-lucia-motel.jpg",
+   "cta_bio": "grupo",
+   "hora": "21:00"
+  },
+  {
+   "id": "14",
+   "hora": "22:00",
+   "formato": "carrossel",
+   "capa": [
+    "AS 6 REGIÕES",
+    "DE LEONIDA"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "A 4ª é a mais perigosa",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "gta6/banco/oficial/lugar-vice-city-15.jpg",
+    "gta6/banco/oficial/lugar-leonida-keys-01.jpg",
+    "gta6/banco/oficial/lugar-grassrivers-01.jpg",
+    "gta6/banco/oficial/lugar-port-gellhorn-01.jpg",
+    "gta6/banco/oficial/lugar-ambrosia-01.jpg",
+    "gta6/banco/oficial/lugar-mount-kalaga-national-park-01.jpg",
+    "gta6/banco/oficial/lugar-vice-city-27.jpg"
+   ],
+   "slides": [
+    {
+     "titulo": "Vice City",
+     "texto": "A cidade de neon, praia e art déco. O coração de Leonida.",
+     "puxa": "Bora pras ilhas"
+    },
+    {
+     "titulo": "Leonida Keys",
+     "texto": "Arquipélago tropical, vida tranquila e mar bonito e perigoso.",
+     "puxa": "Agora o pântano"
+    },
+    {
+     "titulo": "Grassrivers",
+     "texto": "Mangue com jacaré e, segundo a Rockstar, predadores ainda piores.",
+     "puxa": "E o litoral?"
+    },
+    {
+     "titulo": "Port Gellhorn",
+     "texto": "O litoral esquecido: motel barato e atração fechada.",
+     "puxa": "Pro interior"
+    },
+    {
+     "titulo": "Ambrosia",
+     "texto": "Refinaria de açúcar e uma gangue de motoqueiros mandando no resto.",
+     "puxa": "E lá no norte?"
+    },
+    {
+     "titulo": "Mount Kalaga",
+     "texto": "Parque nacional no norte: caça, pesca e trilha off-road."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "QUAL VOCÊ",
+     "VISITA 1º?"
+    ],
+    "texto": "Comenta o nome da região."
+   },
+   "cta_bio": "ofertas",
+   "legenda": "As 6 regiões de Leonida que a Rockstar já mostrou 🌴🐊\n\nQual você visita primeiro? Comenta e salva pra consultar no dia 19."
+  },
+  {
+   "id": "12",
+   "hora": "23:00",
+   "formato": "reel",
+   "linhas": [
+    "QUEM VAI",
+    "VIRAR A NOITE",
+    "DIA 18?"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O GTA 6 libera à meia-noite",
+   "cta": [
+    "MARCA",
+    "SEU DUO"
+   ],
+   "cta_sub": "Quem vai ficar acordado com você",
+   "tag": "MADRUGADA",
+   "cta_bio": "grupo",
+   "legenda": "Dia 18 ninguém dorme 🌙\n\nMarca quem vai virar a noite com você esperando dar meia-noite."
+  },
+  {
+   "id": "18",
+   "hora": "24:00",
+   "formato": "post",
+   "tipo": "frase",
+   "linhas": [
+    "BOA NOITE,",
+    "LEONIDA"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Menos um dia. Faltam 7.",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-27.jpg",
+   "cta_bio": "grupo",
+   "legenda": "Meia-noite. Faltam 7 dias pro GTA 6 🌙\n\nQuem ainda está acordado? Comenta 🌴"
   }
  ]
 }

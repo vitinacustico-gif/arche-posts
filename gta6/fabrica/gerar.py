@@ -13,7 +13,7 @@ Saídas:
 Toda a arte é gerada por código (sem imagem de terceiros). A fonte de títulos (Pricedown, licença
 Typodermic) fica criptografada no repositório e só é aberta com a chave privada do Victor.
 """
-import json, math, os, pathlib, random, subprocess, sys, tempfile, wave
+import datetime, json, math, os, pathlib, random, subprocess, sys, tempfile, wave
 import numpy as np
 from PIL import Image, ImageDraw, ImageFont, ImageFilter
 
@@ -506,6 +506,8 @@ TEMAS = {
 
 
 def _fotos(temas, seed):
+    if temas and all(str(t).endswith(".jpg") for t in temas):  # lista explícita (ex.: banco/oficial), na ordem
+        return [RAIZ.parent / t for t in temas]
     todas = sorted(p for p in BANCO.glob("*.jpg") if p.stem not in FORA_DO_BANCO)
     if temas:
         pref = tuple(x for t in temas for x in TEMAS.get(t, [t]))
@@ -791,6 +793,37 @@ def legenda(item, n=0):
     return f"{corpo}\n\n{CTA_BIO[chave]}\n\n{CFG['rodape_legenda']}\n{CFG['hashtags']}"
 
 
+def story(entrada, saida):
+    """Versão 9:16 de cada peça para os stories. Reel: o próprio vídeo. Post/carrossel: a capa sobre fundo desfocado."""
+    if entrada["formato"] == "reel":
+        return entrada["arquivos"][0]
+    from PIL import ImageFilter
+    W, H = 1080, 1920
+    src = Image.open(RAIZ.parent / entrada["arquivos"][0]).convert("RGB")
+    fundo = _cobrir(src, W, H).filter(ImageFilter.GaussianBlur(38))
+    fundo = Image.blend(fundo, Image.new("RGB", (W, H), (8, 2, 14)), 0.45).convert("RGBA")
+    cw = 900; ch = int(src.height * cw / src.width)
+    card = src.resize((cw, ch), Image.LANCZOS).convert("RGBA")
+    m = Image.new("L", (cw, ch), 0); ImageDraw.Draw(m).rounded_rectangle([0, 0, cw - 1, ch - 1], 36, fill=255)
+    card.putalpha(m)
+    y = (H - ch) // 2 + 40
+    sombra = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    ImageDraw.Draw(sombra).rounded_rectangle([(W - cw) // 2, y + 24, (W + cw) // 2, y + ch + 24], 36, fill=(0, 0, 0, 150))
+    fundo.alpha_composite(sombra.filter(ImageFilter.GaussianBlur(26)))
+    fundo.alpha_composite(card, ((W - cw) // 2, y))
+    rot = "CARROSSEL NOVO  >>" if entrada["formato"] == "carrossel" else "POST NOVO"
+    pl = pilula(rot, 38)
+    colar(fundo, pl, (W - pl.width) / 2, y - pl.height - 34)
+    dr = ImageDraw.Draw(fundo)
+    f = ft(INTER["900"], 38)
+    dr.text(((W - f.getlength(CFG["handle"])) / 2, 120), CFG["handle"], font=f, fill=(255, 255, 255, 235))
+    c = pilula("LINK NA BIO", 34, fundo=(255, 255, 255), cor=(12, 4, 20), pad=(34, 20))
+    colar(fundo, c, (W - c.width) / 2, min(H - 200, y + ch + 60))
+    arq = saida / f'{entrada["id"].split("-")[-1]}_story.jpg'
+    fundo.convert("RGB").save(arq, quality=90)
+    return str(arq.relative_to(RAIZ.parent))
+
+
 def main():
     pauta_p = pathlib.Path(sys.argv[1])
     so = None
@@ -809,13 +842,19 @@ def main():
         fmt = item["formato"]
         arqs = {"post": post, "carrossel": carrossel, "reel": reel}[fmt](item, saida)
         rel = [str(a.relative_to(RAIZ.parent)) for a in arqs]
-        entrada = {"id": f"{data}-{item['id']}", "data": data, "hora": item.get("hora") or horas[n % len(horas)],
+        hora = item.get("hora") or horas[n % len(horas)]
+        dia_pub = data
+        if hora.startswith("24:"):  # meia-noite do fim do dia → 00:MM do dia seguinte
+            dia_pub = (datetime.date.fromisoformat(data) + datetime.timedelta(days=1)).isoformat()
+            hora = "00:" + hora[3:]
+        entrada = {"id": f"{data}-{item['id']}", "pauta": data, "data": dia_pub, "hora": hora,
                    "formato": fmt, "titulo": " ".join(item.get("linhas") or item.get("capa")),
                    "arquivos": [r for r in rel if not r.endswith("_capa.jpg")],
                    "legenda": legenda(item, n)}
         if fmt == "reel":
             entrada["capa"] = [r for r in rel if r.endswith("_capa.jpg")][0]
             entrada["thumb_offset_ms"] = item["_thumb_ms"]
+        entrada["story"] = story(entrada, saida)
         cal = [c for c in cal if c["id"] != entrada["id"]] + [entrada]
         print("ok", entrada["id"], fmt, entrada["hora"], len(entrada["arquivos"]), "arquivo(s)", flush=True)
     cal.sort(key=lambda c: (c["data"], c["hora"]))

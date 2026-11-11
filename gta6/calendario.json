@@ -13,7 +13,7 @@
  {
   "id": "2026-11-11-01",
   "data": "2026-11-11",
-  "hora": "08:07",
+  "hora": "07:00",
   "formato": "reel",
   "titulo": "FALTAM 8 DIAS",
   "arquivos": [
@@ -21,12 +21,27 @@
   ],
   "legenda": "Faltam 8 dias pro GTA 6 🌴\n\nDia 19/11, à meia-noite, Leonida abre as portas. Você vai estar acordado?\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
   "capa": "gta6/midia/2026-11-11/01_capa.jpg",
-  "thumb_offset_ms": 1550
+  "thumb_offset_ms": 1550,
+  "pauta": "2026-11-11",
+  "story": "gta6/midia/2026-11-11/01.mp4"
+ },
+ {
+  "id": "2026-11-11-15",
+  "pauta": "2026-11-11",
+  "data": "2026-11-11",
+  "hora": "08:00",
+  "formato": "post",
+  "titulo": "ROUBA OU COMPRA?",
+  "arquivos": [
+   "gta6/midia/2026-11-11/15.jpg"
+  ],
+  "legenda": "Bom dia, Leonida ☀️ Primeiro carro no GTA 6: você rouba ou compra?\n\nComenta A ou B. Já sei a resposta da maioria 😏\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-11/15_story.jpg"
  },
  {
   "id": "2026-11-11-02",
   "data": "2026-11-11",
-  "hora": "10:07",
+  "hora": "09:00",
   "formato": "carrossel",
   "titulo": "GTA 6 EM 9 FATOS",
   "arquivos": [
@@ -41,23 +56,27 @@
    "gta6/midia/2026-11-11/02_09.jpg",
    "gta6/midia/2026-11-11/02_10.jpg"
   ],
-  "legenda": "GTA 6 em 9 fatos que já são oficiais 📋\n\nSalva pra não esquecer e manda pro parça que ainda acha que sai no PC 👀\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "GTA 6 em 9 fatos que já são oficiais 📋\n\nSalva pra não esquecer e manda pro parça que ainda acha que sai no PC 👀\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-11",
+  "story": "gta6/midia/2026-11-11/02_story.jpg"
  },
  {
   "id": "2026-11-11-03",
   "data": "2026-11-11",
-  "hora": "11:07",
+  "hora": "10:00",
   "formato": "post",
   "titulo": "LUCIA OU JASON?",
   "arquivos": [
    "gta6/midia/2026-11-11/03.jpg"
   ],
-  "legenda": "Lucia ou Jason? Essa divide qualquer grupo de amigos 😅\n\nComenta A ou B e marca aquele amigo que vai escolher o errado.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "Lucia ou Jason? Essa divide qualquer grupo de amigos 😅\n\nComenta A ou B e marca aquele amigo que vai escolher o errado.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-11",
+  "story": "gta6/midia/2026-11-11/03_story.jpg"
  },
  {
   "id": "2026-11-11-04",
   "data": "2026-11-11",
-  "hora": "12:07",
+  "hora": "11:00",
   "formato": "reel",
   "titulo": "EU VENDO O PREÇO DA ULTIMATE",
   "arquivos": [
@@ -65,23 +84,73 @@
   ],
   "legenda": "Minha carteira vendo a Ultimate a R$ 549,90 🫠\n\nVai de Standard ou Ultimate? Marca quem vai patrocinar.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
   "capa": "gta6/midia/2026-11-11/04_capa.jpg",
-  "thumb_offset_ms": 2000
+  "thumb_offset_ms": 2000,
+  "pauta": "2026-11-11",
+  "story": "gta6/midia/2026-11-11/04.mp4"
+ },
+ {
+  "id": "2026-11-11-13",
+  "pauta": "2026-11-11",
+  "data": "2026-11-11",
+  "hora": "12:00",
+  "formato": "carrossel",
+  "titulo": "GTA 6 É IGUAL AO GTA 5?",
+  "arquivos": [
+   "gta6/midia/2026-11-11/13_01.jpg",
+   "gta6/midia/2026-11-11/13_02.jpg",
+   "gta6/midia/2026-11-11/13_03.jpg",
+   "gta6/midia/2026-11-11/13_04.jpg",
+   "gta6/midia/2026-11-11/13_05.jpg",
+   "gta6/midia/2026-11-11/13_06.jpg"
+  ],
+  "legenda": "GTA 6 é igual ao GTA 5? Arrasta e tira a dúvida 👉\n\nComenta 5 ou 6: qual vai ser o melhor?\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-11/13_story.jpg"
  },
  {
   "id": "2026-11-11-05",
   "data": "2026-11-11",
-  "hora": "13:07",
+  "hora": "13:00",
   "formato": "post",
   "titulo": "CONHEÇA LEONIDA",
   "arquivos": [
    "gta6/midia/2026-11-11/05.jpg"
   ],
-  "legenda": "Esses são os lugares de Leonida que a Rockstar já mostrou nas imagens oficiais 🌴\n\nVice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia e Mount Kalaga. Qual você vai explorar primeiro? Comenta 👇\n\n🔗 Vai montar o setup pro dia 19? As melhores ofertas estão no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "Esses são os lugares de Leonida que a Rockstar já mostrou nas imagens oficiais 🌴\n\nVice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia e Mount Kalaga. Qual você vai explorar primeiro? Comenta 👇\n\n🔗 Vai montar o setup pro dia 19? As melhores ofertas estão no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-11",
+  "story": "gta6/midia/2026-11-11/05_story.jpg"
+ },
+ {
+  "id": "2026-11-11-11",
+  "pauta": "2026-11-11",
+  "data": "2026-11-11",
+  "hora": "14:00",
+  "formato": "reel",
+  "titulo": "GTA 6 TEM 2 PROTAGONISTAS",
+  "arquivos": [
+   "gta6/midia/2026-11-11/11.mp4"
+  ],
+  "legenda": "Pela primeira vez, um casal de protagonistas 👀\n\nJason Duval e Lucia Caminos. Comenta J ou L: quem você vai jogar primeiro?\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "capa": "gta6/midia/2026-11-11/11_capa.jpg",
+  "thumb_offset_ms": 1550,
+  "story": "gta6/midia/2026-11-11/11.mp4"
+ },
+ {
+  "id": "2026-11-11-16",
+  "pauta": "2026-11-11",
+  "data": "2026-11-11",
+  "hora": "15:00",
+  "formato": "post",
+  "titulo": "VOCÊ REPAROU?",
+  "arquivos": [
+   "gta6/midia/2026-11-11/16.jpg"
+  ],
+  "legenda": "Você reparou nesse detalhe? 👀\n\nA camiseta da Lucia diz BADDIE. Qual detalhe das imagens oficiais você achou que ninguém viu?\n\n🔗 O guia do GTA 6 em PT-BR está quase pronto. Garante seu lugar na lista de espera pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-11/16_story.jpg"
  },
  {
   "id": "2026-11-11-06",
   "data": "2026-11-11",
-  "hora": "15:07",
+  "hora": "16:00",
   "formato": "carrossel",
   "titulo": "CHECKLIST DO DIA 19",
   "arquivos": [
@@ -94,12 +163,27 @@
    "gta6/midia/2026-11-11/06_07.jpg",
    "gta6/midia/2026-11-11/06_08.jpg"
   ],
-  "legenda": "Checklist pra jogar GTA 6 no dia 19 sem dor de cabeça ✅\n\nSalva e marca quem vai virar a noite com você.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "Checklist pra jogar GTA 6 no dia 19 sem dor de cabeça ✅\n\nSalva e marca quem vai virar a noite com você.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-11",
+  "story": "gta6/midia/2026-11-11/06_story.jpg"
+ },
+ {
+  "id": "2026-11-11-17",
+  "pauta": "2026-11-11",
+  "data": "2026-11-11",
+  "hora": "17:00",
+  "formato": "post",
+  "titulo": "ATÉ 212 GB NO CONSOLE",
+  "arquivos": [
+   "gta6/midia/2026-11-11/17.jpg"
+  ],
+  "legenda": "Seu console tem 212 GB livres? 💾\n\nÉ o espaço que o GTA 6 pode ocupar. Confere hoje e conta aqui quanto você tem.\n\n🔗 Vai montar o setup pro dia 19? As melhores ofertas estão no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-11/17_story.jpg"
  },
  {
   "id": "2026-11-11-07",
   "data": "2026-11-11",
-  "hora": "17:07",
+  "hora": "18:00",
   "formato": "reel",
   "titulo": "VICE CITY ESTÁ DE VOLTA",
   "arquivos": [
@@ -107,23 +191,14 @@
   ],
   "legenda": "Vice City está de volta 🌴🌆\n\nQuem jogou o Vice City original lembra da primeira vez na praia. Qual sua lembrança favorita?\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
   "capa": "gta6/midia/2026-11-11/07_capa.jpg",
-  "thumb_offset_ms": 2000
- },
- {
-  "id": "2026-11-11-08",
-  "data": "2026-11-11",
-  "hora": "19:07",
-  "formato": "post",
-  "titulo": "EU DIA 18 ÀS 23:59",
-  "arquivos": [
-   "gta6/midia/2026-11-11/08.jpg"
-  ],
-  "legenda": "Eu no dia 18 às 23:59 esperando dar meia-noite 🕛\n\nQuem vai virar a noite? Comenta EU que a gente faz a contagem junto.\n\n🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "thumb_offset_ms": 2000,
+  "pauta": "2026-11-11",
+  "story": "gta6/midia/2026-11-11/07.mp4"
  },
  {
   "id": "2026-11-11-09",
   "data": "2026-11-11",
-  "hora": "20:07",
+  "hora": "19:00",
   "formato": "carrossel",
   "titulo": "A ESPERA MAIS LONGA",
   "arquivos": [
@@ -135,12 +210,14 @@
    "gta6/midia/2026-11-11/09_06.jpg",
    "gta6/midia/2026-11-11/09_07.jpg"
   ],
-  "legenda": "A espera mais longa da história dos games ⏳\n\nVocê já estava esperando desde o primeiro trailer?\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "A espera mais longa da história dos games ⏳\n\nVocê já estava esperando desde o primeiro trailer?\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-11",
+  "story": "gta6/midia/2026-11-11/09_story.jpg"
  },
  {
   "id": "2026-11-11-10",
   "data": "2026-11-11",
-  "hora": "21:07",
+  "hora": "20:00",
   "formato": "reel",
   "titulo": "VAI JOGAR NO DIA 19?",
   "arquivos": [
@@ -148,12 +225,75 @@
   ],
   "legenda": "Vai jogar GTA 6 no dia do lançamento? 🎮\n\nComenta SIM ou NÃO. E entra no grupo VIP pra pegar as ofertas da semana do lançamento.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
   "capa": "gta6/midia/2026-11-11/10_capa.jpg",
-  "thumb_offset_ms": 1550
+  "thumb_offset_ms": 1550,
+  "pauta": "2026-11-11",
+  "story": "gta6/midia/2026-11-11/10.mp4"
+ },
+ {
+  "id": "2026-11-11-08",
+  "data": "2026-11-11",
+  "hora": "21:00",
+  "formato": "post",
+  "titulo": "EU DIA 18 ÀS 23:59",
+  "arquivos": [
+   "gta6/midia/2026-11-11/08.jpg"
+  ],
+  "legenda": "Eu no dia 18 às 23:59 esperando dar meia-noite 🕛\n\nQuem vai virar a noite? Comenta EU que a gente faz a contagem junto.\n\n🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-11",
+  "story": "gta6/midia/2026-11-11/08_story.jpg"
+ },
+ {
+  "id": "2026-11-11-14",
+  "pauta": "2026-11-11",
+  "data": "2026-11-11",
+  "hora": "22:00",
+  "formato": "carrossel",
+  "titulo": "AS 6 REGIÕES DE LEONIDA",
+  "arquivos": [
+   "gta6/midia/2026-11-11/14_01.jpg",
+   "gta6/midia/2026-11-11/14_02.jpg",
+   "gta6/midia/2026-11-11/14_03.jpg",
+   "gta6/midia/2026-11-11/14_04.jpg",
+   "gta6/midia/2026-11-11/14_05.jpg",
+   "gta6/midia/2026-11-11/14_06.jpg",
+   "gta6/midia/2026-11-11/14_07.jpg",
+   "gta6/midia/2026-11-11/14_08.jpg"
+  ],
+  "legenda": "As 6 regiões de Leonida que a Rockstar já mostrou 🌴🐊\n\nQual você visita primeiro? Comenta e salva pra consultar no dia 19.\n\n🔗 Vai montar o setup pro dia 19? As melhores ofertas estão no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-11/14_story.jpg"
+ },
+ {
+  "id": "2026-11-11-12",
+  "pauta": "2026-11-11",
+  "data": "2026-11-11",
+  "hora": "23:00",
+  "formato": "reel",
+  "titulo": "QUEM VAI VIRAR A NOITE DIA 18?",
+  "arquivos": [
+   "gta6/midia/2026-11-11/12.mp4"
+  ],
+  "legenda": "Dia 18 ninguém dorme 🌙\n\nMarca quem vai virar a noite com você esperando dar meia-noite.\n\n🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "capa": "gta6/midia/2026-11-11/12_capa.jpg",
+  "thumb_offset_ms": 2000,
+  "story": "gta6/midia/2026-11-11/12.mp4"
+ },
+ {
+  "id": "2026-11-11-18",
+  "pauta": "2026-11-11",
+  "data": "2026-11-12",
+  "hora": "00:00",
+  "formato": "post",
+  "titulo": "BOA NOITE, LEONIDA",
+  "arquivos": [
+   "gta6/midia/2026-11-11/18.jpg"
+  ],
+  "legenda": "Meia-noite. Faltam 7 dias pro GTA 6 🌙\n\nQuem ainda está acordado? Comenta 🌴\n\n🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-11/18_story.jpg"
  },
  {
   "id": "2026-11-12-01",
   "data": "2026-11-12",
-  "hora": "08:07",
+  "hora": "07:00",
   "formato": "reel",
   "titulo": "FALTA 1 SEMANA",
   "arquivos": [
@@ -161,12 +301,27 @@
   ],
   "legenda": "Falta 1 semana pro GTA 6 🔥\n\nSete dias. Já separou a madrugada do dia 19?\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
   "capa": "gta6/midia/2026-11-12/01_capa.jpg",
-  "thumb_offset_ms": 1550
+  "thumb_offset_ms": 1550,
+  "pauta": "2026-11-12",
+  "story": "gta6/midia/2026-11-12/01.mp4"
+ },
+ {
+  "id": "2026-11-12-15",
+  "pauta": "2026-11-12",
+  "data": "2026-11-12",
+  "hora": "08:00",
+  "formato": "post",
+  "titulo": "MOTO OU CARRO?",
+  "arquivos": [
+   "gta6/midia/2026-11-12/15.jpg"
+  ],
+  "legenda": "Bom dia ☀️ Pra cortar Vice City: moto ou carro?\n\nComenta A ou B.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-12/15_story.jpg"
  },
  {
   "id": "2026-11-12-02",
   "data": "2026-11-12",
-  "hora": "10:07",
+  "hora": "09:00",
   "formato": "carrossel",
   "titulo": "5 COISAS PRA FAZER ANTES",
   "arquivos": [
@@ -178,23 +333,27 @@
    "gta6/midia/2026-11-12/02_06.jpg",
    "gta6/midia/2026-11-12/02_07.jpg"
   ],
-  "legenda": "5 coisas pra fazer antes do GTA 6 chegar 📝\n\nQual delas você já fez? Salva pra não esquecer.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "5 coisas pra fazer antes do GTA 6 chegar 📝\n\nQual delas você já fez? Salva pra não esquecer.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-12",
+  "story": "gta6/midia/2026-11-12/02_story.jpg"
  },
  {
   "id": "2026-11-12-03",
   "data": "2026-11-12",
-  "hora": "11:07",
+  "hora": "10:00",
   "formato": "post",
   "titulo": "STANDARD OU ULTIMATE?",
   "arquivos": [
    "gta6/midia/2026-11-12/03.jpg"
   ],
-  "legenda": "Standard (R$ 449,90) ou Ultimate (R$ 549,90)? 💸\n\nComenta A ou B e diz se os R$ 100 a mais valem a pena.\n\n🔗 Vai montar o setup pro dia 19? As melhores ofertas estão no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "Standard (R$ 449,90) ou Ultimate (R$ 549,90)? 💸\n\nComenta A ou B e diz se os R$ 100 a mais valem a pena.\n\n🔗 Vai montar o setup pro dia 19? As melhores ofertas estão no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-12",
+  "story": "gta6/midia/2026-11-12/03_story.jpg"
  },
  {
   "id": "2026-11-12-04",
   "data": "2026-11-12",
-  "hora": "12:07",
+  "hora": "11:00",
   "formato": "reel",
   "titulo": "BÔNUS ATÉ DIA 20/11",
   "arquivos": [
@@ -202,23 +361,74 @@
   ],
   "legenda": "Último aviso pra quem ainda não reservou ⏰\n\nComprando antes de 20/11 você leva o Pacote Vintage Vice City e 1 mês de GTA+.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
   "capa": "gta6/midia/2026-11-12/04_capa.jpg",
-  "thumb_offset_ms": 1550
+  "thumb_offset_ms": 1550,
+  "pauta": "2026-11-12",
+  "story": "gta6/midia/2026-11-12/04.mp4"
+ },
+ {
+  "id": "2026-11-12-13",
+  "pauta": "2026-11-12",
+  "data": "2026-11-12",
+  "hora": "12:00",
+  "formato": "carrossel",
+  "titulo": "VOCÊ REPAROU NISSO?",
+  "arquivos": [
+   "gta6/midia/2026-11-12/13_01.jpg",
+   "gta6/midia/2026-11-12/13_02.jpg",
+   "gta6/midia/2026-11-12/13_03.jpg",
+   "gta6/midia/2026-11-12/13_04.jpg",
+   "gta6/midia/2026-11-12/13_05.jpg",
+   "gta6/midia/2026-11-12/13_06.jpg",
+   "gta6/midia/2026-11-12/13_07.jpg"
+  ],
+  "legenda": "5 detalhes das imagens oficiais que passam batido 👀\n\nQual você não tinha visto? Comenta o número.\n\n🔗 O guia do GTA 6 em PT-BR está quase pronto. Garante seu lugar na lista de espera pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-12/13_story.jpg"
  },
  {
   "id": "2026-11-12-05",
   "data": "2026-11-12",
-  "hora": "13:07",
+  "hora": "13:00",
   "formato": "post",
   "titulo": "MEIA-NOITE NO BRASIL",
   "arquivos": [
    "gta6/midia/2026-11-12/05.jpg"
   ],
-  "legenda": "Horário confirmado 🕛 GTA 6 abre à 0h do dia 19/11 no Brasil.\n\nE o pré-download já está liberado: quem fez a pré-venda digital já pode baixar. Você já começou?\n\n🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "Horário confirmado 🕛 GTA 6 abre à 0h do dia 19/11 no Brasil.\n\nE o pré-download já está liberado: quem fez a pré-venda digital já pode baixar. Você já começou?\n\n🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-12",
+  "story": "gta6/midia/2026-11-12/05_story.jpg"
+ },
+ {
+  "id": "2026-11-12-11",
+  "pauta": "2026-11-12",
+  "data": "2026-11-12",
+  "hora": "14:00",
+  "formato": "reel",
+  "titulo": "GTA 6 NÃO RODA NO PS4",
+  "arquivos": [
+   "gta6/midia/2026-11-12/11.mp4"
+  ],
+  "legenda": "Aviso de utilidade pública ⚠️ GTA 6 não roda no PS4 nem no Xbox One.\n\nManda pro amigo que ainda não sabe.\n\n🔗 Vai montar o setup pro dia 19? As melhores ofertas estão no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "capa": "gta6/midia/2026-11-12/11_capa.jpg",
+  "thumb_offset_ms": 2000,
+  "story": "gta6/midia/2026-11-12/11.mp4"
+ },
+ {
+  "id": "2026-11-12-16",
+  "pauta": "2026-11-12",
+  "data": "2026-11-12",
+  "hora": "15:00",
+  "formato": "post",
+  "titulo": "VOCÊ REPAROU?",
+  "arquivos": [
+   "gta6/midia/2026-11-12/16.jpg"
+  ],
+  "legenda": "Repara na regata do Jason 👀 LEONIDA estampado no peito.\n\nQual roupa dele você quer usar no jogo?\n\n🔗 O guia do GTA 6 em PT-BR está quase pronto. Garante seu lugar na lista de espera pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-12/16_story.jpg"
  },
  {
   "id": "2026-11-12-06",
   "data": "2026-11-12",
-  "hora": "15:07",
+  "hora": "16:00",
   "formato": "carrossel",
   "titulo": "SETUP PRA JOGAR GTA 6",
   "arquivos": [
@@ -229,12 +439,27 @@
    "gta6/midia/2026-11-12/06_05.jpg",
    "gta6/midia/2026-11-12/06_06.jpg"
   ],
-  "legenda": "O setup pra jogar GTA 6 em 3 níveis 🎧\n\nNo grupo VIP a gente manda as ofertas da semana. Link na bio.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "O setup pra jogar GTA 6 em 3 níveis 🎧\n\nNo grupo VIP a gente manda as ofertas da semana. Link na bio.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-12",
+  "story": "gta6/midia/2026-11-12/06_story.jpg"
+ },
+ {
+  "id": "2026-11-12-17",
+  "pauta": "2026-11-12",
+  "data": "2026-11-12",
+  "hora": "17:00",
+  "formato": "post",
+  "titulo": "MEU CHEFE DIA 19 ÀS 8H",
+  "arquivos": [
+   "gta6/midia/2026-11-12/17.jpg"
+  ],
+  "legenda": "Meu chefe dia 19 às 8h procurando quem não apareceu 😂\n\nMarca o colega de trabalho que vai sumir.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-12/17_story.jpg"
  },
  {
   "id": "2026-11-12-07",
   "data": "2026-11-12",
-  "hora": "17:07",
+  "hora": "18:00",
   "formato": "reel",
   "titulo": "EU PEDINDO FOLGA DIA 19",
   "arquivos": [
@@ -242,23 +467,14 @@
   ],
   "legenda": "Eu pedindo folga no dia 19 😂\n\nMarca o colega que vai faltar junto.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
   "capa": "gta6/midia/2026-11-12/07_capa.jpg",
-  "thumb_offset_ms": 2000
- },
- {
-  "id": "2026-11-12-08",
-  "data": "2026-11-12",
-  "hora": "19:07",
-  "formato": "post",
-  "titulo": "QUAL FOI SEU PRIMEIRO GTA?",
-  "arquivos": [
-   "gta6/midia/2026-11-12/08.jpg"
-  ],
-  "legenda": "Qual foi o seu primeiro GTA? 👴🎮\n\nComenta e vamos descobrir quem aqui joga há mais tempo.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "thumb_offset_ms": 2000,
+  "pauta": "2026-11-12",
+  "story": "gta6/midia/2026-11-12/07.mp4"
  },
  {
   "id": "2026-11-12-09",
   "data": "2026-11-12",
-  "hora": "20:07",
+  "hora": "19:00",
   "formato": "carrossel",
   "titulo": "GTA 6 EM NÚMEROS",
   "arquivos": [
@@ -271,12 +487,14 @@
    "gta6/midia/2026-11-12/09_07.jpg",
    "gta6/midia/2026-11-12/09_08.jpg"
   ],
-  "legenda": "GTA 6 em números 📊\n\nQual número mais te impressionou? Salva e compartilha.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "GTA 6 em números 📊\n\nQual número mais te impressionou? Salva e compartilha.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-12",
+  "story": "gta6/midia/2026-11-12/09_story.jpg"
  },
  {
   "id": "2026-11-12-10",
   "data": "2026-11-12",
-  "hora": "21:07",
+  "hora": "20:00",
   "formato": "reel",
   "titulo": "OFERTAS DE PS5 E ACESSÓRIOS",
   "arquivos": [
@@ -284,12 +502,74 @@
   ],
   "legenda": "Vai comprar console ou acessório pro GTA 6? 🛒\n\nNo grupo VIP do WhatsApp a gente manda as melhores ofertas todo dia até a Black Friday. Link na bio.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
   "capa": "gta6/midia/2026-11-12/10_capa.jpg",
-  "thumb_offset_ms": 1550
+  "thumb_offset_ms": 1550,
+  "pauta": "2026-11-12",
+  "story": "gta6/midia/2026-11-12/10.mp4"
+ },
+ {
+  "id": "2026-11-12-08",
+  "data": "2026-11-12",
+  "hora": "21:00",
+  "formato": "post",
+  "titulo": "QUAL FOI SEU PRIMEIRO GTA?",
+  "arquivos": [
+   "gta6/midia/2026-11-12/08.jpg"
+  ],
+  "legenda": "Qual foi o seu primeiro GTA? 👴🎮\n\nComenta e vamos descobrir quem aqui joga há mais tempo.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-12",
+  "story": "gta6/midia/2026-11-12/08_story.jpg"
+ },
+ {
+  "id": "2026-11-12-14",
+  "pauta": "2026-11-12",
+  "data": "2026-11-12",
+  "hora": "22:00",
+  "formato": "carrossel",
+  "titulo": "5 SINAIS QUE VOCÊ É VICIADO",
+  "arquivos": [
+   "gta6/midia/2026-11-12/14_01.jpg",
+   "gta6/midia/2026-11-12/14_02.jpg",
+   "gta6/midia/2026-11-12/14_03.jpg",
+   "gta6/midia/2026-11-12/14_04.jpg",
+   "gta6/midia/2026-11-12/14_05.jpg",
+   "gta6/midia/2026-11-12/14_06.jpg",
+   "gta6/midia/2026-11-12/14_07.jpg"
+  ],
+  "legenda": "5 sinais que você é viciado em GTA 😂\n\nQuantos você tem? Comenta o número e marca o amigo que tem todos.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-12/14_story.jpg"
+ },
+ {
+  "id": "2026-11-12-12",
+  "pauta": "2026-11-12",
+  "data": "2026-11-12",
+  "hora": "23:00",
+  "formato": "reel",
+  "titulo": "ÚLTIMA SEMANA DE SOSSEGO",
+  "arquivos": [
+   "gta6/midia/2026-11-12/12.mp4"
+  ],
+  "legenda": "Aproveita, família: é a última semana que eu saio do quarto 😂\n\nCompartilha nos stories pra avisar todo mundo.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "capa": "gta6/midia/2026-11-12/12_capa.jpg",
+  "thumb_offset_ms": 2000,
+  "story": "gta6/midia/2026-11-12/12.mp4"
+ },
+ {
+  "id": "2026-11-12-18",
+  "pauta": "2026-11-12",
+  "data": "2026-11-13",
+  "hora": "00:00",
+  "formato": "post",
+  "titulo": "SEXTA-FEIRA 13 EM LEONIDA",
+  "arquivos": [
+   "gta6/midia/2026-11-12/18.jpg"
+  ],
+  "legenda": "Sexta-feira 13 em Leonida 🐊 Faltam 6 dias.\n\nVocê é supersticioso? Comenta 🍀 ou 💀\n\n🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-12/18_story.jpg"
  },
  {
   "id": "2026-11-13-01",
   "data": "2026-11-13",
-  "hora": "08:07",
+  "hora": "07:00",
   "formato": "reel",
   "titulo": "FALTAM 6 DIAS",
   "arquivos": [
@@ -297,12 +577,27 @@
   ],
   "legenda": "Sexta-feira 13 e faltam 6 dias pro GTA 6 🖤\n\nO azar é de quem ainda não reservou. Quem já garantiu o seu?\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
   "capa": "gta6/midia/2026-11-13/01_capa.jpg",
-  "thumb_offset_ms": 1550
+  "thumb_offset_ms": 1550,
+  "pauta": "2026-11-13",
+  "story": "gta6/midia/2026-11-13/01.mp4"
+ },
+ {
+  "id": "2026-11-13-15",
+  "pauta": "2026-11-13",
+  "data": "2026-11-13",
+  "hora": "08:00",
+  "formato": "post",
+  "titulo": "PS5 OU XBOX?",
+  "arquivos": [
+   "gta6/midia/2026-11-13/15.jpg"
+  ],
+  "legenda": "Bom dia ☀️ A guerra eterna: PS5 ou Xbox pro GTA 6?\n\nComenta A ou B.\n\n🔗 Vai montar o setup pro dia 19? As melhores ofertas estão no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-13/15_story.jpg"
  },
  {
   "id": "2026-11-13-02",
   "data": "2026-11-13",
-  "hora": "10:07",
+  "hora": "09:00",
   "formato": "carrossel",
   "titulo": "PRIMEIRA HORA NO GTA 6",
   "arquivos": [
@@ -314,23 +609,27 @@
    "gta6/midia/2026-11-13/02_06.jpg",
    "gta6/midia/2026-11-13/02_07.jpg"
   ],
-  "legenda": "O que você vai fazer na primeira hora de GTA 6? 🌅\n\nComenta o número da sua escolha. E salva esse post.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "O que você vai fazer na primeira hora de GTA 6? 🌅\n\nComenta o número da sua escolha. E salva esse post.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-13",
+  "story": "gta6/midia/2026-11-13/02_story.jpg"
  },
  {
   "id": "2026-11-13-03",
   "data": "2026-11-13",
-  "hora": "11:07",
+  "hora": "10:00",
   "formato": "post",
   "titulo": "HISTÓRIA OU ONLINE?",
   "arquivos": [
    "gta6/midia/2026-11-13/03.jpg"
   ],
-  "legenda": "Modo história ou online? 🎮\n\nComenta A ou B. A resposta diz muito sobre você.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "Modo história ou online? 🎮\n\nComenta A ou B. A resposta diz muito sobre você.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-13",
+  "story": "gta6/midia/2026-11-13/03_story.jpg"
  },
  {
   "id": "2026-11-13-04",
   "data": "2026-11-13",
-  "hora": "12:07",
+  "hora": "11:00",
   "formato": "reel",
   "titulo": "MINHA MÃE PERGUNTANDO O QUE É GTA",
   "arquivos": [
@@ -338,23 +637,73 @@
   ],
   "legenda": "Explicando GTA pra família no dia 19 😂\n\nMarca quem vai ter essa conversa.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
   "capa": "gta6/midia/2026-11-13/04_capa.jpg",
-  "thumb_offset_ms": 2000
+  "thumb_offset_ms": 2000,
+  "pauta": "2026-11-13",
+  "story": "gta6/midia/2026-11-13/04.mp4"
+ },
+ {
+  "id": "2026-11-13-13",
+  "pauta": "2026-11-13",
+  "data": "2026-11-13",
+  "hora": "12:00",
+  "formato": "carrossel",
+  "titulo": "COMO NÃO LEVAR SPOILER",
+  "arquivos": [
+   "gta6/midia/2026-11-13/13_01.jpg",
+   "gta6/midia/2026-11-13/13_02.jpg",
+   "gta6/midia/2026-11-13/13_03.jpg",
+   "gta6/midia/2026-11-13/13_04.jpg",
+   "gta6/midia/2026-11-13/13_05.jpg",
+   "gta6/midia/2026-11-13/13_06.jpg"
+  ],
+  "legenda": "Como não levar spoiler do GTA 6 🙈\n\nSalva e manda pro amigo que vai jogar com calma.\n\n🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-13/13_story.jpg"
  },
  {
   "id": "2026-11-13-05",
   "data": "2026-11-13",
-  "hora": "13:07",
+  "hora": "13:00",
   "formato": "post",
   "titulo": "6 DIAS",
   "arquivos": [
    "gta6/midia/2026-11-13/05.jpg"
   ],
-  "legenda": "6 dias ⏳ Sexta-feira 13 e o GTA 6 cada vez mais perto.\n\nCompartilha nos stories e marca quem está contando com você.\n\n🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "6 dias ⏳ Sexta-feira 13 e o GTA 6 cada vez mais perto.\n\nCompartilha nos stories e marca quem está contando com você.\n\n🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-13",
+  "story": "gta6/midia/2026-11-13/05_story.jpg"
+ },
+ {
+  "id": "2026-11-13-11",
+  "pauta": "2026-11-13",
+  "data": "2026-11-13",
+  "hora": "14:00",
+  "formato": "reel",
+  "titulo": "DE MANHÃ OU DE MADRUGADA?",
+  "arquivos": [
+   "gta6/midia/2026-11-13/11.mp4"
+  ],
+  "legenda": "Dia 19 você joga à meia-noite ou espera amanhecer? ⏰\n\nComenta MADRUGADA ou MANHÃ.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "capa": "gta6/midia/2026-11-13/11_capa.jpg",
+  "thumb_offset_ms": 2000,
+  "story": "gta6/midia/2026-11-13/11.mp4"
+ },
+ {
+  "id": "2026-11-13-16",
+  "pauta": "2026-11-13",
+  "data": "2026-11-13",
+  "hora": "15:00",
+  "formato": "post",
+  "titulo": "VOCÊ IRIA NESSA FESTA?",
+  "arquivos": [
+   "gta6/midia/2026-11-13/16.jpg"
+  ],
+  "legenda": "Festa na lama em Leonida 🤠 Você iria?\n\nComenta SIM ou NÃO e marca quem iria com você.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-13/16_story.jpg"
  },
  {
   "id": "2026-11-13-06",
   "data": "2026-11-13",
-  "hora": "15:07",
+  "hora": "16:00",
   "formato": "carrossel",
   "titulo": "COMO NÃO CAIR EM GOLPE",
   "arquivos": [
@@ -366,12 +715,27 @@
    "gta6/midia/2026-11-13/06_06.jpg",
    "gta6/midia/2026-11-13/06_07.jpg"
   ],
-  "legenda": "Semana de lançamento é semana de golpe ⚠️\n\nSalva e manda pra quem vai comprar GTA 6. Melhor prevenir.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "Semana de lançamento é semana de golpe ⚠️\n\nSalva e manda pra quem vai comprar GTA 6. Melhor prevenir.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-13",
+  "story": "gta6/midia/2026-11-13/06_story.jpg"
+ },
+ {
+  "id": "2026-11-13-17",
+  "pauta": "2026-11-13",
+  "data": "2026-11-13",
+  "hora": "17:00",
+  "formato": "post",
+  "titulo": "MARCA QUEM VAI SUMIR DIA 19",
+  "arquivos": [
+   "gta6/midia/2026-11-13/17.jpg"
+  ],
+  "legenda": "Aquele amigo que vai sumir no dia 19 e só volta quando zerar 😂\n\nMarca ele aqui.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-13/17_story.jpg"
  },
  {
   "id": "2026-11-13-07",
   "data": "2026-11-13",
-  "hora": "17:07",
+  "hora": "18:00",
   "formato": "reel",
   "titulo": "QUAL CARRO VOCÊ PEGA PRIMEIRO?",
   "arquivos": [
@@ -379,23 +743,14 @@
   ],
   "legenda": "Primeira coisa que você vai pegar em Vice City? 🏎️🏍️\n\nComenta: esportivo, moto ou carro velho.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
   "capa": "gta6/midia/2026-11-13/07_capa.jpg",
-  "thumb_offset_ms": 2000
- },
- {
-  "id": "2026-11-13-08",
-  "data": "2026-11-13",
-  "hora": "19:07",
-  "formato": "post",
-  "titulo": "GTA 5 FOI BOM MAS O 6...",
-  "arquivos": [
-   "gta6/midia/2026-11-13/08.jpg"
-  ],
-  "legenda": "GTA 5 foi bom, mas o 6... 👀\n\nCompleta a frase nos comentários. As melhores respostas vão pros stories.\n\n🔗 O guia do GTA 6 em PT-BR está quase pronto. Garante seu lugar na lista de espera pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "thumb_offset_ms": 2000,
+  "pauta": "2026-11-13",
+  "story": "gta6/midia/2026-11-13/07.mp4"
  },
  {
   "id": "2026-11-13-09",
   "data": "2026-11-13",
-  "hora": "20:07",
+  "hora": "19:00",
   "formato": "carrossel",
   "titulo": "VICE CITY X MIAMI",
   "arquivos": [
@@ -406,12 +761,14 @@
    "gta6/midia/2026-11-13/09_05.jpg",
    "gta6/midia/2026-11-13/09_06.jpg"
   ],
-  "legenda": "Vice City é a Miami do GTA 🌴\n\nQue lugar da Flórida você quer encontrar no jogo?\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer"
+  "legenda": "Vice City é a Miami do GTA 🌴\n\nQue lugar da Flórida você quer encontrar no jogo?\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-13",
+  "story": "gta6/midia/2026-11-13/09_story.jpg"
  },
  {
   "id": "2026-11-13-10",
   "data": "2026-11-13",
-  "hora": "21:07",
+  "hora": "20:00",
   "formato": "reel",
   "titulo": "O GUIA DO GTA 6 EM PORTUGUÊS",
   "arquivos": [
@@ -419,6 +776,67 @@
   ],
   "legenda": "Estamos preparando o guia do GTA 6 em português 📘\n\nPrimeiras horas, como fazer dinheiro e os segredos de Leonida. Entra na lista de espera pelo link na bio.\n\n👉 Link na bio: grupo VIP de ofertas e o guia do GTA 6 em PT-BR.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
   "capa": "gta6/midia/2026-11-13/10_capa.jpg",
-  "thumb_offset_ms": 2000
+  "thumb_offset_ms": 2000,
+  "pauta": "2026-11-13",
+  "story": "gta6/midia/2026-11-13/10.mp4"
+ },
+ {
+  "id": "2026-11-13-08",
+  "data": "2026-11-13",
+  "hora": "21:00",
+  "formato": "post",
+  "titulo": "GTA 5 FOI BOM MAS O 6...",
+  "arquivos": [
+   "gta6/midia/2026-11-13/08.jpg"
+  ],
+  "legenda": "GTA 5 foi bom, mas o 6... 👀\n\nCompleta a frase nos comentários. As melhores respostas vão pros stories.\n\n🔗 O guia do GTA 6 em PT-BR está quase pronto. Garante seu lugar na lista de espera pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "pauta": "2026-11-13",
+  "story": "gta6/midia/2026-11-13/08_story.jpg"
+ },
+ {
+  "id": "2026-11-13-14",
+  "pauta": "2026-11-13",
+  "data": "2026-11-13",
+  "hora": "22:00",
+  "formato": "carrossel",
+  "titulo": "MONTE SEU TIME EM LEONIDA",
+  "arquivos": [
+   "gta6/midia/2026-11-13/14_01.jpg",
+   "gta6/midia/2026-11-13/14_02.jpg",
+   "gta6/midia/2026-11-13/14_03.jpg",
+   "gta6/midia/2026-11-13/14_04.jpg",
+   "gta6/midia/2026-11-13/14_05.jpg",
+   "gta6/midia/2026-11-13/14_06.jpg"
+  ],
+  "legenda": "Monte seu time pra Leonida 🚗💨\n\nMarca um amigo pra cada função. Quem é o que só atrapalha? 😂\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-13/14_story.jpg"
+ },
+ {
+  "id": "2026-11-13-12",
+  "pauta": "2026-11-13",
+  "data": "2026-11-13",
+  "hora": "23:00",
+  "formato": "reel",
+  "titulo": "SEMANA QUE VEM TEM GTA 6",
+  "arquivos": [
+   "gta6/midia/2026-11-13/12.mp4"
+  ],
+  "legenda": "Semana que vem tem GTA 6 🔥\n\nQuinta, 19/11, à meia-noite. Ativa o sininho pra não perder nada.\n\n🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "capa": "gta6/midia/2026-11-13/12_capa.jpg",
+  "thumb_offset_ms": 2000,
+  "story": "gta6/midia/2026-11-13/12.mp4"
+ },
+ {
+  "id": "2026-11-13-18",
+  "pauta": "2026-11-13",
+  "data": "2026-11-14",
+  "hora": "00:00",
+  "formato": "post",
+  "titulo": "BOA NOITE, VICE CITY",
+  "arquivos": [
+   "gta6/midia/2026-11-13/18.jpg"
+  ],
+  "legenda": "Meia-noite. Faltam 5 dias pro GTA 6 🌆\n\nAtiva o sininho que amanhã tem mais.\n\n🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "story": "gta6/midia/2026-11-13/18_story.jpg"
  }
 ]

@@ -25,5 +25,85 @@
     "ciano": "#2EF2FF",
     "branco": "#FFFFFF",
     "noite": "#0B0410"
+  },
+  "intensivo": {
+    "de": "2026-11-11",
+    "ate": "2026-11-13",
+    "por_dia": 18,
+    "nota": "1 peça por hora das 7h à 0h. A peça das 24:00 sai às 00:00 do dia seguinte.",
+    "grade": [
+      [
+        "07:00",
+        "reel"
+      ],
+      [
+        "08:00",
+        "post"
+      ],
+      [
+        "09:00",
+        "carrossel"
+      ],
+      [
+        "10:00",
+        "post"
+      ],
+      [
+        "11:00",
+        "reel"
+      ],
+      [
+        "12:00",
+        "carrossel"
+      ],
+      [
+        "13:00",
+        "post"
+      ],
+      [
+        "14:00",
+        "reel"
+      ],
+      [
+        "15:00",
+        "post"
+      ],
+      [
+        "16:00",
+        "carrossel"
+      ],
+      [
+        "17:00",
+        "post"
+      ],
+      [
+        "18:00",
+        "reel"
+      ],
+      [
+        "19:00",
+        "carrossel"
+      ],
+      [
+        "20:00",
+        "reel"
+      ],
+      [
+        "21:00",
+        "post"
+      ],
+      [
+        "22:00",
+        "carrossel"
+      ],
+      [
+        "23:00",
+        "reel"
+      ],
+      [
+        "24:00",
+        "post"
+      ]
+    ]
   }
 }

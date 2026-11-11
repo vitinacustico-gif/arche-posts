@@ -10,6 +10,9 @@ Projeto do Victor (Arche Agência): perfil de fã de GTA 6 no Instagram, 10 peç
 
 Ordem dos 10 itens = ordem dos horários do `config.json` (08:07, 10:07, 11:07, 12:07, 13:07, 15:07, 17:07, 19:07, 20:07, 21:07).
 Mistura do dia: 4 `reel` (posições 1, 4, 7, 10), 3 `carrossel` (2, 6, 9) e 3 `post` (3, 5, 8).
+**Modo intensivo** (`config.json` → `intensivo`, de 11 a 13/11): 18 peças por dia, 1 por hora das 7h à 0h, seguindo a `grade` (hora e formato). Cada item leva o campo `"hora"` da grade; a peça `"24:00"` sai às 00:00 do dia seguinte. O `status.py` já sabe quantas peças cada data precisa.
+Todo item ganha automaticamente uma versão de story (`<id>_story.jpg`, ou o próprio vídeo no reel): o publicador posta no feed e no story.
+Carrossel pode usar imagens oficiais em vez de temas: `"fotos": ["gta6/banco/oficial/arquivo.jpg", ...]` (na ordem).
 
 ### reel
 `{"id":"01","formato":"reel","linhas":["FALTAM","5 DIAS"],"destaque":[1],"sub":"frase curta","cta":["ATIVA","O SININHO"],"cta_sub":"frase curta","tag":"CONTAGEM","legenda":"..."}`

@@ -24,7 +24,29 @@
    ],
    "cta_sub": "Contagem regressiva todo dia aqui",
    "tag": "CONTAGEM",
-   "legenda": "Falta 1 semana pro GTA 6 🔥\n\nSete dias. Já separou a madrugada do dia 19?"
+   "legenda": "Falta 1 semana pro GTA 6 🔥\n\nSete dias. Já separou a madrugada do dia 19?",
+   "hora": "07:00"
+  },
+  {
+   "id": "15",
+   "hora": "08:00",
+   "formato": "post",
+   "tipo": "enquete",
+   "linhas": [
+    "MOTO",
+    "OU CARRO?"
+   ],
+   "destaque": [
+    1
+   ],
+   "opcoes": [
+    "Moto",
+    "Carro"
+   ],
+   "sub": "Pra atravessar Vice City, qual você escolhe?",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-09.jpg",
+   "cta_bio": "comunidade",
+   "legenda": "Bom dia ☀️ Pra cortar Vice City: moto ou carro?\n\nComenta A ou B."
   },
   {
    "id": "02",
@@ -74,7 +96,8 @@
    "fotos": [
     "gamer",
     "carro"
-   ]
+   ],
+   "hora": "09:00"
   },
   {
    "id": "03",
@@ -94,7 +117,8 @@
    "sub": "Comenta A ou B: qual edição você vai comprar?",
    "legenda": "Standard (R$ 449,90) ou Ultimate (R$ 549,90)? 💸\n\nComenta A ou B e diz se os R$ 100 a mais valem a pena.",
    "imagem": "gta6/banco/oficial/lugar-vice-city-10.jpg",
-   "cta_bio": "ofertas"
+   "cta_bio": "ofertas",
+   "hora": "10:00"
   },
   {
    "id": "04",
@@ -113,7 +137,65 @@
    ],
    "cta_sub": "comprar na pré-venda com você",
    "tag": "PRÉ-VENDA",
-   "legenda": "Último aviso pra quem ainda não reservou ⏰\n\nComprando antes de 20/11 você leva o Pacote Vintage Vice City e 1 mês de GTA+."
+   "legenda": "Último aviso pra quem ainda não reservou ⏰\n\nComprando antes de 20/11 você leva o Pacote Vintage Vice City e 1 mês de GTA+.",
+   "hora": "11:00"
+  },
+  {
+   "id": "13",
+   "hora": "12:00",
+   "formato": "carrossel",
+   "capa": [
+    "VOCÊ REPAROU",
+    "NISSO?"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O detalhe 3 passou batido",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "gta6/banco/oficial/pessoa-lucia-caminos-09.jpg",
+    "gta6/banco/oficial/pessoa-jason-duval-09.jpg",
+    "gta6/banco/oficial/lugar-grassrivers-06.jpg",
+    "gta6/banco/oficial/lugar-ambrosia-06.jpg",
+    "gta6/banco/oficial/pessoa-jason-and-lucia-13.jpg",
+    "gta6/banco/oficial/lugar-vice-city-27.jpg"
+   ],
+   "slides": [
+    {
+     "titulo": "A academia da Lucia",
+     "texto": "Fone, luva e a camiseta BADDIE. Ela leva o treino a sério.",
+     "puxa": "E o Jason?"
+    },
+    {
+     "titulo": "A regata do Jason",
+     "texto": "A estampa diz LEONIDA. Orgulho do estado.",
+     "puxa": "Agora o pântano"
+    },
+    {
+     "titulo": "O jacaré pendurado",
+     "texto": "Na imagem de Grassrivers tem um jacaré no gancho ao fundo.",
+     "puxa": "E a festa?"
+    },
+    {
+     "titulo": "Festa na lama",
+     "texto": "Buggy, lama e gente comemorando em Ambrosia.",
+     "puxa": "Por último"
+    },
+    {
+     "titulo": "Pôr do sol e helicóptero",
+     "texto": "Jason e Lucia no pântano, e a polícia chegando pelo céu."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "QUAL VOCÊ",
+     "NÃO VIU?"
+    ],
+    "texto": "Comenta o número do detalhe."
+   },
+   "cta_bio": "guia",
+   "legenda": "5 detalhes das imagens oficiais que passam batido 👀\n\nQual você não tinha visto? Comenta o número."
   },
   {
    "id": "05",
@@ -130,7 +212,47 @@
    "fonte": "Rockstar Games / Canaltech",
    "legenda": "Horário confirmado 🕛 GTA 6 abre à 0h do dia 19/11 no Brasil.\n\nE o pré-download já está liberado: quem fez a pré-venda digital já pode baixar. Você já começou?",
    "imagem": "gta6/banco/oficial/lugar-vice-city-12.jpg",
-   "cta_bio": "grupo"
+   "cta_bio": "grupo",
+   "hora": "13:00"
+  },
+  {
+   "id": "11",
+   "hora": "14:00",
+   "formato": "reel",
+   "linhas": [
+    "GTA 6 NÃO",
+    "RODA NO",
+    "PS4"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "Só PS5 e Xbox Series X|S",
+   "cta": [
+    "MANDA PRO",
+    "AMIGO DO PS4"
+   ],
+   "cta_sub": "Antes que ele descubra no dia 19",
+   "tag": "AVISO",
+   "cta_bio": "ofertas",
+   "legenda": "Aviso de utilidade pública ⚠️ GTA 6 não roda no PS4 nem no Xbox One.\n\nManda pro amigo que ainda não sabe."
+  },
+  {
+   "id": "16",
+   "hora": "15:00",
+   "formato": "post",
+   "tipo": "frase",
+   "linhas": [
+    "VOCÊ",
+    "REPAROU?"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "A regata do Jason diz LEONIDA",
+   "imagem": "gta6/banco/oficial/pessoa-jason-duval-09.jpg",
+   "cta_bio": "guia",
+   "legenda": "Repara na regata do Jason 👀 LEONIDA estampado no peito.\n\nQual roupa dele você quer usar no jogo?"
   },
   {
    "id": "06",
@@ -175,7 +297,25 @@
    "fotos": [
     "gamer",
     "luxo"
-   ]
+   ],
+   "hora": "16:00"
+  },
+  {
+   "id": "17",
+   "hora": "17:00",
+   "formato": "post",
+   "tipo": "frase",
+   "linhas": [
+    "MEU CHEFE",
+    "DIA 19 ÀS 8H"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Cadê aquele funcionário que pediu folga?",
+   "imagem": "gta6/banco/oficial/pessoa-jason-duval-07.jpg",
+   "cta_bio": "comunidade",
+   "legenda": "Meu chefe dia 19 às 8h procurando quem não apareceu 😂\n\nMarca o colega de trabalho que vai sumir."
   },
   {
    "id": "07",
@@ -195,23 +335,8 @@
    ],
    "cta_sub": "se tiver coragem",
    "tag": "HUMOR",
-   "legenda": "Eu pedindo folga no dia 19 😂\n\nMarca o colega que vai faltar junto."
-  },
-  {
-   "id": "08",
-   "formato": "post",
-   "tipo": "frase",
-   "linhas": [
-    "QUAL FOI SEU",
-    "PRIMEIRO GTA?"
-   ],
-   "destaque": [
-    1
-   ],
-   "sub": "Comenta aí e entrega a idade",
-   "legenda": "Qual foi o seu primeiro GTA? 👴🎮\n\nComenta e vamos descobrir quem aqui joga há mais tempo.",
-   "imagem": "gta6/banco/oficial/arte-jason-and-lucia-beach.jpg",
-   "cta_bio": "comunidade"
+   "legenda": "Eu pedindo folga no dia 19 😂\n\nMarca o colega que vai faltar junto.",
+   "hora": "18:00"
   },
   {
    "id": "09",
@@ -266,7 +391,8 @@
    "fotos": [
     "luxo",
     "policia"
-   ]
+   ],
+   "hora": "19:00"
   },
   {
    "id": "10",
@@ -285,7 +411,117 @@
    ],
    "cta_sub": "Promoção todo dia até a Black Friday",
    "tag": "GRUPO VIP",
-   "legenda": "Vai comprar console ou acessório pro GTA 6? 🛒\n\nNo grupo VIP do WhatsApp a gente manda as melhores ofertas todo dia até a Black Friday. Link na bio."
+   "legenda": "Vai comprar console ou acessório pro GTA 6? 🛒\n\nNo grupo VIP do WhatsApp a gente manda as melhores ofertas todo dia até a Black Friday. Link na bio.",
+   "hora": "20:00"
+  },
+  {
+   "id": "08",
+   "formato": "post",
+   "tipo": "frase",
+   "linhas": [
+    "QUAL FOI SEU",
+    "PRIMEIRO GTA?"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Comenta aí e entrega a idade",
+   "legenda": "Qual foi o seu primeiro GTA? 👴🎮\n\nComenta e vamos descobrir quem aqui joga há mais tempo.",
+   "imagem": "gta6/banco/oficial/arte-jason-and-lucia-beach.jpg",
+   "cta_bio": "comunidade",
+   "hora": "21:00"
+  },
+  {
+   "id": "14",
+   "hora": "22:00",
+   "formato": "carrossel",
+   "capa": [
+    "5 SINAIS QUE",
+    "VOCÊ É VICIADO"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O 5º é o mais grave",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "gamer",
+    "noite"
+   ],
+   "slides": [
+    {
+     "titulo": "Você conta os dias",
+     "texto": "Sabe exatamente quantos dias faltam sem olhar o calendário.",
+     "puxa": "Tem pior"
+    },
+    {
+     "titulo": "Já viu o trailer 50 vezes",
+     "texto": "E ainda pausa pra procurar detalhe.",
+     "puxa": "Segue"
+    },
+    {
+     "titulo": "Pediu folga dia 19",
+     "texto": "Ou está planejando um atestado estratégico.",
+     "puxa": "Esse é clássico"
+    },
+    {
+     "titulo": "Briga por Jason ou Lucia",
+     "texto": "E defende seu favorito como se fosse da família.",
+     "puxa": "O último..."
+    },
+    {
+     "titulo": "Segue o Nerd GTA",
+     "texto": "Aí não tem mais volta. Bem-vindo à família."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "QUANTOS",
+     "VOCÊ TEM?"
+    ],
+    "texto": "Comenta de 0 a 5 e marca um viciado."
+   },
+   "cta_bio": "comunidade",
+   "legenda": "5 sinais que você é viciado em GTA 😂\n\nQuantos você tem? Comenta o número e marca o amigo que tem todos."
+  },
+  {
+   "id": "12",
+   "hora": "23:00",
+   "formato": "reel",
+   "linhas": [
+    "ÚLTIMA",
+    "SEMANA DE",
+    "SOSSEGO"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "Depois do dia 19, ninguém me acha",
+   "cta": [
+    "SALVA",
+    "E COMPARTILHA"
+   ],
+   "cta_sub": "Avisa a família com antecedência",
+   "tag": "HUMOR",
+   "cta_bio": "comunidade",
+   "legenda": "Aproveita, família: é a última semana que eu saio do quarto 😂\n\nCompartilha nos stories pra avisar todo mundo."
+  },
+  {
+   "id": "18",
+   "hora": "24:00",
+   "formato": "post",
+   "tipo": "frase",
+   "linhas": [
+    "SEXTA-FEIRA 13",
+    "EM LEONIDA"
+   ],
+   "destaque": [
+    0
+   ],
+   "sub": "Até o pântano está mais assustador hoje",
+   "imagem": "gta6/banco/oficial/lugar-grassrivers-06.jpg",
+   "cta_bio": "grupo",
+   "legenda": "Sexta-feira 13 em Leonida 🐊 Faltam 6 dias.\n\nVocê é supersticioso? Comenta 🍀 ou 💀"
   }
  ]
 }

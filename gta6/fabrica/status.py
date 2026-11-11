@@ -10,16 +10,20 @@ cal_p = RAIZ / "calendario.json"
 cal = json.load(open(cal_p, encoding="utf-8")) if cal_p.exists() else []
 por_dia = {}
 for c in cal:
-    por_dia[c["data"]] = por_dia.get(c["data"], 0) + 1
+    d = c.get("pauta", c["data"])
+    por_dia[d] = por_dia.get(d, 0) + 1
+INT = CFG.get("intensivo") or {}
+def meta(d):
+    return INT.get("por_dia", 10) if INT and INT["de"] <= d <= INT["ate"] else 10
 gerar = None
 for k in range(1, 4):  # mantém até 3 dias prontos à frente
     d = (hoje + datetime.timedelta(days=k)).isoformat()
-    if por_dia.get(d, 0) < 10:
+    if por_dia.get(d, 0) < meta(d):
         gerar = d
         break
 lanc = datetime.date.fromisoformat(CFG["lancamento"])
 alvo = datetime.date.fromisoformat(gerar) if gerar else None
-recentes = [f'{c["data"]} {c["formato"]}: {c["titulo"]}' for c in cal if c["data"] >= (hoje - datetime.timedelta(days=7)).isoformat()]
+recentes = [f'{c.get("pauta", c["data"])} {c["formato"]}: {c["titulo"]}' for c in cal if c["data"] >= (hoje - datetime.timedelta(days=7)).isoformat()]
 print(json.dumps({"hoje": hoje.isoformat(), "gerar": gerar,
                   "faltam_dias_no_dia_gerado": (lanc - alvo).days if alvo else None,
                   "dias_prontos": {d: n for d, n in sorted(por_dia.items()) if d >= hoje.isoformat()},
