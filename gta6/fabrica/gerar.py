@@ -580,7 +580,122 @@ def _panorama_fotos(N, temas=None, W=1080, H=1350, seed=11):
     return img, ly
 
 
+def _grade(n, x0, y0, x1, y1, gap=12):
+    """Caixas da tela dividida para n painéis (1 a 6)."""
+    w, h = x1 - x0, y1 - y0
+    if n == 1:
+        return [(x0, y0, x1, y1)]
+    if n == 2:
+        m = y0 + h // 2
+        return [(x0, y0, x1, m - gap // 2), (x0, m + gap // 2, x1, y1)]
+    if n == 3:
+        m = y0 + int(h * 0.52); c = x0 + w // 2
+        return [(x0, y0, x1, m - gap // 2), (x0, m + gap // 2, c - gap // 2, y1), (c + gap // 2, m + gap // 2, x1, y1)]
+    cols = 2
+    rows = (n + 1) // 2
+    ch = (h - gap * (rows - 1)) // rows; cw = (w - gap) // 2
+    caixas = []
+    for i in range(n):
+        r, c = divmod(i, cols)
+        if n % 2 and i == n - 1:  # último sozinho ocupa a linha inteira
+            caixas.append((x0, y0 + r * (ch + gap), x1, y0 + r * (ch + gap) + ch))
+        else:
+            caixas.append((x0 + c * (cw + gap), y0 + r * (ch + gap), x0 + c * (cw + gap) + cw, y0 + r * (ch + gap) + ch))
+    return caixas
+
+
+def _painel(img, caixa, foto, rot="", txt="", foco=0.5):
+    x0, y0, x1, y1 = caixa
+    w, h = x1 - x0, y1 - y0
+    src = Image.open(RAIZ.parent / foto).convert("RGB")
+    r = max(w / src.width, h / src.height)
+    src = src.resize((int(src.width * r) + 1, int(src.height * r) + 1), Image.LANCZOS)
+    l = int((src.width - w) * foco); t = (src.height - h) // 2
+    ph = src.crop((l, t, l + w, t + h)).convert("RGBA")
+    veu = np.zeros((h, 1, 4), np.uint8); veu[..., :3] = (8, 2, 14)
+    ini = int(h * 0.35)
+    veu[ini:, 0, 3] = (235 * np.linspace(0, 1, h - ini) ** 1.2).astype(np.uint8)
+    ph.alpha_composite(Image.fromarray(np.repeat(veu, w, 1), "RGBA"))
+    m = Image.new("L", (w, h), 0); ImageDraw.Draw(m).rounded_rectangle([0, 0, w - 1, h - 1], 22, fill=255)
+    ph.putalpha(m)
+    img.alpha_composite(ph, (x0, y0))
+    ImageDraw.Draw(img).rounded_rectangle([x0, y0, x1 - 1, y1 - 1], 22, outline=C["magenta"] + (200,), width=3)
+    pad = 24 if w > 600 else 18
+    tr = max(30, min(52, int(h * 0.12), int(w * 0.075)))
+    tt = max(22, min(32, int(w * 0.05)))
+    blocos = []
+    if rot:
+        blocos.append(bloco_texto(rot, w - 2 * pad, tr, "900", cor=C["amarelo"], alinhar="left", espaco=1.12, caixa=False))
+    if txt:
+        blocos.append(bloco_texto(txt, w - 2 * pad, tt, "700", alinhar="left", espaco=1.25, caixa=False))
+    y = y1 - pad - sum(b.height for b in blocos) - 6 * (len(blocos) - 1)
+    for b in blocos:
+        colar(img, b, x0 + pad, y); y += b.height + 6
+
+
+def carrossel_grade(item, saida):
+    """Carrossel 'tela dividida': cada slide junta 2 a 6 imagens oficiais com informação em cada painel."""
+    W, H = 1080, 1350
+    slides = item["slides"]
+    fecho = item.get("fecho")
+    N = 1 + len(slides) + (1 if fecho else 0)
+    if N > 10:
+        raise SystemExit(f"carrossel {item['id']} com {N} imagens (máx. 10)")
+    arqs = []
+
+    def base():
+        im = Image.new("RGBA", (W, H), (11, 4, 16, 255))
+        g = np.linspace(0, 1, H)[:, None]
+        cor = (np.array([40, 8, 60]) * (1 - g) + np.array([11, 4, 16]) * g)
+        im.alpha_composite(Image.fromarray(np.repeat(np.concatenate([cor, np.full((H, 1), 255)], 1)[:, None, :], W, 1).astype(np.uint8), "RGBA"))
+        return im
+
+    def salva(im, k, puxa=None):
+        if puxa:
+            p = pilula(puxa.upper() + "  >>", 28, pad=(26, 14))
+            colar(im, p, W - 64 - p.width, H - 150)
+        moldura(im, contador=f"{k:02d}/{N:02d}", link=(k == N))
+        arqs.append(saida / f"{item['id']}_{k:02d}.jpg")
+        im.convert("RGB").save(arqs[-1], quality=90)
+
+    # capa: título + mosaico
+    capa = item["capa"]
+    im = base()
+    t = bloco_titulo(capa["titulo"], W - 120, tam=150, altura_max=330, destaque=capa.get("destaque", [1]))
+    colar(im, t, (W - t.width) / 2, 120)
+    y = 120 + t.height + 14
+    if capa.get("sub"):
+        sb = bloco_texto(capa["sub"], W - 160, 34, "700")
+        colar(im, sb, (W - sb.width) / 2, y); y += sb.height + 18
+    for cx, f in zip(_grade(len(capa["fotos"]), 48, y, W - 48, H - 175), capa["fotos"]):
+        _painel(im, cx, f)
+    salva(im, 1, item.get("puxa_capa", "Arrasta"))
+    # slides
+    for i, sl in enumerate(slides, start=2):
+        im = base()
+        t = bloco_titulo([sl["titulo"]], W - 140, tam=110, tam_min=60, altura_max=140, destaque=[0], alinhar="left")
+        colar(im, t, 60, 128)
+        y = 128 + t.height + 22
+        for cx, pn in zip(_grade(len(sl["paineis"]), 48, y, W - 48, H - 175), sl["paineis"]):
+            _painel(im, cx, pn["foto"], pn.get("rot", ""), pn.get("txt", ""), pn.get("foco", 0.5))
+        salva(im, i, sl.get("puxa"))
+    # fecho
+    if fecho:
+        im = _fundo_foto(RAIZ.parent / fecho["foto"], W, H, 0.85) if fecho.get("foto") else base()
+        im.alpha_composite(Image.new("RGBA", (W, H), (8, 2, 14, 110)))
+        ft_ = bloco_titulo(fecho["titulo"], W - 150, tam=170, destaque=[len(fecho["titulo"]) - 1])
+        colar(im, ft_, (W - ft_.width) / 2, 300)
+        tx = bloco_texto(fecho["texto"], W - 200, 42, "700")
+        colar(im, tx, (W - tx.width) / 2, 300 + ft_.height + 30)
+        cta = pilula("GRUPO VIP + OFERTAS: LINK NA BIO", 32, pad=(34, 20))
+        colar(im, cta, (W - cta.width) / 2, 300 + ft_.height + 70 + tx.height)
+        salva(im, N)
+    return arqs
+
+
 def carrossel(item, saida):
+    if item.get("estilo") == "grade":
+        return carrossel_grade(item, saida)
     W, H = 1080, 1350
     slides = item["slides"]
     com_fecho = len(slides) + 2 <= 10
@@ -848,7 +963,7 @@ def main():
             dia_pub = (datetime.date.fromisoformat(data) + datetime.timedelta(days=1)).isoformat()
             hora = "00:" + hora[3:]
         entrada = {"id": f"{data}-{item['id']}", "pauta": data, "data": dia_pub, "hora": hora,
-                   "formato": fmt, "titulo": " ".join(item.get("linhas") or item.get("capa")),
+                   "formato": fmt, "titulo": " ".join(item.get("linhas") or (item["capa"]["titulo"] if isinstance(item.get("capa"), dict) else item.get("capa"))),
                    "arquivos": [r for r in rel if not r.endswith("_capa.jpg")],
                    "legenda": legenda(item, n)}
         if fmt == "reel":

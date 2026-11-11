@@ -59,6 +59,176 @@
    "imagem": "gta6/banco/oficial/arte-jason-and-lucia-rooftop.jpg",
    "cta_bio": "comunidade",
    "legenda": "Virou o dia. Faltam 8 dias pro GTA 6 🌙\n\nQuem ainda está acordado? Comenta 🌴"
+  },
+  {
+   "id": "23",
+   "hora": "22:45",
+   "formato": "carrossel",
+   "estilo": "grade",
+   "cta_bio": "grupo",
+   "capa": {
+    "titulo": [
+     "GTA 6: TUDO",
+     "QUE JÁ SABEMOS"
+    ],
+    "destaque": [
+     1
+    ],
+    "sub": "O resumo completo em 8 telas. Salva!",
+    "fotos": [
+     "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg",
+     "gta6/banco/oficial/pessoa-lucia-caminos-10.jpg",
+     "gta6/banco/oficial/lugar-vice-city-15.jpg",
+     "gta6/banco/oficial/lugar-grassrivers-06.jpg"
+    ]
+   },
+   "puxa_capa": "Arrasta",
+   "slides": [
+    {
+     "titulo": "Quando e onde",
+     "puxa": "E o preço?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-27.jpg",
+       "rot": "19/11/2026, à meia-noite",
+       "txt": "Libera à 0h no horário local. No Brasil, 0h do dia 19."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-08.jpg",
+       "rot": "PS5 e Xbox Series X|S",
+       "txt": "PS4 e Xbox One ficaram de fora. PC ainda sem data."
+      }
+     ]
+    },
+    {
+     "titulo": "Quanto custa",
+     "puxa": "Já dá pra baixar?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/arte-jason-and-lucia-robbery.jpg",
+       "rot": "Standard: R$ 449,90",
+       "txt": "A edição padrão."
+      },
+      {
+       "foto": "gta6/banco/oficial/arte-jason-and-lucia-lock-and-load.jpg",
+       "rot": "Ultimate: R$ 549,90",
+       "txt": "A edição mais completa."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-02.jpg",
+       "rot": "Bônus até 20/11",
+       "txt": "Pacote Vintage Vice City + 1 mês de GTA+."
+      }
+     ]
+    },
+    {
+     "titulo": "Pra baixar",
+     "puxa": "Quem são eles?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-11.jpg",
+       "rot": "Pré-download liberado",
+       "txt": "Quem comprou a versão digital já pode baixar."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-10.jpg",
+       "rot": "Até 212 GB",
+       "txt": "Libere espaço no console antes do dia 19."
+      }
+     ]
+    },
+    {
+     "titulo": "Os protagonistas",
+     "puxa": "Quem mais?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-01.jpg",
+       "rot": "Jason Duval",
+       "txt": "Metade do primeiro casal de protagonistas da série."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-lucia-caminos-01.jpg",
+       "rot": "Lucia Caminos",
+       "txt": "A outra metade. Quem você joga primeiro?"
+      }
+     ]
+    },
+    {
+     "titulo": "Quem mais aparece",
+     "puxa": "E o mapa?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-cal-hampton-01.jpg",
+       "rot": "Cal Hampton"
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-boobie-ike-01.jpg",
+       "rot": "Boobie Ike"
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-drequan-priest-01.jpg",
+       "rot": "Dre'Quan Priest"
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-real-dimez-04.jpg",
+       "rot": "Real Dimez"
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-raul-bautista-01.jpg",
+       "rot": "Raul Bautista"
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-brian-heder-01.jpg",
+       "rot": "Brian Heder"
+      }
+     ]
+    },
+    {
+     "titulo": "As 6 regiões",
+     "puxa": "Salva e manda",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-01.jpg",
+       "rot": "Vice City",
+       "txt": "Neon, praia e art déco."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-01.jpg",
+       "rot": "Leonida Keys",
+       "txt": "Arquipélago tropical."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-grassrivers-01.jpg",
+       "rot": "Grassrivers",
+       "txt": "Mangue e jacaré."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-port-gellhorn-01.jpg",
+       "rot": "Port Gellhorn",
+       "txt": "O litoral esquecido."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-ambrosia-01.jpg",
+       "rot": "Ambrosia",
+       "txt": "Refinaria e motoqueiros."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-01.jpg",
+       "rot": "Mount Kalaga",
+       "txt": "Caça, pesca e trilha."
+      }
+     ]
+    }
+   ],
+   "fecho": {
+    "foto": "gta6/banco/oficial/lugar-vice-city-27.jpg",
+    "titulo": [
+     "SALVA",
+     "E MANDA"
+    ],
+    "texto": "Pro amigo que ainda pergunta \"quando sai?\""
+   },
+   "legenda": "GTA 6: tudo que já sabemos em um carrossel só 📌\n\nData, horário, preço, bônus, tamanho, personagens e as 6 regiões de Leonida. Salva pra consultar e manda pro amigo que vive perguntando."
   }
  ]
 }
