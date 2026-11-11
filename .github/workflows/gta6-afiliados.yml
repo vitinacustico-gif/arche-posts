@@ -1,0 +1,36 @@
+name: GTA 6 - identificar links de afiliado
+on:
+  push:
+    branches: [gta6]
+    paths: ["gta6/afiliados/links.txt"]
+permissions:
+  contents: write
+jobs:
+  ver:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: gta6
+      - name: Seguir os links
+        run: |
+          python3 - <<'PY'
+          import urllib.request, re, json, html
+          out = {}
+          for u in open("gta6/afiliados/links.txt").read().split():
+              try:
+                  req = urllib.request.Request(u, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/124 Safari/537.36", "Accept-Language": "pt-BR"})
+                  r = urllib.request.urlopen(req, timeout=30)
+                  body = r.read(400000).decode("utf-8", "ignore")
+                  t = re.search(r'<meta property="og:title" content="([^"]+)"', body) or re.search(r"<title>([^<]+)</title>", body)
+                  p = re.search(r'"price":\s*([0-9.]+)', body)
+                  out[u] = {"final": r.geturl(), "titulo": html.unescape(t.group(1)) if t else None, "preco": p.group(1) if p else None}
+              except Exception as e:
+                  out[u] = {"erro": str(e)}
+          json.dump(out, open("gta6/afiliados/links.json", "w"), ensure_ascii=False, indent=1)
+          print(json.dumps(out, ensure_ascii=False, indent=1))
+          PY
+      - name: Salvar
+        run: |
+          git config user.name "Claude"; git config user.email "noreply@anthropic.com"
+          git add gta6/afiliados/links.json && git commit -m "GTA 6: produtos dos links de afiliado" && git pull --rebase origin gta6 && git push origin HEAD:gta6
