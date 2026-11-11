@@ -1,0 +1,64 @@
+{
+ "data": "2026-11-10",
+ "fontes": [
+  "https://olhardigital.com.br",
+  "https://canaltech.com.br"
+ ],
+ "itens": [
+  {
+   "id": "20",
+   "hora": "22:30",
+   "formato": "post",
+   "tipo": "frase",
+   "linhas": [
+    "AMANHÃ:",
+    "1 POST POR HORA"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Das 7h à meia-noite. Ativa as notificações.",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-17.jpg",
+   "cta_bio": "grupo",
+   "legenda": "Aviso: amanhã o Nerd GTA posta de hora em hora 🔥 Das 7h à meia-noite, 3 dias seguidos.\n\nAtiva as notificações do perfil pra não perder nada. Comenta 🔔 se já ativou."
+  },
+  {
+   "id": "21",
+   "hora": "23:00",
+   "formato": "post",
+   "tipo": "enquete",
+   "linhas": [
+    "JÁ FEZ O",
+    "PRÉ-DOWNLOAD?"
+   ],
+   "destaque": [
+    1
+   ],
+   "opcoes": [
+    "Já fiz",
+    "Ainda não"
+   ],
+   "sub": "Quem comprou a versão digital já pode baixar",
+   "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg",
+   "cta_bio": "ofertas",
+   "legenda": "O pré-download do GTA 6 já foi liberado pra quem comprou a versão digital ⬇️\n\nVocê já baixou? Comenta A ou B."
+  },
+  {
+   "id": "22",
+   "hora": "24:00",
+   "formato": "post",
+   "tipo": "frase",
+   "linhas": [
+    "MEIA-NOITE.",
+    "FALTAM 8 DIAS"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Quem ainda está acordado?",
+   "imagem": "gta6/banco/oficial/arte-jason-and-lucia-rooftop.jpg",
+   "cta_bio": "comunidade",
+   "legenda": "Virou o dia. Faltam 8 dias pro GTA 6 🌙\n\nQuem ainda está acordado? Comenta 🌴"
+  }
+ ]
+}
