@@ -1,0 +1,616 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Nerd GTA · GTA 6 em português · uma extensão Arche Agência</title>
+<meta name="description" content="Nerd GTA: tudo do GTA 6 em português. Contagem regressiva, grupo VIP de ofertas, quiz, checklist do lançamento e o guia em PT-BR. Página de fã.">
+<meta property="og:title" content="Nerd GTA · GTA 6 em português">
+<meta property="og:description" content="Grupo VIP de ofertas, guia em PT-BR e contagem regressiva pro GTA 6.">
+<meta property="og:locale" content="pt_BR">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Space+Mono:wght@700&display=swap" rel="stylesheet">
+<script>
+/* ===== CONFIGURAÇÃO: edite só aqui ===== */
+window.GTA6_CONFIG = {
+  instagram: "nerd_gta",
+  grupoVip: "https://chat.whatsapp.com/DHmNsUkOzG5F9zJ2N6FEnd",
+  whatsapp: "5527999548690",          /* recebe a lista de espera do guia */
+  guiaLink: "",                       /* link de venda do guia (Kiwify/Hotmart) quando estiver pronto */
+  lancamento: "2026-11-19T00:00:00-03:00",
+  /* Cole aqui seus links de afiliado (Mercado Livre, Amazon, Shopee). Sem link, o botão manda pro Grupo VIP. */
+  produtos: {
+    "O jogo": [
+      {id: "gta6", nome: "GTA VI para PS5", desc: "A mídia do jogo pra PlayStation 5. Garanta antes do dia 19.", link: "https://meli.la/2E5ZnSN"}
+    ],
+    "Consoles": [
+      {id: "ps5", nome: "PlayStation 5 Slim Digital", desc: "Pacote com Astro Bot e Gran Turismo 7. Pronto pra Leonida.", link: "https://meli.la/11xJnBz"},
+      {id: "xbox", nome: "Xbox Series X|S", desc: "A outra porta de entrada pra Leonida no dia 19.", link: ""}
+    ],
+    "Acessórios": [
+      {id: "controle", nome: "Controle Xbox Carbon Black", desc: "Controle sem fio oficial Microsoft pra Xbox Series X|S e PC.", link: "https://meli.la/1QojQ9D"},
+      {id: "headset", nome: "Headset gamer RGB", desc: "Com microfone, funciona no PS5, Xbox, PC e celular.", link: "https://meli.la/33DSzfC"},
+      {id: "ssd", nome: "Armazenamento extra", desc: "O jogo pode passar de 200 GB. Espaço sem apagar os outros.", link: ""}
+    ],
+    "Setup": [
+      {id: "tv", nome: "Smart TV TCL 43\" QLED", desc: "Cores vivas pra ver o pôr do sol de Vice City do jeito certo.", link: "https://meli.la/1gjgV1M"},
+      {id: "caixa", nome: "Caixa JBL Boombox 4", desc: "Som alto pra rádio de Vice City tocar na casa toda.", link: "https://meli.la/2Bi1okg"}
+    ],
+    "Presentes": [
+      {id: "psn", nome: "Cartão presente PSN R$ 550", desc: "Digital: dá pra comprar o jogo ou presentear quem vai jogar.", link: "https://meli.la/21oNSCo"},
+      {id: "xboxgift", nome: "Cartão presente Xbox", desc: "Crédito na Loja Xbox.", link: ""}
+    ]
+  },
+  /* setup indicado para cada resultado do quiz (ids acima) */
+  perfis: {
+    E: ["gta6", "headset", "ssd"],
+    C: ["gta6", "controle", "caixa"],
+    H: ["gta6", "tv", "headset"],
+    N: ["gta6", "ps5", "tv"]
+  },
+  diasLancamento: 7   /* dias depois do lançamento em que a página fica no modo "já saiu" */
+};
+</script>
+<style>
+:root{--bg:#050505;--card:#0f0f0f;--card2:#181818;--mag:#E5152D;--rosa:#FF3347;--ama:#FFFFFF;--lar:#7A0A15;--cia:#E5152D;--sub:#CFCFCF;--wa:#25D366}
+*{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:#fff;font-family:'Space Grotesk',system-ui,-apple-system,Segoe UI,Roboto,sans-serif;line-height:1.5;-webkit-font-smoothing:antialiased;overflow-x:hidden}
+a{color:inherit}
+img{display:block;max-width:100%}
+.wrap{max-width:560px;margin:0 auto;padding:0 20px}
+.top{position:fixed;inset:0 0 auto 0;z-index:20;transition:background .3s,backdrop-filter .3s}
+.top.solid{background:rgba(5,5,5,.86);backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px);border-bottom:1px solid rgba(255,255,255,.06)}
+.top .wrap{display:flex;align-items:center;justify-content:space-between;height:58px}
+.handle{font-weight:900;font-size:16px;display:flex;align-items:center;gap:8px;text-decoration:none;text-shadow:0 2px 8px rgba(0,0,0,.6)}
+.handle:before{content:"";width:10px;height:10px;border-radius:50%;background:var(--mag);box-shadow:0 0 12px var(--mag)}
+.fan{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;opacity:.75}
+
+/* HERO */
+.hero{position:relative;min-height:100svh;min-height:640px;display:flex;align-items:flex-end;overflow:hidden}
+.slides{position:absolute;inset:0}
+.slides img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;opacity:0;transform:scale(1.12);transition:opacity 1.4s ease}
+.slides img.on{opacity:1;animation:kb 7s ease-out forwards}
+@keyframes kb{from{transform:scale(1.12)}to{transform:scale(1.0)}}
+.hero:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(5,5,5,.55) 0%,rgba(5,5,5,.05) 30%,rgba(5,5,5,.55) 62%,var(--bg) 100%)}
+.hero .wrap{position:relative;z-index:2;width:100%;padding-top:90px;padding-bottom:30px;text-align:center}
+.tit{width:min(70%,320px);height:auto;margin:0 auto;filter:drop-shadow(0 12px 30px rgba(0,0,0,.55));animation:pop .9s cubic-bezier(.2,1.4,.4,1) both}
+@keyframes pop{from{transform:scale(.6);opacity:0}to{transform:scale(1);opacity:1}}
+.lead{margin:14px auto 0;max-width:400px;font-size:17px;font-weight:700;color:var(--sub);text-shadow:0 2px 12px rgba(0,0,0,.8)}
+.cdlabel{margin-top:22px;font-size:12px;font-weight:900;letter-spacing:.16em;text-transform:uppercase;color:var(--rosa)}
+.cd{margin:10px auto 0;display:grid;grid-template-columns:repeat(4,1fr);gap:8px;max-width:400px}
+.cd div{background:rgba(16,16,16,.78);backdrop-filter:blur(6px);-webkit-backdrop-filter:blur(6px);border:1px solid rgba(255,51,71,.4);border-radius:14px;padding:12px 4px;box-shadow:0 0 24px rgba(229,21,45,.15) inset}
+.cd b{display:block;font-size:30px;font-weight:900;line-height:1;color:var(--ama);font-variant-numeric:tabular-nums;transition:transform .25s}
+.cd b.tick{transform:translateY(-3px) scale(1.08)}
+.cd span{font-size:11px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;opacity:.75}
+.ctas{display:grid;gap:12px;margin-top:22px}
+.btn{position:relative;overflow:hidden;display:flex;align-items:center;justify-content:center;gap:10px;width:100%;min-height:58px;padding:14px 20px;border-radius:999px;font-weight:900;font-size:16px;text-decoration:none;text-align:center;border:0;cursor:pointer;font-family:inherit;transition:transform .15s}
+.btn:active{transform:scale(.97)}
+.btn.wa{background:var(--wa);color:#04200d;box-shadow:0 10px 30px rgba(37,211,102,.32)}
+.btn.wa:after{content:"";position:absolute;top:0;left:-60%;width:40%;height:100%;background:linear-gradient(90deg,transparent,rgba(255,255,255,.45),transparent);transform:skewX(-20deg);animation:brilho 3.2s infinite}
+@keyframes brilho{0%,60%{left:-60%}100%{left:130%}}
+.btn.mag{background:var(--mag);color:#fff;box-shadow:0 10px 30px rgba(229,21,45,.32)}
+.btn.out{border:2px solid rgba(255,255,255,.3);color:#fff;background:rgba(5,5,5,.35)}
+.btn svg{width:22px;height:22px;flex:none}
+.prova{margin-top:14px;font-size:13px;color:var(--sub);opacity:.85}
+.prova b{color:#fff}
+
+/* faixa */
+.marquee{overflow:hidden;border-block:1px solid rgba(255,255,255,.08);background:linear-gradient(90deg,#160204,#2a0508);padding:12px 0}
+.marquee div{display:flex;gap:28px;width:max-content;animation:mq 26s linear infinite;font-weight:900;font-size:14px;letter-spacing:.12em;text-transform:uppercase;white-space:nowrap}
+.marquee span:nth-child(odd){color:var(--ama)}
+@keyframes mq{to{transform:translateX(-50%)}}
+
+section{padding:48px 0 4px}
+.sectit{display:block;width:auto;max-width:86%;height:auto;max-height:110px;margin:0 auto 14px}
+.sub{text-align:center;color:var(--sub);font-size:15px;margin:0 auto 22px;max-width:440px}
+.card{background:var(--card);border:1px solid rgba(255,255,255,.07);border-radius:22px;padding:22px}
+.reveal{opacity:0;transform:translateY(26px);transition:opacity .7s ease,transform .7s ease}
+.reveal.in{opacity:1;transform:none}
+
+/* galeria */
+.gal{display:flex;gap:14px;overflow-x:auto;scroll-snap-type:x mandatory;padding:4px 20px 14px;margin:0 -20px;scrollbar-width:none}
+.gal::-webkit-scrollbar{display:none}
+.gal figure{flex:0 0 78%;scroll-snap-align:center;position:relative;border-radius:22px;overflow:hidden;aspect-ratio:4/5;box-shadow:0 18px 40px rgba(0,0,0,.45)}
+.gal img{width:100%;height:100%;object-fit:cover;transition:transform .6s}
+.gal figure:hover img{transform:scale(1.05)}
+.gal figcaption{position:absolute;inset:auto 0 0 0;padding:40px 18px 18px;background:linear-gradient(180deg,transparent,rgba(5,5,5,.92))}
+.gal figcaption b{display:block;font-size:19px;font-weight:900}
+.gal figcaption span{font-size:13px;color:var(--sub)}
+.pers{display:grid;grid-template-columns:repeat(2,1fr);gap:12px;margin-bottom:18px}
+@media(min-width:700px){.pers{grid-template-columns:repeat(4,1fr)}}
+.pers figure{position:relative;margin:0;border-radius:18px;overflow:hidden;aspect-ratio:3/4;cursor:pointer;box-shadow:0 12px 28px rgba(0,0,0,.4);outline:3px solid transparent;transition:outline-color .2s,transform .2s}
+.pers img{width:100%;height:100%;object-fit:cover;transition:transform .5s}
+.pers figure:hover img{transform:scale(1.06)}
+.pers figure.on{outline-color:var(--mag,#E5152D);transform:translateY(-3px)}
+.pers figcaption{position:absolute;inset:auto 0 0 0;padding:30px 12px 12px;background:linear-gradient(180deg,transparent,rgba(5,5,5,.92));font-weight:900;font-size:15px}
+.pers figure.on figcaption:after{content:" ★";color:#E5152D}
+.pbtn{display:flex;justify-content:center}
+.dots{display:flex;justify-content:center;gap:6px;margin-top:4px}
+.dots i{width:7px;height:7px;border-radius:50%;background:rgba(255,255,255,.25);transition:all .3s}
+.dots i.on{width:20px;border-radius:4px;background:var(--mag)}
+
+/* quiz */
+.quiz .q{font-size:19px;font-weight:900;margin-bottom:14px;line-height:1.3}
+.quiz .ops{display:grid;gap:10px}
+.quiz .op{background:var(--card2);border:1px solid rgba(255,255,255,.1);color:#fff;border-radius:14px;padding:14px 16px;font:700 15px 'Space Grotesk',sans-serif;text-align:left;cursor:pointer;transition:all .2s}
+.quiz .op:hover{border-color:var(--rosa)}
+.quiz .op.sel{background:var(--mag);border-color:var(--mag);transform:scale(.98)}
+.barra{height:6px;background:rgba(255,255,255,.1);border-radius:3px;margin-bottom:18px;overflow:hidden}
+.barra i{display:block;height:100%;width:0;background:linear-gradient(90deg,var(--mag),var(--lar));transition:width .4s}
+.res{text-align:center;animation:pop .6s cubic-bezier(.2,1.4,.4,1) both}
+.res .emo{font-size:56px;line-height:1}
+.res h3{font-size:26px;font-weight:900;margin:8px 0 6px;color:var(--ama)}
+.res p{color:var(--sub);margin-bottom:16px}
+.link{background:none;border:0;color:var(--rosa);font:700 14px 'Space Grotesk',sans-serif;margin-top:12px;cursor:pointer;text-decoration:underline}
+
+/* checklist */
+.chk{list-style:none;display:grid;gap:10px}
+.chk label{display:flex;gap:12px;align-items:center;background:var(--card2);border-radius:14px;padding:14px;font-weight:700;font-size:15px;cursor:pointer;transition:opacity .3s}
+.chk input{appearance:none;-webkit-appearance:none;flex:none;width:26px;height:26px;border-radius:8px;border:2px solid var(--rosa);display:grid;place-content:center;cursor:pointer;transition:all .2s}
+.chk input:checked{background:var(--mag);border-color:var(--mag)}
+.chk input:checked:after{content:"";width:12px;height:7px;border:3px solid #fff;border-top:0;border-right:0;transform:rotate(-45deg) translate(1px,-1px)}
+.chk label:has(input:checked){opacity:.6}
+.chk label:has(input:checked) span{text-decoration:line-through}
+.prog{display:flex;justify-content:space-between;font-size:13px;font-weight:700;color:var(--sub);margin:16px 0 6px}
+
+/* setup */
+.tabs{display:flex;gap:8px;margin-bottom:14px;overflow-x:auto;scrollbar-width:none}
+.tabs button{flex:none;background:var(--card2);border:1px solid rgba(255,255,255,.12);color:#fff;border-radius:999px;padding:10px 16px;font:900 13px 'Space Grotesk',sans-serif;cursor:pointer;transition:all .2s}
+.tabs button.on{background:#fff;color:#050505}
+.prods{display:grid;gap:10px}
+.prod{display:flex;gap:14px;align-items:center;background:var(--card);border:1px solid rgba(255,255,255,.07);border-radius:18px;padding:14px;animation:pop .4s ease both}
+.prod .ic{flex:none;width:46px;height:46px;border-radius:14px;background:linear-gradient(135deg,var(--mag),var(--lar));display:grid;place-content:center;font-weight:900;font-size:19px}
+.prod .tx{flex:1;min-width:0}
+.prod h3{font-size:15px;font-weight:900;line-height:1.25}
+.prod p{font-size:13px;color:var(--sub);opacity:.85}
+.prod a{flex:none;font-size:12px;font-weight:900;text-decoration:none;padding:10px 12px;border-radius:999px;background:var(--card2);border:1px solid rgba(255,51,71,.55);white-space:nowrap}
+.banner{position:relative;border-radius:22px;overflow:hidden;margin-bottom:14px}
+.banner img{width:100%;height:170px;object-fit:cover}
+.nota{font-size:12px;opacity:.6;text-align:center;margin-top:14px}
+
+/* vip / guia */
+.foto{position:relative;border-radius:22px;overflow:hidden;min-height:260px;display:flex;align-items:flex-end}
+.foto>img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover}
+.foto:after{content:"";position:absolute;inset:0;background:linear-gradient(180deg,rgba(5,5,5,.1) 0%,rgba(5,5,5,.92) 70%)}
+.foto .in{position:relative;z-index:1;padding:22px;width:100%}
+.lista{list-style:none;display:grid;gap:10px;margin:6px 0 18px}
+.lista li{display:flex;gap:10px;align-items:flex-start;font-weight:700;font-size:15px}
+.lista li:before{content:"";flex:none;width:20px;height:20px;margin-top:2px;border-radius:50%;background:var(--mag) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath d='M6 12.5l4 4L18 8' fill='none' stroke='white' stroke-width='3' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E") center/14px no-repeat}
+.selo{display:inline-block;font-size:11px;font-weight:900;letter-spacing:.1em;text-transform:uppercase;background:var(--ama);color:#1b0b00;border-radius:999px;padding:6px 12px;margin-bottom:10px}
+.foto h3{font-size:22px;font-weight:900;line-height:1.2;margin-bottom:6px}
+.foto p{color:var(--sub);margin-bottom:14px}
+
+/* fases */
+[data-fase]{display:none}
+body.f-pre [data-fase~="pre"],body.f-lanc [data-fase~="lanc"],body.f-pos [data-fase~="pos"]{display:block}
+/* assistente */
+.chat{display:flex;flex-direction:column;gap:10px;max-height:430px;overflow-y:auto;padding:16px;scroll-behavior:smooth}
+.msg{max-width:86%;padding:11px 14px;border-radius:18px;font-size:15px;line-height:1.45;animation:pop .35s ease both;white-space:pre-line}
+.msg.bot{background:var(--card2);border-top-left-radius:6px;align-self:flex-start}
+.msg.eu{background:var(--mag);color:#fff;border-top-right-radius:6px;align-self:flex-end}
+.msg a.mini{display:inline-flex;margin-top:9px;margin-right:6px;padding:8px 12px;border-radius:999px;background:#fff;color:#050505;font:900 12px 'Space Grotesk',sans-serif;text-decoration:none}
+.msg a.mini.wa{background:var(--wa)}
+.digit{display:inline-flex;gap:4px}.digit i{width:7px;height:7px;border-radius:50%;background:var(--sub);opacity:.5;animation:pisca 1s infinite}.digit i:nth-child(2){animation-delay:.15s}.digit i:nth-child(3){animation-delay:.3s}
+@keyframes pisca{50%{opacity:1;transform:translateY(-3px)}}
+.chips{display:flex;gap:8px;overflow-x:auto;padding:0 16px 12px;scrollbar-width:none}.chips::-webkit-scrollbar{display:none}
+.chips button{flex:none;background:transparent;border:1px solid rgba(255,255,255,.22);color:#fff;border-radius:999px;padding:8px 13px;font:700 13px 'Space Grotesk',sans-serif;cursor:pointer}
+.perg{display:flex;gap:8px;padding:12px 16px 16px;border-top:1px solid rgba(255,255,255,.08)}
+.perg input{flex:1;min-width:0;background:var(--bg);border:1px solid rgba(255,255,255,.16);border-radius:999px;color:#fff;padding:13px 16px;font:400 15px 'Space Grotesk',sans-serif}
+.perg button{flex:none;background:var(--mag);border:0;color:#fff;border-radius:999px;padding:0 18px;font:900 14px 'Space Grotesk',sans-serif;cursor:pointer}
+.fab{position:fixed;right:16px;bottom:86px;z-index:31;width:58px;height:58px;border-radius:50%;border:0;background:var(--mag);color:#fff;font:900 22px 'Space Grotesk',sans-serif;box-shadow:0 10px 30px rgba(229,21,45,.5);cursor:pointer;transform:scale(0);transition:transform .3s}
+.fab.on{transform:scale(1)}
+/* setup ideal do quiz */
+.ideal{margin-top:16px;text-align:left}
+.ideal h4{font-size:13px;letter-spacing:.14em;text-transform:uppercase;color:var(--rosa);margin:0 0 10px}
+.prod.match{outline:2px solid var(--ama)}
+.prods{grid-template-columns:minmax(0,1fr)}
+.ideal .prod{padding:12px;gap:10px}.ideal .prod .ic{width:40px;height:40px}.ideal .prod a{padding:9px 10px}.ideal .prod p{margin:0}
+.prod .tagm{display:inline-block;margin-bottom:4px;font-size:11px;font-weight:900;color:#050505;background:var(--ama);border-radius:999px;padding:2px 8px}
+.faseband{margin:0 auto 16px;max-width:520px;text-align:center;font-weight:900;font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--ama)}
+/* identidade Arche */
+.cd b{color:var(--mag)}
+.fan.arche{color:#fff;text-decoration:none;opacity:1;font-family:'Space Mono',monospace;border:1px solid rgba(255,255,255,.25);padding:6px 10px;border-radius:4px}
+.fan.arche b{color:var(--mag)}
+.cdlabel,.faseband,.ideal h4,.selo,.tagm{font-family:'Space Mono',monospace}
+.selo,.prod .tagm{color:#050505}
+.btn,.tabs button,.chips button,.perg input,.perg button,.msg a.mini,.prod a,.selo{border-radius:6px!important}
+.card,.prod,.gal figure,.pers figure,.foto,.banner{border-radius:10px!important}
+.arche-ext{margin:40px auto 0;max-width:560px;border:1px solid rgba(229,21,45,.5);border-radius:10px;padding:26px 22px;text-align:center;background:linear-gradient(180deg,rgba(229,21,45,.12),transparent)}
+.arche-ext .marca{font:700 26px 'Space Grotesk',sans-serif;letter-spacing:.04em}
+.arche-ext .marca b{color:var(--mag)}
+.arche-ext .tag{font:700 11px 'Space Mono',monospace;letter-spacing:.18em;text-transform:uppercase;color:var(--sub);margin:4px 0 14px}
+.arche-ext p{color:var(--sub);font-size:15px;margin-bottom:16px}
+.btn.arche-btn{background:var(--mag);color:#fff;box-shadow:0 10px 30px rgba(229,21,45,.35)}
+footer{opacity:1}footer>div>p{opacity:.6}
+/* barra fixa */
+.fixo{position:fixed;left:0;right:0;bottom:0;z-index:30;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:linear-gradient(180deg,transparent,rgba(5,5,5,.95) 35%);transform:translateY(110%);transition:transform .35s ease}
+.fixo.on{transform:none}
+.fixo .btn{max-width:520px;margin:0 auto;min-height:54px}
+footer{padding:44px 0 110px;text-align:center;font-size:12px}footer p{opacity:.6}
+footer p+p{margin-top:8px}
+@media (prefers-reduced-motion:reduce){*{animation:none!important;transition:none!important}.reveal{opacity:1;transform:none}.slides img.on{opacity:1}}
+</style>
+</head>
+<body>
+<header class="top" id="top"><div class="wrap"><a class="handle" id="igTop" href="#" target="_blank" rel="noopener">@nerd_gta</a><a class="fan arche" href="https://archeagencia.com.br" target="_blank" rel="noopener">Uma extensão <b>ARCHE</b></a></div></header>
+
+<main>
+<div class="hero">
+  <div class="slides" id="slides">
+    <img class="on" alt="" src="data:image/webp;base64,{{HERO1}}">
+    <img alt="" src="data:image/webp;base64,{{HERO2}}">
+    <img alt="" src="data:image/webp;base64,{{HERO3}}">
+  </div>
+  <div class="wrap">
+    <h1><img class="tit" alt="Nerd GTA" src="data:image/webp;base64,{{T_titulo}}"></h1>
+    <p class="lead" data-fase="pre">Tudo do GTA 6 em português. Monte seu setup antes do dia 19 e tire suas dúvidas aqui.</p>
+    <p class="lead" data-fase="lanc">GTA 6 chegou! Dúvidas, dicas das primeiras horas e as ofertas pra jogar melhor.</p>
+    <p class="lead" data-fase="pos">Tudo do GTA 6 em português: dicas, dúvidas e as melhores ofertas pra jogar.</p>
+    <div class="cdlabel" id="cdlabel">Faltam para o lançamento</div>
+    <div class="cd" id="cd" aria-live="polite">
+      <div><b id="cdD">--</b><span>dias</span></div>
+      <div><b id="cdH">--</b><span>horas</span></div>
+      <div><b id="cdM">--</b><span>min</span></div>
+      <div><b id="cdS">--</b><span>seg</span></div>
+    </div>
+    <div class="ctas">
+      <a class="btn mag" id="btnJogo" href="#" target="_blank" rel="noopener sponsored">Garantir o GTA 6 (PS5)</a>
+      <a class="btn wa js-vip" href="#" target="_blank" rel="noopener">{{WA}}Entrar no Grupo VIP</a>
+      <a class="btn out" href="#quiz">Fazer o quiz: que jogador você é?</a>
+    </div>
+    <p class="prova">Comunidade <b>grátis</b> no WhatsApp · ofertas e dicas todo dia</p>
+  </div>
+</div>
+
+<div class="marquee" aria-hidden="true"><div id="mq"></div></div>
+
+<div class="wrap">
+  <section id="nerd" class="reveal">
+    <img class="sectit" alt="Pergunte ao Nerd" src="data:image/webp;base64,{{T_t_nerd}}">
+    <p class="sub">Tira sua dúvida sobre o GTA 6 agora. Se eu não souber, te levo pra quem sabe.</p>
+    <div class="card" style="padding:0">
+      <div class="chat" id="chat" aria-live="polite"></div>
+      <div class="chips" id="chips"></div>
+      <form class="perg" id="perg"><input id="pin" autocomplete="off" placeholder="Ex.: roda no PS4? quanto custa?" aria-label="Sua pergunta"><button type="submit">Enviar</button></form>
+    </div>
+  </section>
+
+  <section class="reveal">
+    <img class="sectit" alt="Conheça Leonida" src="data:image/webp;base64,{{T_t_vice}}">
+    <p class="sub">As 6 regiões do mapa que a Rockstar já mostrou. Arrasta pro lado.</p>
+    <div class="gal" id="gal"></div>
+    <div class="dots" id="dots"></div>
+  </section>
+
+  <section class="reveal">
+    <img class="sectit" alt="Personagens" src="data:image/webp;base64,{{T_t_pers}}">
+    <p class="sub">Quem você vai encontrar em Leonida. Toca no seu favorito e conta no grupo.</p>
+    <div class="pers" id="pers"></div>
+    <a class="btn wa js-vip pbtn" href="#" target="_blank" rel="noopener">Votar no meu favorito no Grupo VIP</a>
+  </section>
+
+  <section id="quiz" class="reveal">
+    <img class="sectit" alt="Que jogador você é?" src="data:image/webp;base64,{{T_t_quiz}}">
+    <p class="sub">4 perguntas rápidas e eu te mostro o setup ideal pro seu jeito de jogar.</p>
+    <div class="card quiz" id="quizBox"></div>
+  </section>
+
+  <section class="reveal">
+    <img class="sectit" alt="Checklist do dia 19" src="data:image/webp;base64,{{T_t_check}}">
+    <p class="sub">Marca o que já fez. Fica salvo neste aparelho.</p>
+    <div class="card">
+      <ul class="chk" id="chk"></ul>
+      <div class="prog"><span>Seu preparo</span><span id="pct">0%</span></div>
+      <div class="barra" style="margin:0"><i id="pbar"></i></div>
+    </div>
+  </section>
+
+  <section id="setup" class="reveal">
+    <img class="sectit" alt="Monte seu setup" src="data:image/webp;base64,{{T_t_setup}}">
+    <div class="banner"><img alt="" src="data:image/webp;base64,{{SETUP}}"></div>
+    <p class="faseband" data-fase="pre">Monte antes do dia 19 · chega a tempo?</p>
+    <p class="faseband" data-fase="lanc">Já tá jogando? Melhora a experiência</p>
+    <div class="tabs" id="tabs"></div>
+    <div class="prods" id="prods"></div>
+    <p class="nota">Alguns links são de afiliado: se você comprar, a página pode ganhar uma comissão, sem custo extra pra você.</p>
+  </section>
+
+  <section id="vip" class="reveal">
+    <img class="sectit" alt="Grupo VIP" src="data:image/webp;base64,{{T_t_vip}}">
+    <div class="foto">
+      <img alt="" src="data:image/webp;base64,{{VIP}}">
+      <div class="in">
+        <ul class="lista">
+          <li>Ofertas de PS5, Xbox e acessórios todo dia até a Black Friday</li>
+          <li>Alerta de golpe antes de você comprar</li>
+          <li>Dicas na semana do lançamento, antes de todo mundo</li>
+          <li>Preço especial no guia em PT-BR</li>
+        </ul>
+        <a class="btn wa js-vip" href="#" target="_blank" rel="noopener">{{WA}}Entrar no grupo agora</a>
+      </div>
+    </div>
+  </section>
+
+  <section id="guia" class="reveal">
+    <img class="sectit" alt="O guia" src="data:image/webp;base64,{{T_t_guia}}">
+    <div class="foto">
+      <img alt="" src="data:image/webp;base64,{{GUIA}}">
+      <div class="in">
+        <span class="selo" id="guiaSelo">Lista de espera aberta</span>
+        <h3>Guia GTA 6 em PT-BR</h3>
+        <p>As primeiras horas sem se perder, como fazer dinheiro rápido, os veículos e os lugares escondidos de Leonida.</p>
+        <a class="btn mag" id="guiaBtn" href="#" target="_blank" rel="noopener">Entrar na lista de espera</a>
+      </div>
+    </div>
+  </section>
+</div>
+</main>
+
+<button class="fab" id="fab" type="button" aria-label="Pergunte ao Nerd">?</button>
+<div class="fixo" id="fixo"><a class="btn wa js-vip" href="#" target="_blank" rel="noopener">{{WA}}Entrar no Grupo VIP · grátis</a></div>
+
+<footer><div class="wrap">
+  <div class="arche-ext">
+    <div class="marca">ARCHE <b>AGÊNCIA</b></div>
+    <div class="tag">Vendas &amp; Growth Marketing</div>
+    <p>O Nerd GTA é uma extensão da Arche. Quer uma página assim, que vende sozinha, pro seu negócio?</p>
+    <a class="btn arche-btn" id="archeBtn" href="#" target="_blank" rel="noopener">Falar com a Arche no WhatsApp</a>
+  </div>
+  <p>Página de fã, sem vínculo com a Rockstar Games ou a Take-Two Interactive. GTA e Grand Theft Auto são marcas dos seus donos.</p>
+  <p>Imagens oficiais: Rockstar Games.</p>
+  <p>© <span id="ano"></span> Nerd GTA</p>
+</div></footer>
+
+<script>
+(function(){
+  var C = window.GTA6_CONFIG, $ = function(id){ return document.getElementById(id); };
+  function wa(msg){ return "https://wa.me/" + C.whatsapp + "?text=" + encodeURIComponent(msg); }
+  var vip = C.grupoVip || wa("Quero entrar no Grupo VIP do GTA 6!");
+  document.querySelectorAll(".js-vip").forEach(function(a){ a.href = vip; });
+  var ig = "https://instagram.com/" + C.instagram;
+  $("igTop").href = ig; $("igTop").textContent = "@" + C.instagram;
+  var gb = $("guiaBtn");
+  if (C.guiaLink) { gb.href = C.guiaLink; gb.textContent = "Quero o guia agora"; $("guiaSelo").textContent = "Disponível"; }
+  else gb.href = wa("Quero entrar na lista de espera do guia do GTA 6 em PT-BR!");
+  $("ano").textContent = new Date().getFullYear();
+  $("archeBtn").href = wa("Vi a página do Nerd GTA e quero uma página assim pro meu negócio!");
+
+  /* ===== fase automática: pre (antes do lançamento), lanc (primeiros dias), pos ===== */
+  var LANC = Date.parse(C.lancamento);
+  function faseAgora(){
+    var f = (location.search.match(/fase=(pre|lanc|pos)/) || [])[1];
+    if (f) return f;
+    var agora = Date.now();
+    if (agora < LANC) return "pre";
+    return agora < LANC + (C.diasLancamento || 7) * 864e5 ? "lanc" : "pos";
+  }
+  var FASE = faseAgora();
+  document.body.classList.add("f-" + FASE);
+  var fixoTxt = {pre: "Entrar no Grupo VIP · grátis", lanc: "Dicas do dia 1 no Grupo VIP", pos: "Ofertas e dicas no Grupo VIP"}[FASE];
+  var fx = $("fixo").querySelector("a"); fx.lastChild.textContent = fixoTxt;
+
+  /* produtos por id */
+  var PROD = {};
+  Object.keys(C.produtos).forEach(function(cat){ C.produtos[cat].forEach(function(p){ PROD[p.id] = p; }); });
+  function linkProd(p){ return p.link || vip; }
+  if (PROD.gta6 && PROD.gta6.link) $("btnJogo").href = PROD.gta6.link; else $("btnJogo").style.display = "none";
+  if (FASE !== "pre") $("btnJogo").textContent = "Comprar o GTA 6 (PS5)";
+  function rotuloProd(p){ return p.link ? "Ver oferta" : "Pedir no grupo"; }
+
+  /* topo + barra fixa */
+  addEventListener("scroll", function(){
+    var y = scrollY;
+    $("top").classList.toggle("solid", y > 40);
+    $("fixo").classList.toggle("on", y > innerHeight * 0.9 && (innerHeight + y) < document.body.scrollHeight - 140);
+  }, {passive: true});
+
+  /* slides do topo */
+  var sl = $("slides").children, si = 0;
+  setInterval(function(){ sl[si].classList.remove("on"); si = (si + 1) % sl.length; void sl[si].offsetWidth; sl[si].classList.add("on"); }, 5200);
+
+  /* faixa */
+  var itens = ["GTA 6", "19/11", "Vice City", "Leonida", "PS5", "Xbox Series", "Lucia e Jason", "Grupo VIP", "Guia PT-BR"];
+  var h = ""; for (var r = 0; r < 4; r++) itens.forEach(function(t){ h += "<span>" + t + "</span><span>★</span>"; });
+  $("mq").innerHTML = h;
+
+  /* contagem */
+  var alvo = Date.parse(C.lancamento), ult = {};
+  function pad(n){ return (n < 10 ? "0" : "") + n; }
+  function put(id, v){ var e = $(id); if (ult[id] !== v) { e.textContent = v; e.classList.add("tick"); setTimeout(function(){ e.classList.remove("tick"); }, 220); ult[id] = v; } }
+  (function tick(){
+    var s = Math.floor((alvo - Date.now()) / 1000);
+    if (s <= 0) { $("cdlabel").textContent = "GTA 6 já está no ar"; $("cd").style.display = "none"; return; }
+    put("cdD", String(Math.floor(s / 86400))); put("cdH", pad(Math.floor(s % 86400 / 3600)));
+    put("cdM", pad(Math.floor(s % 3600 / 60))); put("cdS", pad(s % 60));
+    setTimeout(tick, 1000);
+  })();
+
+  /* galeria */
+  var G = {{GAL}}, gal = $("gal"), dots = $("dots");
+  G.forEach(function(g, i){
+    var f = document.createElement("figure");
+    f.innerHTML = '<img loading="lazy" alt="" src="data:image/webp;base64,' + g.img + '"><figcaption><b></b><span></span></figcaption>';
+    f.querySelector("b").textContent = g.t; f.querySelector("span").textContent = g.s;
+    gal.appendChild(f); dots.appendChild(document.createElement("i"));
+  });
+  function marca(){ var w = gal.firstChild.offsetWidth + 14, k = Math.round(gal.scrollLeft / w);
+    [].forEach.call(dots.children, function(d, j){ d.classList.toggle("on", j === k); }); }
+  gal.addEventListener("scroll", marca, {passive: true}); marca();
+
+  /* personagens */
+  var P = {{PERS}}, pe = $("pers"), fav = null;
+  try { fav = localStorage.getItem("nerdgta_fav"); } catch(e) {}
+  P.forEach(function(p){
+    var f = document.createElement("figure");
+    f.innerHTML = '<img loading="lazy" alt="" src="data:image/webp;base64,' + p.img + '"><figcaption></figcaption>';
+    f.querySelector("figcaption").textContent = p.t; f.querySelector("img").alt = p.t;
+    if (fav === p.t) f.classList.add("on");
+    f.addEventListener("click", function(){
+      [].forEach.call(pe.children, function(x){ x.classList.remove("on"); }); f.classList.add("on");
+      try { localStorage.setItem("nerdgta_fav", p.t); } catch(e) {}
+    });
+    pe.appendChild(f);
+  });
+
+  /* quiz */
+  var Q = [
+    {q: "Primeira coisa que você faz ao entrar em Vice City?", o: [["Saio explorando o mapa todo", "E"], ["Arrumo confusão com a polícia", "C"], ["Sigo a história principal", "H"], ["Procuro jeito de fazer dinheiro", "N"]]},
+    {q: "Qual veículo é a sua cara?", o: [["Moto pra cortar caminho", "E"], ["Qualquer um que eu pegar", "C"], ["Carro clássico e bonito", "H"], ["Esportivo caro na garagem", "N"]]},
+    {q: "Seu jeito de jogar?", o: [["Sem pressa, curtindo cada canto", "E"], ["Caos total, 5 estrelas", "C"], ["Missão por missão, sem pular nada", "H"], ["Planejando cada golpe", "N"]]},
+    {q: "No grupo dos amigos, você é...", o: [["O que acha os segredos", "E"], ["O que causa", "C"], ["O que manda spoiler (sem querer)", "H"], ["O que cobra a parte do dinheiro", "N"]]}
+  ];
+  var R = {
+    E: ["🧭", "O Explorador", "Você vai achar os segredos de Leonida antes de todo mundo. Conta no grupo o que descobrir!"],
+    C: ["🔥", "O Caótico", "Polícia, explosão e risada. O grupo VIP vai querer ver seus vídeos."],
+    H: ["🎬", "O Fiel da História", "Você vive o enredo de Lucia e Jason do jeito certo. Só cuidado com o spoiler!"],
+    N: ["💰", "O Empresário do Crime", "Dinheiro, planejamento e garagem cheia. O guia em PT-BR foi feito pra você."]
+  };
+  var qi = 0, pts = {};
+  function quiz(){
+    var box = $("quizBox");
+    if (qi >= Q.length) {
+      var top = Object.keys(pts).sort(function(a, b){ return pts[b] - pts[a]; })[0], r = R[top];
+      try { localStorage.setItem("nerdgta_quiz", top); } catch(e) {}
+      box.innerHTML = '<div class="res"><div class="emo"></div><h3></h3><p></p><div class="ideal"><h4>Seu setup ideal</h4><div class="prods"></div></div><a class="btn wa" target="_blank" rel="noopener">Contar meu resultado no grupo</a><button class="link" type="button">Refazer o quiz</button></div>';
+      box.querySelector(".emo").textContent = r[0]; box.querySelector("h3").textContent = r[1]; box.querySelector("p").textContent = r[2];
+      box.querySelector("a.btn").href = vip;
+      var lista = box.querySelector(".ideal .prods");
+      (C.perfis[top] || []).forEach(function(id){ var p = PROD[id]; if (p) lista.appendChild(cartao(p, true)); });
+      marcaSetup(top);
+      box.querySelector(".link").onclick = function(){ qi = 0; pts = {}; quiz(); };
+      return;
+    }
+    var p = Q[qi];
+    box.innerHTML = '<div class="barra"><i></i></div><div class="q"></div><div class="ops"></div>';
+    box.querySelector(".barra i").style.width = (qi / Q.length * 100) + "%";
+    box.querySelector(".q").textContent = (qi + 1) + "/" + Q.length + " · " + p.q;
+    p.o.forEach(function(o){
+      var b = document.createElement("button"); b.type = "button"; b.className = "op"; b.textContent = o[0];
+      b.onclick = function(){ b.classList.add("sel"); pts[o[1]] = (pts[o[1]] || 0) + 1; setTimeout(function(){ qi++; quiz(); }, 280); };
+      box.querySelector(".ops").appendChild(b);
+    });
+  }
+  quiz();
+
+  /* ===== assistente "Pergunte ao Nerd": respostas checadas; sem resposta, leva pro grupo ===== */
+  var dias = function(){ return Math.max(0, Math.floor((LANC - Date.now()) / 864e5)); };
+  var KB = [
+    {k: ["quando", "data", "lanca", "lancamento", "sai", "dia", "chega", "hora", "horario", "meia noite"], r: function(){
+      return FASE === "pre" ? "GTA 6 sai dia 19/11/2026. Libera à meia-noite no horário local, ou seja, 0h de 19/11 no Brasil. Faltam " + dias() + " dia(s)." : "GTA 6 já saiu! Foi lançado em 19/11/2026, à meia-noite no horário local."; }},
+    {k: ["ps4", "xbox one", "geracao passada", "antigo", "velho"], r: "Não. GTA 6 é só pra PS5 e Xbox Series X|S. Não tem versão pra PS4 nem Xbox One.", p: ["ps5", "xbox"]},
+    {k: ["pc", "computador", "steam", "notebook"], r: "No lançamento, GTA 6 sai só pra PS5 e Xbox Series X|S. A versão de PC ainda não tem data anunciada pela Rockstar."},
+    {k: ["plataforma", "console", "qual console", "onde jogar", "ps5", "xbox", "series"], r: "GTA 6 sai pra PS5 e Xbox Series X|S. Se ainda não tem o console, vale montar o setup antes do dia 19.", p: ["ps5", "gta6"]},
+    {k: ["preco", "quanto custa", "quanto e", "custa", "valor", "standard", "ultimate", "edicao", "edicoes", "reais"], r: "No Brasil: edição Standard por R$ 449,90 e Ultimate por R$ 549,90 nas lojas digitais. A mídia física pra PS5 aparece no Mercado Livre.", p: ["gta6", "psn"]},
+    {k: ["pre venda", "prevenda", "bonus", "brinde", "vintage", "gta+"], r: "Quem compra na pré-venda até 20/11 ganha o Pacote Vintage Vice City e 1 mês de GTA+.", p: ["gta6", "psn"]},
+    {k: ["pre download", "predownload", "pre load", "preload", "baixar antes", "baixar", "download"], r: "O pré-download já foi liberado pra quem comprou a versão digital na pré-venda. Assim, dia 19 é só abrir e jogar."},
+    {k: ["tamanho", "gb", "giga", "ocupa", "quantos gb", "espaco", "armazenamento", "ssd", "hd", "memoria", "pesado"], r: "O jogo pode ocupar até 212 GB. Se o console estiver cheio, armazenamento extra resolve sem apagar os outros jogos.", p: ["ssd"]},
+    {k: ["protagonista", "personagem", "personagens", "quem e", "quem sao", "~jason", "~lucia"], r: "Os protagonistas são Jason Duval e Lucia Caminos. Também aparecem Cal Hampton, Boobie Ike, Dre'Quan Priest, Real Dimez, Raul Bautista e Brian Heder. Dá uma olhada na seção Personagens."},
+    {k: ["mapa", "cidade", "onde se passa", "leonida", "vice city", "miami", "regiao", "regioes", "florida"], r: "GTA 6 se passa em Leonida, um estado inspirado na Flórida. A Rockstar já mostrou 6 regiões: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia e Mount Kalaga."},
+    {k: ["golpe", "chave", "key", "barato", "seguro", "confiavel", "onde comprar", "comprar"], r: "Compra segura é na PlayStation Store, na Loja Xbox ou em loja grande e conhecida. Chave muito barata em site desconhecido costuma ser golpe.", p: ["gta6", "psn"]},
+    {k: ["presente", "presentear", "dar de presente", "gift", "cartao"], r: "Cartão presente PSN ou Xbox é o jeito mais fácil: a pessoa usa o crédito pra comprar o jogo.", p: ["psn", "xboxgift"]},
+    {k: ["controle", "joystick", "dualsense", "manete"], r: "Pras maratonas, vale ter um controle extra carregado e uma base pra carregar os dois.", p: ["controle", "carregador"]},
+    {k: ["tv", "televisao", "tela", "monitor", "4k", "qled"], r: "Pra ver Leonida do jeito certo, uma TV QLED faz diferença nas cores do pôr do sol de Vice City.", p: ["tv"]},
+    {k: ["caixa de som", "som alto", "jbl", "caixa", "radio"], r: "Quer a rádio de Vice City tocando na casa toda? Uma caixa de som potente resolve.", p: ["caixa"]},
+    {k: ["fone", "headset", "audio", "som", "barulho", "madrugada"], r: "Vai virar a noite? Um headset deixa o som de Vice City no talo sem acordar a casa.", p: ["headset"]},
+    {k: ["setup", "preciso", "o que comprar", "acessorio", "acessorios", "equipamento"], r: "O básico pro dia 19: o jogo, console com espaço livre, controle extra e um bom headset. Faz o quiz que eu te mostro o setup ideal pro seu estilo.", p: ["gta6", "headset"]},
+    {k: ["online", "multiplayer", "jogar com amigo", "coop"], r: "A Rockstar ainda não detalhou o modo online do GTA 6. Quando sair informação oficial, o Grupo VIP fica sabendo primeiro.", g: true},
+    {k: ["portugues", "legenda", "dublado", "dublagem", "idioma", "ptbr", "pt br"], r: "Os idiomas oficiais eu ainda não confirmei em fonte segura. Pergunta no Grupo VIP que a gente responde com a fonte.", g: true},
+    {k: ["guia", "dica", "dicas", "dinheiro", "detonado", "como jogar"], r: "Estamos preparando o Guia GTA 6 em PT-BR: primeiras horas, dinheiro rápido, veículos e lugares escondidos. Entra na lista de espera que você fica sabendo primeiro.", guia: true},
+    {k: ["grupo", "whatsapp", "zap", "comunidade", "vip"], r: "O Grupo VIP no WhatsApp é grátis: ofertas, alerta de golpe e dicas antes de todo mundo.", g: true},
+    {k: ["oficial", "rockstar", "voces sao"], r: "O Nerd GTA é uma página de fã, sem vínculo com a Rockstar Games. Informação a gente só passa com fonte."}
+  ];
+  function norm(s){ return s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9+ ]/g, " ").replace(/\s+/g, " ").trim(); }
+  function responde(q){
+    var n = " " + norm(q) + " ", melhor = null, nota = 0;
+    KB.forEach(function(it){
+      var s = 0; it.k.forEach(function(k){
+        var w = 1; if (k.charAt(0) === "~") { w = .5; k = k.slice(1); }
+        if (n.indexOf(" " + k + " ") > -1 || (k.length > 4 && n.indexOf(" " + k) > -1)) s += w * k.split(" ").length;
+      });
+      if (s > nota) { nota = s; melhor = it; }
+    });
+    return nota >= 1 ? melhor : null;
+  }
+  var chat = $("chat");
+  function bolha(quem, txt){ var d = document.createElement("div"); d.className = "msg " + quem; d.textContent = txt; chat.appendChild(d); chat.scrollTop = chat.scrollHeight; return d; }
+  function botao(div, txt, href, cls){ var a = document.createElement("a"); a.className = "mini " + (cls || ""); a.href = href; a.target = "_blank"; a.rel = "noopener sponsored"; a.textContent = txt; div.appendChild(document.createElement("br")); div.appendChild(a); }
+  function pergunta(q){
+    q = (q || "").trim(); if (!q) return;
+    bolha("eu", q);
+    var esp = document.createElement("div"); esp.className = "msg bot"; esp.innerHTML = '<span class="digit"><i></i><i></i><i></i></span>'; chat.appendChild(esp); chat.scrollTop = chat.scrollHeight;
+    setTimeout(function(){
+      chat.removeChild(esp);
+      var it = responde(q), d;
+      if (!it) {
+        d = bolha("bot", "Essa eu não sei com certeza, e aqui não tem chute. Manda no Grupo VIP que a galera te responde.");
+        botao(d, "Perguntar no Grupo VIP", vip, "wa"); return;
+      }
+      d = bolha("bot", typeof it.r === "function" ? it.r() : it.r);
+      (it.p || []).slice(0, 2).forEach(function(id){ var p = PROD[id]; if (p) botao(d, (p.link ? "Ver oferta: " : "Pedir no grupo: ") + p.nome, linkProd(p)); });
+      if (it.g) botao(d, "Entrar no Grupo VIP", vip, "wa");
+      if (it.guia) botao(d, "Entrar na lista do guia", $("guiaBtn").href);
+    }, 650);
+  }
+  bolha("bot", FASE === "pre" ? "Fala! Sou o Nerd. Faltam " + dias() + " dia(s) pro GTA 6. Pergunta o que quiser: data, preço, tamanho, plataformas..." : "Fala! Sou o Nerd. GTA 6 já saiu, e eu te ajudo com as dúvidas. Pergunta aí!");
+  var CH = FASE === "pre" ? ["Que horas libera?", "Roda no PS4?", "Quanto custa?", "Quantos GB?", "Vai ter no PC?", "Como não cair em golpe?"]
+                          : ["Quantos GB?", "Vai ter no PC?", "O que comprar pro setup?", "Tem guia em português?", "Como não cair em golpe?"];
+  CH.forEach(function(c){ var b = document.createElement("button"); b.type = "button"; b.textContent = c; b.onclick = function(){ pergunta(c); }; $("chips").appendChild(b); });
+  $("perg").onsubmit = function(e){ e.preventDefault(); var v = $("pin").value; $("pin").value = ""; pergunta(v); };
+  var fab = $("fab");
+  fab.onclick = function(){ $("nerd").scrollIntoView({behavior: "smooth"}); setTimeout(function(){ $("pin").focus({preventScroll: true}); }, 600); };
+  window.addEventListener("scroll", function(){ var r = $("nerd").getBoundingClientRect(); fab.classList.toggle("on", scrollY > 500 && (r.bottom < 0 || r.top > innerHeight)); }, {passive: true});
+
+  /* checklist */
+  var CK = FASE === "pre"
+    ? ["Garantir o jogo na pré-venda até 20/11", "Fazer o pré-download", "Liberar até 212 GB no console", "Deixar o controle carregado", "Avisar a família que dia 19 está ocupado", "Entrar no Grupo VIP"]
+    : ["Baixar a atualização do dia 1", "Deixar o controle carregado", "Separar a madrugada livre", "Fazer o quiz e mandar o resultado no grupo", "Tirar print do primeiro carro roubado", "Entrar no Grupo VIP"];
+  var salvo = {}; try { salvo = JSON.parse(localStorage.getItem("nerdgta_chk") || "{}"); } catch(e) {}
+  var ul = $("chk");
+  CK.forEach(function(t, i){
+    var li = document.createElement("li");
+    li.innerHTML = '<label><input type="checkbox"><span></span></label>';
+    li.querySelector("span").textContent = t;
+    var cb = li.querySelector("input"); cb.checked = !!salvo[i];
+    cb.onchange = function(){ salvo[i] = cb.checked; try { localStorage.setItem("nerdgta_chk", JSON.stringify(salvo)); } catch(e) {} prog(); if (i === CK.length - 1 && cb.checked) window.open(vip, "_blank"); };
+    ul.appendChild(li);
+  });
+  function prog(){ var n = CK.filter(function(_, i){ return salvo[i]; }).length, p = Math.round(n / CK.length * 100); $("pct").textContent = p + "%"; $("pbar").style.width = p + "%"; }
+  prog();
+
+  /* setup em abas */
+  var tabs = $("tabs"), cats = Object.keys(C.produtos), meuPerfil = null;
+  try { meuPerfil = localStorage.getItem("nerdgta_quiz"); } catch(e) {}
+  function cartao(p, k){
+    var d = document.createElement("div"); d.className = "prod"; d.style.animationDelay = ((k|0) * 60) + "ms";
+    var combina = meuPerfil && (C.perfis[meuPerfil] || []).indexOf(p.id) > -1;
+    if (combina) d.classList.add("match");
+    d.innerHTML = '<div class="ic"></div><div class="tx">' + (combina ? '<span class="tagm">Combina com você</span>' : '') + '<h3></h3><p></p></div><a target="_blank" rel="noopener sponsored"></a>';
+    d.querySelector(".ic").textContent = p.nome.charAt(0); d.querySelector("h3").textContent = p.nome; d.querySelector("p").textContent = p.desc;
+    var a = d.querySelector("a"); a.href = linkProd(p); a.textContent = rotuloProd(p);
+    return d;
+  }
+  var catAtual = null;
+  function mostra(cat){
+    catAtual = cat;
+    [].forEach.call(tabs.children, function(b){ b.classList.toggle("on", b.textContent === cat); });
+    var box = $("prods"); box.innerHTML = "";
+    C.produtos[cat].slice().sort(function(a, b){
+      var pa = meuPerfil && (C.perfis[meuPerfil] || []).indexOf(a.id) > -1, pb = meuPerfil && (C.perfis[meuPerfil] || []).indexOf(b.id) > -1;
+      return pb - pa;
+    }).forEach(function(p, k){ box.appendChild(cartao(p, k)); });
+  }
+  function marcaSetup(perfil){ meuPerfil = perfil; if (catAtual) mostra(catAtual); }
+  cats.forEach(function(c){ var b = document.createElement("button"); b.type = "button"; b.textContent = c; b.onclick = function(){ mostra(c); }; tabs.appendChild(b); });
+  mostra(cats[0]);
+
+  /* revelar ao rolar */
+  if ("IntersectionObserver" in window) {
+    var io = new IntersectionObserver(function(es){ es.forEach(function(e){ if (e.isIntersecting) { e.target.classList.add("in"); io.unobserve(e.target); } }); }, {threshold: .12});
+    document.querySelectorAll(".reveal").forEach(function(s){ io.observe(s); });
+  } else document.querySelectorAll(".reveal").forEach(function(s){ s.classList.add("in"); });
+})();
+</script>
+</body>
+</html>
