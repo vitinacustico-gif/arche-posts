@@ -12,6 +12,7 @@ Ordem dos 10 itens = ordem dos horários do `config.json` (08:07, 10:07, 11:07, 
 Mistura do dia: 4 `reel` (posições 1, 4, 7, 10), 3 `carrossel` (2, 6, 9) e 3 `post` (3, 5, 8).
 **Modo intensivo** (`config.json` → `intensivo`, de 11 a 13/11): 18 peças por dia, 1 por hora das 7h à 0h, seguindo a `grade` (hora e formato). Cada item leva o campo `"hora"` da grade; a peça `"24:00"` sai às 00:00 do dia seguinte. O `status.py` já sabe quantas peças cada data precisa.
 Todo item ganha automaticamente uma versão de story (`<id>_story.jpg`, ou o próprio vídeo no reel): o publicador posta no feed e no story.
+**Carrossel "tela dividida"** (`"estilo": "grade"`): cada slide junta 2 a 6 imagens oficiais, cada painel com um rótulo curto (`rot`) e uma linha de informação (`txt`). Formato: `{"formato":"carrossel","estilo":"grade","capa":{"titulo":[..],"sub":"..","fotos":[4 caminhos]},"puxa_capa":"Arrasta","slides":[{"titulo":"..","puxa":"..","paineis":[{"foto":"gta6/banco/oficial/..","rot":"..","txt":".."}]}],"fecho":{"foto":"..","titulo":[..],"texto":".."},"legenda":"..","cta_bio":".."}`. Use pelo menos 1 por dia, sempre denso de informação com fonte.
 Carrossel pode usar imagens oficiais em vez de temas: `"fotos": ["gta6/banco/oficial/arquivo.jpg", ...]` (na ordem).
 
 ### reel
