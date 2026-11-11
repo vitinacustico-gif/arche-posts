@@ -252,18 +252,32 @@
    "id": "16",
    "hora": "15:00",
    "formato": "post",
-   "tipo": "frase",
-   "linhas": [
-    "VOCÊ",
-    "REPAROU?"
+   "tipo": "documento",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-27.jpg",
+   "cta_bio": "grupo",
+   "legenda": "Comunicado oficial 📄 A partir do dia 19 eu tô fora do ar.\n\nManda pra quem precisa receber esse aviso e marca o amigo que vai assinar junto.",
+   "titulo_doc": "COMUNICADO OFICIAL",
+   "carimbo": "APROVADO",
+   "foto_3x4": "gta6/banco/oficial/pessoa-jason-duval-02.jpg",
+   "corpo": "Comunicamos que, a partir de **19 de novembro de 2026,** o cidadão abaixo ficará fora do ar para rolês, reuniões, almoços de família e qualquer compromisso.",
+   "campos": [
+    [
+     "Motivo:",
+     "GTA 6.",
+     true
+    ],
+    [
+     "Previsão de retorno:",
+     "Indeterminada.",
+     false
+    ]
    ],
-   "destaque": [
-    1
-   ],
-   "sub": "A camiseta da Lucia na academia diz BADDIE",
-   "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-09.jpg",
-   "cta_bio": "guia",
-   "legenda": "Você reparou nesse detalhe? 👀\n\nA camiseta da Lucia diz BADDIE. Qual detalhe das imagens oficiais você achou que ninguém viu?"
+   "titulo": "COMUNICADO OFICIAL",
+   "foco_3x4": [
+    0.37,
+    0.33,
+    0.6
+   ]
   },
   {
    "id": "06",
@@ -435,19 +449,39 @@
   {
    "id": "08",
    "formato": "post",
-   "tipo": "frase",
-   "linhas": [
-    "EU DIA 18",
-    "ÀS 23:59"
+   "tipo": "documento",
+   "legenda": "Já mandei pro meu chefe. E você? 😂\n\nEncaminha esse aviso pro seu chefe (ou marca o colega que vai faltar no dia 19).",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg",
+   "cta_bio": "comunidade",
+   "hora": "21:00",
+   "titulo_doc": "AVISO DE AUSÊNCIA",
+   "carimbo": "DEFERIDO",
+   "foto_3x4": "gta6/banco/oficial/pessoa-lucia-caminos-01.jpg",
+   "tag": "AO CHEFE",
+   "corpo": "Prezado chefe, informo que no dia **19 de novembro** não poderei comparecer. Estarei resolvendo assuntos urgentes em **Vice City.**",
+   "campos": [
+    [
+     "Motivo:",
+     "GTA 6.",
+     true
+    ],
+    [
+     "Retorno ao trabalho:",
+     "Depois de zerar.",
+     false
+    ]
    ],
-   "destaque": [
-    1
+   "rodape_doc": "Conto com a sua compreensão.",
+   "assinatura": [
+    "COLABORADOR",
+    "EM MODO GTA VI"
    ],
-   "sub": "Encarando o relógio e o botão de jogar",
-   "legenda": "Eu no dia 18 às 23:59 esperando dar meia-noite 🕛\n\nQuem vai virar a noite? Comenta EU que a gente faz a contagem junto.",
-   "imagem": "gta6/banco/oficial/arte-jason-lucia-motel.jpg",
-   "cta_bio": "grupo",
-   "hora": "21:00"
+   "titulo": "AVISO DE AUSÊNCIA",
+   "foco_3x4": [
+    0.48,
+    0.38,
+    0.75
+   ]
   },
   {
    "id": "14",

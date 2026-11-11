@@ -315,7 +315,137 @@ def _fundo_foto(caminho, W, H, escurecer=0.62, foco=0.5):
     return img
 
 
+ANTON = str(FAB / "fonts/Anton-400.ttf")
+
+
+def _texto_rico(d, x, y, larg, texto, tam, cor=(28, 24, 22), cor_neg=None, esp=1.32):
+    """Escreve texto com **negrito** e quebra de linha automática. Devolve o y final."""
+    fr, fn = ft(INTER["400"], tam), ft(INTER["700"], tam)
+    pal, neg = [], False
+    for w in texto.split():
+        ini = w.startswith("**"); fim = w.endswith("**") and len(w) > 2
+        if ini: neg = True
+        limpo = w.strip("*")
+        pal.append((limpo, neg))
+        if fim: neg = False
+    linhas, atual, lw = [], [], 0
+    for w, n in pal:
+        f = fn if n else fr
+        wl = f.getlength(w + " ")
+        if atual and lw + f.getlength(w) > larg:
+            linhas.append(atual); atual, lw = [], 0
+        atual.append((w, n)); lw += wl
+    if atual: linhas.append(atual)
+    for ln in linhas:
+        cx = x
+        for w, n in ln:
+            f = fn if n else fr
+            d.text((cx, y), w, font=f, fill=(cor_neg or cor) if n else cor)
+            cx += f.getlength(w + " ")
+        y += int(tam * esp)
+    return y
+
+
+def documento(item, saida):
+    """Post 'comunicado oficial': papel sobre a mesa, texto formal, motivo GTA 6, carimbo, foto 3x4 e assinatura."""
+    import random
+    from PIL import ImageFilter
+    W, H = 1080, 1350
+    rnd = random.Random(item["id"])
+    fundo = _fundo_foto(RAIZ.parent / item["imagem"], W, H, 0.9, item.get("foco", 0.5)).filter(ImageFilter.GaussianBlur(6))
+    fundo.alpha_composite(Image.new("RGBA", (W, H), (6, 3, 10, 120)))
+    PW, PH = 900, 1110
+    papel = Image.new("RGBA", (PW, PH), (242, 234, 219, 255))
+    ruido = (np.random.default_rng(7).normal(0, 7, (PH, PW))).clip(-18, 18)
+    arr = np.asarray(papel).astype(float); arr[..., :3] += ruido[..., None]
+    gy = np.linspace(-1, 1, PH)[:, None]; gx = np.linspace(-1, 1, PW)[None, :]
+    arr[..., :3] -= (np.sqrt(gx ** 2 + gy ** 2) * 16)[..., None]
+    papel = Image.fromarray(arr.clip(0, 255).astype(np.uint8), "RGBA")
+    d = ImageDraw.Draw(papel)
+    tinta, verm, cinza = (26, 22, 20), (196, 28, 36), (110, 104, 98)
+    # cabeçalho
+    tf = ft(_fonte_titulo(), 64)
+    d.text((60, 52), "NERD", font=tf, fill=tinta); d.text((60, 118), "GTA", font=tf, fill=verm)
+    fl = ft(INTER["700"], 20)
+    for k, l in enumerate(item.get("local", ["VICE CITY", "LEONIDA", "EUA"])):
+        tx = "  ".join(l); d.text((PW - 60 - fl.getlength(tx), 66 + k * 32), tx, font=fl, fill=cinza)
+    d.line([(60, 210), (PW - 60, 210)], fill=tinta, width=3)
+    # título
+    tam = 120
+    while ft(ANTON, tam).getlength(item["titulo_doc"]) > PW - 120 and tam > 60: tam -= 4
+    fa = ft(ANTON, tam)
+    d.text((60, 228), item["titulo_doc"], font=fa, fill=tinta)
+    y = 228 + int(tam * 1.32)
+    d.rectangle([60, y, PW - 60, y + 7], fill=verm); y += 44
+    # corpo
+    y = _texto_rico(d, 60, y, PW - 150, item["corpo"], 36, cor=tinta, cor_neg=(12, 10, 9))
+    y += 22; d.line([(60, y), (PW - 120, y)], fill=cinza, width=2); y += 26
+    for rot, val, destaque in item["campos"]:
+        fr, fv = ft(INTER["400"], 36), ft(INTER["900"], 38)
+        d.text((60, y), rot, font=fr, fill=tinta)
+        d.text((60 + fr.getlength(rot + " "), y - 1), val, font=fv, fill=verm if destaque else tinta)
+        y += 56
+    y += 10; d.line([(60, y), (PW - 160, y)], fill=cinza, width=2); y += 22
+    d.text((60, y), item.get("rodape_doc", "Agradecemos a compreensão."), font=ft(INTER["400"], 28), fill=(70, 64, 60))
+    y_fim = y + 40
+    # foto 3x4 (recorte no rosto: foco_3x4 = [x, y, zoom])
+    fw, fh = 156, 200
+    fx, fy = 60, PH - fh - 52
+    src = Image.open(RAIZ.parent / item["foto_3x4"]).convert("RGB")
+    cxr, cyr, zm = item.get("foco_3x4", [0.5, 0.4, 0.8])
+    ch_ = int(src.height * zm); cw_ = int(ch_ * fw / fh)
+    l = int(min(max(src.width * cxr - cw_ / 2, 0), src.width - cw_)); t = int(min(max(src.height * cyr - ch_ / 2, 0), src.height - ch_))
+    ph = src.crop((l, t, l + cw_, t + ch_)).resize((fw, fh), Image.LANCZOS)
+    ph = Image.blend(ph, Image.new("RGB", (fw, fh), (120, 100, 80)), 0.15)
+    d.rectangle([fx - 8, fy - 8, fx + fw + 8, fy + fh + 8], fill=(250, 246, 238), outline=cinza, width=2)
+    papel.paste(ph, (fx, fy))
+    # assinatura cursiva com laços
+    sx, sy = 270, PH - 128
+    pts = []
+    for k in range(140):
+        t = k / 139
+        pts.append((sx + 10 + t * 250 - 16 * math.sin(t * 30), sy - 34 + 20 * math.cos(t * 30) * (0.6 + 0.4 * math.sin(t * 5)) - 10 * t))
+    d.line(pts, fill=(28, 40, 120), width=4, joint="curve")
+    d.line([(sx + 40, sy - 8), (sx + 290, sy - 24)], fill=(28, 40, 120), width=3)
+    d.line([(sx, sy + 8), (sx + 310, sy + 8)], fill=cinza, width=2)
+    fs = ft(INTER["700"], 20)
+    for k, l2 in enumerate(item.get("assinatura", ["JOGADOR", "EM MODO GTA VI"])):
+        d.text((sx, sy + 20 + k * 30), "  ".join(l2), font=fs, fill=cinza)
+    # selo da página no canto
+    d.rounded_rectangle([PW - 175, PH - 175, PW - 60, PH - 60], 18, outline=(170, 162, 152), width=4)
+    fng = ft(INTER["900"], 42)
+    d.text((PW - 117.5 - fng.getlength("NG") / 2, PH - 142), "NG", font=fng, fill=(170, 162, 152))
+    # carimbo: lado direito, logo abaixo do rodapé do texto
+    ftc = ft(ANTON, 84)
+    txt = item["carimbo"]
+    cw = int(ftc.getlength(txt)) + 70; chh = 140
+    car = Image.new("RGBA", (cw, chh), (0, 0, 0, 0)); dc = ImageDraw.Draw(car)
+    dc.rounded_rectangle([4, 4, cw - 5, chh - 5], 14, outline=verm + (255,), width=8)
+    dc.rounded_rectangle([18, 18, cw - 19, chh - 19], 8, outline=verm + (255,), width=3)
+    dc.text((35, 12), txt, font=ftc, fill=verm + (255,))
+    a = np.asarray(car).copy(); m = np.random.default_rng(3).random(a.shape[:2]) < 0.22
+    a[..., 3] = np.where(m, (a[..., 3] * 0.35).astype(np.uint8), a[..., 3]); car = Image.fromarray(a, "RGBA").rotate(12, expand=True, resample=Image.BICUBIC)
+    if car.width > PW - 300:
+        car = car.resize((PW - 300, int(car.height * (PW - 300) / car.width)), Image.LANCZOS)
+    cy = min(y_fim - 30, PH - 175 - car.height - 10)
+    papel.alpha_composite(car, (PW - car.width - 50, max(cy, 0)))
+    # papel na mesa
+    rot = papel.rotate(item.get("giro", -1.6), expand=True, resample=Image.BICUBIC)
+    sombra = Image.new("RGBA", (W, H), (0, 0, 0, 0))
+    ox, oy = (W - rot.width) // 2, 118
+    sm = Image.new("RGBA", rot.size, (0, 0, 0, 170)); sm.putalpha(rot.getchannel("A").point(lambda v: 170 if v else 0))
+    sombra.alpha_composite(sm, (ox + 14, oy + 22))
+    fundo.alpha_composite(sombra.filter(ImageFilter.GaussianBlur(18)))
+    fundo.alpha_composite(rot, (ox, oy))
+    moldura(fundo, tag=item.get("tag", "COMUNICADO"))
+    arq = saida / f"{item['id']}.jpg"
+    fundo.convert("RGB").save(arq, quality=91)
+    return [arq]
+
+
 def post(item, saida):
+    if item.get("tipo") == "documento":
+        return documento(item, saida)
     W, H = 1080, 1350
     if item.get("imagem"):
         img = _fundo_foto(RAIZ.parent / item["imagem"], W, H, item.get("escurecer", 0.62), item.get("foco", 0.5))
@@ -963,7 +1093,7 @@ def main():
             dia_pub = (datetime.date.fromisoformat(data) + datetime.timedelta(days=1)).isoformat()
             hora = "00:" + hora[3:]
         entrada = {"id": f"{data}-{item['id']}", "pauta": data, "data": dia_pub, "hora": hora,
-                   "formato": fmt, "titulo": " ".join(item.get("linhas") or (item["capa"]["titulo"] if isinstance(item.get("capa"), dict) else item.get("capa"))),
+                   "formato": fmt, "titulo": item.get("titulo_doc") or " ".join(item.get("linhas") or (item["capa"]["titulo"] if isinstance(item.get("capa"), dict) else item.get("capa"))),
                    "arquivos": [r for r in rel if not r.endswith("_capa.jpg")],
                    "legenda": legenda(item, n)}
         if fmt == "reel":

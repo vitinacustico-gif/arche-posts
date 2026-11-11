@@ -231,18 +231,38 @@
    "id": "16",
    "hora": "15:00",
    "formato": "post",
-   "tipo": "frase",
-   "linhas": [
-    "VOCÊ IRIA",
-    "NESSA FESTA?"
+   "tipo": "documento",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-10.jpg",
+   "cta_bio": "grupo",
+   "legenda": "Aviso oficial pra família 🏠 Manda no grupo da família e vê a reação 😂\n\nComenta quem da sua casa vai reclamar primeiro.",
+   "titulo_doc": "AVISO À FAMÍLIA",
+   "carimbo": "URGENTE",
+   "foto_3x4": "gta6/banco/oficial/arte-jason-and-lucia-beach.jpg",
+   "tag": "À FAMÍLIA",
+   "corpo": "Informo à família que a partir de **19/11** não estarei disponível para almoço de domingo, mercado, visita na casa da tia nem para descer o lixo.",
+   "campos": [
+    [
+     "Motivo:",
+     "GTA 6.",
+     true
+    ],
+    [
+     "Pode chamar:",
+     "Só se for emergência.",
+     false
+    ]
    ],
-   "destaque": [
-    1
+   "rodape_doc": "A janta pode deixar na porta do quarto.",
+   "assinatura": [
+    "FILHO(A)",
+    "EM MODO GTA VI"
    ],
-   "sub": "Lama, buggy e muita bagunça",
-   "imagem": "gta6/banco/oficial/lugar-ambrosia-06.jpg",
-   "cta_bio": "comunidade",
-   "legenda": "Festa na lama em Leonida 🤠 Você iria?\n\nComenta SIM ou NÃO e marca quem iria com você."
+   "titulo": "AVISO À FAMÍLIA",
+   "foco_3x4": [
+    0.5,
+    0.35,
+    0.35
+   ]
   },
   {
    "id": "06",
@@ -299,18 +319,38 @@
    "id": "17",
    "hora": "17:00",
    "formato": "post",
-   "tipo": "frase",
-   "linhas": [
-    "MARCA QUEM",
-    "VAI SUMIR DIA 19"
-   ],
-   "destaque": [
-    1
-   ],
-   "sub": "Volta só quando zerar",
-   "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-10.jpg",
+   "tipo": "documento",
+   "imagem": "gta6/banco/oficial/lugar-ambrosia-06.jpg",
    "cta_bio": "comunidade",
-   "legenda": "Aquele amigo que vai sumir no dia 19 e só volta quando zerar 😂\n\nMarca ele aqui."
+   "legenda": "Comunicado enviado pro grupo dos amigos 📢\n\nManda no grupo e vê quem confirma presença em Leonida.",
+   "titulo_doc": "COMUNICADO AOS AMIGOS",
+   "carimbo": "CONFIRMADO",
+   "foto_3x4": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg",
+   "tag": "AO GRUPO",
+   "corpo": "Aviso a todos do grupo que a partir de **19/11** rolê, churrasco e futebol estão suspensos. Convite para jogar junto será analisado.",
+   "campos": [
+    [
+     "Motivo:",
+     "GTA 6.",
+     true
+    ],
+    [
+     "Próximo rolê:",
+     "Depois de zerar.",
+     false
+    ]
+   ],
+   "rodape_doc": "Quem for fraco que fique offline.",
+   "assinatura": [
+    "AMIGO",
+    "EM MODO GTA VI"
+   ],
+   "titulo": "COMUNICADO AOS AMIGOS",
+   "foco_3x4": [
+    0.39,
+    0.47,
+    0.6
+   ]
   },
   {
    "id": "07",

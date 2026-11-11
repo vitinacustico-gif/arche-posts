@@ -304,18 +304,38 @@
    "id": "17",
    "hora": "17:00",
    "formato": "post",
-   "tipo": "frase",
-   "linhas": [
-    "MEU CHEFE",
-    "DIA 19 ÀS 8H"
-   ],
-   "destaque": [
-    1
-   ],
-   "sub": "Cadê aquele funcionário que pediu folga?",
-   "imagem": "gta6/banco/oficial/pessoa-jason-duval-07.jpg",
+   "tipo": "documento",
+   "imagem": "gta6/banco/oficial/lugar-leonida-keys-01.jpg",
    "cta_bio": "comunidade",
-   "legenda": "Meu chefe dia 19 às 8h procurando quem não apareceu 😂\n\nMarca o colega de trabalho que vai sumir."
+   "legenda": "Pedido de férias preenchido ✅ Agora é só o RH aprovar.\n\nMarca o colega que vai protocolar junto com você.",
+   "titulo_doc": "PEDIDO DE FÉRIAS",
+   "carimbo": "APROVADO",
+   "foto_3x4": "gta6/banco/oficial/pessoa-jason-and-lucia-01.jpg",
+   "tag": "RH",
+   "corpo": "Solicito férias a partir de **19/11/2026** para viagem a trabalho em **Leonida, EUA.** Destino: Vice City, Leonida Keys e arredores.",
+   "campos": [
+    [
+     "Motivo:",
+     "GTA 6.",
+     true
+    ],
+    [
+     "Período:",
+     "Até zerar a história.",
+     false
+    ]
+   ],
+   "rodape_doc": "Aguardo a aprovação do RH.",
+   "assinatura": [
+    "FUNCIONÁRIO",
+    "EM MODO GTA VI"
+   ],
+   "titulo": "PEDIDO DE FÉRIAS",
+   "foco_3x4": [
+    0.53,
+    0.32,
+    0.55
+   ]
   },
   {
    "id": "07",
@@ -417,19 +437,39 @@
   {
    "id": "08",
    "formato": "post",
-   "tipo": "frase",
-   "linhas": [
-    "QUAL FOI SEU",
-    "PRIMEIRO GTA?"
-   ],
-   "destaque": [
-    1
-   ],
-   "sub": "Comenta aí e entrega a idade",
-   "legenda": "Qual foi o seu primeiro GTA? 👴🎮\n\nComenta e vamos descobrir quem aqui joga há mais tempo.",
-   "imagem": "gta6/banco/oficial/arte-jason-and-lucia-beach.jpg",
+   "tipo": "documento",
+   "legenda": "Comunicado enviado pro(a) namorado(a) 💌😂\n\nMarca quem vai receber esse termo dia 19.",
+   "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg",
    "cta_bio": "comunidade",
-   "hora": "21:00"
+   "hora": "21:00",
+   "titulo_doc": "TERMO DE AUSÊNCIA",
+   "carimbo": "CIENTE",
+   "foto_3x4": "gta6/banco/oficial/pessoa-lucia-caminos-03.jpg",
+   "tag": "AO AMOR",
+   "corpo": "Meu amor, a partir de **19/11** meu tempo será dividido entre você e a **Lucia.** Não é nada pessoal: é Leonida.",
+   "campos": [
+    [
+     "Motivo:",
+     "GTA 6.",
+     true
+    ],
+    [
+     "Volto a dar atenção:",
+     "Em breve (talvez).",
+     false
+    ]
+   ],
+   "rodape_doc": "Te amo. Agora deixa eu jogar.",
+   "assinatura": [
+    "NAMORADO(A)",
+    "EM MODO GTA VI"
+   ],
+   "titulo": "TERMO DE AUSÊNCIA",
+   "foco_3x4": [
+    0.32,
+    0.24,
+    0.45
+   ]
   },
   {
    "id": "14",
