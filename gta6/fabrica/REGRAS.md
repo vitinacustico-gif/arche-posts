@@ -39,6 +39,9 @@ Só o corpo: gancho forte de 1 linha (curiosidade, número ou polêmica leve) + 
 
 Antes de escolher os temas do dia, leia `gta6/fabrica/SUGESTOES.md` e use a primeira pauta não riscada (marque [x] depois de usar).
 
+## Links de afiliado
+Os produtos com link de afiliado do Mercado Livre estão em `gta6/afiliados/produtos.json`. Nas mensagens do WhatsApp (gta6/whatsapp/), use esses links de verdade no lugar de "[COLE AQUI O LINK DE AFILIADO]", escolhendo o produto que combina com o tema do dia (o jogo GTA VI para PS5 é o principal até o dia 19). Não escreva preço fixo: muda todo dia.
+
 ## Regras de conteúdo (obrigatórias)
 1. **Nada de material de outros criadores.** Nunca baixar nem repostar vídeo, print ou arte de outras páginas. Imagens oficiais só as do `gta6/banco/oficial/` (enviadas pelo Victor), sempre dentro da moldura do `gerar.py`; fotos de cenário só do `gta6/banco/fotos/`.
 2. **Fato só com fonte.** Toda informação factual vem de página aberta e lida no dia (WebSearch + WebFetch) e entra em `fontes`. Sem fonte, vira opinião, enquete ou humor. Nunca inventar números, datas, preços, conteúdos de edição ou recursos do jogo.

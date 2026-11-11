@@ -1,0 +1,41 @@
+{
+ "loja": "Mercado Livre (afiliado vitinx)",
+ "nota": "Não divulgar preço fixo: muda todo dia.",
+ "produtos": [
+  {
+   "id": "gta6",
+   "nome": "GTA VI para PS5 (mídia)",
+   "link": "https://meli.la/2E5ZnSN"
+  },
+  {
+   "id": "ps5",
+   "nome": "PlayStation 5 Slim Digital (pacote Astro Bot + Gran Turismo 7)",
+   "link": "https://meli.la/11xJnBz"
+  },
+  {
+   "id": "controle",
+   "nome": "Controle Xbox Carbon Black (Microsoft, Xbox Series X|S e PC)",
+   "link": "https://meli.la/1QojQ9D"
+  },
+  {
+   "id": "headset",
+   "nome": "Headset gamer RGB com microfone (PS5, Xbox, PC, celular)",
+   "link": "https://meli.la/33DSzfC"
+  },
+  {
+   "id": "tv",
+   "nome": "Smart TV TCL 43\" QLED Full HD Google TV",
+   "link": "https://meli.la/1gjgV1M"
+  },
+  {
+   "id": "caixa",
+   "nome": "Caixa de som JBL Boombox 4",
+   "link": "https://meli.la/2Bi1okg"
+  },
+  {
+   "id": "psn",
+   "nome": "Cartão presente PlayStation Store R$ 550 (digital)",
+   "link": "https://meli.la/21oNSCo"
+  }
+ ]
+}

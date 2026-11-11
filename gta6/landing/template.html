@@ -21,27 +21,33 @@ window.GTA6_CONFIG = {
   lancamento: "2026-11-19T00:00:00-03:00",
   /* Cole aqui seus links de afiliado (Mercado Livre, Amazon, Shopee). Sem link, o botão manda pro Grupo VIP. */
   produtos: {
+    "O jogo": [
+      {id: "gta6", nome: "GTA VI para PS5", desc: "A mídia do jogo pra PlayStation 5. Garanta antes do dia 19.", link: "https://meli.la/2E5ZnSN"}
+    ],
     "Consoles": [
-      {id: "ps5", nome: "PlayStation 5", desc: "O console mais escolhido pra jogar GTA 6 no lançamento.", link: ""},
+      {id: "ps5", nome: "PlayStation 5 Slim Digital", desc: "Pacote com Astro Bot e Gran Turismo 7. Pronto pra Leonida.", link: "https://meli.la/11xJnBz"},
       {id: "xbox", nome: "Xbox Series X|S", desc: "A outra porta de entrada pra Leonida no dia 19.", link: ""}
     ],
     "Acessórios": [
-      {id: "controle", nome: "Controle extra", desc: "DualSense ou controle Xbox: salva as maratonas.", link: ""},
-      {id: "headset", nome: "Headset gamer", desc: "Som de Vice City sem acordar a casa de madrugada.", link: ""},
-      {id: "ssd", nome: "Armazenamento extra", desc: "O jogo pode passar de 200 GB. Espaço sem apagar os outros.", link: ""},
-      {id: "carregador", nome: "Carregador de controle", desc: "Base dupla pra deixar tudo pronto.", link: ""}
+      {id: "controle", nome: "Controle Xbox Carbon Black", desc: "Controle sem fio oficial Microsoft pra Xbox Series X|S e PC.", link: "https://meli.la/1QojQ9D"},
+      {id: "headset", nome: "Headset gamer RGB", desc: "Com microfone, funciona no PS5, Xbox, PC e celular.", link: "https://meli.la/33DSzfC"},
+      {id: "ssd", nome: "Armazenamento extra", desc: "O jogo pode passar de 200 GB. Espaço sem apagar os outros.", link: ""}
+    ],
+    "Setup": [
+      {id: "tv", nome: "Smart TV TCL 43\" QLED", desc: "Cores vivas pra ver o pôr do sol de Vice City do jeito certo.", link: "https://meli.la/1gjgV1M"},
+      {id: "caixa", nome: "Caixa JBL Boombox 4", desc: "Som alto pra rádio de Vice City tocar na casa toda.", link: "https://meli.la/2Bi1okg"}
     ],
     "Presentes": [
-      {id: "psn", nome: "Cartão presente PSN", desc: "Pra comprar o jogo ou presentear quem vai jogar.", link: ""},
+      {id: "psn", nome: "Cartão presente PSN R$ 550", desc: "Digital: dá pra comprar o jogo ou presentear quem vai jogar.", link: "https://meli.la/21oNSCo"},
       {id: "xboxgift", nome: "Cartão presente Xbox", desc: "Crédito na Loja Xbox.", link: ""}
     ]
   },
   /* setup indicado para cada resultado do quiz (ids acima) */
   perfis: {
-    E: ["ssd", "headset", "controle"],
-    C: ["controle", "carregador", "headset"],
-    H: ["headset", "ssd", "psn"],
-    N: ["ps5", "ssd", "psn"]
+    E: ["gta6", "headset", "ssd"],
+    C: ["gta6", "controle", "caixa"],
+    H: ["gta6", "tv", "headset"],
+    N: ["gta6", "ps5", "tv"]
   },
   diasLancamento: 7   /* dias depois do lançamento em que a página fica no modo "já saiu" */
 };
@@ -235,6 +241,7 @@ footer p+p{margin-top:8px}
       <div><b id="cdS">--</b><span>seg</span></div>
     </div>
     <div class="ctas">
+      <a class="btn mag" id="btnJogo" href="#" target="_blank" rel="noopener sponsored">Garantir o GTA 6 (PS5)</a>
       <a class="btn wa js-vip" href="#" target="_blank" rel="noopener">{{WA}}Entrar no Grupo VIP</a>
       <a class="btn out" href="#quiz">Fazer o quiz: que jogador você é?</a>
     </div>
@@ -366,6 +373,8 @@ footer p+p{margin-top:8px}
   var PROD = {};
   Object.keys(C.produtos).forEach(function(cat){ C.produtos[cat].forEach(function(p){ PROD[p.id] = p; }); });
   function linkProd(p){ return p.link || vip; }
+  if (PROD.gta6 && PROD.gta6.link) $("btnJogo").href = PROD.gta6.link; else $("btnJogo").style.display = "none";
+  if (FASE !== "pre") $("btnJogo").textContent = "Comprar o GTA 6 (PS5)";
   function rotuloProd(p){ return p.link ? "Ver oferta" : "Pedir no grupo"; }
 
   /* topo + barra fixa */
@@ -470,18 +479,20 @@ footer p+p{margin-top:8px}
       return FASE === "pre" ? "GTA 6 sai dia 19/11/2026. Libera à meia-noite no horário local, ou seja, 0h de 19/11 no Brasil. Faltam " + dias() + " dia(s)." : "GTA 6 já saiu! Foi lançado em 19/11/2026, à meia-noite no horário local."; }},
     {k: ["ps4", "xbox one", "geracao passada", "antigo", "velho"], r: "Não. GTA 6 é só pra PS5 e Xbox Series X|S. Não tem versão pra PS4 nem Xbox One.", p: ["ps5", "xbox"]},
     {k: ["pc", "computador", "steam", "notebook"], r: "No lançamento, GTA 6 sai só pra PS5 e Xbox Series X|S. A versão de PC ainda não tem data anunciada pela Rockstar."},
-    {k: ["plataforma", "console", "qual console", "onde jogar", "ps5", "xbox", "series"], r: "GTA 6 sai pra PS5 e Xbox Series X|S. Se ainda não tem o console, vale montar o setup antes do dia 19.", p: ["ps5", "xbox"]},
-    {k: ["preco", "quanto custa", "quanto e", "custa", "valor", "standard", "ultimate", "edicao", "edicoes", "reais"], r: "No Brasil: edição Standard por R$ 449,90 e Ultimate por R$ 549,90.", p: ["psn", "xboxgift"]},
-    {k: ["pre venda", "prevenda", "bonus", "brinde", "vintage", "gta+"], r: "Quem compra na pré-venda até 20/11 ganha o Pacote Vintage Vice City e 1 mês de GTA+.", p: ["psn", "xboxgift"]},
+    {k: ["plataforma", "console", "qual console", "onde jogar", "ps5", "xbox", "series"], r: "GTA 6 sai pra PS5 e Xbox Series X|S. Se ainda não tem o console, vale montar o setup antes do dia 19.", p: ["ps5", "gta6"]},
+    {k: ["preco", "quanto custa", "quanto e", "custa", "valor", "standard", "ultimate", "edicao", "edicoes", "reais"], r: "No Brasil: edição Standard por R$ 449,90 e Ultimate por R$ 549,90 nas lojas digitais. A mídia física pra PS5 aparece no Mercado Livre.", p: ["gta6", "psn"]},
+    {k: ["pre venda", "prevenda", "bonus", "brinde", "vintage", "gta+"], r: "Quem compra na pré-venda até 20/11 ganha o Pacote Vintage Vice City e 1 mês de GTA+.", p: ["gta6", "psn"]},
     {k: ["pre download", "predownload", "pre load", "preload", "baixar antes", "baixar", "download"], r: "O pré-download já foi liberado pra quem comprou a versão digital na pré-venda. Assim, dia 19 é só abrir e jogar."},
     {k: ["tamanho", "gb", "giga", "ocupa", "quantos gb", "espaco", "armazenamento", "ssd", "hd", "memoria", "pesado"], r: "O jogo pode ocupar até 212 GB. Se o console estiver cheio, armazenamento extra resolve sem apagar os outros jogos.", p: ["ssd"]},
     {k: ["protagonista", "personagem", "personagens", "quem e", "quem sao", "~jason", "~lucia"], r: "Os protagonistas são Jason Duval e Lucia Caminos. Também aparecem Cal Hampton, Boobie Ike, Dre'Quan Priest, Real Dimez, Raul Bautista e Brian Heder. Dá uma olhada na seção Personagens."},
     {k: ["mapa", "cidade", "onde se passa", "leonida", "vice city", "miami", "regiao", "regioes", "florida"], r: "GTA 6 se passa em Leonida, um estado inspirado na Flórida. A Rockstar já mostrou 6 regiões: Vice City, Leonida Keys, Grassrivers, Port Gellhorn, Ambrosia e Mount Kalaga."},
-    {k: ["golpe", "chave", "key", "barato", "seguro", "confiavel", "onde comprar", "comprar"], r: "Compra segura é na PlayStation Store, na Loja Xbox ou em loja grande e conhecida. Chave muito barata em site desconhecido costuma ser golpe.", p: ["psn", "xboxgift"]},
+    {k: ["golpe", "chave", "key", "barato", "seguro", "confiavel", "onde comprar", "comprar"], r: "Compra segura é na PlayStation Store, na Loja Xbox ou em loja grande e conhecida. Chave muito barata em site desconhecido costuma ser golpe.", p: ["gta6", "psn"]},
     {k: ["presente", "presentear", "dar de presente", "gift", "cartao"], r: "Cartão presente PSN ou Xbox é o jeito mais fácil: a pessoa usa o crédito pra comprar o jogo.", p: ["psn", "xboxgift"]},
     {k: ["controle", "joystick", "dualsense", "manete"], r: "Pras maratonas, vale ter um controle extra carregado e uma base pra carregar os dois.", p: ["controle", "carregador"]},
+    {k: ["tv", "televisao", "tela", "monitor", "4k", "qled"], r: "Pra ver Leonida do jeito certo, uma TV QLED faz diferença nas cores do pôr do sol de Vice City.", p: ["tv"]},
+    {k: ["caixa de som", "som alto", "jbl", "caixa", "radio"], r: "Quer a rádio de Vice City tocando na casa toda? Uma caixa de som potente resolve.", p: ["caixa"]},
     {k: ["fone", "headset", "audio", "som", "barulho", "madrugada"], r: "Vai virar a noite? Um headset deixa o som de Vice City no talo sem acordar a casa.", p: ["headset"]},
-    {k: ["setup", "preciso", "o que comprar", "acessorio", "acessorios", "equipamento"], r: "O básico pro dia 19: console com espaço livre, controle extra carregado e um bom headset. Faz o quiz que eu te mostro o setup ideal pro seu estilo.", p: ["ssd", "controle", "headset"]},
+    {k: ["setup", "preciso", "o que comprar", "acessorio", "acessorios", "equipamento"], r: "O básico pro dia 19: o jogo, console com espaço livre, controle extra e um bom headset. Faz o quiz que eu te mostro o setup ideal pro seu estilo.", p: ["gta6", "headset"]},
     {k: ["online", "multiplayer", "jogar com amigo", "coop"], r: "A Rockstar ainda não detalhou o modo online do GTA 6. Quando sair informação oficial, o Grupo VIP fica sabendo primeiro.", g: true},
     {k: ["portugues", "legenda", "dublado", "dublagem", "idioma", "ptbr", "pt br"], r: "Os idiomas oficiais eu ainda não confirmei em fonte segura. Pergunta no Grupo VIP que a gente responde com a fonte.", g: true},
     {k: ["guia", "dica", "dicas", "dinheiro", "detonado", "como jogar"], r: "Estamos preparando o Guia GTA 6 em PT-BR: primeiras horas, dinheiro rápido, veículos e lugares escondidos. Entra na lista de espera que você fica sabendo primeiro.", guia: true},
