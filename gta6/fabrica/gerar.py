@@ -730,7 +730,8 @@ def reel(item, saida):
     arq = saida / f"{item['id']}.mp4"
     enc = subprocess.Popen(["ffmpeg", "-v", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
                             "-i", str(wav), "-map", "0:v", "-map", "1:a", "-c:v", "libx264", "-preset", "veryfast", "-crf", "24", "-maxrate", "5M", "-bufsize", "10M",
-                            "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-shortest", "-movflags", "+faststart", str(arq)],
+                            "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-shortest",
+                            *SEM_METADADOS, "-movflags", "+faststart", str(arq)],
                            stdin=subprocess.PIPE)
     capa_t = (t_sub or t_lin[-1]) + 0.5
     capa = None
@@ -777,6 +778,11 @@ CTA_BIO = {
     "ofertas": "🔗 Vai montar o setup pro dia 19? As melhores ofertas estão no link na bio.",
     "comunidade": "🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.",
 }
+
+
+# arquivos limpos: sem tags de encoder, sem SEI do x264, sem datas
+SEM_METADADOS = ["-map_metadata", "-1", "-map_chapters", "-1", "-fflags", "+bitexact", "-flags:v", "+bitexact",
+                 "-flags:a", "+bitexact", "-bsf:v", "filter_units=remove_types=6", "-metadata", "encoder=", "-metadata:s", "handler_name="]
 
 
 def legenda(item, n=0):
