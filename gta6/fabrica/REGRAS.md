@@ -33,6 +33,8 @@ Mistura do dia: 4 `reel` (posições 1, 4, 7, 10), 3 `carrossel` (2, 6, 9) e 3 `
 ### legenda
 Só o corpo: gancho forte de 1 linha (curiosidade, número ou polêmica leve) + 1 linha com pedido de ação (comenta, salva, marca, compartilha). Toda peça leva `cta_bio` escolhido pelo tema: `grupo` (ofertas e avisos), `guia` (lista de espera do guia), `ofertas` (setup, console, acessório), `comunidade` (enquete, papo, nostalgia). O gerador acrescenta o CTA do link na bio correspondente, o aviso de página de fã e as hashtags. Nos 3 posts do dia, use pelo menos 3 CTAs diferentes.
 
+Antes de escolher os temas do dia, leia `gta6/fabrica/SUGESTOES.md` e use a primeira pauta não riscada (marque [x] depois de usar).
+
 ## Regras de conteúdo (obrigatórias)
 1. **Nada de material de outros criadores.** Nunca baixar nem repostar vídeo, print ou arte de outras páginas. Imagens oficiais só as do `gta6/banco/oficial/` (enviadas pelo Victor), sempre dentro da moldura do `gerar.py`; fotos de cenário só do `gta6/banco/fotos/`.
 2. **Fato só com fonte.** Toda informação factual vem de página aberta e lida no dia (WebSearch + WebFetch) e entra em `fontes`. Sem fonte, vira opinião, enquete ou humor. Nunca inventar números, datas, preços, conteúdos de edição ou recursos do jogo.
