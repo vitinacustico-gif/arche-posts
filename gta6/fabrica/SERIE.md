@@ -13,7 +13,7 @@ Regras da série:
 | 1 | 11/11 | carros | Os carros de GTA 6 (feito) |
 | 2 | 12/11 | animais | Os animais de Leonida (feito) |
 | 3 | 13/11 | armas | As armas que já vimos (feito) |
-| 4 | 14/11 | atividades | O que fazer em Leonida: caça, pesca, caiaque e trilha no Mount Kalaga; academia, MMA, sinuca, basquete, minigolfe vistos no trailer 2 |
+| 4 | 14/11 | atividades | O que fazer em Leonida: caça, pesca, caiaque e trilha no Mount Kalaga; academia, MMA, sinuca, basquete, minigolfe vistos no trailer 2 [feito] |
 | 5 | 15/11 | trabalhos | Quem vai te dar trabalho: Raul (assaltos a banco), Brian (contrabando no estaleiro, Jason mora de graça em troca de serviço), Boobie e Dre'Quan (Only Raw Records, Jack of Hearts), Cal |
 | 6 | 16/11 | cheats | Cheats lendários do San Andreas e do GTA 5 (nostalgia) |
 | 7 | 17/11 | carros | Veículos da Ultimate Edition e da pré-venda |
