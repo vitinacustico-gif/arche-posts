@@ -1033,7 +1033,7 @@ CTA_BIO = {
 
 # arquivos limpos: sem tags de encoder, sem SEI do x264, sem datas
 SEM_METADADOS = ["-map_metadata", "-1", "-map_chapters", "-1", "-fflags", "+bitexact", "-flags:v", "+bitexact",
-                 "-flags:a", "+bitexact", "-bsf:v", "filter_units=remove_types=6", "-metadata", "encoder=", "-metadata:s", "handler_name="]
+                 "-flags:a", "+bitexact", "-bsf:v", "filter_units=remove_types=6", "-metadata", "encoder=", "-metadata:s", "handler_name=", "-metadata:s:v", "encoder=", "-metadata:s:a", "encoder="]
 
 
 def legenda(item, n=0):

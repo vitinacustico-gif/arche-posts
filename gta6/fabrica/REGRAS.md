@@ -43,6 +43,14 @@ Antes de escolher os temas do dia, leia `gta6/fabrica/SUGESTOES.md` e use a prim
 ## Série Nerd GTA (30 dias, 11/11 a 10/12)
 Se o `status.py` devolver `serie_no_dia_gerado`, o dia tem 1 peça a mais: um carrossel "tela dividida" do tema indicado, seguindo `gta6/fabrica/SERIE.md` (assunto do dia, regras de cheats e de vazamento). Em dias normais, esse item entra com `"hora":"14:07"` e `"serie":"<tema>"`; o total do dia passa a ser 11 (`pecas_no_dia_gerado`). Marque [feito] na tabela do SERIE.md.
 
+## Reels narrados (obrigatório desde 12/11)
+Todo reel leva `"roteiro"`: 3 a 5 cenas `{"fala": "...", "tela": "TEXTO CURTO", "imagem": "gta6/banco/oficial/..."}`. A 1ª fala é o gancho (pergunta, aviso ou número) e a última pede comentário ou compartilhamento. Fala curta e falada (números por extenso quando soa melhor, "PlayStation 5" em vez de "PS5"). Cada cena com imagem diferente, sem repetir no mesmo dia.
+Como gerar a voz (ElevenLabs via Composio, voz `TX3LPaxmHKxFdv7VOQHJ`, modelo `eleven_multilingual_v2`, stability 0.4, similarity 0.8, style 0.3):
+1. Escreva `gta6/narracao_job.json` = lista `[{"path": "gta6/narracao/<data>-<id>/NN.mp3", "text": fala}]`, faça commit e push.
+2. No COMPOSIO_REMOTE_WORKBENCH: baixe o job pelo raw do GitHub, chame `ELEVENLABS_TEXT_TO_SPEECH` para cada fala (8 em paralelo), baixe o `data.file.s3url` com requests e suba todos os mp3 num commit só pela API Git do GitHub (`proxy_execute` com toolkit "github": blobs → tree com base_tree → commit → PATCH refs/heads/gta6).
+3. `git pull` e rode o gerar.py normalmente: o reel com roteiro sai narrado (narrado.py).
+Se a voz falhar (cota do plano grátis: 10 mil caracteres por mês), remova o "roteiro" do item e gere o reel no estilo antigo, e avise Victor na mensagem final.
+
 ## Links de afiliado
 Os produtos com link de afiliado do Mercado Livre estão em `gta6/afiliados/produtos.json`. Nas mensagens do WhatsApp (gta6/whatsapp/), use esses links de verdade no lugar de "[COLE AQUI O LINK DE AFILIADO]", escolhendo o produto que combina com o tema do dia (o jogo GTA VI para PS5 é o principal até o dia 19). Não escreva preço fixo: muda todo dia.
 
