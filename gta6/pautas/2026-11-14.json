@@ -1,0 +1,556 @@
+{
+ "data": "2026-11-14",
+ "fontes": [
+  "https://www.gtabase.com/pt/articles/gta-6/gta-6-gamesradar-preview-showcases-biggest-gameplay-changes",
+  "https://www.gtabase.com/articles/gta-6/gta-6-previews-recap-all-new-gameplay-features-revealed",
+  "https://thegameswiki.com/gta6/wiki/side-activities",
+  "https://comicbook.com/gaming/news/gta-6-activities-trailer-2",
+  "https://jamtest.dexerto.com/gta/all-activities-in-gta-6-3190923",
+  "https://www.gtabase.com/pt/gta-6/noticias/"
+ ],
+ "itens": [
+  {
+   "id": "01",
+   "formato": "reel",
+   "linhas": [
+    "FALTAM",
+    "5 DIAS"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Último fim de semana antes de Leonida",
+   "cta": [
+    "ATIVA",
+    "O SININHO"
+   ],
+   "cta_sub": "Contagem regressiva todo dia aqui",
+   "tag": "CONTAGEM",
+   "cta_bio": "grupo",
+   "legenda": "Faltam 5 dias pro GTA 6 ⏳\n\nÚltimo sábado antes de Leonida. Como você vai passar o seu? Comenta aqui.",
+   "roteiro": [
+    {
+     "fala": "Faltam cinco dias pro GTA 6.",
+     "tela": "FALTAM 5 DIAS",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-04.jpg"
+    },
+    {
+     "fala": "Esse é o último fim de semana antes de Leonida.",
+     "tela": "ÚLTIMO FIM DE SEMANA",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-06.jpg"
+    },
+    {
+     "fala": "Dia dezenove de novembro, no PlayStation 5 e no Xbox Series.",
+     "tela": "19/11 NO PS5 E XBOX",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-22.jpg"
+    },
+    {
+     "fala": "E você, vai passar o sábado como? Comenta aqui.",
+     "tela": "COMENTA AQUI",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-20.jpg"
+    }
+   ]
+  },
+  {
+   "id": "02",
+   "formato": "carrossel",
+   "capa": [
+    "COMO FUGIR",
+    "DA POLÍCIA"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O 3º truque você vai usar muito",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "policia",
+    "noite"
+   ],
+   "slides": [
+    {
+     "titulo": "Polícia mais esperta",
+     "texto": "Ela escolhe quando usar equipamento pra parar o seu carro.",
+     "puxa": "E se você sair a pé?"
+    },
+    {
+     "titulo": "Cães na sua cola",
+     "texto": "Unidades K9 continuam a perseguição quando você foge a pé.",
+     "puxa": "Como despistar então?"
+    },
+    {
+     "titulo": "Troca de roupa",
+     "texto": "O nível de procurado pode cair se você trocar de roupa.",
+     "puxa": "E as armas?"
+    },
+    {
+     "titulo": "Larga a arma",
+     "texto": "Descartar as armas também ajuda a esfriar a perseguição.",
+     "puxa": "Cuidado com quem passa"
+    },
+    {
+     "titulo": "Pedestre herói",
+     "texto": "Alguns pedestres podem tentar impedir o seu crime. Detalhes da prévia da GamesRadar."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "VOCÊ FOGE",
+     "OU ENFRENTA?"
+    ],
+    "texto": "Comenta FOGE ou ENFRENTA. Salva pra testar dia 19."
+   },
+   "cta_bio": "guia",
+   "legenda": "Fugir da polícia no GTA 6 não vai ser só acelerar e se esconder 🚨\n\nSalva e manda pro amigo que sempre leva 5 estrelas."
+  },
+  {
+   "id": "03",
+   "formato": "post",
+   "tipo": "enquete",
+   "linhas": [
+    "PRAIA OU",
+    "PÂNTANO?"
+   ],
+   "destaque": [
+    1
+   ],
+   "opcoes": [
+    "Vice City",
+    "Grassrivers"
+   ],
+   "sub": "Onde você passa a primeira noite?",
+   "imagem": "gta6/banco/oficial/lugar-grassrivers-05.jpg",
+   "cta_bio": "comunidade",
+   "legenda": "Primeira noite em Leonida: praia de Vice City ou pântano de Grassrivers? 🌴🐊\n\nComenta A ou B."
+  },
+  {
+   "id": "04",
+   "formato": "reel",
+   "linhas": [
+    "ÔNIBUS NO",
+    "HORÁRIO?",
+    "SÓ NO GTA 6"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "O detalhe mais irreal de Leonida",
+   "cta": [
+    "MARCA",
+    "ALGUÉM"
+   ],
+   "cta_sub": "que vive esperando o ônibus",
+   "tag": "HUMOR",
+   "cta_bio": "comunidade",
+   "legenda": "No GTA 6 o ônibus chega no horário. Agora sim é ficção 😂\n\nMarca o amigo que vive esperando no ponto.",
+   "roteiro": [
+    {
+     "fala": "Sabia que no GTA 6 tem ônibus e trem funcionando?",
+     "tela": "ÔNIBUS E TREM",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-02.jpg"
+    },
+    {
+     "fala": "E segundo a Rockstar, eles sempre chegam no horário.",
+     "tela": "SEMPRE NO HORÁRIO",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-14.jpg"
+    },
+    {
+     "fala": "Ou seja: a parte mais irreal do jogo é o ponto de ônibus.",
+     "tela": "PURA FICÇÃO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-06.jpg"
+    },
+    {
+     "fala": "Marca o amigo que vive esperando o ônibus.",
+     "tela": "MARCA ELE",
+     "imagem": "gta6/banco/oficial/pessoa-cal-hampton-04.jpg"
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "formato": "post",
+   "tipo": "noticia",
+   "linhas": [
+    "600 MIL",
+    "ANIMAÇÕES"
+   ],
+   "destaque": [
+    0
+   ],
+   "texto": "Segundo a prévia da GamesRadar, a Rockstar criou cerca de 600 mil animações só para os NPCs. Cada um reage do seu jeito, e não só foge ou briga.",
+   "fonte": "GamesRadar, via GTABase",
+   "sub": "Só para os moradores de Leonida",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-21.jpg",
+   "cta_bio": "guia",
+   "legenda": "600 mil animações só pros NPCs do GTA 6 🤯\n\nVocê vai reparar nos pedestres ou só passar por cima? Comenta."
+  },
+  {
+   "id": "06",
+   "formato": "carrossel",
+   "capa": [
+    "OS APPS DO",
+    "CELULAR"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O 5º traz seu carro até você",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "carro",
+    "miami"
+   ],
+   "slides": [
+    {
+     "titulo": "Celular de verdade",
+     "texto": "A câmera foca nas mãos do personagem, sem tela por cima do jogo.",
+     "puxa": "E os apps?"
+    },
+    {
+     "titulo": "RydeMe",
+     "texto": "Um app de corrida que funciona como viagem rápida.",
+     "puxa": "Quer escolher o carro?"
+    },
+    {
+     "titulo": "WAINK",
+     "texto": "Escaneia carros parados: trava, alarme, rastreador e valor.",
+     "puxa": "E pra achar eventos?"
+    },
+    {
+     "titulo": "Snapmatic",
+     "texto": "Posts e lives que revelam eventos aleatórios e esconderijos.",
+     "puxa": "Agora o melhor"
+    },
+    {
+     "titulo": "Scooter Bros",
+     "texto": "Um entregador leva o seu veículo até onde você estiver.",
+     "puxa": "E não acabou"
+    },
+    {
+     "titulo": "Banco, saúde e treino",
+     "texto": "Tem também apps de mensagem, vídeo, banco, saúde e fitness."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "QUAL APP",
+     "VOCÊ ABRE 1º?"
+    ],
+    "texto": "Comenta o app. Salva pra lembrar no dia 19."
+   },
+   "cta_bio": "comunidade",
+   "legenda": "O celular do GTA 6 tem app pra tudo 📱\n\nQual você vai abrir primeiro? Comenta e salva."
+  },
+  {
+   "id": "07",
+   "formato": "reel",
+   "linhas": [
+    "ÚLTIMO",
+    "SÁBADO SEM",
+    "GTA 6"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "Aproveita enquanto ainda sai de casa",
+   "cta": [
+    "MARCA",
+    "ALGUÉM"
+   ],
+   "cta_sub": "que vai sumir junto com você",
+   "tag": "HUMOR",
+   "cta_bio": "comunidade",
+   "legenda": "Último sábado sem GTA 6 ☀️ Aproveita o sol enquanto dá.\n\nMarca quem vai sumir do mapa na semana que vem.",
+   "roteiro": [
+    {
+     "fala": "Atenção: esse é o último sábado sem GTA 6.",
+     "tela": "ÚLTIMO SÁBADO",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-04.jpg"
+    },
+    {
+     "fala": "Aproveita. Sai, pega um sol, fala com a família.",
+     "tela": "PEGA UM SOL",
+     "imagem": "gta6/banco/oficial/pessoa-cal-hampton-03.jpg"
+    },
+    {
+     "fala": "Porque no sábado que vem, você só sai do quarto pra buscar comida.",
+     "tela": "SÓ PRA COMER",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-02.jpg"
+    },
+    {
+     "fala": "Marca quem vai sumir junto com você.",
+     "tela": "MARCA ALGUÉM",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-17.jpg"
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "formato": "post",
+   "tipo": "documento",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-26.jpg",
+   "cta_bio": "grupo",
+   "titulo_doc": "COMUNICADO AO AMOR",
+   "titulo": "COMUNICADO AO AMOR",
+   "carimbo": "IMPORTANTE",
+   "tag": "AO AMOR",
+   "foto_3x4": "gta6/banco/oficial/pessoa-lucia-caminos-11.jpg",
+   "foco_3x4": [
+    0.72,
+    0.3,
+    0.4
+   ],
+   "corpo": "Comunico, com todo o carinho, que a partir de **19/11** o date de sábado será transferido para **Vice City**. Assistir do lado do sofá continua liberado.",
+   "campos": [
+    [
+     "Motivo:",
+     "GTA 6.",
+     true
+    ],
+    [
+     "Compensação:",
+     "Um jantar depois de zerar.",
+     false
+    ]
+   ],
+   "rodape_doc": "Te amo, mas a Lucia precisa de mim.",
+   "assinatura": [
+    "SEU AMOR",
+    "EM MODO GTA VI"
+   ],
+   "legenda": "Comunicado oficial pro amor 💌 Manda pra ele ou pra ela e mostra a resposta 😂\n\nComenta se foi deferido ou indeferido."
+  },
+  {
+   "id": "09",
+   "formato": "carrossel",
+   "capa": [
+    "6 DETALHES",
+    "DA PRÉVIA"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O 6º muda como você rouba carro",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "carro",
+    "ceu"
+   ],
+   "slides": [
+    {
+     "titulo": "Clima de verdade",
+     "texto": "Vento, umidade, neblina, hora e estação do ano mudam o tempo.",
+     "puxa": "E o dia?"
+    },
+    {
+     "titulo": "Dias mais longos",
+     "texto": "O ciclo de dia e noite ficou mais demorado em tempo real.",
+     "puxa": "Dá pra entrar nos prédios?"
+    },
+    {
+     "titulo": "Prédios abertos",
+     "texto": "Interiores podem ser explorados, com coisas pra mexer.",
+     "puxa": "Agora o carro"
+    },
+    {
+     "titulo": "Olho no tanque",
+     "texto": "Todo veículo tem marcador de combustível e de saúde do motor.",
+     "puxa": "E as armas?"
+    },
+    {
+     "titulo": "Arma no porta-malas",
+     "texto": "Dá pra guardar as armas no porta-malas do carro.",
+     "puxa": "E o roubo de carro?"
+    },
+    {
+     "titulo": "Carro com rastreador",
+     "texto": "Carros novos e caros podem ter rastreador. E o dono pode chamar a polícia."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "QUAL TE",
+     "SURPREENDEU?"
+    ],
+    "texto": "Comenta o número. Fonte: prévia da GamesRadar."
+   },
+   "cta_bio": "grupo",
+   "legenda": "6 detalhes da prévia do GTA 6 que muita gente não viu 👀\n\nComenta o número que mais te surpreendeu e salva."
+  },
+  {
+   "id": "10",
+   "formato": "reel",
+   "linhas": [
+    "VAI COMPRAR",
+    "NO FIM DE",
+    "SEMANA?"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "Antes, entra no grupo VIP",
+   "cta": [
+    "LINK",
+    "NA BIO"
+   ],
+   "cta_sub": "Grupo VIP de ofertas, de graça",
+   "tag": "GRUPO VIP",
+   "cta_bio": "grupo",
+   "legenda": "Vai comprar GTA 6 ou acessório nesse fim de semana? 🛒\n\nEntra no grupo VIP antes: link na bio, de graça.",
+   "roteiro": [
+    {
+     "fala": "Vai comprar GTA 6 ou algum acessório nesse fim de semana?",
+     "tela": "VAI COMPRAR?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-20.jpg"
+    },
+    {
+     "fala": "Antes, entra no nosso grupo VIP do WhatsApp.",
+     "tela": "GRUPO VIP",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-04.jpg"
+    },
+    {
+     "fala": "Lá chegam os links das ofertas e os alertas de golpe.",
+     "tela": "OFERTAS E ALERTAS",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-12.jpg"
+    },
+    {
+     "fala": "É de graça. O link está na bio.",
+     "tela": "LINK NA BIO",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-02.jpg"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "hora": "14:07",
+   "formato": "carrossel",
+   "estilo": "grade",
+   "serie": "atividades",
+   "cta_bio": "guia",
+   "capa": {
+    "titulo": [
+     "O QUE FAZER",
+     "EM LEONIDA"
+    ],
+    "destaque": [
+     1
+    ],
+    "sub": "Tudo visto em trailers, imagens e prévias",
+    "fotos": [
+     "gta6/banco/oficial/lugar-mount-kalaga-national-park-06.jpg",
+     "gta6/banco/oficial/pessoa-jason-duval-15.jpg",
+     "gta6/banco/oficial/pessoa-cal-hampton-02.jpg",
+     "gta6/banco/oficial/pessoa-jason-duval-03.jpg"
+    ]
+   },
+   "puxa_capa": "Arrasta",
+   "slides": [
+    {
+     "titulo": "Natureza",
+     "puxa": "E pra treinar?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-03.jpg",
+       "rot": "Pesca",
+       "txt": "Jason pesca de barco em imagem oficial."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-06.jpg",
+       "rot": "Caiaque",
+       "txt": "Remando nos rios do Mount Kalaga."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-grassrivers-06.jpg",
+       "rot": "Caça",
+       "txt": "Caça e pesca estão nas atividades das prévias."
+      }
+     ]
+    },
+    {
+     "titulo": "Treino",
+     "puxa": "E no bar?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-15.jpg",
+       "rot": "Academia",
+       "txt": "Jason levanta peso no trailer 2."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-lucia-caminos-09.jpg",
+       "rot": "Força",
+       "txt": "Ganhar força pede 3 dias seguidos de treino."
+      }
+     ]
+    },
+    {
+     "titulo": "Lazer",
+     "puxa": "E na água?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-cal-hampton-02.jpg",
+       "rot": "Sinuca",
+       "txt": "Jason e Cal jogam no bar, no trailer 2."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-cal-hampton-01.jpg",
+       "rot": "Minigolfe",
+       "txt": "Cal aparece num campo em imagem oficial."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-03.jpg",
+       "rot": "Basquete",
+       "txt": "Quadras no alto dos prédios de Vice City."
+      }
+     ]
+    },
+    {
+     "titulo": "Aventura",
+     "puxa": "E o que ficou de fora?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-07.jpg",
+       "rot": "Mergulho",
+       "txt": "Naufrágios com tesouro, segundo as prévias."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-01.jpg",
+       "rot": "Off-road",
+       "txt": "Corridas off-road e de monster truck."
+      }
+     ]
+    },
+    {
+     "titulo": "Bichos e fora",
+     "puxa": "Salva",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-05.jpg",
+       "rot": "Vida selvagem",
+       "txt": "Animais vistos entram numa lista de espécies."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-05.jpg",
+       "rot": "Ficou de fora",
+       "txt": "Tênis completo, surfe e skate, dizem as prévias."
+      }
+     ]
+    }
+   ],
+   "fecho": {
+    "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-16.jpg",
+    "titulo": [
+     "QUAL VOCÊ",
+     "FAZ 1º?"
+    ],
+    "texto": "Comenta a atividade. Dia 19 a gente testa."
+   },
+   "legenda": "O que fazer em Leonida além das missões 🎣🏋️\n\nSérie Nerd GTA, parte 4. Qual atividade você testa primeiro? Comenta.",
+   "fontes": [
+    "https://www.gtabase.com/articles/gta-6/gta-6-previews-recap-all-new-gameplay-features-revealed",
+    "https://thegameswiki.com/gta6/wiki/side-activities",
+    "https://comicbook.com/gaming/news/gta-6-activities-trailer-2",
+    "https://jamtest.dexerto.com/gta/all-activities-in-gta-6-3190923"
+   ]
+  }
+ ]
+}
