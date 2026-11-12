@@ -953,6 +953,10 @@ def trilha(dur, bpm=104, seed=3, eventos=()):
 
 
 def reel(item, saida):
+    if item.get("roteiro"):
+        import narrado
+        item["_pauta"] = saida.name
+        return narrado.reel_narrado(item, saida, sys.modules[__name__])
     W, H = 1080, 1920
     dur = float(item.get("dur", 9.0))
     sc = cena(W, H, horizonte=0.74, sol=0.30, escurecer=0.5, grao=2.5)

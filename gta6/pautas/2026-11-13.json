@@ -23,7 +23,29 @@
    "cta_sub": "Contagem regressiva todo dia aqui",
    "tag": "CONTAGEM",
    "legenda": "Sexta-feira 13 e faltam 6 dias pro GTA 6 🖤\n\nO azar é de quem ainda não reservou. Quem já garantiu o seu?",
-   "hora": "07:00"
+   "hora": "07:00",
+   "roteiro": [
+    {
+     "fala": "Sexta-feira treze, e faltam seis dias pro GTA 6.",
+     "tela": "FALTAM 6 DIAS",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-06.jpg"
+    },
+    {
+     "fala": "Azar mesmo é de quem ainda não garantiu o jogo.",
+     "tela": "AZAR É NÃO TER O JOGO",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-01.jpg"
+    },
+    {
+     "fala": "Quinta que vem, à meia-noite, Leonida abre.",
+     "tela": "QUINTA À MEIA-NOITE",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-27.jpg"
+    },
+    {
+     "fala": "Já garantiu o seu? Comenta aqui.",
+     "tela": "JÁ GARANTIU?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg"
+    }
+   ]
   },
   {
    "id": "15",
@@ -137,7 +159,34 @@
    "cta_sub": "que precisa explicar GTA pra família",
    "tag": "HUMOR",
    "legenda": "Explicando GTA pra família no dia 19 😂\n\nMarca quem vai ter essa conversa.",
-   "hora": "11:00"
+   "hora": "11:00",
+   "roteiro": [
+    {
+     "fala": "Minha mãe me perguntando o que é GTA.",
+     "tela": "MÃE: O QUE É GTA?",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-02.jpg"
+    },
+    {
+     "fala": "É um jogo educativo, mãe. Sobre a Flórida.",
+     "tela": "JOGO EDUCATIVO",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-03.jpg"
+    },
+    {
+     "fala": "Tem praia, natureza, animais...",
+     "tela": "PRAIA E NATUREZA",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-04.jpg"
+    },
+    {
+     "fala": "e só um pouquinho de perseguição policial.",
+     "tela": "SÓ UM POUQUINHO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-11.jpg"
+    },
+    {
+     "fala": "Marca quem vai ter essa conversa em casa.",
+     "tela": "MARCA AQUI",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-16.jpg"
+    }
+   ]
   },
   {
    "id": "13",
@@ -225,7 +274,29 @@
    "cta_sub": "A gente faz a live de quem ficar acordado",
    "tag": "ENQUETE",
    "cta_bio": "comunidade",
-   "legenda": "Dia 19 você joga à meia-noite ou espera amanhecer? ⏰\n\nComenta MADRUGADA ou MANHÃ."
+   "legenda": "Dia 19 você joga à meia-noite ou espera amanhecer? ⏰\n\nComenta MADRUGADA ou MANHÃ.",
+   "roteiro": [
+    {
+     "fala": "Dia dezenove, você joga à meia-noite ou espera amanhecer?",
+     "tela": "MADRUGADA OU MANHÃ?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-08.jpg"
+    },
+    {
+     "fala": "Time madrugada: café, energético e zero sono.",
+     "tela": "TIME MADRUGADA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-17.jpg"
+    },
+    {
+     "fala": "Time manhã: dorme cedo e acorda no pique.",
+     "tela": "TIME MANHÃ",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-01.jpg"
+    },
+    {
+     "fala": "Comenta qual é o seu time.",
+     "tela": "COMENTA SEU TIME",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg"
+    }
+   ]
   },
   {
    "id": "16",
@@ -371,7 +442,34 @@
    "cta_sub": "e marca quem vai roubar seu carro",
    "tag": "ENQUETE",
    "legenda": "Primeira coisa que você vai pegar em Vice City? 🏎️🏍️\n\nComenta: esportivo, moto ou carro velho.",
-   "hora": "18:00"
+   "hora": "18:00",
+   "roteiro": [
+    {
+     "fala": "Qual a primeira coisa que você vai pegar em Vice City?",
+     "tela": "PRIMEIRO VEÍCULO?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-09.jpg"
+    },
+    {
+     "fala": "Esportivo?",
+     "tela": "ESPORTIVO",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-24.jpg"
+    },
+    {
+     "fala": "Moto?",
+     "tela": "MOTO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-11.jpg"
+    },
+    {
+     "fala": "Ou aquele carro velho que sempre aparece?",
+     "tela": "CARRO VELHO",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-05.jpg"
+    },
+    {
+     "fala": "Comenta aí.",
+     "tela": "COMENTA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-09.jpg"
+    }
+   ]
   },
   {
    "id": "09",
@@ -438,7 +536,29 @@
    "cta_sub": "Entra na lista e recebe primeiro",
    "tag": "GUIA",
    "legenda": "Estamos preparando o guia do GTA 6 em português 📘\n\nPrimeiras horas, como fazer dinheiro e os segredos de Leonida. Entra na lista de espera pelo link na bio.",
-   "hora": "20:00"
+   "hora": "20:00",
+   "roteiro": [
+    {
+     "fala": "Vai jogar GTA 6 e não quer ficar perdido?",
+     "tela": "NÃO FICA PERDIDO",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-10.jpg"
+    },
+    {
+     "fala": "A gente tá preparando o guia do GTA 6 em português.",
+     "tela": "GUIA EM PORTUGUÊS",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-03.jpg"
+    },
+    {
+     "fala": "Primeiras horas, como fazer dinheiro e os segredos do mapa.",
+     "tela": "DINHEIRO E SEGREDOS",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-03.jpg"
+    },
+    {
+     "fala": "Entra na lista de espera pelo link da bio.",
+     "tela": "LINK NA BIO",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-01.jpg"
+    }
+   ]
   },
   {
    "id": "08",
@@ -582,7 +702,24 @@
    "cta_sub": "Contagem regressiva todo dia aqui",
    "tag": "CONTAGEM",
    "cta_bio": "grupo",
-   "legenda": "Semana que vem tem GTA 6 🔥\n\nQuinta, 19/11, à meia-noite. Ativa o sininho pra não perder nada."
+   "legenda": "Semana que vem tem GTA 6 🔥\n\nQuinta, 19/11, à meia-noite. Ativa o sininho pra não perder nada.",
+   "roteiro": [
+    {
+     "fala": "Semana que vem tem GTA 6.",
+     "tela": "SEMANA QUE VEM",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-13.jpg"
+    },
+    {
+     "fala": "Quinta-feira, dezenove de novembro, à meia-noite.",
+     "tela": "QUINTA, 19/11, 0H",
+     "imagem": "gta6/banco/oficial/arte-jason-lucia-motel.jpg"
+    },
+    {
+     "fala": "Ativa o sininho que a gente cobre tudo, hora a hora.",
+     "tela": "ATIVA O SININHO",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-08.jpg"
+    }
+   ]
   },
   {
    "id": "18",

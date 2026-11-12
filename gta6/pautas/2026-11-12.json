@@ -25,7 +25,29 @@
    "cta_sub": "Contagem regressiva todo dia aqui",
    "tag": "CONTAGEM",
    "legenda": "Falta 1 semana pro GTA 6 🔥\n\nSete dias. Já separou a madrugada do dia 19?",
-   "hora": "07:00"
+   "hora": "07:00",
+   "roteiro": [
+    {
+     "fala": "Uma semana. É isso que falta pro GTA 6.",
+     "tela": "FALTA 1 SEMANA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-27.jpg"
+    },
+    {
+     "fala": "Dia dezenove de novembro, à meia-noite, Leonida abre as portas.",
+     "tela": "19/11 À MEIA-NOITE",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-rooftop.jpg"
+    },
+    {
+     "fala": "Quem comprou a versão digital já pode fazer o pré-download.",
+     "tela": "PRÉ-DOWNLOAD LIBERADO",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
+    },
+    {
+     "fala": "E você? Já separou a madrugada? Comenta aqui.",
+     "tela": "VAI VIRAR A NOITE?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg"
+    }
+   ]
   },
   {
    "id": "15",
@@ -138,7 +160,29 @@
    "cta_sub": "comprar na pré-venda com você",
    "tag": "PRÉ-VENDA",
    "legenda": "Último aviso pra quem ainda não reservou ⏰\n\nComprando antes de 20/11 você leva o Pacote Vintage Vice City e 1 mês de GTA+.",
-   "hora": "11:00"
+   "hora": "11:00",
+   "roteiro": [
+    {
+     "fala": "Atenção: esse bônus acaba dia vinte.",
+     "tela": "BÔNUS ATÉ 20/11",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-robbery.jpg"
+    },
+    {
+     "fala": "Quem compra o GTA 6 na pré-venda leva o Pacote Vintage Vice City.",
+     "tela": "PACOTE VINTAGE VICE CITY",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-01.jpg"
+    },
+    {
+     "fala": "E ainda ganha um mês de GTA mais.",
+     "tela": "+1 MÊS DE GTA+",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg"
+    },
+    {
+     "fala": "O link pra garantir o seu está na bio.",
+     "tela": "LINK NA BIO",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-10.jpg"
+    }
+   ]
   },
   {
    "id": "13",
@@ -235,7 +279,29 @@
    "cta_sub": "Antes que ele descubra no dia 19",
    "tag": "AVISO",
    "cta_bio": "ofertas",
-   "legenda": "Aviso de utilidade pública ⚠️ GTA 6 não roda no PS4 nem no Xbox One.\n\nManda pro amigo que ainda não sabe."
+   "legenda": "Aviso de utilidade pública ⚠️ GTA 6 não roda no PS4 nem no Xbox One.\n\nManda pro amigo que ainda não sabe.",
+   "roteiro": [
+    {
+     "fala": "Se você ainda joga no PlayStation 4, presta atenção.",
+     "tela": "TEM PS4?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-02.jpg"
+    },
+    {
+     "fala": "GTA 6 não vai rodar no PS4 nem no Xbox One.",
+     "tela": "NÃO RODA NO PS4",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-08.jpg"
+    },
+    {
+     "fala": "No lançamento é só PlayStation 5 e Xbox Series. E o PC ainda não tem data.",
+     "tela": "SÓ PS5 E XBOX SERIES",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-09.jpg"
+    },
+    {
+     "fala": "Manda esse vídeo pro amigo que ainda não sabe.",
+     "tela": "MANDA PRO AMIGO",
+     "imagem": "gta6/banco/oficial/pessoa-cal-hampton-03.jpg"
+    }
+   ]
   },
   {
    "id": "16",
@@ -356,7 +422,29 @@
    "cta_sub": "se tiver coragem",
    "tag": "HUMOR",
    "legenda": "Eu pedindo folga no dia 19 😂\n\nMarca o colega que vai faltar junto.",
-   "hora": "18:00"
+   "hora": "18:00",
+   "roteiro": [
+    {
+     "fala": "Eu, chegando no chefe no dia dezoito.",
+     "tela": "EU NO DIA 18",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-07.jpg"
+    },
+    {
+     "fala": "Chefe, amanhã eu tenho um compromisso inadiável.",
+     "tela": "COMPROMISSO INADIÁVEL",
+     "imagem": "gta6/banco/oficial/pessoa-brian-heder-03.jpg"
+    },
+    {
+     "fala": "Onde? Em Vice City.",
+     "tela": "LOCAL: VICE CITY",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-02.jpg"
+    },
+    {
+     "fala": "Marca o colega que vai faltar junto com você.",
+     "tela": "MARCA O COLEGA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-01.jpg"
+    }
+   ]
   },
   {
    "id": "09",
@@ -432,7 +520,29 @@
    "cta_sub": "Promoção todo dia até a Black Friday",
    "tag": "GRUPO VIP",
    "legenda": "Vai comprar console ou acessório pro GTA 6? 🛒\n\nNo grupo VIP do WhatsApp a gente manda as melhores ofertas todo dia até a Black Friday. Link na bio.",
-   "hora": "20:00"
+   "hora": "20:00",
+   "roteiro": [
+    {
+     "fala": "Vai comprar console ou acessório pro GTA 6? Espera.",
+     "tela": "ESPERA!",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg"
+    },
+    {
+     "fala": "No nosso grupo VIP do WhatsApp, as ofertas chegam antes de todo mundo.",
+     "tela": "GRUPO VIP GRÁTIS",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-17.jpg"
+    },
+    {
+     "fala": "PlayStation 5, controle, headset e TV, tudo com link direto.",
+     "tela": "PS5, CONTROLE E HEADSET",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-24.jpg"
+    },
+    {
+     "fala": "Entra pelo link da bio. É de graça.",
+     "tela": "LINK NA BIO",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-beach.jpg"
+    }
+   ]
   },
   {
    "id": "08",
@@ -612,7 +722,29 @@
    "cta_sub": "Avisa a família com antecedência",
    "tag": "HUMOR",
    "cta_bio": "comunidade",
-   "legenda": "Aproveita, família: é a última semana que eu saio do quarto 😂\n\nCompartilha nos stories pra avisar todo mundo."
+   "legenda": "Aproveita, família: é a última semana que eu saio do quarto 😂\n\nCompartilha nos stories pra avisar todo mundo.",
+   "roteiro": [
+    {
+     "fala": "Família, aproveita.",
+     "tela": "FAMÍLIA, APROVEITA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-08.jpg"
+    },
+    {
+     "fala": "Essa é a última semana que eu saio do quarto.",
+     "tela": "ÚLTIMA SEMANA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-02.jpg"
+    },
+    {
+     "fala": "Dia dezenove eu me mudo pra Leonida.",
+     "tela": "ME MUDO PRA LEONIDA",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-01.jpg"
+    },
+    {
+     "fala": "Compartilha nos stories pra avisar todo mundo.",
+     "tela": "COMPARTILHA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg"
+    }
+   ]
   },
   {
    "id": "18",
