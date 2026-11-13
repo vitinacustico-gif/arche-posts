@@ -94,7 +94,7 @@
      "puxa": "E a música?"
     },
     {
-     "titulo": "A música explodiu",
+     "titulo": "Hit de novo",
      "texto": "O Spotify estimou alta de 182.000% nas execuções de Hot Together.",
      "puxa": "E o último trailer?"
     },
@@ -216,10 +216,11 @@
     "gta6/banco/oficial/pessoa-jason-duval-14.jpg",
     "gta6/banco/oficial/pessoa-jason-duval-17.jpg",
     "gta6/banco/oficial/pessoa-jason-duval-18.jpg",
-    "gta6/banco/oficial/pessoa-lucia-caminos-08.jpg",
+    "gta6/banco/oficial/pessoa-lucia-caminos-14.jpg",
     "gta6/banco/oficial/pessoa-lucia-caminos-05.jpg",
-    "gta6/banco/oficial/pessoa-lucia-caminos-06.jpg",
-    "gta6/banco/oficial/pessoa-jason-and-lucia-05.jpg"
+    "gta6/banco/oficial/pessoa-lucia-caminos-08.jpg",
+    "gta6/banco/oficial/pessoa-jason-and-lucia-05.jpg",
+    "gta6/banco/oficial/pessoa-lucia-caminos-06.jpg"
    ],
    "slides": [
     {
@@ -325,7 +326,7 @@
     0.26,
     0.4
    ],
-   "corpo": "Informo que, a partir de **19/11**, sirenes, buzinas e perseguições vindas do **meu apartamento** são do GTA 6. Ninguém precisa chamar a polícia: ela já está no jogo.",
+   "corpo": "Informo que a partir de **19/11** as sirenes, buzinas e perseguições vindas do **meu apartamento** serão do GTA 6. Ninguém precisa chamar a polícia: ela já está no jogo.",
    "campos": [
     [
      "Motivo:",
