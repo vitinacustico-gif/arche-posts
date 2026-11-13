@@ -1,0 +1,591 @@
+{
+ "data": "2026-11-15",
+ "fontes": [
+  "https://shacknews.com/article/151308/grand-theft-auto-6-pre-orders-q2-fy27",
+  "https://www.rockstargames.com/VI/cal",
+  "https://www.videogameschronicle.com/news/gta-6s-cast-of-characters-revealed/",
+  "https://www.videogameschronicle.com/news/at-nearly-half-a-billion-views-rockstar-says-gta-6s-new-trailer-is-the-biggest-video-launch-of-all-time",
+  "https://thegameswiki.com/gta6/wiki/trailers",
+  "https://www.showmetech.com.br/gta-6-ganha-mais-um-trailer-com-musica-inedita-flower-in-a-hurricane-de-justice/",
+  "https://tbreak.com/gta-6-pc-release-delayed-console-first/",
+  "https://www.digitalcitizen.life/gta-6-keeps-november-19-release-date-as-take-two-stays-quiet-on-pc-version/",
+  "https://www.keengamer.com/articles/news/gta-6-extended-look-recap-all-gameplay-details/",
+  "https://thegameswiki.com/gta6/wiki/jack-of-hearts",
+  "https://www.gtabase.com/pt/gta-6/noticias/"
+ ],
+ "itens": [
+  {
+   "id": "01",
+   "formato": "reel",
+   "linhas": [
+    "FALTAM",
+    "4 DIAS"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Quinta-feira, 19/11, Leonida abre",
+   "cta": [
+    "ATIVA",
+    "O SININHO"
+   ],
+   "cta_sub": "Contagem regressiva todo dia aqui",
+   "tag": "CONTAGEM",
+   "cta_bio": "grupo",
+   "legenda": "Faltam 4 dias pro GTA 6 ⏳\n\nQuinta-feira tem Leonida. Comenta quantas horas faltam pra você.",
+   "roteiro": [
+    {
+     "fala": "Faltam quatro dias pro GTA 6.",
+     "tela": "FALTAM 4 DIAS",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-16.jpg"
+    },
+    {
+     "fala": "Quinta-feira, dezenove de novembro, Leonida abre as portas.",
+     "tela": "QUINTA, 19/11",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-02.jpg"
+    },
+    {
+     "fala": "No PlayStation 5 e no Xbox Series.",
+     "tela": "PS5 E XBOX SERIES",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-02.jpg"
+    },
+    {
+     "fala": "Já tá contando as horas? Comenta aqui quantas faltam pra você.",
+     "tela": "COMENTA AQUI",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-07.jpg"
+    }
+   ]
+  },
+  {
+   "id": "02",
+   "formato": "carrossel",
+   "capa": [
+    "A TRILHA",
+    "DOS TRAILERS"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "A última junta SZA e Tame Impala",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "noite",
+    "miami"
+   ],
+   "slides": [
+    {
+     "titulo": "Trailer 1: dez/2023",
+     "texto": "A música era Love Is a Long Road, do Tom Petty.",
+     "puxa": "E a audiência?"
+    },
+    {
+     "titulo": "93 milhões em 1 dia",
+     "texto": "Só no YouTube, nas primeiras 24 horas.",
+     "puxa": "E o trailer 2?"
+    },
+    {
+     "titulo": "Trailer 2: maio/2025",
+     "texto": "Embalado por Hot Together, das Pointer Sisters.",
+     "puxa": "Agora o absurdo"
+    },
+    {
+     "titulo": "475 milhões em 24h",
+     "texto": "Somando as plataformas. A Rockstar chamou de maior lançamento de vídeo da história.",
+     "puxa": "E a música?"
+    },
+    {
+     "titulo": "A música explodiu",
+     "texto": "O Spotify estimou alta de 182.000% nas execuções de Hot Together.",
+     "puxa": "E o último trailer?"
+    },
+    {
+     "titulo": "Trailer de lançamento",
+     "texto": "Saiu em 15/10/2026 com Flower in a Hurricane, do Justice.",
+     "puxa": "Quem canta junto?"
+    },
+    {
+     "titulo": "Time de peso",
+     "texto": "A faixa tem Tame Impala, SZA e King Gizzard & The Lizard Wizard."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "QUAL TRILHA",
+     "É A MELHOR?"
+    ],
+    "texto": "Comenta 1, 2 ou 3. Manda pro amigo que ouve no repeat."
+   },
+   "cta_bio": "comunidade",
+   "legenda": "Cada trailer do GTA 6 trouxe uma música que grudou 🎵\n\nQual é a melhor: 1, 2 ou 3? Comenta e salva."
+  },
+  {
+   "id": "03",
+   "formato": "post",
+   "tipo": "enquete",
+   "linhas": [
+    "SOZINHO OU",
+    "NA CALL?"
+   ],
+   "destaque": [
+    1
+   ],
+   "opcoes": [
+    "Sozinho",
+    "Na call"
+   ],
+   "sub": "Como você vai jogar dia 19?",
+   "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-07.jpg",
+   "cta_bio": "comunidade",
+   "legenda": "Dia 19 você joga no silêncio ou na call com a galera? 🎧\n\nComenta A ou B e marca quem vai estar na call."
+  },
+  {
+   "id": "04",
+   "formato": "reel",
+   "linhas": [
+    "FERIADO NO",
+    "DOMINGO?"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O feriado de verdade é dia 19",
+   "cta": [
+    "MANDA",
+    "PRO AMIGO"
+   ],
+   "cta_sub": "que já pediu folga pra quinta",
+   "tag": "HUMOR",
+   "cta_bio": "comunidade",
+   "legenda": "15 de novembro caiu no domingo 😩 Mas relaxa: o feriado de verdade é dia 19.\n\nManda pro amigo que já pediu folga.",
+   "roteiro": [
+    {
+     "fala": "Feriado de quinze de novembro caindo bem no domingo?",
+     "tela": "FERIADO NO DOMINGO",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-02.jpg"
+    },
+    {
+     "fala": "Calma. Ninguém precisa ficar triste.",
+     "tela": "CALMA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-04.jpg"
+    },
+    {
+     "fala": "Porque pra quem joga, o feriado de verdade é dia dezenove.",
+     "tela": "FERIADO É DIA 19",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-19.jpg"
+    },
+    {
+     "fala": "Manda pro amigo que já pediu folga pra quinta.",
+     "tela": "MANDA PRO AMIGO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-18.jpg"
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "formato": "post",
+   "tipo": "noticia",
+   "linhas": [
+    "PRÉ-VENDA",
+    "ACIMA DO",
+    "ESPERADO"
+   ],
+   "destaque": [
+    0
+   ],
+   "texto": "Na apresentação de resultados de 9/11, a Take-Two disse que a pré-venda do GTA 6 está muito acima das expectativas iniciais. E que os números vão falar por si em breve.",
+   "fonte": "Take-Two, via Shacknews",
+   "sub": "Faltam 4 dias pro lançamento",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-04.jpg",
+   "cta_bio": "guia",
+   "legenda": "A pré-venda do GTA 6 passou do que a própria Take-Two esperava 📈\n\nVocê já garantiu o seu? Comenta SIM ou AINDA NÃO."
+  },
+  {
+   "id": "06",
+   "formato": "carrossel",
+   "capa": [
+    "QUEM SÃO",
+    "JASON E LUCIA"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O 5º explica a cena da prisão",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "gta6/banco/oficial/pessoa-jason-and-lucia-19.jpg",
+    "gta6/banco/oficial/pessoa-jason-duval-14.jpg",
+    "gta6/banco/oficial/pessoa-jason-duval-17.jpg",
+    "gta6/banco/oficial/pessoa-jason-duval-18.jpg",
+    "gta6/banco/oficial/pessoa-lucia-caminos-08.jpg",
+    "gta6/banco/oficial/pessoa-lucia-caminos-05.jpg",
+    "gta6/banco/oficial/pessoa-lucia-caminos-06.jpg",
+    "gta6/banco/oficial/pessoa-jason-and-lucia-05.jpg"
+   ],
+   "slides": [
+    {
+     "titulo": "Jason: criado no golpe",
+     "texto": "Cresceu cercado de golpistas e trapaceiros.",
+     "puxa": "E depois?"
+    },
+    {
+     "titulo": "Ex-militar",
+     "texto": "Serviu no Exército e depois trabalhou pra contrabandistas nas Keys.",
+     "puxa": "O que ele quer?"
+    },
+    {
+     "titulo": "Vida fácil? Nada",
+     "texto": "A Rockstar resume: Jason quer uma vida fácil, mas tudo só fica mais difícil.",
+     "puxa": "E a Lucia?"
+    },
+    {
+     "titulo": "Lucia: lutadora",
+     "texto": "O pai ensinou ela a lutar desde criança.",
+     "puxa": "Onde isso deu?"
+    },
+    {
+     "titulo": "Penitenciária",
+     "texto": "Lutar pela família levou Lucia à Penitenciária de Leonida.",
+     "puxa": "E agora?"
+    },
+    {
+     "titulo": "O plano",
+     "texto": "Solta, ela quer a vida boa que a mãe sonha desde Liberty City.",
+     "puxa": "Onde o Jason entra?"
+    },
+    {
+     "titulo": "Melhor ou pior?",
+     "texto": "Conhecer a Lucia pode ser a melhor ou a pior coisa da vida do Jason."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "O PLANO",
+     "DÁ CERTO?"
+    ],
+    "texto": "Comenta SIM ou NÃO. Fonte: perfis oficiais da Rockstar."
+   },
+   "cta_bio": "guia",
+   "legenda": "Quem são Jason e Lucia antes do jogo começar 👀\n\nO plano dos dois dá certo? Comenta SIM ou NÃO e salva."
+  },
+  {
+   "id": "07",
+   "formato": "reel",
+   "linhas": [
+    "E O GTA 6",
+    "NO PC?"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O que a Take-Two já disse",
+   "cta": [
+    "COMENTA",
+    "AQUI"
+   ],
+   "cta_sub": "Você espera ou compra um console?",
+   "tag": "PC",
+   "cta_bio": "ofertas",
+   "legenda": "GTA 6 no PC dia 19? Ainda não 💻\n\nVocê espera ou parte pro console? Comenta.",
+   "roteiro": [
+    {
+     "fala": "E o GTA 6 no PC? Sai dia dezenove também?",
+     "tela": "E O PC?",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-03.jpg"
+    },
+    {
+     "fala": "Não. Por enquanto ele só foi anunciado pra PlayStation 5 e Xbox Series.",
+     "tela": "SÓ NO CONSOLE",
+     "imagem": "gta6/banco/oficial/arte-official-cover-art.jpg"
+    },
+    {
+     "fala": "O chefe da Take-Two disse que a Rockstar sempre começa pelo console.",
+     "tela": "CONSOLE PRIMEIRO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-06.jpg"
+    },
+    {
+     "fala": "Data pro PC ainda não tem. Comenta: você espera ou compra um console?",
+     "tela": "ESPERA OU COMPRA?",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-04.jpg"
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "formato": "post",
+   "tipo": "documento",
+   "imagem": "gta6/banco/oficial/lugar-grassrivers-02.jpg",
+   "cta_bio": "grupo",
+   "titulo_doc": "COMUNICADO AOS VIZINHOS",
+   "titulo": "COMUNICADO AOS VIZINHOS",
+   "carimbo": "CIENTE",
+   "tag": "AOS VIZINHOS",
+   "foto_3x4": "gta6/banco/oficial/pessoa-jason-duval-08.jpg",
+   "foco_3x4": [
+    0.43,
+    0.26,
+    0.4
+   ],
+   "corpo": "Informo que, a partir de **19/11**, sirenes, buzinas e perseguições vindas do **meu apartamento** são do GTA 6. Ninguém precisa chamar a polícia: ela já está no jogo.",
+   "campos": [
+    [
+     "Motivo:",
+     "GTA 6.",
+     true
+    ],
+    [
+     "Volume:",
+     "Moderado (prometo).",
+     false
+    ]
+   ],
+   "rodape_doc": "Reclamações só depois que eu zerar.",
+   "assinatura": [
+    "SEU VIZINHO",
+    "EM MODO GTA VI"
+   ],
+   "legenda": "Comunicado oficial pro condomínio 🏢 Manda no grupo dos vizinhos e mostra a resposta 😂\n\nComenta se o síndico aprovou."
+  },
+  {
+   "id": "09",
+   "formato": "carrossel",
+   "capa": [
+    "SEU CORPO",
+    "MUDA NO JOGO"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O 3º aparece se você não dormir",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "luxo",
+    "miami"
+   ],
+   "slides": [
+    {
+     "titulo": "Treino vira músculo",
+     "texto": "Malhar faz o personagem ganhar músculo.",
+     "puxa": "E a comida?"
+    },
+    {
+     "titulo": "Comida pesa",
+     "texto": "O que você come muda o peso de Jason e Lucia.",
+     "puxa": "E se não dormir?"
+    },
+    {
+     "titulo": "Sem cama, aparece",
+     "texto": "Muito tempo sem dormir ou fugindo deixa marcas visíveis.",
+     "puxa": "E o cabelo?"
+    },
+    {
+     "titulo": "Corte em casa",
+     "texto": "Dá pra aparar o cabelo em casa. Visual novo, só no barbeiro ou no salão.",
+     "puxa": "E o esconderijo?"
+    },
+    {
+     "titulo": "Esconderijo completo",
+     "texto": "Mais completo que nos GTAs antigos, inspirado nos acampamentos de Red Dead 2.",
+     "puxa": "E dentro de casa?"
+    },
+    {
+     "titulo": "Vida em casa",
+     "texto": "Dá pra abrir a geladeira e ver TV trocando de canal. Detalhes da prévia da IGN."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "ACADEMIA OU",
+     "LANCHONETE?"
+    ],
+    "texto": "Comenta qual vai ser a rotina do seu Jason. Salva pra testar dia 19."
+   },
+   "cta_bio": "grupo",
+   "legenda": "No GTA 6 o corpo do personagem muda com a sua rotina 💪🍔\n\nAcademia ou lanchonete? Comenta e salva."
+  },
+  {
+   "id": "10",
+   "formato": "reel",
+   "linhas": [
+    "4 DIAS E",
+    "VOCÊ FORA",
+    "DO GRUPO?"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "Grupo VIP de ofertas, de graça",
+   "cta": [
+    "LINK",
+    "NA BIO"
+   ],
+   "cta_sub": "Entra no grupo VIP agora",
+   "tag": "GRUPO VIP",
+   "cta_bio": "grupo",
+   "legenda": "Faltam 4 dias e você ainda tá fora do grupo VIP? 📲\n\nLink na bio, de graça. Manda pro amigo também.",
+   "roteiro": [
+    {
+     "fala": "Faltam quatro dias e você ainda não tá no grupo VIP?",
+     "tela": "AINDA FORA?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-25.jpg"
+    },
+    {
+     "fala": "Lá chegam os links de oferta do jogo e dos acessórios.",
+     "tela": "LINKS DE OFERTA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-13.jpg"
+    },
+    {
+     "fala": "E os avisos importantes da semana do lançamento.",
+     "tela": "AVISOS DO DIA 19",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-07.jpg"
+    },
+    {
+     "fala": "É de graça. O link tá na bio. Manda pro amigo também.",
+     "tela": "LINK NA BIO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-10.jpg"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "hora": "14:07",
+   "formato": "carrossel",
+   "estilo": "grade",
+   "serie": "trabalhos",
+   "cta_bio": "guia",
+   "capa": {
+    "titulo": [
+     "QUEM TE DÁ",
+     "TRABALHO"
+    ],
+    "destaque": [
+     1
+    ],
+    "sub": "Os chefes e parceiros de Jason e Lucia",
+    "fotos": [
+     "gta6/banco/oficial/pessoa-raul-bautista-02.jpg",
+     "gta6/banco/oficial/pessoa-brian-heder-04.jpg",
+     "gta6/banco/oficial/pessoa-boobie-ike-02.jpg",
+     "gta6/banco/oficial/pessoa-drequan-priest-03.jpg"
+    ]
+   },
+   "puxa_capa": "Arrasta",
+   "slides": [
+    {
+     "titulo": "Assaltos",
+     "puxa": "E no barco?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-raul-bautista-03.jpg",
+       "rot": "Raul Bautista",
+       "txt": "Ladrão de banco veterano atrás de gente corajosa."
+      },
+      {
+       "foto": "gta6/banco/oficial/arte-raul-bautista.jpg",
+       "rot": "Risco alto",
+       "txt": "Segundo a Rockstar, cada golpe dele sobe a aposta."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-raul-bautista-04.jpg",
+       "rot": "Na fuga",
+       "txt": "Na prévia, Raul e Jason atiram na polícia."
+      }
+     ]
+    },
+    {
+     "titulo": "Contrabando",
+     "puxa": "E em Vice City?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-brian-heder-02.jpg",
+       "rot": "Brian Heder",
+       "txt": "Contrabandista das antigas nas Keys."
+      },
+      {
+       "foto": "gta6/banco/oficial/arte-brian-heder.jpg",
+       "rot": "Estaleiro",
+       "txt": "Toca o negócio com a 3ª esposa, Lori."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-brian-heder-04.jpg",
+       "rot": "Aluguel grátis",
+       "txt": "Jason mora de graça em troca de serviço."
+      }
+     ]
+    },
+    {
+     "titulo": "Vice City",
+     "puxa": "E a música?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-boobie-ike-03.jpg",
+       "rot": "Boobie Ike",
+       "txt": "Lenda local: imóveis, clube e estúdio."
+      },
+      {
+       "foto": "gta6/banco/oficial/arte-boobie-ike.jpg",
+       "rot": "Jack of Hearts",
+       "txt": "O clube de Boobie em Vice City."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-boobie-ike-01.jpg",
+       "rot": "Na prévia",
+       "txt": "Uma carga de Boobie acaba em tiroteio."
+      }
+     ]
+    },
+    {
+     "titulo": "Only Raw",
+     "puxa": "E os parceiros?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-drequan-priest-02.jpg",
+       "rot": "Dre'Quan",
+       "txt": "Mais malandro que gângster, vive pela música."
+      },
+      {
+       "foto": "gta6/banco/oficial/arte-drequan-priest.jpg",
+       "rot": "Gravadora",
+       "txt": "Sócio de Boobie na Only Raw Records."
+      },
+      {
+       "foto": "gta6/banco/oficial/arte-real-dimez.jpg",
+       "rot": "Real Dimez",
+       "txt": "Dupla de rap contratada por Dre'Quan."
+      }
+     ]
+    },
+    {
+     "titulo": "Parceiros",
+     "puxa": "Salva",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/arte-cal-hampton.jpg",
+       "rot": "Cal Hampton",
+       "txt": "Amigo de Jason, escuta a Guarda Costeira."
+      },
+      {
+       "foto": "gta6/banco/oficial/arte-jason-and-lucia-robbery.jpg",
+       "rot": "Em dupla",
+       "txt": "Nas missões, dá pra alternar Jason e Lucia."
+      }
+     ]
+    }
+   ],
+   "fecho": {
+    "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-19.jpg",
+    "titulo": [
+     "DE QUEM",
+     "VOCÊ ACEITA?"
+    ],
+    "texto": "Comenta o nome. Dia 19 a gente descobre."
+   },
+   "legenda": "Quem vai te dar trabalho em Leonida 💼\n\nSérie Nerd GTA, parte 5. De quem você aceita o primeiro serviço? Comenta.",
+   "fontes": [
+    "https://www.rockstargames.com/VI/cal",
+    "https://www.videogameschronicle.com/news/gta-6s-cast-of-characters-revealed/",
+    "https://www.keengamer.com/articles/news/gta-6-extended-look-recap-all-gameplay-details/",
+    "https://thegameswiki.com/gta6/wiki/jack-of-hearts"
+   ]
+  }
+ ]
+}
