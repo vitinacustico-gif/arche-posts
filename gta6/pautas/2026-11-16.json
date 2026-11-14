@@ -318,13 +318,13 @@
    "titulo": "COMUNICADO AO PERSONAL",
    "carimbo": "CIENTE",
    "tag": "AO PERSONAL",
-   "foto_3x4": "gta6/banco/oficial/pessoa-jason-duval-09.jpg",
+   "foto_3x4": "gta6/banco/oficial/pessoa-jason-duval-04.jpg",
    "foco_3x4": [
-    0.45,
-    0.3,
-    0.4
+    0.33,
+    0.13,
+    0.3
    ],
-   "corpo": "Informo que a partir de **19/11** não comparecerei aos treinos. O exercício da semana será **correr da polícia em Vice City**, e o Jason vai malhar por mim.",
+   "corpo": "Informo que a partir de **19/11** não comparecerei aos treinos. O cardio da semana será **fugir da polícia** em Vice City, e o Jason malha por mim.",
    "campos": [
     [
      "Motivo:",
@@ -337,7 +337,7 @@
      false
     ]
    ],
-   "rodape_doc": "Volto quando o shape do Jason passar o meu.",
+   "rodape_doc": "Volto quando o Jason ficar mais forte.",
    "assinatura": [
     "SEU ALUNO",
     "EM MODO GTA VI"
@@ -347,65 +347,132 @@
   {
    "id": "09",
    "formato": "carrossel",
-   "capa": [
-    "SE LEONIDA",
-    "FOSSE NO",
-    "BRASIL"
-   ],
-   "destaque": [
-    2
-   ],
-   "sub": "O 3º só faltou a taxa de entrada",
-   "puxa_capa": "ARRASTA  >>",
-   "fotos": [
-    "gta6/banco/oficial/lugar-vice-city-26.jpg",
-    "gta6/banco/oficial/lugar-vice-city-05.jpg",
-    "gta6/banco/oficial/lugar-grassrivers-03.jpg",
-    "gta6/banco/oficial/lugar-leonida-keys-04.jpg",
-    "gta6/banco/oficial/lugar-mount-kalaga-national-park-04.jpg",
-    "gta6/banco/oficial/lugar-ambrosia-01.jpg",
-    "gta6/banco/oficial/lugar-vice-city-17.jpg",
-    "gta6/banco/oficial/lugar-leonida-keys-01.jpg"
-   ],
+   "estilo": "grade",
+   "cta_bio": "comunidade",
+   "capa": {
+    "titulo": [
+     "SE LEONIDA",
+     "FOSSE NO",
+     "BRASIL"
+    ],
+    "destaque": [
+     2
+    ],
+    "sub": "O 3º só faltou a taxa de entrada",
+    "fotos": [
+     "gta6/banco/oficial/lugar-leonida-keys-01.jpg",
+     "gta6/banco/oficial/lugar-grassrivers-05.jpg",
+     "gta6/banco/oficial/lugar-mount-kalaga-national-park-05.jpg",
+     "gta6/banco/oficial/lugar-port-gellhorn-06.jpg"
+    ]
+   },
+   "puxa_capa": "Arrasta",
    "slides": [
     {
      "titulo": "Vice City = Rio",
-     "texto": "Praia lotada, prédio na orla e salva-vidas. Pra gente, é o Rio.",
-     "puxa": "E o pântano?"
+     "puxa": "E o pântano?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-26.jpg",
+       "rot": "Piscina e palmeira",
+       "txt": "Hotel de luxo virado pro mar."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-02.jpg",
+       "rot": "Pra gente",
+       "txt": "É o Rio de Janeiro, sem tirar nem pôr."
+      }
+     ]
     },
     {
      "titulo": "Grassrivers = Pantanal",
-     "texto": "Água parada, barco a hélice e jacaré. Cara de Pantanal.",
-     "puxa": "E as ilhas?"
+     "puxa": "E as ilhas?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-grassrivers-03.jpg",
+       "rot": "Barco a hélice",
+       "txt": "Cortando o pântano de ponta a ponta."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-grassrivers-04.jpg",
+       "rot": "Água parada",
+       "txt": "Mato alto e bicho escondido. Cara de Pantanal."
+      }
+     ]
     },
     {
      "titulo": "Keys = Noronha",
-     "texto": "Mar azul e mergulho com peixe colorido. Só faltou a taxa de entrada.",
-     "puxa": "E o parque?"
+     "puxa": "E o parque?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-04.jpg",
+       "rot": "Mergulho",
+       "txt": "Mar azul e peixe colorido."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-06.jpg",
+       "rot": "Só faltou",
+       "txt": "A taxa de entrada na ilha."
+      }
+     ]
     },
     {
      "titulo": "Kalaga = Chapada",
-     "texto": "Mata, trilha e paredão de pedra. Lembra a Chapada Diamantina.",
-     "puxa": "E Ambrosia?"
+     "puxa": "E Ambrosia?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-04.jpg",
+       "rot": "Paredão de pedra",
+       "txt": "Trilha no meio do cânion."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-06.jpg",
+       "rot": "Caiaque no rio",
+       "txt": "Lembra a Chapada Diamantina."
+      }
+     ]
     },
     {
-     "titulo": "Ambrosia = beira de BR",
-     "texto": "Estrada, comboio de moto e poeira. Opinião nossa, claro.",
-     "puxa": "E de noite?"
+     "titulo": "Ambrosia = BR",
+     "puxa": "E de noite?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-ambrosia-01.jpg",
+       "rot": "Comboio de moto",
+       "txt": "Estrada, posto e poeira."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-ambrosia-04.jpg",
+       "rot": "Fim de tarde",
+       "txt": "Cara de beira de BR. Opinião nossa, claro."
+      }
+     ]
     },
     {
      "titulo": "Vice City à noite = SP",
-     "texto": "Prédio sem fim, sirene e trânsito de madrugada. Isso é São Paulo."
+     "puxa": "Comenta",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-08.jpg",
+       "rot": "Prédio sem fim",
+       "txt": "E luz acesa até de madrugada."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-17.jpg",
+       "rot": "Sirene e trânsito",
+       "txt": "Isso é São Paulo numa sexta."
+      }
+     ]
     }
    ],
    "fecho": {
+    "foto": "gta6/banco/oficial/lugar-vice-city-20.jpg",
     "titulo": [
      "QUAL CIDADE",
      "É A SUA?"
     ],
     "texto": "Comenta a cidade brasileira que tem a cara de Leonida. Marca alguém de lá."
    },
-   "cta_bio": "comunidade",
    "legenda": "Se Leonida ficasse no Brasil, Vice City seria qual cidade? 🇧🇷\n\nComenta a sua aposta e marca alguém de lá."
   },
   {
