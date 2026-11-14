@@ -1,0 +1,603 @@
+{
+ "data": "2026-11-16",
+ "fontes": [
+  "https://mp1st.com/news/gta-6-unlock-times-revealed",
+  "https://www.gamedeveloper.com/business/take-two-financials-are-steady-while-the-ceo-claims-that-grand-theft-auto-vi-pre-orders-are-exceeding-expectations",
+  "https://www.keengamer.com/articles/news/gta-vi-the-album-launches-november-19-with-34-original-tracks/",
+  "https://www.gtabase.com/pt/trilha-sonora/gta-6/gta-6-o-album",
+  "https://www.ibtimes.co.uk/rockstar-reveals-gta-6s-huge-new-world-still-hasnt-detailed-what-comes-next-online-players-1831698",
+  "https://beebom.com/gta-6-review-embargo-date-revealed/",
+  "https://gtaboom.com/gta-6-cheats-9nd6",
+  "https://gtaintel.com/news/gta-6-heists-robberies-explained",
+  "https://www.gfinityesports.com/article/gta-6-robbery-economy-mechanics-detailed-cash-fences-and-dynamic-heists",
+  "https://www.gtabase.com/articles/gta-6/gta-6-will-let-you-rob-almost-any-store",
+  "https://www.gtabase.com/gta-san-andreas/gta-san-andreas-cheats-ps5-ps4-ps3-ps2",
+  "https://www.gtaboom.com/san-andreas-cheats-ps2-ps3/",
+  "https://gamesradar.com/gta-5-cheats/",
+  "https://pcgamer.com/gta-5-cheats"
+ ],
+ "itens": [
+  {
+   "id": "01",
+   "formato": "reel",
+   "linhas": [
+    "FALTAM",
+    "3 DIAS"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Quinta, 19/11, à 0h no Brasil",
+   "cta": [
+    "ATIVA",
+    "O SININHO"
+   ],
+   "cta_sub": "Contagem regressiva todo dia aqui",
+   "tag": "CONTAGEM",
+   "cta_bio": "grupo",
+   "legenda": "Faltam 3 dias pro GTA 6 ⏳\n\nQuinta, à meia-noite, Leonida abre. Comenta o que você faz primeiro no jogo.",
+   "roteiro": [
+    {
+     "fala": "Faltam três dias pro GTA 6.",
+     "tela": "FALTAM 3 DIAS",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-27.jpg"
+    },
+    {
+     "fala": "Quinta-feira, dezenove, à meia-noite no Brasil, Leonida abre.",
+     "tela": "QUINTA, 0H",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
+    },
+    {
+     "fala": "No PlayStation 5 e no Xbox Series.",
+     "tela": "PS5 E XBOX SERIES",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg"
+    },
+    {
+     "fala": "Ativa o sininho e comenta o que você vai fazer primeiro no jogo.",
+     "tela": "COMENTA AQUI",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-16.jpg"
+    }
+   ]
+  },
+  {
+   "id": "02",
+   "formato": "carrossel",
+   "capa": [
+    "DÁ PRA",
+    "ROUBAR",
+    "QUASE TUDO"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "O 6º aparece até no mapa",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "policia",
+    "luxo"
+   ],
+   "slides": [
+    {
+     "titulo": "Caixa da loja",
+     "texto": "No vídeo da Rockstar, dá pra limpar o caixa de loja e de posto.",
+     "puxa": "Só loja grande?"
+    },
+    {
+     "titulo": "Quase qualquer loja",
+     "texto": "Quem visitou a Rockstar North contou: quase toda loja pode ser roubada.",
+     "puxa": "E o dinheiro?"
+    },
+    {
+     "titulo": "Cofre com segredo",
+     "texto": "Algumas têm cofre. A combinação você descobre no próprio lugar.",
+     "puxa": "E coisa maior?"
+    },
+    {
+     "titulo": "Joalheria",
+     "texto": "Assalto a joalheria também apareceu no vídeo oficial.",
+     "puxa": "Tem mais"
+    },
+    {
+     "titulo": "Carro-forte",
+     "texto": "E o roubo de carro-forte, no meio da rua.",
+     "puxa": "E o banco?"
+    },
+    {
+     "titulo": "Banco no mapa",
+     "texto": "Bancos aparecem no mapa com uma estimativa de quanto rendem.",
+     "puxa": "Agora o detalhe"
+    },
+    {
+     "titulo": "Bolsa não é grana",
+     "texto": "O saque vai pra bolsa e só vira dinheiro com um receptador."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "QUAL VOCÊ",
+     "FAZ 1º?"
+    ],
+    "texto": "Comenta: loja, joalheria, carro-forte ou banco. Salva pra lembrar dia 19."
+   },
+   "cta_bio": "comunidade",
+   "legenda": "No GTA 6 dá pra roubar quase qualquer loja 💰\n\nLoja, joalheria, carro-forte ou banco: qual você faz primeiro? Comenta e salva."
+  },
+  {
+   "id": "03",
+   "formato": "post",
+   "tipo": "enquete",
+   "linhas": [
+    "COBRA OU",
+    "JACARÉ?"
+   ],
+   "destaque": [
+    1
+   ],
+   "opcoes": [
+    "Cobra",
+    "Jacaré"
+   ],
+   "sub": "Qual bicho de Leonida te dá mais medo?",
+   "imagem": "gta6/banco/oficial/lugar-grassrivers-07.jpg",
+   "cta_bio": "comunidade",
+   "legenda": "Em Grassrivers tem gente que pega cobra com a mão 🐍🐊\n\nCobra ou jacaré: qual te dá mais medo? Comenta e marca quem foge dos dois."
+  },
+  {
+   "id": "04",
+   "formato": "reel",
+   "linhas": [
+    "SEGUNDA-FEIRA",
+    "MAIS FELIZ",
+    "DO ANO"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "É a semana do GTA 6",
+   "cta": [
+    "MARCA",
+    "O AMIGO"
+   ],
+   "cta_sub": "que já tá contando as horas",
+   "tag": "HUMOR",
+   "cta_bio": "grupo",
+   "legenda": "Primeira segunda-feira do ano sem ninguém reclamar 😂 É a semana do GTA 6.\n\nMarca o amigo que já tá contando as horas.",
+   "roteiro": [
+    {
+     "fala": "Já reparou que hoje ninguém tá reclamando da segunda-feira?",
+     "tela": "NINGUÉM RECLAMOU",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-02.jpg"
+    },
+    {
+     "fala": "É que essa não é uma segunda qualquer.",
+     "tela": "NÃO É QUALQUER UMA",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-02.jpg"
+    },
+    {
+     "fala": "É a segunda-feira da semana do GTA 6.",
+     "tela": "SEMANA DO GTA 6",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-01.jpg"
+    },
+    {
+     "fala": "Marca o amigo que já tá contando as horas pra quinta.",
+     "tela": "MARCA O AMIGO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-17.jpg"
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "formato": "post",
+   "tipo": "noticia",
+   "linhas": [
+    "ÁLBUM DO",
+    "GTA 6:",
+    "34 FAIXAS"
+   ],
+   "destaque": [
+    2
+   ],
+   "texto": "A Rockstar anunciou Grand Theft Auto VI: The Album, com 34 faixas originais feitas para o jogo. Na lista: Travis Scott, Keith Richards, Cardi B e Morgan Wallen.",
+   "fonte": "Rockstar Newswire, via KeenGamer",
+   "sub": "Parte das músicas já está no streaming",
+   "imagem": "gta6/banco/oficial/arte-the-album-cover-art.jpg",
+   "cta_bio": "guia",
+   "legenda": "O GTA 6 vai ter álbum próprio, com 34 faixas originais 🎶\n\nQual artista você quer ouvir dirigindo por Vice City? Comenta."
+  },
+  {
+   "id": "06",
+   "formato": "carrossel",
+   "capa": [
+    "O QUE AINDA",
+    "É MISTÉRIO"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O 6º quem confirmou foi o ator",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "noite",
+    "gamer"
+   ],
+   "slides": [
+    {
+     "titulo": "Versão de PC",
+     "texto": "Só PS5 e Xbox Series foram anunciados. PC ainda não tem data.",
+     "puxa": "E o online?"
+    },
+    {
+     "titulo": "Novo GTA Online",
+     "texto": "A Rockstar ainda não anunciou nenhum sucessor do GTA Online.",
+     "puxa": "E o atual?"
+    },
+    {
+     "titulo": "O Online de hoje",
+     "texto": "O chefe da Take-Two disse que o GTA Online atual segue com conteúdo novo.",
+     "puxa": "E os cheats?"
+    },
+    {
+     "titulo": "Cheats do 6",
+     "texto": "Nenhum código do GTA 6 foi confirmado até agora.",
+     "puxa": "E as notas?"
+    },
+    {
+     "titulo": "Notas da imprensa",
+     "texto": "Sites falam em análises no dia 18. A Rockstar não confirmou.",
+     "puxa": "E o elenco?"
+    },
+    {
+     "titulo": "A voz do Brian",
+     "texto": "O ator Stephen Root confirmou à AP. A Rockstar, ainda não.",
+     "puxa": "E a trilha?"
+    },
+    {
+     "titulo": "O resto do álbum",
+     "texto": "São 34 faixas, mas boa parte ainda não foi revelada."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "QUAL VOCÊ",
+     "QUER SABER?"
+    ],
+    "texto": "Comenta o mistério que mais te pega. Dia 19 a gente descobre junto."
+   },
+   "cta_bio": "guia",
+   "legenda": "Faltam 3 dias e ainda tem coisa que ninguém sabe sobre o GTA 6 🤔\n\nQual mistério você mais quer ver resolvido? Comenta e salva."
+  },
+  {
+   "id": "07",
+   "formato": "reel",
+   "linhas": [
+    "GTA 5:",
+    "235 MILHÕES"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "E o 6 vem aí",
+   "cta": [
+    "COMENTA",
+    "AQUI"
+   ],
+   "cta_sub": "O 6 passa o 5?",
+   "tag": "NÚMEROS",
+   "cta_bio": "comunidade",
+   "legenda": "O GTA 5 já vendeu 235 milhões de cópias 🤯\n\nO 6 passa o 5? Comenta SIM ou NÃO.",
+   "roteiro": [
+    {
+     "fala": "Sabe quantas cópias o GTA 5 já vendeu?",
+     "tela": "QUANTAS CÓPIAS?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-03.jpg"
+    },
+    {
+     "fala": "Duzentos e trinta e cinco milhões, segundo a Take-Two.",
+     "tela": "235 MILHÕES",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-10.jpg"
+    },
+    {
+     "fala": "Somando a série inteira, já são quatrocentos e oitenta milhões.",
+     "tela": "480 MILHÕES NA SÉRIE",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg"
+    },
+    {
+     "fala": "E a pré-venda do 6 tá muito acima do esperado. Comenta: o 6 passa o 5?",
+     "tela": "O 6 PASSA O 5?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-04.jpg"
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "formato": "post",
+   "tipo": "documento",
+   "imagem": "gta6/banco/oficial/lugar-grassrivers-08.jpg",
+   "cta_bio": "grupo",
+   "titulo_doc": "COMUNICADO AO PERSONAL",
+   "titulo": "COMUNICADO AO PERSONAL",
+   "carimbo": "CIENTE",
+   "tag": "AO PERSONAL",
+   "foto_3x4": "gta6/banco/oficial/pessoa-jason-duval-09.jpg",
+   "foco_3x4": [
+    0.45,
+    0.3,
+    0.4
+   ],
+   "corpo": "Informo que a partir de **19/11** não comparecerei aos treinos. O exercício da semana será **correr da polícia em Vice City**, e o Jason vai malhar por mim.",
+   "campos": [
+    [
+     "Motivo:",
+     "GTA 6.",
+     true
+    ],
+    [
+     "Treino de perna:",
+     "Só no jogo.",
+     false
+    ]
+   ],
+   "rodape_doc": "Volto quando o shape do Jason passar o meu.",
+   "assinatura": [
+    "SEU ALUNO",
+    "EM MODO GTA VI"
+   ],
+   "legenda": "Comunicado oficial pro personal 🏋️ Manda pra ele e mostra a resposta 😂\n\nComenta se ele liberou a semana."
+  },
+  {
+   "id": "09",
+   "formato": "carrossel",
+   "capa": [
+    "SE LEONIDA",
+    "FOSSE NO",
+    "BRASIL"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "O 3º só faltou a taxa de entrada",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "gta6/banco/oficial/lugar-vice-city-26.jpg",
+    "gta6/banco/oficial/lugar-vice-city-05.jpg",
+    "gta6/banco/oficial/lugar-grassrivers-03.jpg",
+    "gta6/banco/oficial/lugar-leonida-keys-04.jpg",
+    "gta6/banco/oficial/lugar-mount-kalaga-national-park-04.jpg",
+    "gta6/banco/oficial/lugar-ambrosia-01.jpg",
+    "gta6/banco/oficial/lugar-vice-city-17.jpg",
+    "gta6/banco/oficial/lugar-leonida-keys-01.jpg"
+   ],
+   "slides": [
+    {
+     "titulo": "Vice City = Rio",
+     "texto": "Praia lotada, prédio na orla e salva-vidas. Pra gente, é o Rio.",
+     "puxa": "E o pântano?"
+    },
+    {
+     "titulo": "Grassrivers = Pantanal",
+     "texto": "Água parada, barco a hélice e jacaré. Cara de Pantanal.",
+     "puxa": "E as ilhas?"
+    },
+    {
+     "titulo": "Keys = Noronha",
+     "texto": "Mar azul e mergulho com peixe colorido. Só faltou a taxa de entrada.",
+     "puxa": "E o parque?"
+    },
+    {
+     "titulo": "Kalaga = Chapada",
+     "texto": "Mata, trilha e paredão de pedra. Lembra a Chapada Diamantina.",
+     "puxa": "E Ambrosia?"
+    },
+    {
+     "titulo": "Ambrosia = beira de BR",
+     "texto": "Estrada, comboio de moto e poeira. Opinião nossa, claro.",
+     "puxa": "E de noite?"
+    },
+    {
+     "titulo": "Vice City à noite = SP",
+     "texto": "Prédio sem fim, sirene e trânsito de madrugada. Isso é São Paulo."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "QUAL CIDADE",
+     "É A SUA?"
+    ],
+    "texto": "Comenta a cidade brasileira que tem a cara de Leonida. Marca alguém de lá."
+   },
+   "cta_bio": "comunidade",
+   "legenda": "Se Leonida ficasse no Brasil, Vice City seria qual cidade? 🇧🇷\n\nComenta a sua aposta e marca alguém de lá."
+  },
+  {
+   "id": "10",
+   "formato": "reel",
+   "linhas": [
+    "ZERAR OU",
+    "EXPLORAR?"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Como você começa dia 19",
+   "cta": [
+    "LINK",
+    "NA BIO"
+   ],
+   "cta_sub": "Guia do GTA 6 em português",
+   "tag": "GUIA",
+   "cta_bio": "guia",
+   "legenda": "Dia 19: você corre na história ou se perde no mapa? 🗺️\n\nComenta ZERAR ou EXPLORAR. O guia em português tá no link da bio.",
+   "roteiro": [
+    {
+     "fala": "Dia dezenove você vai correr na história ou se perder no mapa?",
+     "tela": "ZERAR OU EXPLORAR?",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-01.jpg"
+    },
+    {
+     "fala": "Tem gente que vai direto pras missões.",
+     "tela": "DIRETO PRAS MISSÕES",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-15.jpg"
+    },
+    {
+     "fala": "E tem gente que vai passar a primeira noite só dirigindo por Vice City.",
+     "tela": "SÓ DIRIGINDO",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-24.jpg"
+    },
+    {
+     "fala": "Pros dois tipos, o guia do GTA 6 em português tá no link da bio. Comenta qual é você.",
+     "tela": "GUIA NO LINK DA BIO",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-02.jpg"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "hora": "14:07",
+   "formato": "carrossel",
+   "estilo": "grade",
+   "serie": "cheats",
+   "cta_bio": "grupo",
+   "capa": {
+    "titulo": [
+     "CHEATS",
+     "LENDÁRIOS"
+    ],
+    "destaque": [
+     1
+    ],
+    "sub": "San Andreas e GTA 5: quantos você sabe de cor?",
+    "fotos": [
+     "gta6/banco/fotos/gamer-capuz-neon.jpg",
+     "gta6/banco/fotos/carro-azul-neon.jpg",
+     "gta6/banco/fotos/helicoptero-miami-beach.jpg",
+     "gta6/banco/oficial/pessoa-jason-duval-13.jpg"
+    ]
+   },
+   "puxa_capa": "Arrasta",
+   "slides": [
+    {
+     "titulo": "San Andreas",
+     "puxa": "E o CJ?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/fotos/iate-mansao.jpg",
+       "rot": "Vida + US$ 250 mil",
+       "txt": "R1 R2 L1 X, Esq Baixo Dir Cima, Esq Baixo Dir Cima"
+      },
+      {
+       "foto": "gta6/banco/fotos/policia-fita.jpg",
+       "rot": "Some a polícia",
+       "txt": "R1 R1 Bola R2, Cima Baixo, Cima Baixo, Cima Baixo"
+      }
+     ]
+    },
+    {
+     "titulo": "O shape do CJ",
+     "puxa": "Agora o caos",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-15.jpg",
+       "rot": "Músculo no máximo",
+       "txt": "Triângulo Cima Cima Esq Dir Quadrado Bola Esq"
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-cal-hampton-03.jpg",
+       "rot": "Barriga no máximo",
+       "txt": "Triângulo Cima Cima Esq Dir Quadrado Bola Baixo"
+      }
+     ]
+    },
+    {
+     "titulo": "Caos em SA",
+     "puxa": "E o GTA 5?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/fotos/miami-aerea-dusk.jpg",
+       "rot": "Carro voador",
+       "txt": "Quadrado Baixo L2 Cima L1 Bola Cima X Esq (PS2)"
+      },
+      {
+       "foto": "gta6/banco/fotos/policia-perseguicao.jpg",
+       "rot": "Tanque Rhino",
+       "txt": "Bola Bola L1 Bola Bola Bola L1 L2 R1 Triângulo Bola Triângulo"
+      }
+     ]
+    },
+    {
+     "titulo": "GTA 5: liga aí",
+     "puxa": "Tem mais",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-07.jpg",
+       "rot": "PAINKILLER",
+       "txt": "1-999-7246-545-537: fica invencível"
+      },
+      {
+       "foto": "gta6/banco/fotos/helicoptero-sunset.jpg",
+       "rot": "BUZZOFF",
+       "txt": "1-999-2899-633: helicóptero Buzzard"
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-02.jpg",
+       "rot": "SKYFALL",
+       "txt": "1-999-759-3255: cai do céu"
+      }
+     ]
+    },
+    {
+     "titulo": "Mais ligações",
+     "puxa": "E o GTA 6?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-07.jpg",
+       "rot": "FLOATER",
+       "txt": "1-999-356-2837: gravidade da Lua"
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-09.jpg",
+       "rot": "BANDIT",
+       "txt": "1-999-226-348: bicicleta BMX"
+      },
+      {
+       "foto": "gta6/banco/fotos/controle-neon.jpg",
+       "rot": "Atenção",
+       "txt": "Com cheat, troféus e conquistas ficam desligados"
+      }
+     ]
+    },
+    {
+     "titulo": "E no GTA 6?",
+     "puxa": "Comenta",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/arte-official-cover-art.jpg",
+       "rot": "Ainda não",
+       "txt": "Nenhum código do GTA 6 foi confirmado até agora."
+      },
+      {
+       "foto": "gta6/banco/fotos/maos-controle-roxo.jpg",
+       "rot": "Fica de olho",
+       "txt": "Assim que saírem códigos confirmados, a gente posta."
+      }
+     ]
+    }
+   ],
+   "fecho": {
+    "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-20.jpg",
+    "titulo": [
+     "QUAL VOCÊ",
+     "SABE DE COR?"
+    ],
+    "texto": "Comenta o cheat que você digitava sem olhar."
+   },
+   "legenda": "Cheats lendários do San Andreas e do GTA 5 🎮\n\nSérie Nerd GTA, parte 6. Qual você digitava sem olhar? Comenta e salva.",
+   "fontes": [
+    "https://www.gtabase.com/gta-san-andreas/gta-san-andreas-cheats-ps5-ps4-ps3-ps2",
+    "https://www.gtaboom.com/san-andreas-cheats-ps2-ps3/",
+    "https://gamesradar.com/gta-5-cheats/",
+    "https://pcgamer.com/gta-5-cheats",
+    "https://gtaboom.com/gta-6-cheats-9nd6"
+   ]
+  }
+ ]
+}
