@@ -1,0 +1,647 @@
+{
+ "data": "2026-11-17",
+ "fontes": [
+  "https://www.drivencarguide.co.nz/news/west-coast-customs-builds-6-gta-vi-cars-for-real/",
+  "https://www.gtaboom.com/you-can-buy-a-real-gta-6-grotti-cheetah-at-selfridges-for-1-million-cebd",
+  "https://www.tradingview.com/news/moodys:90e38a1a123fe:0-gta-6-release-date-confirmed-for-november-19-pre-load-new-zealand-early-access-pc-update-and-1-million-car/",
+  "https://www.ibtimes.co.uk/rockstar-gta-6-grotti-cheetah-million-pound-supercar-1831230",
+  "https://www.omelete.com.br/games/gta-6-a-night-in-vice-city-miami-heat-nba",
+  "https://www.gtaboom.com/gta-6s-miami-heat-vice-city-night-now-has-a-tip-time-a-trailer-and-a-giannis-twist-841d",
+  "https://www.altchar.com/game-news/miami-heat-reveal-gta-6-vice-city-jerseys-made-with-travis-scott-ajawg8f7JzSZ",
+  "https://pcgamer.com/games/grand-theft-auto/gta-6-pre-order-editions-standard-ultimate/",
+  "https://www.pushsquare.com/news/2026/06/gta-6-ultimate-edition-and-more-detailed-ahead-of-pre-orders-going-live",
+  "https://www.altchar.com/game-news/gta-6-ultimate-edition-and-pre-order-bonuses-revealed-skins-weapons-cars-and-more-a5Hww8b65QUK",
+  "https://www.topgear.com/car-news/gaming/gta-6-reveals-its-ultimate-edition-content-and-vintage-vice-city-themed-preorder",
+  "https://www.gfinityesports.com/article/how-to-get-gta-6-vintage-vice-city-pack-and-whats-included",
+  "https://www.svg.com/2287480/gta-6-launch-trailer/"
+ ],
+ "itens": [
+  {
+   "id": "01",
+   "formato": "reel",
+   "linhas": [
+    "FALTAM",
+    "2 DIAS"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Depois de amanhã, à 0h no Brasil",
+   "cta": [
+    "ATIVA",
+    "O SININHO"
+   ],
+   "cta_sub": "Amanhã já é véspera",
+   "tag": "CONTAGEM",
+   "cta_bio": "grupo",
+   "legenda": "Faltam 2 dias pro GTA 6 ⏳\n\nAmanhã é véspera e quinta, à meia-noite, Leonida abre. Comenta 🔥 se você já tá pronto.",
+   "roteiro": [
+    {
+     "fala": "Faltam dois dias pro GTA 6.",
+     "tela": "FALTAM 2 DIAS",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-08.jpg"
+    },
+    {
+     "fala": "Amanhã é a véspera. E quinta, à meia-noite no Brasil, Leonida abre.",
+     "tela": "QUINTA, 0H",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-01.jpg"
+    },
+    {
+     "fala": "Já deixou o controle carregado e o lanche separado?",
+     "tela": "CONTROLE CARREGADO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-12.jpg"
+    },
+    {
+     "fala": "Ativa o sininho e entra no grupo VIP pelo link da bio pra não perder nada.",
+     "tela": "LINK NA BIO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-13.jpg"
+    }
+   ]
+  },
+  {
+   "id": "02",
+   "formato": "carrossel",
+   "capa": [
+    "6 CARROS DO",
+    "GTA 6 DE",
+    "VERDADE"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "O último é viatura de Vice Beach",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "carro",
+    "miami"
+   ],
+   "slides": [
+    {
+     "titulo": "Quem montou",
+     "texto": "A West Coast Customs, oficina famosa do Pimp My Ride, construiu 6 carros do GTA 6.",
+     "puxa": "Quais?"
+    },
+    {
+     "titulo": "Grotti Cheetah",
+     "texto": "Bico azul, traseira rosa e o formato de cunha do jogo. É o único dos 6 à venda.",
+     "puxa": "E o lowrider?"
+    },
+    {
+     "titulo": "Albany Buccaneer",
+     "texto": "Lowrider verde dos anos 60, com suspensão a ar, capota creme e banco de zebra.",
+     "puxa": "Tem mais exagero"
+    },
+    {
+     "titulo": "Albany Manana",
+     "texto": "Azul, levantado pra caber rodas gigantes, com para-choque dourado.",
+     "puxa": "E os rápidos?"
+    },
+    {
+     "titulo": "Progen Emerus",
+     "texto": "Laranja, V8 4.0 biturbo e uma asa traseira lá no alto.",
+     "puxa": "E o rosa?"
+    },
+    {
+     "titulo": "Invetero Coquette",
+     "texto": "Camuflado rosa, com V8 6.2 no meio do carro.",
+     "puxa": "E a polícia?"
+    },
+    {
+     "titulo": "Pegassi Tempesta",
+     "texto": "Viatura da polícia de Vice Beach, com giroflex e placa de Leonida. Rodou pelas ruas de Miami."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "QUAL VAI",
+     "PRA GARAGEM?"
+    ],
+    "texto": "Comenta o carro que você queria de verdade e marca quem dirigiria o Tempesta."
+   },
+   "cta_bio": "comunidade",
+   "legenda": "A Rockstar mandou fazer 6 carros do GTA 6 de verdade 🚗\n\nQual deles você colocava na garagem? Comenta e salva."
+  },
+  {
+   "id": "03",
+   "formato": "post",
+   "tipo": "enquete",
+   "linhas": [
+    "FONE OU",
+    "CAIXA?"
+   ],
+   "destaque": [
+    1
+   ],
+   "opcoes": [
+    "Fone",
+    "Caixa de som"
+   ],
+   "sub": "Como você vai ouvir Vice City?",
+   "imagem": "gta6/banco/oficial/pessoa-real-dimez-01.jpg",
+   "cta_bio": "ofertas",
+   "legenda": "A trilha do GTA 6 merece som alto 🎧🔊\n\nFone ou caixa de som: como você vai jogar? Comenta e marca quem joga sem som."
+  },
+  {
+   "id": "04",
+   "formato": "reel",
+   "linhas": [
+    "EU CONFERINDO",
+    "O DOWNLOAD",
+    "DE NOVO"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "Já terminou. Mas vai que...",
+   "cta": [
+    "MARCA",
+    "O AMIGO"
+   ],
+   "cta_sub": "que conferiu hoje",
+   "tag": "HUMOR",
+   "cta_bio": "grupo",
+   "legenda": "O download terminou faz dias, mas eu confiro de novo 😂\n\nMarca o amigo que ligou o console só pra isso hoje.",
+   "roteiro": [
+    {
+     "fala": "Eu, dois dias antes do GTA 6.",
+     "tela": "2 DIAS ANTES",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-10.jpg"
+    },
+    {
+     "fala": "Ligo o console só pra ver se o download terminou.",
+     "tela": "SÓ PRA CONFERIR",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-19.jpg"
+    },
+    {
+     "fala": "Terminou faz dias. Mas vai que sumiu.",
+     "tela": "VAI QUE SUMIU",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-03.jpg"
+    },
+    {
+     "fala": "Marca o amigo que já conferiu hoje.",
+     "tela": "MARCA O AMIGO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-20.jpg"
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "formato": "post",
+   "tipo": "noticia",
+   "linhas": [
+    "VICE CITY",
+    "NA NBA"
+   ],
+   "destaque": [
+    1
+   ],
+   "texto": "Amanhã, 18/11, o Miami Heat joga como Vice City contra o Milwaukee Bucks, com quadra própria e uniforme feito com a Nike e a Cactus Jack, de Travis Scott. Começa às 19h de Miami (21h de Brasília).",
+   "fonte": "Miami Heat, via Omelete e AltChar",
+   "sub": "A véspera do GTA 6 vai ter jogo",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-03.jpg",
+   "cta_bio": "guia",
+   "legenda": "Na véspera do GTA 6, o Miami Heat vira Vice City 🏀🌴\n\nVocê assistiria? Comenta e marca o amigo que ama NBA."
+  },
+  {
+   "id": "06",
+   "formato": "carrossel",
+   "capa": [
+    "TIPOS DE AMIGO",
+    "NO DIA 19"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O 4º vai te mandar spoiler",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "gamer",
+    "noite"
+   ],
+   "slides": [
+    {
+     "titulo": "O da Ultimate",
+     "texto": "Vai mostrar o carro exclusivo antes de você sair do tutorial.",
+     "puxa": "E o apressado?"
+    },
+    {
+     "titulo": "O da meia-noite",
+     "texto": "Manda áudio às 0h01: \"já tá jogando?\"",
+     "puxa": "E o sumido?"
+    },
+    {
+     "titulo": "O que sumiu",
+     "texto": "Desde quarta não responde ninguém. Status: em Leonida.",
+     "puxa": "Agora o perigo"
+    },
+    {
+     "titulo": "O do spoiler",
+     "texto": "Zerou rapidinho e acha que você também quer saber o final.",
+     "puxa": "E o que não liga?"
+    },
+    {
+     "titulo": "O \"nem ligo pra GTA\"",
+     "texto": "Diz que não vai jogar. Na sexta já tá pedindo dica.",
+     "puxa": "E o último?"
+    },
+    {
+     "titulo": "O sem console",
+     "texto": "Vai jogar na sua casa. E vai ficar até domingo."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "MARCA CADA",
+     "UM DELES"
+    ],
+    "texto": "Marca nos comentários quem é cada tipo. Vale marcar você mesmo."
+   },
+   "cta_bio": "comunidade",
+   "legenda": "Todo grupo tem esses 6 amigos no dia 19 😂\n\nMarca cada um nos comentários e manda no grupo."
+  },
+  {
+   "id": "07",
+   "formato": "reel",
+   "linhas": [
+    "UM CARRO DE",
+    "1 MILHÃO"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "De libras. E é do GTA 6",
+   "cta": [
+    "COMENTA",
+    "AQUI"
+   ],
+   "cta_sub": "Pagaria ou roubaria?",
+   "tag": "CURIOSIDADE",
+   "cta_bio": "comunidade",
+   "legenda": "Um Grotti Cheetah de verdade tá à venda por 1 milhão de libras 🤯\n\nVocê pagaria ou roubaria no jogo? Comenta.",
+   "roteiro": [
+    {
+     "fala": "Um carro do GTA 6 tá à venda por um milhão de libras.",
+     "tela": "1 MILHÃO DE LIBRAS",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-24.jpg"
+    },
+    {
+     "fala": "É o Grotti Cheetah, montado de verdade pela West Coast Customs.",
+     "tela": "GROTTI CHEETAH",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-09.jpg"
+    },
+    {
+     "fala": "Ele tá exposto na Selfridges, uma loja de departamentos de Londres.",
+     "tela": "À VENDA EM LONDRES",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
+    },
+    {
+     "fala": "No jogo, dá pra roubar um sem gastar nada. Comenta aí: você pagaria ou roubaria?",
+     "tela": "PAGARIA OU ROUBARIA?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-19.jpg"
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "formato": "post",
+   "tipo": "documento",
+   "imagem": "gta6/banco/oficial/lugar-leonida-keys-03.jpg",
+   "cta_bio": "grupo",
+   "titulo_doc": "COMUNICADO À PELADA",
+   "titulo": "COMUNICADO À PELADA",
+   "carimbo": "DISPENSADO",
+   "tag": "À PELADA",
+   "foto_3x4": "gta6/banco/oficial/pessoa-jason-duval-02.jpg",
+   "foco_3x4": [
+    0.37,
+    0.33,
+    0.6
+   ],
+   "corpo": "Comunico que na **quinta-feira, 19/11**, não comparecerei à pelada. Estarei em **Vice City**, resolvendo assuntos com o Jason e a Lucia.",
+   "campos": [
+    [
+     "Motivo:",
+     "GTA 6.",
+     true
+    ],
+    [
+     "Substituto:",
+     "O primo que só joga no gol.",
+     false
+    ]
+   ],
+   "rodape_doc": "Volto quando o Jason aprender a bater pênalti.",
+   "assinatura": [
+    "SEU CAMISA 10",
+    "EM MODO GTA VI"
+   ],
+   "legenda": "Comunicado oficial pro grupo da pelada ⚽ Manda lá e mostra a resposta 😂\n\nComenta se o time liberou."
+  },
+  {
+   "id": "09",
+   "formato": "carrossel",
+   "estilo": "grade",
+   "cta_bio": "ofertas",
+   "capa": {
+    "titulo": [
+     "O QUE MAIS",
+     "VEM NA",
+     "ULTIMATE"
+    ],
+    "destaque": [
+     2
+    ],
+    "sub": "Lojas, revólveres e até um complexo de gangue",
+    "fotos": [
+     "gta6/banco/oficial/lugar-vice-city-22.jpg",
+     "gta6/banco/oficial/pessoa-jason-duval-12.jpg",
+     "gta6/banco/oficial/lugar-vice-city-21.jpg",
+     "gta6/banco/oficial/pessoa-lucia-caminos-08.jpg"
+    ]
+   },
+   "puxa_capa": "Arrasta",
+   "slides": [
+    {
+     "titulo": "Visual novo",
+     "puxa": "E as lojas?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-lucia-caminos-11.jpg",
+       "rot": "Roupas e tatuagens",
+       "txt": "Visuais exclusivos pra Jason e Lucia."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-20.jpg",
+       "rot": "Electric Fang Tattoo",
+       "txt": "Estúdio de tatuagem só da Ultimate."
+      }
+     ]
+    },
+    {
+     "titulo": "Lojas exclusivas",
+     "puxa": "E as armas?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-22.jpg",
+       "rot": "Rideout Customs",
+       "txt": "Oficina pra personalizar o carro."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-14.jpg",
+       "rot": "One-Eyed Willie's",
+       "txt": "Outra oficina de visual de veículo."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-lucia-caminos-14.jpg",
+       "rot": "Sara's Unisex Salon",
+       "txt": "Salão pra trocar o cabelo."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-25.jpg",
+       "rot": "Stock 305",
+       "txt": "Loja de roupas."
+      }
+     ]
+    },
+    {
+     "titulo": "Armas",
+     "puxa": "E missão extra?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-12.jpg",
+       "rot": "Hawk & Little",
+       "txt": "Revólveres Morgan com personalização exclusiva."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-lucia-caminos-13.jpg",
+       "rot": "Pistolas do casal",
+       "txt": "Versões próprias da ES9 do Jason e da K17 da Lucia."
+      }
+     ]
+    },
+    {
+     "titulo": "Conteúdo extra",
+     "puxa": "E quem não tem?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-21.jpg",
+       "rot": "PTT Youngin$",
+       "txt": "Complexo de gangue pra invadir atrás de itens raros."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-05.jpg",
+       "rot": "A cada capítulo",
+       "txt": "Itens novos da Ultimate liberam ao longo da história."
+      }
+     ]
+    },
+    {
+     "titulo": "Pré-venda: todo mundo",
+     "puxa": "Comenta",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-14.jpg",
+       "rot": "Roupa anos 80",
+       "txt": "Terno de linho pastel pro Jason e vestido vermelho de paetê pra Lucia."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-26.jpg",
+       "rot": "Padrão Tommy Vercetti",
+       "txt": "Pintura de arma inspirada na camisa de palmeira dele."
+      }
+     ]
+    }
+   ],
+   "fecho": {
+    "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg",
+    "titulo": [
+     "VALE A",
+     "ULTIMATE?"
+    ],
+    "texto": "Comenta SIM ou NÃO e o item que mais te chamou atenção."
+   },
+   "legenda": "A Ultimate do GTA 6 não é só carro: tem loja, revólver e até complexo de gangue 🔫\n\nVale a pena? Comenta SIM ou NÃO."
+  },
+  {
+   "id": "10",
+   "formato": "reel",
+   "linhas": [
+    "AMANHÃ É",
+    "VÉSPERA"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Já sabe por onde começar?",
+   "cta": [
+    "LINK",
+    "NA BIO"
+   ],
+   "cta_sub": "Guia do GTA 6 em português",
+   "tag": "GUIA",
+   "cta_bio": "guia",
+   "legenda": "Amanhã é véspera do GTA 6 🌴\n\nJá sabe por onde começar? O guia em português tá no link da bio. Comenta seu plano.",
+   "roteiro": [
+    {
+     "fala": "Amanhã é a véspera do GTA 6.",
+     "tela": "AMANHÃ É VÉSPERA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-01.jpg"
+    },
+    {
+     "fala": "Quinta à meia-noite, você vai cair em Leonida sem saber por onde começar?",
+     "tela": "POR ONDE COMEÇAR?",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-04.jpg"
+    },
+    {
+     "fala": "O guia do GTA 6 em português vai te ajudar nas primeiras horas.",
+     "tela": "GUIA EM PORTUGUÊS",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-03.jpg"
+    },
+    {
+     "fala": "Entra na lista de espera pelo link da bio e comenta seu plano pro dia dezenove.",
+     "tela": "LINK NA BIO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-09.jpg"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "hora": "14:07",
+   "formato": "carrossel",
+   "estilo": "grade",
+   "serie": "carros",
+   "cta_bio": "ofertas",
+   "capa": {
+    "titulo": [
+     "OS CARROS",
+     "DA ULTIMATE"
+    ],
+    "destaque": [
+     1
+    ],
+    "sub": "E o bônus da pré-venda, que vem em qualquer edição",
+    "fotos": [
+     "gta6/banco/oficial/lugar-vice-city-15.jpg",
+     "gta6/banco/oficial/pessoa-jason-duval-01.jpg",
+     "gta6/banco/oficial/lugar-leonida-keys-05.jpg",
+     "gta6/banco/oficial/lugar-mount-kalaga-national-park-01.jpg"
+    ]
+   },
+   "puxa_capa": "Arrasta",
+   "slides": [
+    {
+     "titulo": "Carro e moto",
+     "puxa": "E na água?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/fotos/carro-lambo-branco.jpg",
+       "rot": "'95 Grotti Cheetah",
+       "txt": "Esportivo dos anos 90 com pintura retrô."
+      },
+      {
+       "foto": "gta6/banco/fotos/moto-noite.jpg",
+       "rot": "Dinka Enduro",
+       "txt": "Moto camuflada, no esconderijo do Jason."
+      }
+     ]
+    },
+    {
+     "titulo": "Na água",
+     "puxa": "E na trilha?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/fotos/iate-palmeiras.jpg",
+       "rot": "Shitzu Squalo",
+       "txt": "Barco rosa e azul pra pescar em alto-mar."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-06.jpg",
+       "rot": "Crest Kayak",
+       "txt": "Caiaque guardado no esconderijo do Jason."
+      }
+     ]
+    },
+    {
+     "titulo": "Fora da estrada",
+     "puxa": "E o Jason?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-04.jpg",
+       "rot": "'67 Dominator Buggy",
+       "txt": "Buggy pras trilhas de Mount Kalaga."
+      },
+      {
+       "foto": "gta6/banco/fotos/carro-posto-noite.jpg",
+       "rot": "Paradise Garage",
+       "txt": "Garagem em Watson Bay, com armário de armas."
+      }
+     ]
+    },
+    {
+     "titulo": "A picape do Jason",
+     "puxa": "E a pré-venda?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-18.jpg",
+       "rot": "Ganado Retro",
+       "txt": "Picape rebaixada com visual clássico e mods exclusivos."
+      },
+      {
+       "foto": "gta6/banco/fotos/carro-lambo-noite.jpg",
+       "rot": "Coleção do Wyman",
+       "txt": "Ache e restaure clássicos abandonados pro colecionador."
+      }
+     ]
+    },
+    {
+     "titulo": "Bônus da pré-venda",
+     "puxa": "Resumindo",
+     "paineis": [
+      {
+       "foto": "gta6/banco/fotos/ocean-drive-artdeco.jpg",
+       "rot": "'55 Vapid Stanier",
+       "txt": "Sedã clássico pra passear pela Shore Drive."
+      },
+      {
+       "foto": "gta6/banco/fotos/ocean-drive-neon.jpg",
+       "rot": "Garagem Shore Court",
+       "txt": "Em Ocean Beach, com armário de armas."
+      }
+     ]
+    },
+    {
+     "titulo": "Quem leva o quê",
+     "puxa": "Comenta",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/arte-official-cover-art.jpg",
+       "rot": "Só na Ultimate",
+       "txt": "Cheetah, Enduro, caiaque, Squalo, buggy e Ganado."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-07.jpg",
+       "rot": "Qualquer edição",
+       "txt": "O Stanier, pra quem comprou na pré-venda."
+      }
+     ]
+    }
+   ],
+   "fecho": {
+    "foto": "gta6/banco/oficial/lugar-vice-city-14.jpg",
+    "titulo": [
+     "QUAL VOCÊ",
+     "PEGA 1º?"
+    ],
+    "texto": "Comenta: Cheetah, Squalo, buggy ou Stanier."
+   },
+   "legenda": "Os veículos da Ultimate Edition e da pré-venda do GTA 6 🚗🏍️🚤\n\nSérie Nerd GTA, parte 7. Qual você pega primeiro? Comenta e salva.",
+   "fontes": [
+    "https://pcgamer.com/games/grand-theft-auto/gta-6-pre-order-editions-standard-ultimate/",
+    "https://www.pushsquare.com/news/2026/06/gta-6-ultimate-edition-and-more-detailed-ahead-of-pre-orders-going-live",
+    "https://www.altchar.com/game-news/gta-6-ultimate-edition-and-pre-order-bonuses-revealed-skins-weapons-cars-and-more-a5Hww8b65QUK",
+    "https://www.topgear.com/car-news/gaming/gta-6-reveals-its-ultimate-edition-content-and-vintage-vice-city-themed-preorder",
+    "https://www.gfinityesports.com/article/how-to-get-gta-6-vintage-vice-city-pack-and-whats-included"
+   ]
+  }
+ ]
+}
