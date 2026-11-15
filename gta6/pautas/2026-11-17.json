@@ -43,7 +43,7 @@
     },
     {
      "fala": "Amanhã é a véspera. E quinta, à meia-noite no Brasil, Leonida abre.",
-     "tela": "QUINTA, 0H",
+     "tela": "QUINTA, MEIA-NOITE",
      "imagem": "gta6/banco/oficial/lugar-leonida-keys-01.jpg"
     },
     {
@@ -220,32 +220,32 @@
    ],
    "slides": [
     {
-     "titulo": "O da Ultimate",
+     "titulo": "Amigo da Ultimate",
      "texto": "Vai mostrar o carro exclusivo antes de você sair do tutorial.",
      "puxa": "E o apressado?"
     },
     {
-     "titulo": "O da meia-noite",
+     "titulo": "Amigo da meia-noite",
      "texto": "Manda áudio às 0h01: \"já tá jogando?\"",
      "puxa": "E o sumido?"
     },
     {
-     "titulo": "O que sumiu",
+     "titulo": "Amigo sumido",
      "texto": "Desde quarta não responde ninguém. Status: em Leonida.",
      "puxa": "Agora o perigo"
     },
     {
-     "titulo": "O do spoiler",
+     "titulo": "Amigo do spoiler",
      "texto": "Zerou rapidinho e acha que você também quer saber o final.",
      "puxa": "E o que não liga?"
     },
     {
-     "titulo": "O \"nem ligo pra GTA\"",
+     "titulo": "Amigo \"nem ligo\"",
      "texto": "Diz que não vai jogar. Na sexta já tá pedindo dica.",
      "puxa": "E o último?"
     },
     {
-     "titulo": "O sem console",
+     "titulo": "Amigo sem console",
      "texto": "Vai jogar na sua casa. E vai ficar até domingo."
     }
    ],
@@ -309,7 +309,7 @@
    "cta_bio": "grupo",
    "titulo_doc": "COMUNICADO À PELADA",
    "titulo": "COMUNICADO À PELADA",
-   "carimbo": "DISPENSADO",
+   "carimbo": "LIBERADO",
    "tag": "À PELADA",
    "foto_3x4": "gta6/banco/oficial/pessoa-jason-duval-02.jpg",
    "foco_3x4": [
@@ -317,7 +317,7 @@
     0.33,
     0.6
    ],
-   "corpo": "Comunico que na **quinta-feira, 19/11**, não comparecerei à pelada. Estarei em **Vice City**, resolvendo assuntos com o Jason e a Lucia.",
+   "corpo": "Comunico que na **quinta, 19/11** não comparecerei à pelada. Estarei em **Vice City** resolvendo assuntos com o Jason e a Lucia.",
    "campos": [
     [
      "Motivo:",
@@ -330,7 +330,7 @@
      false
     ]
    ],
-   "rodape_doc": "Volto quando o Jason aprender a bater pênalti.",
+   "rodape_doc": "Volto quando o Jason bater pênalti.",
    "assinatura": [
     "SEU CAMISA 10",
     "EM MODO GTA VI"
