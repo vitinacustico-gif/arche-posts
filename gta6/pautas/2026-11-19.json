@@ -1,0 +1,645 @@
+{
+ "data": "2026-11-19",
+ "fontes": [
+  "https://criticalhits.com.br/games/gta-6-sera-liberado-a-meia-noite-no-brasil/",
+  "https://gameoverdrive.com.br/gta-6-comeca-ser-liberado-hoje-veja-horario-exato-brasil/",
+  "https://gameinformer.com/2025/05/06/rockstar-shows-off-six-major-areas-of-vice-city-in-grand-theft-auto-vi",
+  "https://www.gfinityesports.com/article/how-to-get-gta-6-vintage-vice-city-pack-and-whats-included",
+  "https://gamingbolt.com/gta-6-lets-you-carry-2-concealed-handguns-and-2-long-guns-with-npcs-reacting-accordingly",
+  "https://www.gfinityesports.com/article/gta-6-combat-preview-details-massive-upgrades-to-weapons-gunplay",
+  "https://www.gtaboom.com/gta-6-drops-default-lock-on-limits-guns-sprint-l3-204b",
+  "https://www.notebookcheck.net/GTA-6-weapon-management-Rockstar-did-not-want-a-traditional-weapon-wheel-but-had-to-settle.1428326.0.html",
+  "https://www.gtabase.com/articles/gta-6/gta-6-previews-recap-all-new-gameplay-features-revealed"
+ ],
+ "itens": [
+  {
+   "id": "01",
+   "formato": "reel",
+   "linhas": [
+    "CHEGOU:",
+    "É HOJE"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Leonida abriu à meia-noite",
+   "cta": [
+    "ATIVA",
+    "O SININHO"
+   ],
+   "cta_sub": "Primeiro dia em Leonida",
+   "tag": "CONTAGEM",
+   "cta_bio": "grupo",
+   "legenda": "É hoje: o GTA 6 chegou 🌴🔥\n\nLiberou à meia-noite no Brasil. Comenta 🎮 se você já tá jogando.",
+   "roteiro": [
+    {
+     "fala": "É hoje. O GTA 6 chegou.",
+     "tela": "É HOJE",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-02.jpg"
+    },
+    {
+     "fala": "À meia-noite, no horário de Brasília, Leonida abriu no PlayStation 5 e no Xbox Series.",
+     "tela": "LIBEROU À 0H",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-05.jpg"
+    },
+    {
+     "fala": "Depois de tantos anos de espera, Jason e Lucia finalmente estão nas suas mãos.",
+     "tela": "JASON E LUCIA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-10.jpg"
+    },
+    {
+     "fala": "Comenta aí: você já tá jogando ou ainda tá contando as horas?",
+     "tela": "JÁ TÁ JOGANDO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-14.jpg"
+    }
+   ]
+  },
+  {
+   "id": "02",
+   "formato": "carrossel",
+   "capa": [
+    "CORRER AGORA",
+    "É NO L3"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "E mais 6 mudanças que pegam todo mundo",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "gamer",
+    "carro"
+   ],
+   "slides": [
+    {
+     "titulo": "Correr mudou de botão",
+     "texto": "Nas prévias, correr saiu do X e foi pro L3. O dedão direito fica livre pra câmera.",
+     "puxa": "E andar?"
+    },
+    {
+     "titulo": "Você escolhe o passo",
+     "texto": "Nas opções dá pra deixar o ritmo padrão em andar, andar rápido ou trotar.",
+     "puxa": "E a mira?"
+    },
+    {
+     "titulo": "Mira livre de padrão",
+     "texto": "Menos trava automática que nos GTAs antigos. A força da mira se ajusta nas opções.",
+     "puxa": "E a cobertura?"
+    },
+    {
+     "titulo": "Cobertura no R1",
+     "texto": "E agachado você continua se movendo de lado.",
+     "puxa": "Tem mais"
+    },
+    {
+     "titulo": "Troca de ombro",
+     "texto": "Igual no Red Dead 2: a mira passa pro outro ombro na hora.",
+     "puxa": "E na água?"
+    },
+    {
+     "titulo": "Mergulho no controle",
+     "texto": "Você decide a velocidade, se dá mortal e pra que lado.",
+     "puxa": "E na briga?"
+    },
+    {
+     "titulo": "Bloqueia e contra-ataca",
+     "texto": "No corpo a corpo tem defesa segurando o botão e contra-ataque na hora certa."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "JÁ ERROU",
+     "O BOTÃO?"
+    ],
+    "texto": "Comenta quantas vezes você apertou X pra correr. Salva pra lembrar."
+   },
+   "cta_bio": "guia",
+   "legenda": "No GTA 6, correr agora é no L3 🎮\n\nJá errou o botão? Comenta e salva pra lembrar."
+  },
+  {
+   "id": "03",
+   "formato": "post",
+   "tipo": "enquete",
+   "linhas": [
+    "VIROU A",
+    "NOITE?"
+   ],
+   "destaque": [
+    1
+   ],
+   "opcoes": [
+    "Virei",
+    "Dormi"
+   ],
+   "sub": "A primeira madrugada em Leonida",
+   "imagem": "gta6/banco/oficial/arte-jason-lucia-motel.jpg",
+   "cta_bio": "comunidade",
+   "legenda": "A primeira madrugada do GTA 6 já foi 🌙\n\nVirou a noite ou dormiu? Comenta e marca quem não dormiu."
+  },
+  {
+   "id": "04",
+   "formato": "reel",
+   "linhas": [
+    "EU NO",
+    "TRABALHO",
+    "HOJE"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "Depois de virar a noite em Leonida",
+   "cta": [
+    "MARCA",
+    "O AMIGO"
+   ],
+   "cta_sub": "que virou a noite também",
+   "tag": "HUMOR",
+   "cta_bio": "comunidade",
+   "legenda": "Corpo no trabalho, cabeça em Vice City 😴🌴\n\nMarca o amigo que virou a noite também.",
+   "roteiro": [
+    {
+     "fala": "Eu no trabalho hoje, depois de virar a noite no GTA 6.",
+     "tela": "VIREI A NOITE",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-06.jpg"
+    },
+    {
+     "fala": "O chefe falando da reunião e eu pensando no pântano de Grassrivers.",
+     "tela": "PENSANDO EM LEONIDA",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-03.jpg"
+    },
+    {
+     "fala": "Cada carro que passa na rua, eu já calculo a fuga.",
+     "tela": "CALCULANDO A FUGA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
+    },
+    {
+     "fala": "Marca o amigo que virou a noite também.",
+     "tela": "MARCA O AMIGO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-16.jpg"
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "formato": "post",
+   "tipo": "noticia",
+   "linhas": [
+    "JÁ ESTÁ",
+    "NO AR"
+   ],
+   "destaque": [
+    1
+   ],
+   "texto": "O GTA 6 liberou à 0h de hoje (19/11) no Brasil, no PS5 e no Xbox Series X|S. A Ultimate não dava acesso antecipado. No PC, a Rockstar ainda não divulgou data.",
+   "fonte": "Critical Hits e Overdrive",
+   "sub": "PS5 e Xbox Series X|S",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg",
+   "cta_bio": "guia",
+   "legenda": "O GTA 6 já está no ar no Brasil 🚨🎮\n\nVocê joga no PS5 ou no Xbox? Comenta."
+  },
+  {
+   "id": "06",
+   "formato": "carrossel",
+   "capa": [
+    "O QUE TODO",
+    "MUNDO FAZ"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "No 1º dia de GTA 6. O nº 6 é inevitável",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "miami",
+    "policia"
+   ],
+   "slides": [
+    {
+     "titulo": "10 minutos no menu",
+     "texto": "Brilho, legenda, volume. Ajusta tudo duas vezes.",
+     "puxa": "E depois?"
+    },
+    {
+     "titulo": "Para pra olhar o mar",
+     "texto": "A missão espera. O pôr do sol de Vice City, não.",
+     "puxa": "E o carro?"
+    },
+    {
+     "titulo": "Pega o 1º carro bonito",
+     "texto": "Sem nem olhar se tem alguém vendo.",
+     "puxa": "E o rádio?"
+    },
+    {
+     "titulo": "Testa todas as rádios",
+     "texto": "E volta pra primeira.",
+     "puxa": "E o cachorro?"
+    },
+    {
+     "titulo": "Procura um cachorro",
+     "texto": "Pra testar o carinho que apareceu na prévia.",
+     "puxa": "O inevitável"
+    },
+    {
+     "titulo": "Fica procurado",
+     "texto": "Sem querer. Juro."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "QUAL VOCÊ",
+     "JÁ FEZ?"
+    ],
+    "texto": "Comenta os números que você já fez. Marca quem fez todos."
+   },
+   "cta_bio": "comunidade",
+   "legenda": "O que todo mundo faz no primeiro dia de GTA 6 😂\n\nQual você já fez? Comenta o número e marca um amigo."
+  },
+  {
+   "id": "07",
+   "formato": "reel",
+   "linhas": [
+    "SE PERDEU",
+    "EM LEONIDA?"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Seis regiões, um mapa enorme",
+   "cta": [
+    "LINK",
+    "NA BIO"
+   ],
+   "cta_sub": "Guia do GTA 6 em português",
+   "tag": "GUIA",
+   "cta_bio": "guia",
+   "legenda": "Caiu em Leonida e não sabe pra onde ir? 🗺️\n\nO guia em português tá no link da bio. Comenta sua região favorita.",
+   "roteiro": [
+    {
+     "fala": "Caiu em Leonida e não sabe pra onde ir?",
+     "tela": "PRA ONDE IR?",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-01.jpg"
+    },
+    {
+     "fala": "São seis regiões: de Vice City ao pântano de Grassrivers, até as trilhas do Mount Kalaga.",
+     "tela": "6 REGIÕES",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-01.jpg"
+    },
+    {
+     "fala": "Nas prévias, a imprensa contou que o jogo começa nas Leonida Keys, perto da casa do Jason, e depois o mapa abre.",
+     "tela": "COMEÇA NAS KEYS",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-06.jpg"
+    },
+    {
+     "fala": "O guia do GTA 6 em português tá no link da bio. Comenta qual região você explora primeiro.",
+     "tela": "LINK NA BIO",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-02.jpg"
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "formato": "post",
+   "tipo": "documento",
+   "imagem": "gta6/banco/oficial/lugar-vice-city-27.jpg",
+   "cta_bio": "grupo",
+   "titulo_doc": "COMUNICADO AOS CONTATOS",
+   "titulo": "COMUNICADO AOS CONTATOS",
+   "carimbo": "AUSENTE",
+   "tag": "AOS CONTATOS",
+   "foto_3x4": "gta6/banco/oficial/pessoa-lucia-caminos-10.jpg",
+   "foco_3x4": [
+    0.42,
+    0.42,
+    0.7
+   ],
+   "corpo": "Informo aos **contatos** que a partir de **hoje** não respondo áudio, figurinha nem \"oi, sumido\". Estou em **Leonida** resolvendo assuntos com Jason e Lucia.",
+   "campos": [
+    [
+     "Motivo:",
+     "GTA 6.",
+     true
+    ],
+    [
+     "Retorno previsto:",
+     "Depois do final. Talvez.",
+     false
+    ]
+   ],
+   "rodape_doc": "Urgente? Só por sinal de fumaça.",
+   "assinatura": [
+    "SEU CONTATO",
+    "EM MODO GTA VI"
+   ],
+   "legenda": "Comunicado oficial pros seus contatos 📵 Manda no grupo antes que alguém pergunte se você sumiu.\n\nComenta quem vai receber primeiro."
+  },
+  {
+   "id": "09",
+   "formato": "carrossel",
+   "estilo": "grade",
+   "cta_bio": "comunidade",
+   "capa": {
+    "titulo": [
+     "LEONIDA EM",
+     "6 REGIÕES"
+    ],
+    "destaque": [
+     1
+    ],
+    "sub": "Do caos de Vice City às trilhas do Mount Kalaga",
+    "fotos": [
+     "gta6/banco/oficial/lugar-vice-city-14.jpg",
+     "gta6/banco/oficial/lugar-grassrivers-04.jpg",
+     "gta6/banco/oficial/lugar-ambrosia-02.jpg",
+     "gta6/banco/oficial/lugar-mount-kalaga-national-park-03.jpg"
+    ]
+   },
+   "puxa_capa": "Arrasta",
+   "slides": [
+    {
+     "titulo": "Vice City",
+     "puxa": "E a praia?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-03.jpg",
+       "rot": "A metrópole",
+       "txt": "Glamour, correria e ganância numa cidade só."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-10.jpg",
+       "rot": "Bairros",
+       "txt": "Ocean Beach, Little Cuba e o porto VC Port."
+      }
+     ]
+    },
+    {
+     "titulo": "Leonida Keys",
+     "puxa": "E o pântano?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-01.jpg",
+       "rot": "Paraíso de praia",
+       "txt": "Ilhas tropicais com águas das mais perigosas dos EUA."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-02.jpg",
+       "rot": "Onde começa",
+       "txt": "Nas prévias, o jogo começa aqui, perto da casa do Jason."
+      }
+     ]
+    },
+    {
+     "titulo": "Pântano e praia",
+     "puxa": "E o interior?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-grassrivers-01.jpg",
+       "rot": "Grassrivers",
+       "txt": "Pântano com predadores ainda piores que os jacarés."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-port-gellhorn-06.jpg",
+       "rot": "Port Gellhorn",
+       "txt": "Antigo destino de férias, hoje com lojas abandonadas."
+      }
+     ]
+    },
+    {
+     "titulo": "O interior",
+     "puxa": "Resumindo",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-ambrosia-03.jpg",
+       "rot": "Ambrosia",
+       "txt": "O coração de Leonida: fábricas e gangue de motoqueiros."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-05.jpg",
+       "rot": "Mount Kalaga",
+       "txt": "Parque com caça, pesca e trilhas off-road."
+      }
+     ]
+    },
+    {
+     "titulo": "Seu roteiro",
+     "puxa": "Comenta",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-17.jpg",
+       "rot": "Cidade",
+       "txt": "Vice City e o caos da metrópole."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-03.jpg",
+       "rot": "Praia",
+       "txt": "Leonida Keys e Port Gellhorn."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-grassrivers-08.jpg",
+       "rot": "Natureza",
+       "txt": "Grassrivers e Mount Kalaga."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-ambrosia-04.jpg",
+       "rot": "Interior",
+       "txt": "Ambrosia e suas fábricas."
+      }
+     ]
+    }
+   ],
+   "fecho": {
+    "foto": "gta6/banco/oficial/lugar-vice-city-08.jpg",
+    "titulo": [
+     "QUAL VOCÊ",
+     "EXPLORA 1º?"
+    ],
+    "texto": "Comenta a região. Salva pra usar de mapa."
+   },
+   "legenda": "Leonida tem 6 regiões, e cada uma tem a sua cara 🗺️🌴\n\nQual você explora primeiro? Comenta e salva.",
+   "fontes": [
+    "https://gameinformer.com/2025/05/06/rockstar-shows-off-six-major-areas-of-vice-city-in-grand-theft-auto-vi",
+    "https://www.gtabase.com/articles/gta-6/gta-6-previews-recap-all-new-gameplay-features-revealed"
+   ]
+  },
+  {
+   "id": "10",
+   "formato": "reel",
+   "linhas": [
+    "QUE NOTA",
+    "VOCÊ DÁ?"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Pro primeiro dia de GTA 6",
+   "cta": [
+    "COMENTA",
+    "A NOTA"
+   ],
+   "cta_sub": "De 0 a 10, sem spoiler",
+   "tag": "ENQUETE",
+   "cta_bio": "grupo",
+   "legenda": "Primeiro dia de GTA 6 acabando ⭐\n\nQue nota você dá, de 0 a 10? Comenta sem spoiler.",
+   "roteiro": [
+    {
+     "fala": "Primeiro dia de GTA 6 acabando. Que nota você dá?",
+     "tela": "QUE NOTA?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-05.jpg"
+    },
+    {
+     "fala": "Valeu a espera de tantos anos?",
+     "tela": "VALEU A ESPERA?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-18.jpg"
+    },
+    {
+     "fala": "Ou você ainda nem saiu da primeira missão?",
+     "tela": "AINDA NA 1ª MISSÃO?",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-08.jpg"
+    },
+    {
+     "fala": "Comenta sua nota de zero a dez, sem spoiler. E entra no grupo VIP pelo link da bio.",
+     "tela": "NOTA DE 0 A 10",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-19.jpg"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "hora": "14:07",
+   "formato": "carrossel",
+   "estilo": "grade",
+   "serie": "armas",
+   "cta_bio": "guia",
+   "capa": {
+    "titulo": [
+     "AS REGRAS",
+     "DAS ARMAS"
+    ],
+    "destaque": [
+     1
+    ],
+    "sub": "O que as prévias contaram pro seu 1º tiroteio",
+    "fotos": [
+     "gta6/banco/oficial/pessoa-jason-duval-11.jpg",
+     "gta6/banco/oficial/pessoa-lucia-caminos-04.jpg",
+     "gta6/banco/oficial/arte-jason-and-lucia-lock-and-load.jpg",
+     "gta6/banco/oficial/pessoa-jason-duval-16.jpg"
+    ]
+   },
+   "puxa_capa": "Arrasta",
+   "slides": [
+    {
+     "titulo": "Quanto dá pra levar",
+     "puxa": "E o povo?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-12.jpg",
+       "rot": "2 pistolas",
+       "txt": "Escondidas no corpo, sempre com você."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-lucia-caminos-05.jpg",
+       "rot": "2 armas longas",
+       "txt": "Uma nas costas e a outra na mão."
+      }
+     ]
+    },
+    {
+     "titulo": "O povo repara",
+     "puxa": "Onde guardar?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-17.jpg",
+       "rot": "Nas costas",
+       "txt": "Com o porte aberto de Leonida, ninguém entra em pânico."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-05.jpg",
+       "rot": "Na mão",
+       "txt": "As pessoas se afastam e a polícia pode dar um aviso."
+      }
+     ]
+    },
+    {
+     "titulo": "Onde guardar",
+     "puxa": "E a dupla?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/fotos/carro-posto-noite.jpg",
+       "rot": "Qualquer carro",
+       "txt": "Guarda as armas longas por um tempo."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-13.jpg",
+       "rot": "Carro pessoal",
+       "txt": "Só ele guarda o arsenal completo."
+      }
+     ]
+    },
+    {
+     "titulo": "Jogo em dupla",
+     "puxa": "E o tiro?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-12.jpg",
+       "rot": "Passa a arma",
+       "txt": "Jason e Lucia entregam armas um pro outro."
+      },
+      {
+       "foto": "gta6/banco/fotos/policia-perseguicao.jpg",
+       "rot": "Pega no mundo",
+       "txt": "Dá pra pegar arma até no porta-malas da viatura."
+      }
+     ]
+    },
+    {
+     "titulo": "Na hora do tiro",
+     "puxa": "E o visual?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-lucia-caminos-07.jpg",
+       "rot": "Marcador",
+       "txt": "Branco acerta, amarelo incapacita, vermelho abate."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-10.jpg",
+       "rot": "Câmera lenta",
+       "txt": "A kill cam existe, mas dá pra desligar."
+      }
+     ]
+    },
+    {
+     "titulo": "Do seu jeito",
+     "puxa": "Comenta",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/arte-jason-and-lucia-robbery.jpg",
+       "rot": "Acabamentos",
+       "txt": "Gravada, pintada ou dourada."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-12.jpg",
+       "rot": "Fuzil mais bruto",
+       "txt": "Mais coice e barulho que no GTA 5."
+      }
+     ]
+    }
+   ],
+   "fecho": {
+    "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-17.jpg",
+    "titulo": [
+     "QUAL VAI",
+     "NAS COSTAS?"
+    ],
+    "texto": "Comenta a arma que vai no seu ombro. Salva pro primeiro tiroteio."
+   },
+   "legenda": "As regras das armas no GTA 6: quanto dá pra levar e onde guardar 🎯\n\nSérie Nerd GTA, parte 9. Qual vai nas suas costas? Comenta e salva.",
+   "fontes": [
+    "https://gamingbolt.com/gta-6-lets-you-carry-2-concealed-handguns-and-2-long-guns-with-npcs-reacting-accordingly",
+    "https://www.gfinityesports.com/article/gta-6-combat-preview-details-massive-upgrades-to-weapons-gunplay",
+    "https://www.gtaboom.com/gta-6-drops-default-lock-on-limits-guns-sprint-l3-204b",
+    "https://www.notebookcheck.net/GTA-6-weapon-management-Rockstar-did-not-want-a-traditional-weapon-wheel-but-had-to-settle.1428326.0.html",
+    "https://www.gtabase.com/articles/gta-6/gta-6-previews-recap-all-new-gameplay-features-revealed"
+   ]
+  }
+ ]
+}
