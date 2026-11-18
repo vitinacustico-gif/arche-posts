@@ -3,6 +3,9 @@
 Desde 18/11 o feed do @nerd_gta tem 36 horários por dia: 00:00, 00:30 e de 7:00 às 23:30, de meia em meia hora.
 A fábrica diária ocupa 11 (posts, carrosséis, comunicado, série); a **fábrica de Reels** preenche o resto com Reels narrados, sempre 45+ min antes do horário.
 
+## Visual variado (pedido do Victor: "parece tudo a mesma coisa")
+O motor tem 5 estilos de Reel: neon, manchete, cinema, tweet e impacto. Ele gira sozinho pela meia hora (dois Reels seguidos nunca ficam iguais). Só ponha "estilo" no item para forçar quando combinar muito: "manchete" para notícia, "tweet" para opinião/pergunta, "impacto" para número/lista, "cinema" para personagem/lugar.
+
 ## Cada execução
 1. `python3 gta6/fabrica/status_reels.py` → `slots` (até 6 horários vazios), `stories_livres` por dia e `recentes` (não repetir tema nem título).
    Sem slots: termine sem mensagem.
