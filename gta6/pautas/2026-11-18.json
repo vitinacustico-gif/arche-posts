@@ -11,7 +11,10 @@
     "https://gamingbolt.com/gta-6-features-over-170-animal-species-including-never-before-seen-additions",
     "https://www.gfinityesports.com/article/gta-6-wildlife-guide-all-confirmed-animals-pets",
     "https://canaltech.com.br/games/rockstar-revela-segredos-absurdos-para-dar-vida-a-gta-6",
-    "https://www.pushsquare.com/news/2026/06/gta-6-ultimate-edition-and-more-detailed-ahead-of-pre-orders-going-live"
+    "https://www.pushsquare.com/news/2026/06/gta-6-ultimate-edition-and-more-detailed-ahead-of-pre-orders-going-live",
+    "https://www.forbes.com/sites/paultassi/2026/11/18/the-gta-6-metacritic-review-score-is-in-and-ties-an-all-time-record/",
+    "https://www.thenationalnews.com/arts-culture/pop-culture/2026/11/18/gta-6-reviews-metacritic/",
+    "https://www.rockstargames.com/VI/cal"
   ],
   "itens": [
     {
@@ -775,6 +778,228 @@
       ],
       "legenda": "Faltam 30 minutos pro GTA 6 ⏳🔥 À meia-noite libera no Brasil.\n\nComenta TÔ ON se você vai estar acordado e segue a página pra não perder o aviso.",
       "fontes": []
+    },
+    {
+      "id": "R1400",
+      "hora": "14:00",
+      "formato": "reel",
+      "linhas": [
+        "NOTA 99"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "grupo",
+      "postar_story": true,
+      "roteiro": [
+        {
+          "fala": "GTA 6 tirou noventa e nove.",
+          "tela": "NOTA 99 NO METACRITIC",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-10.jpg"
+        },
+        {
+          "fala": "É a nota no Metacritic, igual ao recorde de Zelda Ocarina of Time.",
+          "tela": "EMPATA COM ZELDA",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-13.jpg"
+        },
+        {
+          "fala": "Mais de cem críticas, e nenhuma abaixo de noventa.",
+          "tela": "NENHUMA ABAIXO DE 90",
+          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-02.jpg"
+        },
+        {
+          "fala": "Amanhã é a sua vez de dar nota. Comenta aí e segue a página.",
+          "tela": "COMENTA SUA NOTA",
+          "imagem": "gta6/banco/oficial/arte-jason-and-lucia-02.jpg"
+        }
+      ],
+      "legenda": "GTA 6 chegou com 99 no Metacritic 🏆 Empatou com Zelda: Ocarina of Time, o recorde do site.\n\nMais de 100 críticas e nenhuma abaixo de 90. Merece? Comenta e segue a página pra acompanhar o lançamento.",
+      "fontes": [
+        "https://www.forbes.com/sites/paultassi/2026/11/18/the-gta-6-metacritic-review-score-is-in-and-ties-an-all-time-record/",
+        "https://www.thenationalnews.com/arts-culture/pop-culture/2026/11/18/gta-6-reviews-metacritic/"
+      ],
+      "estilo": "manchete"
+    },
+    {
+      "id": "R1500",
+      "hora": "15:00",
+      "formato": "reel",
+      "linhas": [
+        "BUGGY DE 67"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "ofertas",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Já viu o buggy da Ultimate?",
+          "tela": "BUGGY DE 67",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-vapid-buggy-01.jpg"
+        },
+        {
+          "fala": "É o Vapid Dominator Buggy, modelo sessenta e sete.",
+          "tela": "VAPID DOMINATOR BUGGY",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-vapid-buggy-02.jpg"
+        },
+        {
+          "fala": "E vem junto uma garagem: a Paradise Garage, em Watson Bay.",
+          "tela": "GARAGEM EM WATSON BAY",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-vapid-buggy-03.jpg"
+        },
+        {
+          "fala": "Só na Ultimate Edition. Salva o vídeo e segue a página.",
+          "tela": "SÓ NA ULTIMATE",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-vapid-buggy-04.jpg"
+        }
+      ],
+      "legenda": "O buggy Vapid Dominator de 67 vem na Ultimate Edition do GTA 6 🏖️ E ainda leva a Paradise Garage em Watson Bay.\n\nVocê pegaria a Ultimate só por ele? Salva o vídeo e segue a página.",
+      "fontes": [
+        "https://www.pushsquare.com/news/2026/06/gta-6-ultimate-edition-and-more-detailed-ahead-of-pre-orders-going-live"
+      ]
+    },
+    {
+      "id": "R1800",
+      "hora": "18:00",
+      "formato": "reel",
+      "linhas": [
+        "PLANO DA NOITE"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "grupo",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Meu plano pra hoje à noite:",
+          "tela": "O PLANO DE HOJE",
+          "imagem": "gta6/banco/oficial/pessoa-jason-duval-07.jpg"
+        },
+        {
+          "fala": "Jantar cedo e cochilar às nove.",
+          "tela": "JANTAR E COCHILAR ÀS 9",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-14.jpg"
+        },
+        {
+          "fala": "Acordar onze e cinquenta e nove, com o controle na mão.",
+          "tela": "ACORDAR 23:59",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-12.jpg"
+        },
+        {
+          "fala": "Quem mais vai fazer isso? Marca o amigo e segue a página.",
+          "tela": "MARCA O PARCEIRO",
+          "imagem": "gta6/banco/oficial/arte-jason-and-lucia-beach.jpg"
+        }
+      ],
+      "legenda": "O plano perfeito pra meia-noite do GTA 6 😴🎮 Jantar cedo, cochilar e acordar 23:59 com o controle na mão.\n\nMarca o amigo que vai fazer igualzinho e segue a página.",
+      "fontes": []
+    },
+    {
+      "id": "R1830",
+      "hora": "18:30",
+      "formato": "reel",
+      "linhas": [
+        "QUEM É O CAL"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "guia",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Quem é o Cal do GTA 6?",
+          "tela": "QUEM É O CAL?",
+          "imagem": "gta6/banco/oficial/arte-cal-hampton.jpg"
+        },
+        {
+          "fala": "Amigo do Jason e parceiro do Brian.",
+          "tela": "AMIGO DO JASON",
+          "imagem": "gta6/banco/oficial/pessoa-cal-hampton-01.jpg"
+        },
+        {
+          "fala": "Gosta de ficar em casa, bisbilhotando o rádio da Guarda Costeira.",
+          "tela": "ESPIONA A GUARDA COSTEIRA",
+          "imagem": "gta6/banco/oficial/pessoa-cal-hampton-02.jpg"
+        },
+        {
+          "fala": "Mas o Jason tem planos maiores. Comenta e segue a página.",
+          "tela": "JASON QUER MAIS",
+          "imagem": "gta6/banco/oficial/pessoa-cal-hampton-04.jpg"
+        }
+      ],
+      "legenda": "Cal Hampton: amigo do Jason, parceiro do Brian e fã de escutar o rádio da Guarda Costeira sem sair de casa 📻\n\nVocê vai com a cara dele? Comenta e segue a página.",
+      "fontes": [
+        "https://www.rockstargames.com/VI/cal"
+      ],
+      "estilo": "cinema"
+    },
+    {
+      "id": "R1900",
+      "hora": "19:00",
+      "formato": "reel",
+      "linhas": [
+        "VIRA A NOITE?"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "comunidade",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Meia-noite libera. Você vira a noite?",
+          "tela": "VIRA A NOITE?",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-16.jpg"
+        },
+        {
+          "fala": "Opção um: joga até o sol nascer.",
+          "tela": "1: ATÉ O SOL NASCER",
+          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-05.jpg"
+        },
+        {
+          "fala": "Opção dois: joga uma horinha e vai dormir.",
+          "tela": "2: UMA HORINHA E CAMA",
+          "imagem": "gta6/banco/oficial/pessoa-jason-duval-08.jpg"
+        },
+        {
+          "fala": "Comenta um ou dois e segue a página.",
+          "tela": "COMENTA 1 OU 2",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-18.jpg"
+        }
+      ],
+      "legenda": "GTA 6 libera à meia-noite 🌙 Você vira a noite ou joga uma horinha e vai dormir?\n\nComenta 1 ou 2 e segue a página.",
+      "fontes": [],
+      "estilo": "tweet"
+    },
+    {
+      "id": "R1930",
+      "hora": "19:30",
+      "formato": "reel",
+      "linhas": [
+        "NEM TUDO É 10"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "guia",
+      "postar_story": true,
+      "roteiro": [
+        {
+          "fala": "Nem tudo é dez no GTA 6.",
+          "tela": "NEM TUDO É 10",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-13.jpg"
+        },
+        {
+          "fala": "A TechRadar lembra: são trinta quadros por segundo.",
+          "tela": "30 QUADROS POR SEGUNDO",
+          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-08.jpg"
+        },
+        {
+          "fala": "A IGN achou a moto mais dura, e missão concluída não dá pra rejogar pela lista.",
+          "tela": "MOTO DURA E SEM REPLAY",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-14.jpg"
+        },
+        {
+          "fala": "Isso te incomoda? Comenta e segue a página.",
+          "tela": "ISSO TE INCOMODA?",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-20.jpg"
+        }
+      ],
+      "legenda": "Até o GTA 6 levou umas críticas 👀 30 quadros por segundo, moto mais dura e missão concluída que não dá pra rejogar pela lista, segundo TechRadar e IGN.\n\nIsso te incomoda? Comenta e segue a página.",
+      "fontes": [
+        "https://www.thenationalnews.com/arts-culture/pop-culture/2026/11/18/gta-6-reviews-metacritic/"
+      ]
     }
   ]
 }
