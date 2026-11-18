@@ -2387,6 +2387,38 @@
   "base": "midia-2026-11-19"
  },
  {
+  "id": "2026-11-19-R1500",
+  "pauta": "2026-11-19",
+  "data": "2026-11-19",
+  "hora": "15:00",
+  "formato": "reel",
+  "titulo": "GUARDA A GRANA",
+  "arquivos": [
+   "gta6/midia/2026-11-19/R1500.mp4"
+  ],
+  "legenda": "💸 Dica de quem não quer perder o lucro do golpe: pelas prévias do GTA 6, o dinheiro que você carrega some se você for preso ou morrer. Guarda no esconderijo ou deposita no caixa eletrônico antes de arriscar.\n\nSalva pra não esquecer e manda pro amigo que anda com a grana toda no bolso.\n\n🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "capa": "gta6/midia/2026-11-19/R1500_capa.jpg",
+  "thumb_offset_ms": 450,
+  "story": "gta6/midia/2026-11-19/R1500.mp4",
+  "base": "midia-2026-11-19"
+ },
+ {
+  "id": "2026-11-19-R1600",
+  "pauta": "2026-11-19",
+  "data": "2026-11-19",
+  "hora": "16:00",
+  "formato": "reel",
+  "titulo": "RÁDIO A PÉ",
+  "arquivos": [
+   "gta6/midia/2026-11-19/R1600.mp4"
+  ],
+  "legenda": "🎧 No GTA 6 a rádio não fica só no carro: segundo a Rockstar, Jason e Lucia ouvem rádio e podcast a pé, com fone ligado no celular. E é a primeira vez que a série tem podcast. Entre as rádios já reveladas: Flash FM (pop), Cocotea FM (música latina), Back Country Radio (country), Afro Bank FM (música africana), The Chamber 106.6 (metal) e Dirty South Classics (rap das antigas).\n\nQual vai ser a sua rádio fixa? Comenta aí.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "capa": "gta6/midia/2026-11-19/R1600_capa.jpg",
+  "thumb_offset_ms": 450,
+  "story": "gta6/midia/2026-11-19/R1600.mp4",
+  "base": "midia-2026-11-19"
+ },
+ {
   "id": "2026-11-19-07",
   "pauta": "2026-11-19",
   "data": "2026-11-19",
@@ -2403,6 +2435,54 @@
   "base": "midia-2026-11-19"
  },
  {
+  "id": "2026-11-19-R1800",
+  "pauta": "2026-11-19",
+  "data": "2026-11-19",
+  "hora": "18:00",
+  "formato": "reel",
+  "titulo": "MATRICULADO",
+  "arquivos": [
+   "gta6/midia/2026-11-19/R1800.mp4"
+  ],
+  "legenda": "🏋️ A academia voltou no GTA 6, maior que no San Andreas: precisa de mensalidade e o shake de proteína melhora o treino, segundo as prévias. Eu, que não vou na academia de verdade há anos, já tô com o plano do Jason em dia.\n\nMarca aquele amigo que só tem shape no videogame.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "capa": "gta6/midia/2026-11-19/R1800_capa.jpg",
+  "thumb_offset_ms": 450,
+  "story": "gta6/midia/2026-11-19/R1800.mp4",
+  "base": "midia-2026-11-19"
+ },
+ {
+  "id": "2026-11-19-R1900",
+  "pauta": "2026-11-19",
+  "data": "2026-11-19",
+  "hora": "19:00",
+  "formato": "reel",
+  "titulo": "ROUBA COMO?",
+  "arquivos": [
+   "gta6/midia/2026-11-19/R1900.mp4"
+  ],
+  "legenda": "🚗 No GTA 6 tem dois jeitos de pegar um carro, segundo as prévias: no barulho, quebrando o vidro e tirando o motorista, ou no silêncio, com a ferramenta de abrir a porta. Só lembra: se tiver testemunha, a polícia fica sabendo.\n\nVocê é do 1 ou do 2? Comenta.\n\n🔗 Quer trocar ideia com quem vai jogar no Brasil? A comunidade Nerd GTA está no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "capa": "gta6/midia/2026-11-19/R1900_capa.jpg",
+  "thumb_offset_ms": 450,
+  "story": "gta6/midia/2026-11-19/R1900.mp4",
+  "base": "midia-2026-11-19"
+ },
+ {
+  "id": "2026-11-19-R2000",
+  "pauta": "2026-11-19",
+  "data": "2026-11-19",
+  "hora": "20:00",
+  "formato": "reel",
+  "titulo": "SEM CARTÃO?",
+  "arquivos": [
+   "gta6/midia/2026-11-19/R2000.mp4"
+  ],
+  "legenda": "🎮 Sem cartão de crédito pra comprar na PlayStation Store? O cartão presente digital resolve: você resgata o código e o valor vira saldo na conta pra jogo e conteúdo extra. Separamos uma opção no Mercado Livre.\n\nManda pra aquele amigo que tá sem cartão e quer jogar GTA 6.\n\n🔗 Vai montar o setup pro dia 19? As melhores ofertas estão no link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "capa": "gta6/midia/2026-11-19/R2000_capa.jpg",
+  "thumb_offset_ms": 450,
+  "story": "gta6/midia/2026-11-19/R2000.mp4",
+  "base": "midia-2026-11-19"
+ },
+ {
   "id": "2026-11-19-10",
   "pauta": "2026-11-19",
   "data": "2026-11-19",
@@ -2416,6 +2496,22 @@
   "capa": "gta6/midia/2026-11-19/10_capa.jpg",
   "thumb_offset_ms": 450,
   "story": "gta6/midia/2026-11-19/10.mp4",
+  "base": "midia-2026-11-19"
+ },
+ {
+  "id": "2026-11-19-R2200",
+  "pauta": "2026-11-19",
+  "data": "2026-11-19",
+  "hora": "22:00",
+  "formato": "reel",
+  "titulo": "RESPONDE ELA?",
+  "arquivos": [
+   "gta6/midia/2026-11-19/R2200.mp4"
+  ],
+  "legenda": "❤️ No GTA 6 tem barra de relacionamento entre Jason e Lucia, segundo as prévias: mensagem respondida ajuda, ignorada pesa com o tempo. E dá pra andar de mão dada e abrir a porta um pro outro.\n\nVocê responde rápido ou deixa no vácuo? Comenta.\n\n🔗 O guia do GTA 6 em PT-BR está quase pronto. Garante seu lugar na lista de espera pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "capa": "gta6/midia/2026-11-19/R2200_capa.jpg",
+  "thumb_offset_ms": 450,
+  "story": "gta6/midia/2026-11-19/R2200.mp4",
   "base": "midia-2026-11-19"
  },
  {
