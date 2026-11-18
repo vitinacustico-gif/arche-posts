@@ -1,670 +1,891 @@
 {
-  "data": "2026-11-19",
-  "fontes": [
-    "https://criticalhits.com.br/games/gta-6-sera-liberado-a-meia-noite-no-brasil/",
-    "https://gameoverdrive.com.br/gta-6-comeca-ser-liberado-hoje-veja-horario-exato-brasil/",
-    "https://gameinformer.com/2025/05/06/rockstar-shows-off-six-major-areas-of-vice-city-in-grand-theft-auto-vi",
-    "https://www.gfinityesports.com/article/how-to-get-gta-6-vintage-vice-city-pack-and-whats-included",
-    "https://gamingbolt.com/gta-6-lets-you-carry-2-concealed-handguns-and-2-long-guns-with-npcs-reacting-accordingly",
-    "https://www.gfinityesports.com/article/gta-6-combat-preview-details-massive-upgrades-to-weapons-gunplay",
-    "https://www.gtaboom.com/gta-6-drops-default-lock-on-limits-guns-sprint-l3-204b",
-    "https://www.notebookcheck.net/GTA-6-weapon-management-Rockstar-did-not-want-a-traditional-weapon-wheel-but-had-to-settle.1428326.0.html",
-    "https://www.gtabase.com/articles/gta-6/gta-6-previews-recap-all-new-gameplay-features-revealed",
+ "data": "2026-11-19",
+ "fontes": [
+  "https://criticalhits.com.br/games/gta-6-sera-liberado-a-meia-noite-no-brasil/",
+  "https://gameoverdrive.com.br/gta-6-comeca-ser-liberado-hoje-veja-horario-exato-brasil/",
+  "https://gameinformer.com/2025/05/06/rockstar-shows-off-six-major-areas-of-vice-city-in-grand-theft-auto-vi",
+  "https://www.gfinityesports.com/article/how-to-get-gta-6-vintage-vice-city-pack-and-whats-included",
+  "https://gamingbolt.com/gta-6-lets-you-carry-2-concealed-handguns-and-2-long-guns-with-npcs-reacting-accordingly",
+  "https://www.gfinityesports.com/article/gta-6-combat-preview-details-massive-upgrades-to-weapons-gunplay",
+  "https://www.gtaboom.com/gta-6-drops-default-lock-on-limits-guns-sprint-l3-204b",
+  "https://www.notebookcheck.net/GTA-6-weapon-management-Rockstar-did-not-want-a-traditional-weapon-wheel-but-had-to-settle.1428326.0.html",
+  "https://www.gtabase.com/articles/gta-6/gta-6-previews-recap-all-new-gameplay-features-revealed",
+  "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/",
+  "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523",
+  "https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-revealed-rockstar-says-for-the-first-time-in-grand-theft-auto-history-there-are-also-in-game-podcasts/"
+ ],
+ "itens": [
+  {
+   "id": "01",
+   "formato": "reel",
+   "linhas": [
+    "CHEGOU:",
+    "É HOJE"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Leonida abriu à meia-noite",
+   "cta": [
+    "ATIVA",
+    "O SININHO"
+   ],
+   "cta_sub": "Primeiro dia em Leonida",
+   "tag": "CONTAGEM",
+   "cta_bio": "grupo",
+   "legenda": "É hoje: o GTA 6 chegou 🌴🔥\n\nLiberou à meia-noite no Brasil. Comenta 🎮 se você já tá jogando.",
+   "roteiro": [
+    {
+     "fala": "É hoje. O GTA 6 chegou.",
+     "tela": "É HOJE",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-02.jpg"
+    },
+    {
+     "fala": "À meia-noite, no horário de Brasília, Leonida abriu no PlayStation 5 e no Xbox Series.",
+     "tela": "LIBEROU À 0H",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-05.jpg"
+    },
+    {
+     "fala": "Depois de tantos anos de espera, Jason e Lucia finalmente estão nas suas mãos.",
+     "tela": "JASON E LUCIA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-10.jpg"
+    },
+    {
+     "fala": "Comenta aí: você já tá jogando ou ainda tá contando as horas?",
+     "tela": "JÁ TÁ JOGANDO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-14.jpg"
+    }
+   ]
+  },
+  {
+   "id": "04",
+   "formato": "reel",
+   "linhas": [
+    "EU NO",
+    "TRABALHO",
+    "HOJE"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "Depois de virar a noite em Leonida",
+   "cta": [
+    "MARCA",
+    "O AMIGO"
+   ],
+   "cta_sub": "que virou a noite também",
+   "tag": "HUMOR",
+   "cta_bio": "comunidade",
+   "legenda": "Corpo no trabalho, cabeça em Vice City 😴🌴\n\nMarca o amigo que virou a noite também.",
+   "roteiro": [
+    {
+     "fala": "Eu no trabalho hoje, depois de virar a noite no GTA 6.",
+     "tela": "VIREI A NOITE",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-06.jpg"
+    },
+    {
+     "fala": "O chefe falando da reunião e eu pensando no pântano de Grassrivers.",
+     "tela": "PENSANDO EM LEONIDA",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-03.jpg"
+    },
+    {
+     "fala": "Cada carro que passa na rua, eu já calculo a fuga.",
+     "tela": "CALCULANDO A FUGA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
+    },
+    {
+     "fala": "Marca o amigo que virou a noite também.",
+     "tela": "MARCA O AMIGO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-16.jpg"
+    }
+   ]
+  },
+  {
+   "id": "07",
+   "formato": "reel",
+   "linhas": [
+    "SE PERDEU",
+    "EM LEONIDA?"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Seis regiões, um mapa enorme",
+   "cta": [
+    "LINK",
+    "NA BIO"
+   ],
+   "cta_sub": "Guia do GTA 6 em português",
+   "tag": "GUIA",
+   "cta_bio": "guia",
+   "legenda": "Caiu em Leonida e não sabe pra onde ir? 🗺️\n\nO guia em português tá no link da bio. Comenta sua região favorita.",
+   "roteiro": [
+    {
+     "fala": "Caiu em Leonida e não sabe pra onde ir?",
+     "tela": "PRA ONDE IR?",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-01.jpg"
+    },
+    {
+     "fala": "São seis regiões: de Vice City ao pântano de Grassrivers, até as trilhas do Mount Kalaga.",
+     "tela": "6 REGIÕES",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-01.jpg"
+    },
+    {
+     "fala": "Nas prévias, a imprensa contou que o jogo começa nas Leonida Keys, perto da casa do Jason, e depois o mapa abre.",
+     "tela": "COMEÇA NAS KEYS",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-06.jpg"
+    },
+    {
+     "fala": "O guia do GTA 6 em português tá no link da bio. Comenta qual região você explora primeiro.",
+     "tela": "LINK NA BIO",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-02.jpg"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "formato": "reel",
+   "linhas": [
+    "QUE NOTA",
+    "VOCÊ DÁ?"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Pro primeiro dia de GTA 6",
+   "cta": [
+    "COMENTA",
+    "A NOTA"
+   ],
+   "cta_sub": "De 0 a 10, sem spoiler",
+   "tag": "ENQUETE",
+   "cta_bio": "grupo",
+   "legenda": "Primeiro dia de GTA 6 acabando ⭐\n\nQue nota você dá, de 0 a 10? Comenta sem spoiler.",
+   "roteiro": [
+    {
+     "fala": "Primeiro dia de GTA 6 acabando. Que nota você dá?",
+     "tela": "QUE NOTA?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-05.jpg"
+    },
+    {
+     "fala": "Valeu a espera de tantos anos?",
+     "tela": "VALEU A ESPERA?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-18.jpg"
+    },
+    {
+     "fala": "Ou você ainda nem saiu da primeira missão?",
+     "tela": "AINDA NA 1ª MISSÃO?",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-08.jpg"
+    },
+    {
+     "fala": "Comenta sua nota de zero a dez, sem spoiler. E entra no grupo VIP pelo link da bio.",
+     "tela": "NOTA DE 0 A 10",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-19.jpg"
+    }
+   ]
+  },
+  {
+   "id": "R0000",
+   "hora": "00:00",
+   "formato": "reel",
+   "linhas": [
+    "LIBEROU!"
+   ],
+   "tag": "LANÇAMENTO",
+   "estilo": "manchete",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Liberou! O GTA 6 já está no ar no Brasil.",
+     "tela": "LIBEROU!",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-rooftop.jpg"
+    },
+    {
+     "fala": "Se o seu já baixou, é só entrar e começar a história de Jason e Lucia.",
+     "tela": "JÁ PODE JOGAR",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-07.jpg"
+    },
+    {
+     "fala": "Ainda não apareceu? Reinicia o console e confere a biblioteca.",
+     "tela": "NÃO APARECEU?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-21.jpg"
+    },
+    {
+     "fala": "Segue a página: a partir de hoje tem dica, segredo e cheat confirmado todo dia.",
+     "tela": "SEGUE A PÁGINA",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-robbery.jpg"
+    }
+   ],
+   "legenda": "LIBEROU! 🚨 O GTA 6 já está no ar no Brasil. Bem-vindo a Leonida 🌴\n\nJá entrou? Comenta o que você fez primeiro. E segue a página: a partir de hoje tem dica, segredo e cheat confirmado todo dia.",
+   "fontes": []
+  },
+  {
+   "id": "R0100",
+   "hora": "01:00",
+   "formato": "reel",
+   "linhas": [
+    "PROMETI DORMIR"
+   ],
+   "tag": "HUMOR",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Prometi dormir à meia-noite e meia.",
+     "tela": "PROMETI DORMIR",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-18.jpg"
+    },
+    {
+     "fala": "Agora é uma da manhã e eu tô só explorando.",
+     "tela": "SÓ EXPLORANDO",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-05.jpg"
+    },
+    {
+     "fala": "Amanhã eu acordo como? Depois eu vejo.",
+     "tela": "DEPOIS EU VEJO",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-05.jpg"
+    },
+    {
+     "fala": "Comenta que horas você vai dormir e segue a página.",
+     "tela": "QUE HORAS VAI DORMIR?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-19.jpg"
+    }
+   ],
+   "legenda": "Prometi dormir cedo. Era mentira 😅🌴\n\nComenta que horas você vai largar o controle hoje. E segue a página: todo dia tem GTA 6 aqui.",
+   "fontes": [],
+   "estilo": "tweet"
+  },
+  {
+   "id": "R0200",
+   "hora": "02:00",
+   "formato": "reel",
+   "linhas": [
+    "O CELULAR DA LUCIA"
+   ],
+   "tag": "CURIOSIDADE",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Você já usou o celular da Lucia?",
+     "tela": "CELULAR DA LUCIA",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-14.jpg"
+    },
+    {
+     "fala": "Nas prévias, dá pra trocar pra Lucia e mexer no celular enquanto o Jason dirige.",
+     "tela": "ELA NO CELULAR",
+     "imagem": "gta6/banco/oficial/pessoa-real-dimez-01.jpg"
+    },
+    {
+     "fala": "E as redes sociais do jogo funcionam: a carreira das Real Dimez aparece em posts virais.",
+     "tela": "REDES QUE FUNCIONAM",
+     "imagem": "gta6/banco/oficial/arte-real-dimez.jpg"
+    },
+    {
+     "fala": "Já abriu o celular no jogo? Comenta e segue a página.",
+     "tela": "JÁ ABRIU O SEU?",
+     "imagem": "gta6/banco/oficial/pessoa-real-dimez-03.jpg"
+    }
+   ],
+   "legenda": "📱 Dá pra trocar pra Lucia e usar o celular dela enquanto o Jason dirige, segundo as prévias. E as redes sociais do jogo funcionam: a carreira das Real Dimez aparece em posts virais.\n\nJá fuçou o celular? Comenta o que achou. Guia do GTA 6 em português no link da bio.",
+   "fontes": [
+    "https://www.gtabase.com/articles/gta-6/first-official-gta-6-preview-reveals-new-gameplay-details"
+   ]
+  },
+  {
+   "id": "R0300",
+   "hora": "03:00",
+   "formato": "reel",
+   "linhas": [
+    "REBAIXADO OU 4X4?"
+   ],
+   "tag": "ENQUETE",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Rebaixado ou quatro por quatro?",
+     "tela": "REBAIXADO OU 4X4?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-rideout-customs-01.jpg"
+    },
+    {
+     "fala": "De um lado, o clássico rebaixado de roda dourada.",
+     "tela": "CLÁSSICO REBAIXADO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-rideout-customs-02.jpg"
+    },
+    {
+     "fala": "Do outro, o jipão pra encarar o pântano.",
+     "tela": "JIPÃO PRO PÂNTANO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-one-eyed-willie-01.jpg"
+    },
+    {
+     "fala": "Qual vai pra sua garagem? Comenta e segue a página.",
+     "tela": "QUAL VAI PRA GARAGEM?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-01.jpg"
+    }
+   ],
+   "legenda": "Garagem com uma vaga só 🚗 Rebaixado de roda dourada ou jipão pra encarar o pântano?\n\nComenta 1 pro rebaixado ou 2 pro 4x4. E segue a página.",
+   "fontes": [],
+   "estilo": "tweet"
+  },
+  {
+   "id": "R0400",
+   "hora": "04:00",
+   "formato": "reel",
+   "linhas": [
+    "170 ESPÉCIES"
+   ],
+   "tag": "ANIMAIS",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Mais de cento e setenta animais em Leonida.",
+     "tela": "170+ ESPÉCIES",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-05.jpg"
+    },
+    {
+     "fala": "São cerca de sessenta tipos de pássaros e mais de trinta mamíferos.",
+     "tela": "60 PÁSSAROS",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-05.jpg"
+    },
+    {
+     "fala": "Tem peixe-boi, flamingo, pelicano e, claro, jacaré.",
+     "tela": "PEIXE-BOI E JACARÉ",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-08.jpg"
+    },
+    {
+     "fala": "Qual bicho você já encontrou? Comenta e segue a página.",
+     "tela": "QUAL VOCÊ ACHOU?",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-07.jpg"
+    }
+   ],
+   "legenda": "🐊 Leonida tem mais de 170 espécies de animais, segundo a Game Informer com a Rockstar: cerca de 60 tipos de pássaros, mais de 30 mamíferos, peixe-boi, flamingo, pelicano e jacaré.\n\nQual bicho você já encontrou? Comenta. Guia do GTA 6 em português no link da bio.",
+   "fontes": [
+    "https://www.gfinityesports.com/article/rockstar-confirms-how-much-wildlife-is-in-gta-6-and-its-a-lot"
+   ],
+   "estilo": "impacto"
+  },
+  {
+   "id": "R0500",
+   "hora": "05:00",
+   "formato": "reel",
+   "linhas": [
+    "TELA PEQUENA?"
+   ],
+   "tag": "OFERTA",
+   "cta_bio": "ofertas",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Leonida cabe na sua tela?",
+     "tela": "TELA PEQUENA?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-03.jpg"
+    },
+    {
+     "fala": "Um mapa desse tamanho pede uma tela maior.",
+     "tela": "MAPA GIGANTE",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-04.jpg"
+    },
+    {
+     "fala": "Separamos uma Smart TV QLED de quarenta e três polegadas no link da bio.",
+     "tela": "TV QLED 43\"",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-06.jpg"
+    },
+    {
+     "fala": "Marca quem precisa trocar de TV e segue a página.",
+     "tela": "MARCA QUEM PRECISA",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-06.jpg"
+    }
+   ],
+   "legenda": "Leonida merece tela grande 📺🌴\n\nSeparamos uma Smart TV TCL QLED de 43 polegadas com Google TV: link na bio (preço muda todo dia, confere lá). Marca quem precisa trocar de TV.",
+   "fontes": []
+  },
+  {
+   "id": "R0600",
+   "hora": "06:00",
+   "formato": "reel",
+   "linhas": [
+    "DICA DE FUGA"
+   ],
+   "tag": "DICA",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Perseguição apertada? Faz isso.",
+     "tela": "DICA DE FUGA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-17.jpg"
+    },
+    {
+     "fala": "Nas prévias, dá pra trocar de personagem no meio da fuga.",
+     "tela": "TROCA DE PERSONAGEM",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-safehouse-vehicles-01.jpg"
+    },
+    {
+     "fala": "Um dirige e o outro atira, sem parar o carro.",
+     "tela": "UM DIRIGE, OUTRO ATIRA",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-06.jpg"
+    },
+    {
+     "fala": "Salva essa dica e segue a página.",
+     "tela": "SALVA ESSA DICA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-20.jpg"
+    }
+   ],
+   "legenda": "🚓 Dica de fuga: segundo as prévias, dá pra trocar entre Jason e Lucia no meio da perseguição. Um dirige, o outro atira.\n\nSalva pra não esquecer e manda pro parceiro de crime. Guia completo em português no link da bio.",
+   "fontes": [
+    "https://www.gtabase.com/articles/gta-6/first-official-gta-6-preview-reveals-new-gameplay-details"
+   ],
+   "estilo": "manchete"
+  },
+  {
+   "id": "R0700",
+   "hora": "07:00",
+   "formato": "reel",
+   "linhas": [
+    "80 HORAS"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Quanto tempo dura o GTA 6?",
+     "tela": "QUANTO DURA?",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-03.jpg"
+    },
+    {
+     "fala": "Rob Nelson, da Rockstar North, levou umas oitenta horas pra terminar.",
+     "tela": "CERCA DE 80 HORAS",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-16.jpg"
+    },
+    {
+     "fala": "Contando a história e parte das missões opcionais.",
+     "tela": "HISTÓRIA + EXTRAS",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-04.jpg"
+    },
+    {
+     "fala": "Quantas horas você já jogou? Comenta e segue a página.",
+     "tela": "COMENTA SUAS HORAS",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-geral-01.jpg"
+    }
+   ],
+   "legenda": "⏱️ Quanto dura o GTA 6? Rob Nelson, da Rockstar North, contou que a jogatina dele levou cerca de 80 horas, somando a história e parte das missões opcionais.\n\nE você, já tá com quantas horas? Comenta aí e salva pra comparar no fim de semana.",
+   "fontes": [
+    "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523"
+   ],
+   "estilo": "impacto"
+  },
+  {
+   "id": "R0900",
+   "hora": "09:00",
+   "formato": "reel",
+   "linhas": [
+    "MISSÃO? DEPOIS"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Primeira hora de GTA 6. Missão? Depois.",
+     "tela": "MISSÃO? DEPOIS",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-goodtime-gear-01.jpg"
+    },
+    {
+     "fala": "Primeiro eu fui andar de caiaque.",
+     "tela": "PASSEIO DE CAIAQUE",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-safehouse-vehicles-03.jpg"
+    },
+    {
+     "fala": "Depois parei pra ver o pôr do sol.",
+     "tela": "VER O PÔR DO SOL",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-03.jpg"
+    },
+    {
+     "fala": "E a história? Amanhã eu vejo. Marca quem é assim e segue a página.",
+     "tela": "MARCA ESSE AMIGO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-one-eyed-willie-03.jpg"
+    }
+   ],
+   "legenda": "😂 Primeiro dia de GTA 6 e a história principal esperando sentada.\n\nVocê é do time que corre pra missão ou do time turista? Marca o amigo que é assim.",
+   "fontes": [],
+   "estilo": "tweet"
+  },
+  {
+   "id": "R1000",
+   "hora": "10:00",
+   "formato": "reel",
+   "linhas": [
+    "APP DE CARRO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "O celular do GTA 6 tem app de carro.",
+     "tela": "APP DE CARRO?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-03.jpg"
+    },
+    {
+     "fala": "O WAINK escaneia o carro e mostra valor, alarme e rastreador.",
+     "tela": "WAINK ESCANEIA O CARRO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-04.jpg"
+    },
+    {
+     "fala": "E o Ryde Me é o táxi: chama a corrida e atravessa o mapa rápido.",
+     "tela": "RYDE ME: O TÁXI",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-02.jpg"
+    },
+    {
+     "fala": "Qual app você testa primeiro? Comenta e segue a página.",
+     "tela": "QUAL VOCÊ TESTA?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-geral-02.jpg"
+    }
+   ],
+   "legenda": "📱 Segundo a Rockstar, o celular do Jason e da Lucia tem o WAINK, que escaneia um carro e mostra valor, custo de registro e se tem trava, alarme ou rastreador. E o Ryde Me funciona como táxi pra viagem rápida.\n\nQual app você abre primeiro? Comenta e salva pra testar hoje.",
+   "fontes": [
     "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/",
     "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523"
-  ],
-  "itens": [
+   ],
+   "estilo": "manchete"
+  },
+  {
+   "id": "R1100",
+   "hora": "11:00",
+   "formato": "reel",
+   "linhas": [
+    "MAPA 2X MAIOR"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": true,
+   "roteiro": [
     {
-      "id": "01",
-      "formato": "reel",
-      "linhas": [
-        "CHEGOU:",
-        "É HOJE"
-      ],
-      "destaque": [
-        1
-      ],
-      "sub": "Leonida abriu à meia-noite",
-      "cta": [
-        "ATIVA",
-        "O SININHO"
-      ],
-      "cta_sub": "Primeiro dia em Leonida",
-      "tag": "CONTAGEM",
-      "cta_bio": "grupo",
-      "legenda": "É hoje: o GTA 6 chegou 🌴🔥\n\nLiberou à meia-noite no Brasil. Comenta 🎮 se você já tá jogando.",
-      "roteiro": [
-        {
-          "fala": "É hoje. O GTA 6 chegou.",
-          "tela": "É HOJE",
-          "imagem": "gta6/banco/oficial/lugar-vice-city-02.jpg"
-        },
-        {
-          "fala": "À meia-noite, no horário de Brasília, Leonida abriu no PlayStation 5 e no Xbox Series.",
-          "tela": "LIBEROU À 0H",
-          "imagem": "gta6/banco/oficial/lugar-leonida-keys-05.jpg"
-        },
-        {
-          "fala": "Depois de tantos anos de espera, Jason e Lucia finalmente estão nas suas mãos.",
-          "tela": "JASON E LUCIA",
-          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-10.jpg"
-        },
-        {
-          "fala": "Comenta aí: você já tá jogando ou ainda tá contando as horas?",
-          "tela": "JÁ TÁ JOGANDO?",
-          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-14.jpg"
-        }
-      ]
+     "fala": "O mapa do GTA 6 tem o dobro do GTA 5.",
+     "tela": "MAPA 2X O GTA 5",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-squalo-04.jpg"
     },
     {
-      "id": "04",
-      "formato": "reel",
-      "linhas": [
-        "EU NO",
-        "TRABALHO",
-        "HOJE"
-      ],
-      "destaque": [
-        2
-      ],
-      "sub": "Depois de virar a noite em Leonida",
-      "cta": [
-        "MARCA",
-        "O AMIGO"
-      ],
-      "cta_sub": "que virou a noite também",
-      "tag": "HUMOR",
-      "cta_bio": "comunidade",
-      "legenda": "Corpo no trabalho, cabeça em Vice City 😴🌴\n\nMarca o amigo que virou a noite também.",
-      "roteiro": [
-        {
-          "fala": "Eu no trabalho hoje, depois de virar a noite no GTA 6.",
-          "tela": "VIREI A NOITE",
-          "imagem": "gta6/banco/oficial/pessoa-jason-duval-06.jpg"
-        },
-        {
-          "fala": "O chefe falando da reunião e eu pensando no pântano de Grassrivers.",
-          "tela": "PENSANDO EM LEONIDA",
-          "imagem": "gta6/banco/oficial/lugar-grassrivers-03.jpg"
-        },
-        {
-          "fala": "Cada carro que passa na rua, eu já calculo a fuga.",
-          "tela": "CALCULANDO A FUGA",
-          "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
-        },
-        {
-          "fala": "Marca o amigo que virou a noite também.",
-          "tela": "MARCA O AMIGO",
-          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-16.jpg"
-        }
-      ]
+     "fala": "Só Vice City já tem duas vezes Los Santos.",
+     "tela": "VICE CITY = 2 LOS SANTOS",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-stock-305-02.jpg"
     },
     {
-      "id": "07",
-      "formato": "reel",
-      "linhas": [
-        "SE PERDEU",
-        "EM LEONIDA?"
-      ],
-      "destaque": [
-        1
-      ],
-      "sub": "Seis regiões, um mapa enorme",
-      "cta": [
-        "LINK",
-        "NA BIO"
-      ],
-      "cta_sub": "Guia do GTA 6 em português",
-      "tag": "GUIA",
-      "cta_bio": "guia",
-      "legenda": "Caiu em Leonida e não sabe pra onde ir? 🗺️\n\nO guia em português tá no link da bio. Comenta sua região favorita.",
-      "roteiro": [
-        {
-          "fala": "Caiu em Leonida e não sabe pra onde ir?",
-          "tela": "PRA ONDE IR?",
-          "imagem": "gta6/banco/oficial/lugar-ambrosia-01.jpg"
-        },
-        {
-          "fala": "São seis regiões: de Vice City ao pântano de Grassrivers, até as trilhas do Mount Kalaga.",
-          "tela": "6 REGIÕES",
-          "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-01.jpg"
-        },
-        {
-          "fala": "Nas prévias, a imprensa contou que o jogo começa nas Leonida Keys, perto da casa do Jason, e depois o mapa abre.",
-          "tela": "COMEÇA NAS KEYS",
-          "imagem": "gta6/banco/oficial/lugar-leonida-keys-06.jpg"
-        },
-        {
-          "fala": "O guia do GTA 6 em português tá no link da bio. Comenta qual região você explora primeiro.",
-          "tela": "LINK NA BIO",
-          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-02.jpg"
-        }
-      ]
+     "fala": "E são mais de seiscentas mil animações. No GTA 5 eram cinquenta e cinco mil.",
+     "tela": "600 MIL ANIMAÇÕES",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-electric-fang-04.jpg"
     },
     {
-      "id": "10",
-      "formato": "reel",
-      "linhas": [
-        "QUE NOTA",
-        "VOCÊ DÁ?"
-      ],
-      "destaque": [
-        1
-      ],
-      "sub": "Pro primeiro dia de GTA 6",
-      "cta": [
-        "COMENTA",
-        "A NOTA"
-      ],
-      "cta_sub": "De 0 a 10, sem spoiler",
-      "tag": "ENQUETE",
-      "cta_bio": "grupo",
-      "legenda": "Primeiro dia de GTA 6 acabando ⭐\n\nQue nota você dá, de 0 a 10? Comenta sem spoiler.",
-      "roteiro": [
-        {
-          "fala": "Primeiro dia de GTA 6 acabando. Que nota você dá?",
-          "tela": "QUE NOTA?",
-          "imagem": "gta6/banco/oficial/lugar-vice-city-05.jpg"
-        },
-        {
-          "fala": "Valeu a espera de tantos anos?",
-          "tela": "VALEU A ESPERA?",
-          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-18.jpg"
-        },
-        {
-          "fala": "Ou você ainda nem saiu da primeira missão?",
-          "tela": "AINDA NA 1ª MISSÃO?",
-          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-08.jpg"
-        },
-        {
-          "fala": "Comenta sua nota de zero a dez, sem spoiler. E entra no grupo VIP pelo link da bio.",
-          "tela": "NOTA DE 0 A 10",
-          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-19.jpg"
-        }
-      ]
-    },
-    {
-      "id": "R0000",
-      "hora": "00:00",
-      "formato": "reel",
-      "linhas": [
-        "LIBEROU!"
-      ],
-      "tag": "LANÇAMENTO",
-      "estilo": "manchete",
-      "cta_bio": "guia",
-      "postar_story": true,
-      "roteiro": [
-        {
-          "fala": "Liberou! O GTA 6 já está no ar no Brasil.",
-          "tela": "LIBEROU!",
-          "imagem": "gta6/banco/oficial/arte-jason-and-lucia-rooftop.jpg"
-        },
-        {
-          "fala": "Se o seu já baixou, é só entrar e começar a história de Jason e Lucia.",
-          "tela": "JÁ PODE JOGAR",
-          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-07.jpg"
-        },
-        {
-          "fala": "Ainda não apareceu? Reinicia o console e confere a biblioteca.",
-          "tela": "NÃO APARECEU?",
-          "imagem": "gta6/banco/oficial/lugar-vice-city-21.jpg"
-        },
-        {
-          "fala": "Segue a página: a partir de hoje tem dica, segredo e cheat confirmado todo dia.",
-          "tela": "SEGUE A PÁGINA",
-          "imagem": "gta6/banco/oficial/arte-jason-and-lucia-robbery.jpg"
-        }
-      ],
-      "legenda": "LIBEROU! 🚨 O GTA 6 já está no ar no Brasil. Bem-vindo a Leonida 🌴\n\nJá entrou? Comenta o que você fez primeiro. E segue a página: a partir de hoje tem dica, segredo e cheat confirmado todo dia.",
-      "fontes": []
-    },
-    {
-      "id": "R0100",
-      "hora": "01:00",
-      "formato": "reel",
-      "linhas": [
-        "PROMETI DORMIR"
-      ],
-      "tag": "HUMOR",
-      "cta_bio": "comunidade",
-      "postar_story": false,
-      "roteiro": [
-        {
-          "fala": "Prometi dormir à meia-noite e meia.",
-          "tela": "PROMETI DORMIR",
-          "imagem": "gta6/banco/oficial/pessoa-jason-duval-18.jpg"
-        },
-        {
-          "fala": "Agora é uma da manhã e eu tô só explorando.",
-          "tela": "SÓ EXPLORANDO",
-          "imagem": "gta6/banco/oficial/lugar-ambrosia-05.jpg"
-        },
-        {
-          "fala": "Amanhã eu acordo como? Depois eu vejo.",
-          "tela": "DEPOIS EU VEJO",
-          "imagem": "gta6/banco/oficial/lugar-port-gellhorn-05.jpg"
-        },
-        {
-          "fala": "Comenta que horas você vai dormir e segue a página.",
-          "tela": "QUE HORAS VAI DORMIR?",
-          "imagem": "gta6/banco/oficial/pessoa-jason-duval-19.jpg"
-        }
-      ],
-      "legenda": "Prometi dormir cedo. Era mentira 😅🌴\n\nComenta que horas você vai largar o controle hoje. E segue a página: todo dia tem GTA 6 aqui.",
-      "fontes": [],
-      "estilo": "tweet"
-    },
-    {
-      "id": "R0200",
-      "hora": "02:00",
-      "formato": "reel",
-      "linhas": [
-        "O CELULAR DA LUCIA"
-      ],
-      "tag": "CURIOSIDADE",
-      "cta_bio": "guia",
-      "postar_story": true,
-      "roteiro": [
-        {
-          "fala": "Você já usou o celular da Lucia?",
-          "tela": "CELULAR DA LUCIA",
-          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-14.jpg"
-        },
-        {
-          "fala": "Nas prévias, dá pra trocar pra Lucia e mexer no celular enquanto o Jason dirige.",
-          "tela": "ELA NO CELULAR",
-          "imagem": "gta6/banco/oficial/pessoa-real-dimez-01.jpg"
-        },
-        {
-          "fala": "E as redes sociais do jogo funcionam: a carreira das Real Dimez aparece em posts virais.",
-          "tela": "REDES QUE FUNCIONAM",
-          "imagem": "gta6/banco/oficial/arte-real-dimez.jpg"
-        },
-        {
-          "fala": "Já abriu o celular no jogo? Comenta e segue a página.",
-          "tela": "JÁ ABRIU O SEU?",
-          "imagem": "gta6/banco/oficial/pessoa-real-dimez-03.jpg"
-        }
-      ],
-      "legenda": "📱 Dá pra trocar pra Lucia e usar o celular dela enquanto o Jason dirige, segundo as prévias. E as redes sociais do jogo funcionam: a carreira das Real Dimez aparece em posts virais.\n\nJá fuçou o celular? Comenta o que achou. Guia do GTA 6 em português no link da bio.",
-      "fontes": [
-        "https://www.gtabase.com/articles/gta-6/first-official-gta-6-preview-reveals-new-gameplay-details"
-      ]
-    },
-    {
-      "id": "R0300",
-      "hora": "03:00",
-      "formato": "reel",
-      "linhas": [
-        "REBAIXADO OU 4X4?"
-      ],
-      "tag": "ENQUETE",
-      "cta_bio": "comunidade",
-      "postar_story": false,
-      "roteiro": [
-        {
-          "fala": "Rebaixado ou quatro por quatro?",
-          "tela": "REBAIXADO OU 4X4?",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-rideout-customs-01.jpg"
-        },
-        {
-          "fala": "De um lado, o clássico rebaixado de roda dourada.",
-          "tela": "CLÁSSICO REBAIXADO",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-rideout-customs-02.jpg"
-        },
-        {
-          "fala": "Do outro, o jipão pra encarar o pântano.",
-          "tela": "JIPÃO PRO PÂNTANO",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-one-eyed-willie-01.jpg"
-        },
-        {
-          "fala": "Qual vai pra sua garagem? Comenta e segue a página.",
-          "tela": "QUAL VAI PRA GARAGEM?",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-01.jpg"
-        }
-      ],
-      "legenda": "Garagem com uma vaga só 🚗 Rebaixado de roda dourada ou jipão pra encarar o pântano?\n\nComenta 1 pro rebaixado ou 2 pro 4x4. E segue a página.",
-      "fontes": [],
-      "estilo": "tweet"
-    },
-    {
-      "id": "R0400",
-      "hora": "04:00",
-      "formato": "reel",
-      "linhas": [
-        "170 ESPÉCIES"
-      ],
-      "tag": "ANIMAIS",
-      "cta_bio": "guia",
-      "postar_story": true,
-      "roteiro": [
-        {
-          "fala": "Mais de cento e setenta animais em Leonida.",
-          "tela": "170+ ESPÉCIES",
-          "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-05.jpg"
-        },
-        {
-          "fala": "São cerca de sessenta tipos de pássaros e mais de trinta mamíferos.",
-          "tela": "60 PÁSSAROS",
-          "imagem": "gta6/banco/oficial/lugar-grassrivers-05.jpg"
-        },
-        {
-          "fala": "Tem peixe-boi, flamingo, pelicano e, claro, jacaré.",
-          "tela": "PEIXE-BOI E JACARÉ",
-          "imagem": "gta6/banco/oficial/lugar-grassrivers-08.jpg"
-        },
-        {
-          "fala": "Qual bicho você já encontrou? Comenta e segue a página.",
-          "tela": "QUAL VOCÊ ACHOU?",
-          "imagem": "gta6/banco/oficial/lugar-grassrivers-07.jpg"
-        }
-      ],
-      "legenda": "🐊 Leonida tem mais de 170 espécies de animais, segundo a Game Informer com a Rockstar: cerca de 60 tipos de pássaros, mais de 30 mamíferos, peixe-boi, flamingo, pelicano e jacaré.\n\nQual bicho você já encontrou? Comenta. Guia do GTA 6 em português no link da bio.",
-      "fontes": [
-        "https://www.gfinityesports.com/article/rockstar-confirms-how-much-wildlife-is-in-gta-6-and-its-a-lot"
-      ],
-      "estilo": "impacto"
-    },
-    {
-      "id": "R0500",
-      "hora": "05:00",
-      "formato": "reel",
-      "linhas": [
-        "TELA PEQUENA?"
-      ],
-      "tag": "OFERTA",
-      "cta_bio": "ofertas",
-      "postar_story": false,
-      "roteiro": [
-        {
-          "fala": "Leonida cabe na sua tela?",
-          "tela": "TELA PEQUENA?",
-          "imagem": "gta6/banco/oficial/lugar-vice-city-03.jpg"
-        },
-        {
-          "fala": "Um mapa desse tamanho pede uma tela maior.",
-          "tela": "MAPA GIGANTE",
-          "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-04.jpg"
-        },
-        {
-          "fala": "Separamos uma Smart TV QLED de quarenta e três polegadas no link da bio.",
-          "tela": "TV QLED 43\"",
-          "imagem": "gta6/banco/oficial/lugar-ambrosia-06.jpg"
-        },
-        {
-          "fala": "Marca quem precisa trocar de TV e segue a página.",
-          "tela": "MARCA QUEM PRECISA",
-          "imagem": "gta6/banco/oficial/lugar-port-gellhorn-06.jpg"
-        }
-      ],
-      "legenda": "Leonida merece tela grande 📺🌴\n\nSeparamos uma Smart TV TCL QLED de 43 polegadas com Google TV: link na bio (preço muda todo dia, confere lá). Marca quem precisa trocar de TV.",
-      "fontes": []
-    },
-    {
-      "id": "R0600",
-      "hora": "06:00",
-      "formato": "reel",
-      "linhas": [
-        "DICA DE FUGA"
-      ],
-      "tag": "DICA",
-      "cta_bio": "guia",
-      "postar_story": true,
-      "roteiro": [
-        {
-          "fala": "Perseguição apertada? Faz isso.",
-          "tela": "DICA DE FUGA",
-          "imagem": "gta6/banco/oficial/pessoa-jason-duval-17.jpg"
-        },
-        {
-          "fala": "Nas prévias, dá pra trocar de personagem no meio da fuga.",
-          "tela": "TROCA DE PERSONAGEM",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-safehouse-vehicles-01.jpg"
-        },
-        {
-          "fala": "Um dirige e o outro atira, sem parar o carro.",
-          "tela": "UM DIRIGE, OUTRO ATIRA",
-          "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-06.jpg"
-        },
-        {
-          "fala": "Salva essa dica e segue a página.",
-          "tela": "SALVA ESSA DICA",
-          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-20.jpg"
-        }
-      ],
-      "legenda": "🚓 Dica de fuga: segundo as prévias, dá pra trocar entre Jason e Lucia no meio da perseguição. Um dirige, o outro atira.\n\nSalva pra não esquecer e manda pro parceiro de crime. Guia completo em português no link da bio.",
-      "fontes": [
-        "https://www.gtabase.com/articles/gta-6/first-official-gta-6-preview-reveals-new-gameplay-details"
-      ],
-      "estilo": "manchete"
-    },
-    {
-      "id": "R0700",
-      "hora": "07:00",
-      "formato": "reel",
-      "linhas": [
-        "80 HORAS"
-      ],
-      "tag": "GTA 6",
-      "cta_bio": "guia",
-      "postar_story": true,
-      "roteiro": [
-        {
-          "fala": "Quanto tempo dura o GTA 6?",
-          "tela": "QUANTO DURA?",
-          "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-03.jpg"
-        },
-        {
-          "fala": "Rob Nelson, da Rockstar North, levou umas oitenta horas pra terminar.",
-          "tela": "CERCA DE 80 HORAS",
-          "imagem": "gta6/banco/oficial/pessoa-jason-duval-16.jpg"
-        },
-        {
-          "fala": "Contando a história e parte das missões opcionais.",
-          "tela": "HISTÓRIA + EXTRAS",
-          "imagem": "gta6/banco/oficial/lugar-ambrosia-04.jpg"
-        },
-        {
-          "fala": "Quantas horas você já jogou? Comenta e segue a página.",
-          "tela": "COMENTA SUAS HORAS",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-geral-01.jpg"
-        }
-      ],
-      "legenda": "⏱️ Quanto dura o GTA 6? Rob Nelson, da Rockstar North, contou que a jogatina dele levou cerca de 80 horas, somando a história e parte das missões opcionais.\n\nE você, já tá com quantas horas? Comenta aí e salva pra comparar no fim de semana.",
-      "fontes": [
-        "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523"
-      ],
-      "estilo": "impacto"
-    },
-    {
-      "id": "R0900",
-      "hora": "09:00",
-      "formato": "reel",
-      "linhas": [
-        "MISSÃO? DEPOIS"
-      ],
-      "tag": "GTA 6",
-      "cta_bio": "comunidade",
-      "postar_story": false,
-      "roteiro": [
-        {
-          "fala": "Primeira hora de GTA 6. Missão? Depois.",
-          "tela": "MISSÃO? DEPOIS",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-goodtime-gear-01.jpg"
-        },
-        {
-          "fala": "Primeiro eu fui andar de caiaque.",
-          "tela": "PASSEIO DE CAIAQUE",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-safehouse-vehicles-03.jpg"
-        },
-        {
-          "fala": "Depois parei pra ver o pôr do sol.",
-          "tela": "VER O PÔR DO SOL",
-          "imagem": "gta6/banco/oficial/lugar-ambrosia-03.jpg"
-        },
-        {
-          "fala": "E a história? Amanhã eu vejo. Marca quem é assim e segue a página.",
-          "tela": "MARCA ESSE AMIGO",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-one-eyed-willie-03.jpg"
-        }
-      ],
-      "legenda": "😂 Primeiro dia de GTA 6 e a história principal esperando sentada.\n\nVocê é do time que corre pra missão ou do time turista? Marca o amigo que é assim.",
-      "fontes": [],
-      "estilo": "tweet"
-    },
-    {
-      "id": "R1000",
-      "hora": "10:00",
-      "formato": "reel",
-      "linhas": [
-        "APP DE CARRO"
-      ],
-      "tag": "GTA 6",
-      "cta_bio": "guia",
-      "postar_story": false,
-      "roteiro": [
-        {
-          "fala": "O celular do GTA 6 tem app de carro.",
-          "tela": "APP DE CARRO?",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-03.jpg"
-        },
-        {
-          "fala": "O WAINK escaneia o carro e mostra valor, alarme e rastreador.",
-          "tela": "WAINK ESCANEIA O CARRO",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-04.jpg"
-        },
-        {
-          "fala": "E o Ryde Me é o táxi: chama a corrida e atravessa o mapa rápido.",
-          "tela": "RYDE ME: O TÁXI",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-02.jpg"
-        },
-        {
-          "fala": "Qual app você testa primeiro? Comenta e segue a página.",
-          "tela": "QUAL VOCÊ TESTA?",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-geral-02.jpg"
-        }
-      ],
-      "legenda": "📱 Segundo a Rockstar, o celular do Jason e da Lucia tem o WAINK, que escaneia um carro e mostra valor, custo de registro e se tem trava, alarme ou rastreador. E o Ryde Me funciona como táxi pra viagem rápida.\n\nQual app você abre primeiro? Comenta e salva pra testar hoje.",
-      "fontes": [
-        "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/",
-        "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523"
-      ],
-      "estilo": "manchete"
-    },
-    {
-      "id": "R1100",
-      "hora": "11:00",
-      "formato": "reel",
-      "linhas": [
-        "MAPA 2X MAIOR"
-      ],
-      "tag": "GTA 6",
-      "cta_bio": "grupo",
-      "postar_story": true,
-      "roteiro": [
-        {
-          "fala": "O mapa do GTA 6 tem o dobro do GTA 5.",
-          "tela": "MAPA 2X O GTA 5",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-squalo-04.jpg"
-        },
-        {
-          "fala": "Só Vice City já tem duas vezes Los Santos.",
-          "tela": "VICE CITY = 2 LOS SANTOS",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-stock-305-02.jpg"
-        },
-        {
-          "fala": "E são mais de seiscentas mil animações. No GTA 5 eram cinquenta e cinco mil.",
-          "tela": "600 MIL ANIMAÇÕES",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-electric-fang-04.jpg"
-        },
-        {
-          "fala": "Sentiu a diferença? Compartilha e segue a página.",
-          "tela": "SENTIU A DIFERENÇA?",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-squalo-03.jpg"
-        }
-      ],
-      "legenda": "🗺️ GTA 5 x GTA 6 em números: segundo a Rockstar, o mapa de Leonida tem cerca do dobro do tamanho do de GTA 5, Vice City tem duas vezes Los Santos, e são mais de 600 mil animações de reação dos NPCs (no GTA 5 eram cerca de 55 mil).\n\nManda pro amigo que ainda joga o 5.",
-      "fontes": [
-        "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/",
-        "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523"
-      ],
-      "estilo": "impacto"
-    },
-    {
-      "id": "R1300",
-      "hora": "13:00",
-      "formato": "reel",
-      "linhas": [
-        "CONTROLE RESERVA"
-      ],
-      "tag": "GTA 6",
-      "cta_bio": "ofertas",
-      "postar_story": false,
-      "roteiro": [
-        {
-          "fala": "Controle descarregou no meio da fuga?",
-          "tela": "DESCARREGOU?",
-          "imagem": "gta6/banco/oficial/pessoa-brian-heder-02.jpg"
-        },
-        {
-          "fala": "Quem joga no Xbox Series sabe: ter um reserva salva a noite.",
-          "tela": "TENHA UM RESERVA",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-05.jpg"
-        },
-        {
-          "fala": "Separamos o controle Xbox Carbon Black, oficial da Microsoft.",
-          "tela": "XBOX CARBON BLACK",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-04.jpg"
-        },
-        {
-          "fala": "O link tá na bio. Marca quem vive sem bateria e segue a página.",
-          "tela": "LINK NA BIO",
-          "imagem": "gta6/banco/oficial/edicao-ultimate-stock-305-04.jpg"
-        }
-      ],
-      "legenda": "🎮 Jogando GTA 6 no Xbox Series? Um controle reserva carregado evita pausa no meio da perseguição. Separamos o controle Xbox Carbon Black, oficial da Microsoft (Xbox Series X|S e PC).\n\nMarca o amigo que vive com o controle na tomada.",
-      "fontes": [],
-      "estilo": "neon"
-    },
-    {
-      "id": "R1400",
-      "hora": "14:00",
-      "formato": "reel",
-      "linhas": [
-        "6 ESTRELAS"
-      ],
-      "tag": "GTA 6",
-      "cta_bio": "comunidade",
-      "postar_story": true,
-      "roteiro": [
-        {
-          "fala": "Seis estrelas de procurado. Aguenta?",
-          "tela": "6 ESTRELAS",
-          "imagem": "gta6/banco/oficial/pessoa-jason-duval-10.jpg"
-        },
-        {
-          "fala": "No GTA 5, o máximo era cinco.",
-          "tela": "NO GTA 5 ERAM 5",
-          "imagem": "gta6/banco/oficial/pacote-vintage-weapon-pattern-01.jpg"
-        },
-        {
-          "fala": "Com seis, a polícia procura no mapa inteiro.",
-          "tela": "PROCURA NO MAPA TODO",
-          "imagem": "gta6/banco/oficial/lugar-port-gellhorn-04.jpg"
-        },
-        {
-          "fala": "Você chega a seis? Comenta sim ou não e segue a página.",
-          "tela": "CHEGA A 6? COMENTA",
-          "imagem": "gta6/banco/oficial/pessoa-jason-duval-04.jpg"
-        }
-      ],
-      "legenda": "🚨 O nível de procurado do GTA 6 agora vai até seis estrelas, segundo as prévias. No GTA 5 o máximo era cinco. E com seis estrelas a polícia procura você no mapa inteiro, não só numa área.\n\nVocê já chegou lá? Comenta sim ou não.",
-      "fontes": [
-        "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/",
-        "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523"
-      ],
-      "estilo": "manchete"
+     "fala": "Sentiu a diferença? Compartilha e segue a página.",
+     "tela": "SENTIU A DIFERENÇA?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-squalo-03.jpg"
     }
-  ]
+   ],
+   "legenda": "🗺️ GTA 5 x GTA 6 em números: segundo a Rockstar, o mapa de Leonida tem cerca do dobro do tamanho do de GTA 5, Vice City tem duas vezes Los Santos, e são mais de 600 mil animações de reação dos NPCs (no GTA 5 eram cerca de 55 mil).\n\nManda pro amigo que ainda joga o 5.",
+   "fontes": [
+    "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/",
+    "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523"
+   ],
+   "estilo": "impacto"
+  },
+  {
+   "id": "R1300",
+   "hora": "13:00",
+   "formato": "reel",
+   "linhas": [
+    "CONTROLE RESERVA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Controle descarregou no meio da fuga?",
+     "tela": "DESCARREGOU?",
+     "imagem": "gta6/banco/oficial/pessoa-brian-heder-02.jpg"
+    },
+    {
+     "fala": "Quem joga no Xbox Series sabe: ter um reserva salva a noite.",
+     "tela": "TENHA UM RESERVA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-05.jpg"
+    },
+    {
+     "fala": "Separamos o controle Xbox Carbon Black, oficial da Microsoft.",
+     "tela": "XBOX CARBON BLACK",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-04.jpg"
+    },
+    {
+     "fala": "O link tá na bio. Marca quem vive sem bateria e segue a página.",
+     "tela": "LINK NA BIO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-stock-305-04.jpg"
+    }
+   ],
+   "legenda": "🎮 Jogando GTA 6 no Xbox Series? Um controle reserva carregado evita pausa no meio da perseguição. Separamos o controle Xbox Carbon Black, oficial da Microsoft (Xbox Series X|S e PC).\n\nMarca o amigo que vive com o controle na tomada.",
+   "fontes": [],
+   "estilo": "neon"
+  },
+  {
+   "id": "R1400",
+   "hora": "14:00",
+   "formato": "reel",
+   "linhas": [
+    "6 ESTRELAS"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Seis estrelas de procurado. Aguenta?",
+     "tela": "6 ESTRELAS",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-10.jpg"
+    },
+    {
+     "fala": "No GTA 5, o máximo era cinco.",
+     "tela": "NO GTA 5 ERAM 5",
+     "imagem": "gta6/banco/oficial/pacote-vintage-weapon-pattern-01.jpg"
+    },
+    {
+     "fala": "Com seis, a polícia procura no mapa inteiro.",
+     "tela": "PROCURA NO MAPA TODO",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-04.jpg"
+    },
+    {
+     "fala": "Você chega a seis? Comenta sim ou não e segue a página.",
+     "tela": "CHEGA A 6? COMENTA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-04.jpg"
+    }
+   ],
+   "legenda": "🚨 O nível de procurado do GTA 6 agora vai até seis estrelas, segundo as prévias. No GTA 5 o máximo era cinco. E com seis estrelas a polícia procura você no mapa inteiro, não só numa área.\n\nVocê já chegou lá? Comenta sim ou não.",
+   "fontes": [
+    "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/",
+    "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523"
+   ],
+   "estilo": "manchete"
+  },
+  {
+   "id": "R1500",
+   "hora": "15:00",
+   "formato": "reel",
+   "linhas": [
+    "GUARDA A GRANA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Morreu com dinheiro no bolso? Perdeu.",
+     "tela": "MORREU? PERDEU A GRANA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-08.jpg"
+    },
+    {
+     "fala": "Pelas prévias, o dinheiro que você carrega some se for preso ou morrer.",
+     "tela": "PRESO OU MORTO: SOME",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-06.jpg"
+    },
+    {
+     "fala": "Então guarda no esconderijo ou deposita no caixa eletrônico.",
+     "tela": "GUARDA OU DEPOSITA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-10.jpg"
+    },
+    {
+     "fala": "Salva essa dica e segue a página.",
+     "tela": "SALVA ESSA DICA",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-robbery.jpg"
+    }
+   ],
+   "legenda": "💸 Dica de quem não quer perder o lucro do golpe: pelas prévias do GTA 6, o dinheiro que você carrega some se você for preso ou morrer. Guarda no esconderijo ou deposita no caixa eletrônico antes de arriscar.\n\nSalva pra não esquecer e manda pro amigo que anda com a grana toda no bolso.",
+   "fontes": [
+    "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/"
+   ]
+  },
+  {
+   "id": "R1600",
+   "hora": "16:00",
+   "formato": "reel",
+   "linhas": [
+    "RÁDIO A PÉ"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Agora dá pra ouvir rádio andando a pé.",
+     "tela": "RÁDIO A PÉ",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-09.jpg"
+    },
+    {
+     "fala": "Jason e Lucia usam fone ligado no celular, na rua ou no carro.",
+     "tela": "FONE NO CELULAR",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg"
+    },
+    {
+     "fala": "E pela primeira vez na série tem podcast, além de rádios como Flash FM e Cocotea FM.",
+     "tela": "TEM ATÉ PODCAST",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-07.jpg"
+    },
+    {
+     "fala": "Qual rádio você deixa ligada? Comenta e segue a página.",
+     "tela": "QUAL RÁDIO? COMENTA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-24.jpg"
+    }
+   ],
+   "legenda": "🎧 No GTA 6 a rádio não fica só no carro: segundo a Rockstar, Jason e Lucia ouvem rádio e podcast a pé, com fone ligado no celular. E é a primeira vez que a série tem podcast. Entre as rádios já reveladas: Flash FM (pop), Cocotea FM (música latina), Back Country Radio (country), Afro Bank FM (música africana), The Chamber 106.6 (metal) e Dirty South Classics (rap das antigas).\n\nQual vai ser a sua rádio fixa? Comenta aí.",
+   "fontes": [
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-revealed-rockstar-says-for-the-first-time-in-grand-theft-auto-history-there-are-also-in-game-podcasts/"
+   ]
+  },
+  {
+   "id": "R1800",
+   "hora": "18:00",
+   "formato": "reel",
+   "linhas": [
+    "MATRICULADO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Eu não piso numa academia há dois anos.",
+     "tela": "2 ANOS SEM ACADEMIA",
+     "imagem": "gta6/banco/oficial/arte-boobie-ike.jpg"
+    },
+    {
+     "fala": "Aí o GTA 6 trouxe academia de volta, com mensalidade e tudo.",
+     "tela": "ACADEMIA COM MENSALIDADE",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-09.jpg"
+    },
+    {
+     "fala": "E lá vou eu pagar o plano e comprar shake de proteína pro Jason.",
+     "tela": "SHAKE PRO JASON",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-15.jpg"
+    },
+    {
+     "fala": "Marca o amigo que só treina no jogo e segue a página.",
+     "tela": "MARCA O AMIGO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-saras-salon-02.jpg"
+    }
+   ],
+   "legenda": "🏋️ A academia voltou no GTA 6, maior que no San Andreas: precisa de mensalidade e o shake de proteína melhora o treino, segundo as prévias. Eu, que não vou na academia de verdade há anos, já tô com o plano do Jason em dia.\n\nMarca aquele amigo que só tem shape no videogame.",
+   "fontes": [
+    "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/"
+   ]
+  },
+  {
+   "id": "R1900",
+   "hora": "19:00",
+   "formato": "reel",
+   "linhas": [
+    "ROUBA COMO?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Como você pega um carro no GTA 6?",
+     "tela": "COMO VOCÊ PEGA?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-06.jpg"
+    },
+    {
+     "fala": "Opção um: quebra o vidro e tira o motorista.",
+     "tela": "1: QUEBRA O VIDRO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-one-eyed-willie-02.jpg"
+    },
+    {
+     "fala": "Opção dois: abre de mansinho com a ferramenta, sem chamar atenção.",
+     "tela": "2: NO SILÊNCIO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vapid-ganado-retro-build-01.jpg"
+    },
+    {
+     "fala": "Comenta um ou dois e segue a página.",
+     "tela": "COMENTA 1 OU 2",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg"
+    }
+   ],
+   "legenda": "🚗 No GTA 6 tem dois jeitos de pegar um carro, segundo as prévias: no barulho, quebrando o vidro e tirando o motorista, ou no silêncio, com a ferramenta de abrir a porta. Só lembra: se tiver testemunha, a polícia fica sabendo.\n\nVocê é do 1 ou do 2? Comenta.",
+   "fontes": [
+    "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/"
+   ]
+  },
+  {
+   "id": "R2000",
+   "hora": "20:00",
+   "formato": "reel",
+   "linhas": [
+    "SEM CARTÃO?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Quer comprar na PlayStation Store sem cartão?",
+     "tela": "SEM CARTÃO DE CRÉDITO?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-10.jpg"
+    },
+    {
+     "fala": "Tem o cartão presente digital da PlayStation Store.",
+     "tela": "CARTÃO PRESENTE DIGITAL",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg"
+    },
+    {
+     "fala": "Você resgata o código e o valor vira saldo na sua conta.",
+     "tela": "VIRA SALDO NA CONTA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vice-city-style-01.jpg"
+    },
+    {
+     "fala": "O link tá na bio. Manda pra quem precisa e segue a página.",
+     "tela": "LINK NA BIO",
+     "imagem": "gta6/banco/oficial/arte-official-cover-art.jpg"
+    }
+   ],
+   "legenda": "🎮 Sem cartão de crédito pra comprar na PlayStation Store? O cartão presente digital resolve: você resgata o código e o valor vira saldo na conta pra jogo e conteúdo extra. Separamos uma opção no Mercado Livre.\n\nManda pra aquele amigo que tá sem cartão e quer jogar GTA 6.",
+   "fontes": []
+  },
+  {
+   "id": "R2200",
+   "hora": "22:00",
+   "formato": "reel",
+   "linhas": [
+    "RESPONDE ELA?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Você responde as mensagens da Lucia?",
+     "tela": "RESPONDE A LUCIA?",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-10.jpg"
+    },
+    {
+     "fala": "Pelas prévias, Jason e Lucia têm uma barra de relacionamento.",
+     "tela": "BARRA DE RELAÇÃO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-13.jpg"
+    },
+    {
+     "fala": "Mensagem respondida ajuda, ignorada pesa. E dá até pra andar de mão dada.",
+     "tela": "DÁ PRA DAR A MÃO",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-rooftop.jpg"
+    },
+    {
+     "fala": "Você é parceiro ou deixa no vácuo? Comenta e segue a página.",
+     "tela": "PARCEIRO OU VÁCUO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-01.jpg"
+    }
+   ],
+   "legenda": "❤️ No GTA 6 tem barra de relacionamento entre Jason e Lucia, segundo as prévias: mensagem respondida ajuda, ignorada pesa com o tempo. E dá pra andar de mão dada e abrir a porta um pro outro.\n\nVocê responde rápido ou deixa no vácuo? Comenta.",
+   "fontes": [
+    "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/"
+   ]
+  }
+ ]
 }
