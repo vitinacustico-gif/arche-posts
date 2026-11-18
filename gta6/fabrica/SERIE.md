@@ -1,6 +1,6 @@
 # Série Nerd GTA: 30 dias (11/11 a 10/12/2026)
 
-1 carrossel por dia no estilo "tela dividida" (`"estilo":"grade"`, `"serie":"<tema>"`), item extra além dos 10 do dia, às 14:07 (nos dias do modo intensivo, às 22:00 no lugar de um carrossel). Legenda começa com o assunto e diz "Série Nerd GTA, parte N".
+1 carrossel por dia no estilo "tela dividida" (`"estilo":"grade"`, `"serie":"<tema>"`), item extra além dos 10 do dia, às 14:00 (nos dias do modo intensivo, às 22:00 no lugar de um carrossel). Legenda começa com o assunto e diz "Série Nerd GTA, parte N".
 
 Regras da série:
 - **Nada de vazamento** (o de 2022 nem qualquer outro). Só o que saiu em trailer, imagem oficial, site da Rockstar ou, depois de 19/11, o que for visto no jogo e publicado pela imprensa.

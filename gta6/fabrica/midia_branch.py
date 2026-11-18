@@ -16,14 +16,21 @@ def git(*a, env=None, inp=None):
 
 idx = tempfile.mktemp()
 env = dict(os.environ, GIT_INDEX_FILE=idx)
+pai = None
+try:
+    git("fetch", "-q", "--depth", "1", "origin", f"refs/heads/{ramo}")
+    pai = git("rev-parse", "FETCH_HEAD")
+    git("read-tree", pai, env=env)  # mantém o que já subiu antes neste dia
+except subprocess.CalledProcessError:
+    pass
 arquivos = sorted(p for p in pasta.iterdir() if p.is_file())
 for p in arquivos:
     sha = git("hash-object", "-w", str(p))
     git("update-index", "--add", "--cacheinfo", f"100644,{sha},{p.relative_to(RAIZ).as_posix()}", env=env)
 arvore = git("write-tree", env=env)
-commit = git("commit-tree", arvore, "-m", f"mídia de {data}", env=dict(env, GIT_AUTHOR_NAME="Claude", GIT_AUTHOR_EMAIL="noreply@anthropic.com",
+commit = git("commit-tree", arvore, *(["-p", pai] if pai else []), "-m", f"mídia de {data}", env=dict(env, GIT_AUTHOR_NAME="Claude", GIT_AUTHOR_EMAIL="noreply@anthropic.com",
              GIT_COMMITTER_NAME="Claude", GIT_COMMITTER_EMAIL="noreply@anthropic.com"))
-git("push", "-f", "origin", f"{commit}:refs/heads/{ramo}")
+git("push", "origin", f"{commit}:refs/heads/{ramo}")
 cal_p = RAIZ / "gta6" / "calendario.json"
 cal = json.loads(cal_p.read_text(encoding="utf-8"))
 n = 0
