@@ -126,7 +126,7 @@ def reel_narrado(item, saida, g):
     fh = g.ft(g.INTER["900"], 38); fm = g.ft(g.INTER["900"], 26)
     arq = saida / f"{item['id']}.mp4"
     enc = subprocess.Popen(["ffmpeg", "-v", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",
-                            "-i", str(wav), "-map", "0:v", "-map", "1:a", "-c:v", "libx264", "-preset", "veryfast", "-crf", "22", "-maxrate", "7M", "-bufsize", "14M",
+                            "-i", str(wav), "-map", "0:v", "-map", "1:a", "-c:v", "libx264", "-preset", "veryfast", "-crf", "25", "-maxrate", "5M", "-bufsize", "10M",
                             "-pix_fmt", "yuv420p", "-c:a", "aac", "-b:a", "160k", "-shortest", *g.SEM_METADADOS, "-movflags", "+faststart", str(arq)],
                            stdin=subprocess.PIPE)
     graos = [(rng.normal(0, 9, (H // 2, W // 2)).astype(np.int16)) for _ in range(6)]
