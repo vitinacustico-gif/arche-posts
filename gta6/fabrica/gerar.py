@@ -1042,7 +1042,7 @@ def limpar_video(arq):
     tmp = str(arq) + ".tmp.mp4"
     subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(arq), "-map", "0", "-c", "copy", "-map_metadata", "-1", "-fflags", "+bitexact",
                     "-metadata", "encoder=", "-metadata:s", "handler_name=", "-metadata:s:v", "encoder=", "-metadata:s:a", "encoder=",
-                    "-movflags", "+faststart", tmp], check=True)
+                    "-empty_hdlr_name", "1", "-movflags", "+faststart", tmp], check=True)
     os.replace(tmp, arq)
 
 
