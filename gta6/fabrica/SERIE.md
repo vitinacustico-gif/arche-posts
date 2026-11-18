@@ -19,7 +19,7 @@ Regras da série:
 | 7 | 17/11 | carros | Veículos da Ultimate Edition e da pré-venda [feito] |
 | 8 | 18/11 | animais | Animais perigosos: jacaré, tubarão e o que o catálogo de animais promete [feito] |
 | 9 | 19/11 | armas | Dia do lançamento: as regras das armas (porte, onde guardar, marcador de acerto), segundo as prévias [feito] |
-| 10 | 20/11 | atividades | Atividades confirmadas no jogo (imprensa pós-lançamento) |
+| 10 | 20/11 | atividades | Atividades confirmadas no jogo (imprensa pós-lançamento): mergulho, naufrágios, pesca, caiaque, paraquedas, campo de tiro, catálogo de animais, caça, boates e lives [feito] |
 | 11 | 21/11 | trabalhos | Como ganhar dinheiro nas primeiras horas |
 | 12 | 22/11 | cheats | Cheats do GTA 6 (se confirmados) ou dos GTAs antigos |
 | 13 | 23/11 | carros | Os carros mais rápidos encontrados até agora |

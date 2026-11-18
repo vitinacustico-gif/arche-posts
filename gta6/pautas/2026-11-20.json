@@ -1,0 +1,551 @@
+{
+ "data": "2026-11-20",
+ "fontes": [
+  "https://www.gtabase.com/articles/gta-6/gta-6-previews-recap-all-new-gameplay-features-revealed",
+  "https://gamerant.com/gta-6-side-activities-fishing-hunting/",
+  "https://gtabase.com/gta-6/side-missions",
+  "https://www.gfinityesports.com/article/gta-6-minigames-every-side-activity-revealed-in-netflix-showcase",
+  "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+  "https://www.vice.com/en/article/gta-6-release-date-launch-times-new-zealand-method/"
+ ],
+ "itens": [
+  {
+   "id": "01",
+   "formato": "reel",
+   "linhas": [
+    "1ª SEXTA",
+    "COM GTA 6"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O fim de semana mais esperado",
+   "cta": [
+    "ENTRA NO",
+    "GRUPO VIP"
+   ],
+   "cta_sub": "Ofertas e avisos no link da bio",
+   "tag": "SEXTOU",
+   "cta_bio": "grupo",
+   "legenda": "Primeira sexta-feira com GTA 6 no console 🌴🎮\n\nQual o seu plano pro fim de semana em Leonida? Comenta.",
+   "roteiro": [
+    {
+     "fala": "Primeira sexta-feira com GTA 6 no console. Já sabe o que vai fazer?",
+     "tela": "SEXTOU",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-26.jpg"
+    },
+    {
+     "fala": "Tem praia nas Keys, pântano em Grassrivers e trilha no Mount Kalaga.",
+     "tela": "PRAIA OU TRILHA?",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-05.jpg"
+    },
+    {
+     "fala": "E à noite, Vice City não dorme.",
+     "tela": "VICE CITY À NOITE",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-13.jpg"
+    },
+    {
+     "fala": "Comenta seu plano pro fim de semana. E entra no grupo VIP pelo link da bio.",
+     "tela": "QUAL SEU PLANO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg"
+    }
+   ]
+  },
+  {
+   "id": "02",
+   "formato": "carrossel",
+   "capa": [
+    "CABELO NÃO",
+    "CRESCE SOZINHO"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "E o povo de Leonida repara na sua roupa",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "miami",
+    "luxo"
+   ],
+   "slides": [
+    {
+     "titulo": "Barba feita em casa",
+     "texto": "Nas prévias: aparar ou raspar dá pra fazer no esconderijo.",
+     "puxa": "E corte novo?"
+    },
+    {
+     "titulo": "Corte novo é no salão",
+     "texto": "Estilo diferente só na barbearia ou no salão.",
+     "puxa": "E com o tempo?"
+    },
+    {
+     "titulo": "O cabelo não cresce",
+     "texto": "Diferente do Red Dead 2, ele não cresce sozinho.",
+     "puxa": "E a roupa?"
+    },
+    {
+     "titulo": "Milhares de roupas",
+     "texto": "Tem loja de roupa espalhada por Leonida.",
+     "puxa": "Alguém repara?"
+    },
+    {
+     "titulo": "O povo repara",
+     "texto": "As pessoas reagem ao estilo do que você veste.",
+     "puxa": "E a fome?"
+    },
+    {
+     "titulo": "Drive-thru liberado",
+     "texto": "No Burger Shot e no Cluckin' Bell dá pra pedir sem sair do carro."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "QUAL VISUAL",
+     "PRIMEIRO?"
+    ],
+    "texto": "Comenta o visual que você vai montar pro Jason ou pra Lucia. Salva pra lembrar."
+   },
+   "cta_bio": "guia",
+   "legenda": "No GTA 6, o cabelo não cresce sozinho ✂️\n\nE o povo repara na sua roupa. Comenta o visual que você vai montar e salva."
+  },
+  {
+   "id": "03",
+   "formato": "post",
+   "tipo": "enquete",
+   "linhas": [
+    "BURGER SHOT",
+    "OU CLUCKIN'",
+    "BELL?"
+   ],
+   "destaque": [
+    1,
+    2
+   ],
+   "opcoes": [
+    "Burger Shot",
+    "Cluckin' Bell"
+   ],
+   "sub": "Os dois têm drive-thru em Leonida",
+   "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-01.jpg",
+   "cta_bio": "comunidade",
+   "legenda": "Bateu a fome em Leonida: qual drive-thru você escolhe? 🍔🍗\n\nComenta e marca quem divide o lanche com você."
+  },
+  {
+   "id": "04",
+   "formato": "reel",
+   "linhas": [
+    "SÓ MAIS UMA",
+    "MISSÃO"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Disse isso às 22h. Agora são 4h.",
+   "cta": [
+    "MARCA",
+    "O AMIGO"
+   ],
+   "cta_sub": "que vive dizendo isso",
+   "tag": "HUMOR",
+   "cta_bio": "comunidade",
+   "legenda": "\"Só mais uma missão\" 😅🌙\n\nMarca o amigo que vive dizendo isso.",
+   "roteiro": [
+    {
+     "fala": "Eu, às dez da noite: só mais uma missão.",
+     "tela": "SÓ MAIS UMA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-04.jpg"
+    },
+    {
+     "fala": "Meia-noite: só vou abastecer o carro e já paro.",
+     "tela": "SÓ ABASTECER",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-22.jpg"
+    },
+    {
+     "fala": "Duas da manhã: só vou ver o pôr do sol nas Keys.",
+     "tela": "SÓ O PÔR DO SOL",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-10.jpg"
+    },
+    {
+     "fala": "Quatro da manhã: o sol nasceu de verdade. Marca o amigo que vive dizendo isso.",
+     "tela": "MARCA O AMIGO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-16.jpg"
+    }
+   ]
+  },
+  {
+   "id": "05",
+   "formato": "post",
+   "tipo": "noticia",
+   "linhas": [
+    "RÁDIO SEM",
+    "COPYRIGHT"
+   ],
+   "destaque": [
+    1
+   ],
+   "texto": "Nas prévias, a imprensa contou que o rádio do GTA 6 tem podcasts sob demanda e uma opção de música livre de direitos autorais, pensada pra quem faz live e vídeo.",
+   "fonte": "GTA Base (resumo das prévias)",
+   "sub": "Boa notícia pra quem faz live",
+   "imagem": "gta6/banco/oficial/pessoa-real-dimez-04.jpg",
+   "cta_bio": "guia",
+   "legenda": "O rádio do GTA 6 tem modo sem copyright 🎙️📻\n\nVocê vai fazer live jogando? Comenta."
+  },
+  {
+   "id": "06",
+   "formato": "carrossel",
+   "capa": [
+    "O QUE O GTA 6",
+    "NÃO TEM"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O nº 5 dói pra quem faz vídeo",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "gamer",
+    "miami"
+   ],
+   "slides": [
+    {
+     "titulo": "Tênis só de enfeite",
+     "texto": "Tem quadra, mas partida completa de tênis ficou de fora.",
+     "puxa": "E o surfe?"
+    },
+    {
+     "titulo": "Sem surfe e sem skate",
+     "texto": "Também não viraram minigame, pra manter a qualidade.",
+     "puxa": "E a pescaria?"
+    },
+    {
+     "titulo": "Peixe não vai pra casa",
+     "texto": "A pesca é detalhada, mas todo peixe pescado é solto.",
+     "puxa": "E a selfie?"
+    },
+    {
+     "titulo": "Selfie fora do feed",
+     "texto": "Jason e Lucia não postam foto de si mesmos nas redes do jogo.",
+     "puxa": "E o editor?"
+    },
+    {
+     "titulo": "Sem Rockstar Editor",
+     "texto": "Tem modo foto, mas o editor de vídeo não vem no lançamento.",
+     "puxa": "E no PC?"
+    },
+    {
+     "titulo": "Sem versão de PC",
+     "texto": "Por enquanto, só PS5 e Xbox Series X|S. Sem data pro PC."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "DO QUE VOCÊ",
+     "SENTE FALTA?"
+    ],
+    "texto": "Comenta o que você queria no jogo. Marca quem ia surfar em Vice City."
+   },
+   "cta_bio": "comunidade",
+   "legenda": "Nem tudo entrou no GTA 6 🤔\n\nDo que você sente falta? Comenta e marca um amigo."
+  },
+  {
+   "id": "07",
+   "formato": "reel",
+   "linhas": [
+    "TREINA 3",
+    "DIAS SEGUIDOS"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O segredo da academia no GTA 6",
+   "cta": [
+    "LINK",
+    "NA BIO"
+   ],
+   "cta_sub": "Guia do GTA 6 em português",
+   "tag": "DICA",
+   "cta_bio": "guia",
+   "legenda": "No GTA 6, músculo não vem de um dia pro outro 💪\n\nMais dicas no guia em português, no link da bio. Comenta se você já treinou hoje.",
+   "roteiro": [
+    {
+     "fala": "Quer o Jason e a Lucia mais fortes? Tem regra.",
+     "tela": "QUER FICAR FORTE?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-15.jpg"
+    },
+    {
+     "fala": "Nas prévias, a imprensa contou: o ganho de força só vem treinando três dias seguidos.",
+     "tela": "3 DIAS SEGUIDOS",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-09.jpg"
+    },
+    {
+     "fala": "Barra de proteína ajuda no ganho, e energético segura o fôlego no treino.",
+     "tela": "PROTEÍNA E ENERGÉTICO",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-02.jpg"
+    },
+    {
+     "fala": "Mais dicas no guia do GTA 6 em português, no link da bio. Comenta se você já treinou hoje.",
+     "tela": "LINK NA BIO",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-01.jpg"
+    }
+   ]
+  },
+  {
+   "id": "08",
+   "formato": "post",
+   "tipo": "documento",
+   "imagem": "gta6/banco/oficial/lugar-port-gellhorn-05.jpg",
+   "cta_bio": "grupo",
+   "titulo_doc": "COMUNICADO AO CHURRASCO",
+   "titulo": "COMUNICADO AO CHURRASCO",
+   "carimbo": "NÃO VOU",
+   "tag": "AO CHURRASCO",
+   "foto_3x4": "gta6/banco/oficial/pessoa-jason-duval-09.jpg",
+   "foco_3x4": [
+    0.74,
+    0.25,
+    0.42
+   ],
+   "corpo": "Informo à **organização do churrasco** deste fim de semana que **não vou comparecer** porque tenho compromisso inadiável em **Vice City** com Jason e Lucia.",
+   "campos": [
+    [
+     "Motivo:",
+     "GTA 6.",
+     true
+    ],
+    [
+     "Retorno previsto:",
+     "Se sobrar carne.",
+     false
+    ]
+   ],
+   "rodape_doc": "Guardem um pão de alho. Obrigado.",
+   "assinatura": [
+    "SEU AMIGO",
+    "EM MODO GTA VI"
+   ],
+   "legenda": "Comunicado oficial pro churrasco do fim de semana 🍖🎮 Manda no grupo da galera antes que te chamem.\n\nComenta quem vai receber primeiro."
+  },
+  {
+   "id": "09",
+   "formato": "carrossel",
+   "capa": [
+    "PAY & SPRAY",
+    "VOLTOU"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "E agora ela diz quanto vale o seu carro",
+   "puxa_capa": "ARRASTA  >>",
+   "fotos": [
+    "carro",
+    "noite"
+   ],
+   "slides": [
+    {
+     "titulo": "Pinta, conserta e avalia",
+     "texto": "Nas prévias, ela voltou e agora também mostra quanto vale o carro.",
+     "puxa": "E o tuning?"
+    },
+    {
+     "titulo": "Oficina pra todo lado",
+     "texto": "Tem oficina de personalização espalhada por Leonida.",
+     "puxa": "E a velocidade?"
+    },
+    {
+     "titulo": "Nitro liberado",
+     "texto": "Dá pra usar nitro dirigindo e nas corridas.",
+     "puxa": "Que corridas?"
+    },
+    {
+     "titulo": "Corrida de todo tipo",
+     "texto": "Rua, off-road, motocross e até monster truck.",
+     "puxa": "Esqueceu o carro?"
+    },
+    {
+     "titulo": "O carro vem até você",
+     "texto": "No app Scooter Bros, seu carro pessoal é entregue onde você está.",
+     "puxa": "Sem carro?"
+    },
+    {
+     "titulo": "Táxi no celular",
+     "texto": "O app Ryde Me leva você rápido pelo mapa."
+    }
+   ],
+   "fecho": {
+    "titulo": [
+     "QUAL COR",
+     "NO SEU CARRO?"
+    ],
+    "texto": "Comenta a cor que você pinta primeiro. Salva pra lembrar da Pay & Spray."
+   },
+   "cta_bio": "ofertas",
+   "legenda": "A Pay & Spray voltou no GTA 6 🚗🎨\n\nE agora mostra quanto vale o seu carro. Comenta a cor que você pinta primeiro."
+  },
+  {
+   "id": "10",
+   "formato": "reel",
+   "linhas": [
+    "JOGA MAIS",
+    "DE JASON OU",
+    "DE LUCIA?"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "Dois protagonistas, um controle",
+   "cta": [
+    "ENTRA NO",
+    "GRUPO VIP"
+   ],
+   "cta_sub": "Ofertas e avisos no link da bio",
+   "tag": "ENQUETE",
+   "cta_bio": "grupo",
+   "legenda": "Jason ou Lucia: com quem você joga mais? 🎮\n\nComenta J ou L.",
+   "roteiro": [
+    {
+     "fala": "Segundo dia de GTA 6. Com quem você joga mais?",
+     "tela": "JASON OU LUCIA?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-09.jpg"
+    },
+    {
+     "fala": "Time Jason: briga de rua, no estilo mais bruto.",
+     "tela": "TIME JASON",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-11.jpg"
+    },
+    {
+     "fala": "Time Lucia: treinada em kickboxing e MMA.",
+     "tela": "TIME LUCIA",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-13.jpg"
+    },
+    {
+     "fala": "Comenta J ou L. E entra no grupo VIP pelo link da bio.",
+     "tela": "COMENTA J OU L",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-13.jpg"
+    }
+   ]
+  },
+  {
+   "id": "11",
+   "hora": "14:07",
+   "formato": "carrossel",
+   "estilo": "grade",
+   "serie": "atividades",
+   "cta_bio": "guia",
+   "capa": {
+    "titulo": [
+     "ALÉM DA",
+     "MISSÃO"
+    ],
+    "destaque": [
+     1
+    ],
+    "sub": "Tem até tesouro no fundo do mar",
+    "fotos": [
+     "gta6/banco/oficial/lugar-leonida-keys-04.jpg",
+     "gta6/banco/oficial/lugar-mount-kalaga-national-park-06.jpg",
+     "gta6/banco/oficial/lugar-mount-kalaga-national-park-02.jpg",
+     "gta6/banco/oficial/lugar-vice-city-13.jpg"
+    ]
+   },
+   "puxa_capa": "Arrasta",
+   "slides": [
+    {
+     "titulo": "No fundo do mar",
+     "puxa": "E na água doce?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-04.jpg",
+       "rot": "Mergulho",
+       "txt": "Dá pra mergulhar com cilindro no litoral."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-leonida-keys-07.jpg",
+       "rot": "Naufrágios",
+       "txt": "Tem caça ao tesouro em navios afundados."
+      }
+     ]
+    },
+    {
+     "titulo": "Pesca e remo",
+     "puxa": "E lá do alto?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-03.jpg",
+       "rot": "Pesca",
+       "txt": "Detalhada como no Red Dead 2, mas todo peixe é solto."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-06.jpg",
+       "rot": "Caiaque",
+       "txt": "Novidade: nunca apareceu num GTA."
+      }
+     ]
+    },
+    {
+     "titulo": "Adrenalina",
+     "puxa": "E os bichos?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-02.jpg",
+       "rot": "Paraquedas",
+       "txt": "O salto de paraquedas está de volta."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-lucia-caminos-12.jpg",
+       "rot": "Campo de tiro",
+       "txt": "Estande pra treinar a mira."
+      }
+     ]
+    },
+    {
+     "titulo": "Vida selvagem",
+     "puxa": "E à noite?",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-05.jpg",
+       "rot": "Catálogo",
+       "txt": "Estude cada espécie e complete a lista."
+      },
+      {
+       "foto": "gta6/banco/oficial/lugar-grassrivers-06.jpg",
+       "rot": "Caça",
+       "txt": "Um conhecido do Jason apresenta, e dá dinheiro."
+      }
+     ]
+    },
+    {
+     "titulo": "Quando escurece",
+     "puxa": "Comenta",
+     "paineis": [
+      {
+       "foto": "gta6/banco/oficial/lugar-vice-city-13.jpg",
+       "rot": "Baladas",
+       "txt": "As boates de Vice City estão de volta."
+      },
+      {
+       "foto": "gta6/banco/oficial/pessoa-jason-duval-04.jpg",
+       "rot": "Lives",
+       "txt": "Ache uma live no celular e vá até o streamer."
+      }
+     ]
+    }
+   ],
+   "fecho": {
+    "foto": "gta6/banco/oficial/lugar-leonida-keys-05.jpg",
+    "titulo": [
+     "QUAL VOCÊ",
+     "FAZ PRIMEIRO?"
+    ],
+    "texto": "Comenta a atividade. Salva pro fim de semana."
+   },
+   "legenda": "Atividades do GTA 6 além das missões: tem até tesouro no fundo do mar 🤿\n\nSérie Nerd GTA, parte 10. Qual você faz primeiro? Comenta e salva.",
+   "fontes": [
+    "https://www.gtabase.com/articles/gta-6/gta-6-previews-recap-all-new-gameplay-features-revealed",
+    "https://gamerant.com/gta-6-side-activities-fishing-hunting/",
+    "https://gtabase.com/gta-6/side-missions",
+    "https://www.gfinityesports.com/article/gta-6-minigames-every-side-activity-revealed-in-netflix-showcase"
+   ]
+  }
+ ]
+}
