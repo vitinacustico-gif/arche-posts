@@ -216,6 +216,226 @@
       ],
       "legenda": "LIBEROU! 🚨 O GTA 6 já está no ar no Brasil. Bem-vindo a Leonida 🌴\n\nJá entrou? Comenta o que você fez primeiro. E segue a página: a partir de hoje tem dica, segredo e cheat confirmado todo dia.",
       "fontes": []
+    },
+    {
+      "id": "R0100",
+      "hora": "01:00",
+      "formato": "reel",
+      "linhas": [
+        "PROMETI DORMIR"
+      ],
+      "tag": "HUMOR",
+      "cta_bio": "comunidade",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Prometi dormir à meia-noite e meia.",
+          "tela": "PROMETI DORMIR",
+          "imagem": "gta6/banco/oficial/pessoa-jason-duval-18.jpg"
+        },
+        {
+          "fala": "Agora é uma da manhã e eu tô só explorando.",
+          "tela": "SÓ EXPLORANDO",
+          "imagem": "gta6/banco/oficial/lugar-ambrosia-05.jpg"
+        },
+        {
+          "fala": "Amanhã eu acordo como? Depois eu vejo.",
+          "tela": "DEPOIS EU VEJO",
+          "imagem": "gta6/banco/oficial/lugar-port-gellhorn-05.jpg"
+        },
+        {
+          "fala": "Comenta que horas você vai dormir e segue a página.",
+          "tela": "QUE HORAS VAI DORMIR?",
+          "imagem": "gta6/banco/oficial/pessoa-jason-duval-19.jpg"
+        }
+      ],
+      "legenda": "Prometi dormir cedo. Era mentira 😅🌴\n\nComenta que horas você vai largar o controle hoje. E segue a página: todo dia tem GTA 6 aqui.",
+      "fontes": [],
+      "estilo": "tweet"
+    },
+    {
+      "id": "R0200",
+      "hora": "02:00",
+      "formato": "reel",
+      "linhas": [
+        "O CELULAR DA LUCIA"
+      ],
+      "tag": "CURIOSIDADE",
+      "cta_bio": "guia",
+      "postar_story": true,
+      "roteiro": [
+        {
+          "fala": "Você já usou o celular da Lucia?",
+          "tela": "CELULAR DA LUCIA",
+          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-14.jpg"
+        },
+        {
+          "fala": "Nas prévias, dá pra trocar pra Lucia e mexer no celular enquanto o Jason dirige.",
+          "tela": "ELA NO CELULAR",
+          "imagem": "gta6/banco/oficial/pessoa-real-dimez-01.jpg"
+        },
+        {
+          "fala": "E as redes sociais do jogo funcionam: a carreira das Real Dimez aparece em posts virais.",
+          "tela": "REDES QUE FUNCIONAM",
+          "imagem": "gta6/banco/oficial/arte-real-dimez.jpg"
+        },
+        {
+          "fala": "Já abriu o celular no jogo? Comenta e segue a página.",
+          "tela": "JÁ ABRIU O SEU?",
+          "imagem": "gta6/banco/oficial/pessoa-real-dimez-03.jpg"
+        }
+      ],
+      "legenda": "📱 Dá pra trocar pra Lucia e usar o celular dela enquanto o Jason dirige, segundo as prévias. E as redes sociais do jogo funcionam: a carreira das Real Dimez aparece em posts virais.\n\nJá fuçou o celular? Comenta o que achou. Guia do GTA 6 em português no link da bio.",
+      "fontes": [
+        "https://www.gtabase.com/articles/gta-6/first-official-gta-6-preview-reveals-new-gameplay-details"
+      ]
+    },
+    {
+      "id": "R0300",
+      "hora": "03:00",
+      "formato": "reel",
+      "linhas": [
+        "REBAIXADO OU 4X4?"
+      ],
+      "tag": "ENQUETE",
+      "cta_bio": "comunidade",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Rebaixado ou quatro por quatro?",
+          "tela": "REBAIXADO OU 4X4?",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-rideout-customs-01.jpg"
+        },
+        {
+          "fala": "De um lado, o clássico rebaixado de roda dourada.",
+          "tela": "CLÁSSICO REBAIXADO",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-rideout-customs-02.jpg"
+        },
+        {
+          "fala": "Do outro, o jipão pra encarar o pântano.",
+          "tela": "JIPÃO PRO PÂNTANO",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-one-eyed-willie-01.jpg"
+        },
+        {
+          "fala": "Qual vai pra sua garagem? Comenta e segue a página.",
+          "tela": "QUAL VAI PRA GARAGEM?",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-01.jpg"
+        }
+      ],
+      "legenda": "Garagem com uma vaga só 🚗 Rebaixado de roda dourada ou jipão pra encarar o pântano?\n\nComenta 1 pro rebaixado ou 2 pro 4x4. E segue a página.",
+      "fontes": [],
+      "estilo": "tweet"
+    },
+    {
+      "id": "R0400",
+      "hora": "04:00",
+      "formato": "reel",
+      "linhas": [
+        "170 ESPÉCIES"
+      ],
+      "tag": "ANIMAIS",
+      "cta_bio": "guia",
+      "postar_story": true,
+      "roteiro": [
+        {
+          "fala": "Mais de cento e setenta animais em Leonida.",
+          "tela": "170+ ESPÉCIES",
+          "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-05.jpg"
+        },
+        {
+          "fala": "São cerca de sessenta tipos de pássaros e mais de trinta mamíferos.",
+          "tela": "60 PÁSSAROS",
+          "imagem": "gta6/banco/oficial/lugar-grassrivers-05.jpg"
+        },
+        {
+          "fala": "Tem peixe-boi, flamingo, pelicano e, claro, jacaré.",
+          "tela": "PEIXE-BOI E JACARÉ",
+          "imagem": "gta6/banco/oficial/lugar-grassrivers-08.jpg"
+        },
+        {
+          "fala": "Qual bicho você já encontrou? Comenta e segue a página.",
+          "tela": "QUAL VOCÊ ACHOU?",
+          "imagem": "gta6/banco/oficial/lugar-grassrivers-07.jpg"
+        }
+      ],
+      "legenda": "🐊 Leonida tem mais de 170 espécies de animais, segundo a Game Informer com a Rockstar: cerca de 60 tipos de pássaros, mais de 30 mamíferos, peixe-boi, flamingo, pelicano e jacaré.\n\nQual bicho você já encontrou? Comenta. Guia do GTA 6 em português no link da bio.",
+      "fontes": [
+        "https://www.gfinityesports.com/article/rockstar-confirms-how-much-wildlife-is-in-gta-6-and-its-a-lot"
+      ],
+      "estilo": "impacto"
+    },
+    {
+      "id": "R0500",
+      "hora": "05:00",
+      "formato": "reel",
+      "linhas": [
+        "TELA PEQUENA?"
+      ],
+      "tag": "OFERTA",
+      "cta_bio": "ofertas",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Leonida cabe na sua tela?",
+          "tela": "TELA PEQUENA?",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-03.jpg"
+        },
+        {
+          "fala": "Um mapa desse tamanho pede uma tela maior.",
+          "tela": "MAPA GIGANTE",
+          "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-04.jpg"
+        },
+        {
+          "fala": "Separamos uma Smart TV QLED de quarenta e três polegadas no link da bio.",
+          "tela": "TV QLED 43\"",
+          "imagem": "gta6/banco/oficial/lugar-ambrosia-06.jpg"
+        },
+        {
+          "fala": "Marca quem precisa trocar de TV e segue a página.",
+          "tela": "MARCA QUEM PRECISA",
+          "imagem": "gta6/banco/oficial/lugar-port-gellhorn-06.jpg"
+        }
+      ],
+      "legenda": "Leonida merece tela grande 📺🌴\n\nSeparamos uma Smart TV TCL QLED de 43 polegadas com Google TV: link na bio (preço muda todo dia, confere lá). Marca quem precisa trocar de TV.",
+      "fontes": []
+    },
+    {
+      "id": "R0600",
+      "hora": "06:00",
+      "formato": "reel",
+      "linhas": [
+        "DICA DE FUGA"
+      ],
+      "tag": "DICA",
+      "cta_bio": "guia",
+      "postar_story": true,
+      "roteiro": [
+        {
+          "fala": "Perseguição apertada? Faz isso.",
+          "tela": "DICA DE FUGA",
+          "imagem": "gta6/banco/oficial/pessoa-jason-duval-17.jpg"
+        },
+        {
+          "fala": "Nas prévias, dá pra trocar de personagem no meio da fuga.",
+          "tela": "TROCA DE PERSONAGEM",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-safehouse-vehicles-01.jpg"
+        },
+        {
+          "fala": "Um dirige e o outro atira, sem parar o carro.",
+          "tela": "UM DIRIGE, OUTRO ATIRA",
+          "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-06.jpg"
+        },
+        {
+          "fala": "Salva essa dica e segue a página.",
+          "tela": "SALVA ESSA DICA",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-20.jpg"
+        }
+      ],
+      "legenda": "🚓 Dica de fuga: segundo as prévias, dá pra trocar entre Jason e Lucia no meio da perseguição. Um dirige, o outro atira.\n\nSalva pra não esquecer e manda pro parceiro de crime. Guia completo em português no link da bio.",
+      "fontes": [
+        "https://www.gtabase.com/articles/gta-6/first-official-gta-6-preview-reveals-new-gameplay-details"
+      ],
+      "estilo": "manchete"
     }
   ]
 }
