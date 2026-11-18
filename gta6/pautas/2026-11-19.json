@@ -9,7 +9,9 @@
     "https://www.gfinityesports.com/article/gta-6-combat-preview-details-massive-upgrades-to-weapons-gunplay",
     "https://www.gtaboom.com/gta-6-drops-default-lock-on-limits-guns-sprint-l3-204b",
     "https://www.notebookcheck.net/GTA-6-weapon-management-Rockstar-did-not-want-a-traditional-weapon-wheel-but-had-to-settle.1428326.0.html",
-    "https://www.gtabase.com/articles/gta-6/gta-6-previews-recap-all-new-gameplay-features-revealed"
+    "https://www.gtabase.com/articles/gta-6/gta-6-previews-recap-all-new-gameplay-features-revealed",
+    "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/",
+    "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523"
   ],
   "itens": [
     {
@@ -434,6 +436,233 @@
       "legenda": "🚓 Dica de fuga: segundo as prévias, dá pra trocar entre Jason e Lucia no meio da perseguição. Um dirige, o outro atira.\n\nSalva pra não esquecer e manda pro parceiro de crime. Guia completo em português no link da bio.",
       "fontes": [
         "https://www.gtabase.com/articles/gta-6/first-official-gta-6-preview-reveals-new-gameplay-details"
+      ],
+      "estilo": "manchete"
+    },
+    {
+      "id": "R0700",
+      "hora": "07:00",
+      "formato": "reel",
+      "linhas": [
+        "80 HORAS"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "guia",
+      "postar_story": true,
+      "roteiro": [
+        {
+          "fala": "Quanto tempo dura o GTA 6?",
+          "tela": "QUANTO DURA?",
+          "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-03.jpg"
+        },
+        {
+          "fala": "Rob Nelson, da Rockstar North, levou umas oitenta horas pra terminar.",
+          "tela": "CERCA DE 80 HORAS",
+          "imagem": "gta6/banco/oficial/pessoa-jason-duval-16.jpg"
+        },
+        {
+          "fala": "Contando a história e parte das missões opcionais.",
+          "tela": "HISTÓRIA + EXTRAS",
+          "imagem": "gta6/banco/oficial/lugar-ambrosia-04.jpg"
+        },
+        {
+          "fala": "Quantas horas você já jogou? Comenta e segue a página.",
+          "tela": "COMENTA SUAS HORAS",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-geral-01.jpg"
+        }
+      ],
+      "legenda": "⏱️ Quanto dura o GTA 6? Rob Nelson, da Rockstar North, contou que a jogatina dele levou cerca de 80 horas, somando a história e parte das missões opcionais.\n\nE você, já tá com quantas horas? Comenta aí e salva pra comparar no fim de semana.",
+      "fontes": [
+        "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523"
+      ],
+      "estilo": "impacto"
+    },
+    {
+      "id": "R0900",
+      "hora": "09:00",
+      "formato": "reel",
+      "linhas": [
+        "MISSÃO? DEPOIS"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "comunidade",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Primeira hora de GTA 6. Missão? Depois.",
+          "tela": "MISSÃO? DEPOIS",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-goodtime-gear-01.jpg"
+        },
+        {
+          "fala": "Primeiro eu fui andar de caiaque.",
+          "tela": "PASSEIO DE CAIAQUE",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-safehouse-vehicles-03.jpg"
+        },
+        {
+          "fala": "Depois parei pra ver o pôr do sol.",
+          "tela": "VER O PÔR DO SOL",
+          "imagem": "gta6/banco/oficial/lugar-ambrosia-03.jpg"
+        },
+        {
+          "fala": "E a história? Amanhã eu vejo. Marca quem é assim e segue a página.",
+          "tela": "MARCA ESSE AMIGO",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-one-eyed-willie-03.jpg"
+        }
+      ],
+      "legenda": "😂 Primeiro dia de GTA 6 e a história principal esperando sentada.\n\nVocê é do time que corre pra missão ou do time turista? Marca o amigo que é assim.",
+      "fontes": [],
+      "estilo": "tweet"
+    },
+    {
+      "id": "R1000",
+      "hora": "10:00",
+      "formato": "reel",
+      "linhas": [
+        "APP DE CARRO"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "guia",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "O celular do GTA 6 tem app de carro.",
+          "tela": "APP DE CARRO?",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-03.jpg"
+        },
+        {
+          "fala": "O WAINK escaneia o carro e mostra valor, alarme e rastreador.",
+          "tela": "WAINK ESCANEIA O CARRO",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-04.jpg"
+        },
+        {
+          "fala": "E o Ryde Me é o táxi: chama a corrida e atravessa o mapa rápido.",
+          "tela": "RYDE ME: O TÁXI",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-02.jpg"
+        },
+        {
+          "fala": "Qual app você testa primeiro? Comenta e segue a página.",
+          "tela": "QUAL VOCÊ TESTA?",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-geral-02.jpg"
+        }
+      ],
+      "legenda": "📱 Segundo a Rockstar, o celular do Jason e da Lucia tem o WAINK, que escaneia um carro e mostra valor, custo de registro e se tem trava, alarme ou rastreador. E o Ryde Me funciona como táxi pra viagem rápida.\n\nQual app você abre primeiro? Comenta e salva pra testar hoje.",
+      "fontes": [
+        "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/",
+        "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523"
+      ],
+      "estilo": "manchete"
+    },
+    {
+      "id": "R1100",
+      "hora": "11:00",
+      "formato": "reel",
+      "linhas": [
+        "MAPA 2X MAIOR"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "grupo",
+      "postar_story": true,
+      "roteiro": [
+        {
+          "fala": "O mapa do GTA 6 tem o dobro do GTA 5.",
+          "tela": "MAPA 2X O GTA 5",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-squalo-04.jpg"
+        },
+        {
+          "fala": "Só Vice City já tem duas vezes Los Santos.",
+          "tela": "VICE CITY = 2 LOS SANTOS",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-stock-305-02.jpg"
+        },
+        {
+          "fala": "E são mais de seiscentas mil animações. No GTA 5 eram cinquenta e cinco mil.",
+          "tela": "600 MIL ANIMAÇÕES",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-electric-fang-04.jpg"
+        },
+        {
+          "fala": "Sentiu a diferença? Compartilha e segue a página.",
+          "tela": "SENTIU A DIFERENÇA?",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-squalo-03.jpg"
+        }
+      ],
+      "legenda": "🗺️ GTA 5 x GTA 6 em números: segundo a Rockstar, o mapa de Leonida tem cerca do dobro do tamanho do de GTA 5, Vice City tem duas vezes Los Santos, e são mais de 600 mil animações de reação dos NPCs (no GTA 5 eram cerca de 55 mil).\n\nManda pro amigo que ainda joga o 5.",
+      "fontes": [
+        "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/",
+        "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523"
+      ],
+      "estilo": "impacto"
+    },
+    {
+      "id": "R1300",
+      "hora": "13:00",
+      "formato": "reel",
+      "linhas": [
+        "CONTROLE RESERVA"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "ofertas",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Controle descarregou no meio da fuga?",
+          "tela": "DESCARREGOU?",
+          "imagem": "gta6/banco/oficial/pessoa-brian-heder-02.jpg"
+        },
+        {
+          "fala": "Quem joga no Xbox Series sabe: ter um reserva salva a noite.",
+          "tela": "TENHA UM RESERVA",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-05.jpg"
+        },
+        {
+          "fala": "Separamos o controle Xbox Carbon Black, oficial da Microsoft.",
+          "tela": "XBOX CARBON BLACK",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-04.jpg"
+        },
+        {
+          "fala": "O link tá na bio. Marca quem vive sem bateria e segue a página.",
+          "tela": "LINK NA BIO",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-stock-305-04.jpg"
+        }
+      ],
+      "legenda": "🎮 Jogando GTA 6 no Xbox Series? Um controle reserva carregado evita pausa no meio da perseguição. Separamos o controle Xbox Carbon Black, oficial da Microsoft (Xbox Series X|S e PC).\n\nMarca o amigo que vive com o controle na tomada.",
+      "fontes": [],
+      "estilo": "neon"
+    },
+    {
+      "id": "R1400",
+      "hora": "14:00",
+      "formato": "reel",
+      "linhas": [
+        "6 ESTRELAS"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "comunidade",
+      "postar_story": true,
+      "roteiro": [
+        {
+          "fala": "Seis estrelas de procurado. Aguenta?",
+          "tela": "6 ESTRELAS",
+          "imagem": "gta6/banco/oficial/pessoa-jason-duval-10.jpg"
+        },
+        {
+          "fala": "No GTA 5, o máximo era cinco.",
+          "tela": "NO GTA 5 ERAM 5",
+          "imagem": "gta6/banco/oficial/pacote-vintage-weapon-pattern-01.jpg"
+        },
+        {
+          "fala": "Com seis, a polícia procura no mapa inteiro.",
+          "tela": "PROCURA NO MAPA TODO",
+          "imagem": "gta6/banco/oficial/lugar-port-gellhorn-04.jpg"
+        },
+        {
+          "fala": "Você chega a seis? Comenta sim ou não e segue a página.",
+          "tela": "CHEGA A 6? COMENTA",
+          "imagem": "gta6/banco/oficial/pessoa-jason-duval-04.jpg"
+        }
+      ],
+      "legenda": "🚨 O nível de procurado do GTA 6 agora vai até seis estrelas, segundo as prévias. No GTA 5 o máximo era cinco. E com seis estrelas a polícia procura você no mapa inteiro, não só numa área.\n\nVocê já chegou lá? Comenta sim ou não.",
+      "fontes": [
+        "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/",
+        "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523"
       ],
       "estilo": "manchete"
     }
