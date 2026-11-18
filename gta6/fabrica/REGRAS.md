@@ -1,3 +1,9 @@
+# ⚠️ DECISÕES DO VICTOR EM 18/11 (valem acima de qualquer regra abaixo)
+- SÓ REELS. Post e carrossel chegavam a ~5 contas; Reel a ~200. Não gere mais post nem carrossel (nem a série em carrossel).
+- A partir de 19/11: 24 Reels por dia, 1 por hora (00:00 a 23:00), todos pela "GTA 6: fábrica de Reels" (status_reels.py já devolve essa grade). A fábrica da noite não gera mais peças, só as mensagens do grupo VIP.
+- Todo Reel pede para SEGUIR: a última fala pede para seguir a página e o cartão final já mostra "SEGUE @NERD_GTA".
+- Série diária às 8h "DIA N EM LEONIDA" (vem no campo "serie" do slot). Detalhes e o que mais performou em gta6/fabrica/REELS.md: leia antes de escrever roteiros.
+
 # Fábrica GTA 6 — regras da pauta diária
 
 Projeto do Victor (Arche Agência): perfil de fã de GTA 6 no Instagram, 10 peças por dia, levando o público para o link da bio (grupo VIP de ofertas no WhatsApp, vitrine de afiliados e guia em PT-BR).
