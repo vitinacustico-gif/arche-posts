@@ -1,1139 +1,744 @@
 {
- "data": "2026-11-18",
- "fontes": [
-  "https://gameoverdrive.com.br/gta-6-18-novembro-horario-8h-nova-zelandia/",
-  "https://www.dlcompare.com/gaming-news/gta-6-launch-week-everything-you-need-to-know-before-november-19",
-  "https://criticalhits.com.br/games/gta-6-sera-liberado-a-meia-noite-no-brasil/",
-  "https://www.gtaboom.com/everything-new-we-learned-about-gta-6-from-the-game-informer-cover-story-4d76",
-  "https://kotaku.com/grand-theft-auto-6-will-include-over-170-species-of-animals-as-well-as-hurricanes-wind-will-blow-ripples-over-the-water-surface-2000738371",
-  "https://mp1st.com/?p=315636",
-  "https://www.dexerto.com/gta/gta-6-will-feature-over-170-different-animals-including-legendary-ones-3413584/",
-  "https://gamingbolt.com/gta-6-features-over-170-animal-species-including-never-before-seen-additions",
-  "https://www.gfinityesports.com/article/gta-6-wildlife-guide-all-confirmed-animals-pets",
-  "https://canaltech.com.br/games/rockstar-revela-segredos-absurdos-para-dar-vida-a-gta-6",
-  "https://www.pushsquare.com/news/2026/06/gta-6-ultimate-edition-and-more-detailed-ahead-of-pre-orders-going-live"
- ],
- "itens": [
-  {
-   "id": "01",
-   "formato": "reel",
-   "linhas": [
-    "FALTA",
-    "1 DIA"
-   ],
-   "destaque": [
-    1
-   ],
-   "sub": "Hoje à meia-noite, Leonida abre",
-   "cta": [
-    "ATIVA",
-    "O SININHO"
-   ],
-   "cta_sub": "Última noite de espera",
-   "tag": "CONTAGEM",
-   "cta_bio": "grupo",
-   "legenda": "Falta 1 dia pro GTA 6 ⏳\n\nNa virada de hoje pra quinta, à meia-noite, o jogo libera no Brasil. Comenta 🔥 se você vai estar acordado.",
-   "roteiro": [
-    {
-     "fala": "Falta um dia pro GTA 6.",
-     "tela": "FALTA 1 DIA",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-02.jpg"
-    },
-    {
-     "fala": "Hoje, à meia-noite, na virada pra quinta, o jogo libera no Brasil.",
-     "tela": "HOJE À MEIA-NOITE",
-     "imagem": "gta6/banco/oficial/lugar-leonida-keys-04.jpg"
-    },
-    {
-     "fala": "É a última noite de espera. Depois de tantos anos.",
-     "tela": "ÚLTIMA NOITE",
-     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-02.jpg"
-    },
-    {
-     "fala": "Ativa o sininho e entra no grupo VIP pelo link da bio pra não perder nada.",
-     "tela": "LINK NA BIO",
-     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-04.jpg"
-    }
-   ]
-  },
-  {
-   "id": "02",
-   "formato": "carrossel",
-   "capa": [
-    "TEM FURACÃO",
-    "EM LEONIDA"
-   ],
-   "destaque": [
-    1
-   ],
-   "sub": "O 6º detalhe é o mais bonito",
-   "puxa_capa": "ARRASTA  >>",
-   "fotos": [
-    "ceu",
-    "miami"
-   ],
-   "slides": [
-    {
-     "titulo": "Clima refeito do zero",
-     "texto": "A Rockstar diz que refez o sistema de clima pra ser local e persistente.",
-     "puxa": "Na prática?"
-    },
-    {
-     "titulo": "Sol aqui, chuva ali",
-     "texto": "As nuvens andam pelo mapa: pode ter sol onde você está e tempestade logo ao lado.",
-     "puxa": "E depois da chuva?"
-    },
-    {
-     "titulo": "A rua fica molhada",
-     "texto": "A chuva deixa poças e chão molhado que continuam ali depois.",
-     "puxa": "E o vento?"
-    },
-    {
-     "titulo": "Vento de verdade",
-     "texto": "Brisa do mar depois do pôr do sol e prédio alto que corta o vento.",
-     "puxa": "Dá pra ver?"
-    },
-    {
-     "titulo": "Você vê o vento",
-     "texto": "Ele mexe no cabelo, na sujeira do telhado, na água e no capim do pântano.",
-     "puxa": "Agora o bonito"
-    },
-    {
-     "titulo": "Arco-íris",
-     "texto": "Na condição certa, aparece arco-íris depois da chuva.",
-     "puxa": "E o perigo?"
-    },
-    {
-     "titulo": "Furacão confirmado",
-     "texto": "Tempestade tropical e furacão, com chuva forte, raio e trovão. A Rockstar não disse com que frequência."
-    }
-   ],
-   "fecho": {
-    "titulo": [
-     "SOL OU",
-     "TEMPESTADE?"
-    ],
-    "texto": "Comenta como você quer o tempo na sua primeira volta por Vice City."
-   },
-   "cta_bio": "comunidade",
-   "legenda": "Leonida vai ter furacão de verdade 🌀⛈️\n\nVocê quer sol ou tempestade na primeira volta? Comenta e salva."
-  },
-  {
-   "id": "03",
-   "formato": "post",
-   "tipo": "enquete",
-   "linhas": [
-    "PIZZA OU",
-    "MIOJO?"
-   ],
-   "destaque": [
-    1
-   ],
-   "opcoes": [
-    "Pizza",
-    "Miojo"
-   ],
-   "sub": "O cardápio da madrugada do dia 19",
-   "imagem": "gta6/banco/oficial/arte-jason-and-lucia-rooftop.jpg",
-   "cta_bio": "comunidade",
-   "legenda": "A madrugada do GTA 6 precisa de lanche 🍕🍜\n\nPizza ou miojo: qual vai ser? Comenta e marca quem divide com você."
-  },
-  {
-   "id": "04",
-   "formato": "reel",
-   "linhas": [
-    "DÁ PRA FAZER",
-    "CARINHO NO",
-    "CACHORRO"
-   ],
-   "destaque": [
-    2
-   ],
-   "sub": "E também dar bronca",
-   "cta": [
-    "COMENTA",
-    "AQUI"
-   ],
-   "cta_sub": "Carinho ou bronca?",
-   "tag": "CURIOSIDADE",
-   "cta_bio": "comunidade",
-   "legenda": "No GTA 6 dá pra fazer carinho no cachorro 🐶\n\nVocê faz carinho ou dá bronca? Comenta.",
-   "roteiro": [
-    {
-     "fala": "Dá pra fazer carinho no cachorro no GTA 6.",
-     "tela": "CARINHO NO CACHORRO",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-19.jpg"
-    },
-    {
-     "fala": "Na prévia da Rockstar, o Jason chega perto de um cachorro e aparecem três opções: carinho, bronca ou estudar.",
-     "tela": "3 OPÇÕES",
-     "imagem": "gta6/banco/oficial/pessoa-jason-duval-06.jpg"
-    },
-    {
-     "fala": "E tem raça de todo tipo: chihuahua, doberman, pastor alemão e rottweiler.",
-     "tela": "VÁRIAS RAÇAS",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-17.jpg"
-    },
-    {
-     "fala": "Comenta aí: você faz carinho ou dá bronca?",
-     "tela": "CARINHO OU BRONCA?",
-     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-06.jpg"
-    }
-   ]
-  },
-  {
-   "id": "05",
-   "formato": "post",
-   "tipo": "noticia",
-   "linhas": [
-    "NOVA ZELÂNDIA",
-    "JÁ JOGA"
-   ],
-   "destaque": [
-    1
-   ],
-   "texto": "Lá já é dia 19: o GTA 6 liberou às 8h de hoje, no horário de Brasília. No Brasil, a liberação é à 0h desta quinta (19/11). Até lá, cuidado com spoiler nas redes.",
-   "fonte": "Overdrive e DLCompare (PlayStation Store)",
-   "sub": "16 horas antes do Brasil",
-   "imagem": "gta6/banco/oficial/lugar-grassrivers-05.jpg",
-   "cta_bio": "guia",
-   "legenda": "Na Nova Zelândia o GTA 6 já liberou 🇳🇿🎮\n\nNo Brasil é à meia-noite. Comenta se você já silenciou as palavras de spoiler."
-  },
-  {
-   "id": "06",
-   "formato": "carrossel",
-   "capa": [
-    "AS FASES",
-    "DA VÉSPERA"
-   ],
-   "destaque": [
-    1
-   ],
-   "sub": "A última fase todo mundo conhece",
-   "puxa_capa": "ARRASTA  >>",
-   "fotos": [
-    "gamer",
-    "noite"
-   ],
-   "slides": [
-    {
-     "titulo": "8h: acordou contando",
-     "texto": "Antes do café, já calculou quantas horas faltam.",
-     "puxa": "E no almoço?"
-    },
-    {
-     "titulo": "12h: confere o download",
-     "texto": "Pela quinta vez. Continua 100%.",
-     "puxa": "E à tarde?"
-    },
-    {
-     "titulo": "16h: o tempo parou",
-     "texto": "Cada minuto dura uma hora. O relógio tá de brincadeira.",
-     "puxa": "E a janta?"
-    },
-    {
-     "titulo": "19h: janta cedo",
-     "texto": "Quem janta às 23h corre o risco de perder o começo.",
-     "puxa": "E depois?"
-    },
-    {
-     "titulo": "22h: controle no colo",
-     "texto": "Carregado, testado e com a tela inicial aberta.",
-     "puxa": "A última fase"
-    },
-    {
-     "titulo": "23h59: contagem alta",
-     "texto": "A casa inteira ouviu. O vizinho também."
-    }
-   ],
-   "fecho": {
-    "titulo": [
-     "EM QUE FASE",
-     "VOCÊ TÁ?"
-    ],
-    "texto": "Comenta a hora e a fase. Marca quem já pulou direto pra última."
-   },
-   "cta_bio": "grupo",
-   "legenda": "As 6 fases de quem espera o GTA 6 hoje 😂\n\nEm qual você tá agora? Comenta e manda no grupo."
-  },
-  {
-   "id": "07",
-   "formato": "reel",
-   "linhas": [
-    "EU FINGINDO",
-    "QUE NÃO TÔ",
-    "ANSIOSO"
-   ],
-   "destaque": [
-    2
-   ],
-   "sub": "Véspera do GTA 6",
-   "cta": [
-    "MARCA",
-    "O AMIGO"
-   ],
-   "cta_sub": "que tá fingindo também",
-   "tag": "HUMOR",
-   "cta_bio": "grupo",
-   "legenda": "Tranquilo. Super tranquilo. Só olhei o relógio 30 vezes 😅\n\nMarca o amigo que tá fingindo também.",
-   "roteiro": [
-    {
-     "fala": "Eu, na véspera do GTA 6, fingindo que tô tranquilo.",
-     "tela": "SUPER TRANQUILO",
-     "imagem": "gta6/banco/oficial/pessoa-jason-duval-14.jpg"
-    },
-    {
-     "fala": "Ninguém percebeu que eu olhei o relógio trinta vezes.",
-     "tela": "30 VEZES",
-     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-06.jpg"
-    },
-    {
-     "fala": "Nem que o controle tá carregado desde domingo.",
-     "tela": "DESDE DOMINGO",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-23.jpg"
-    },
-    {
-     "fala": "Marca o amigo que tá fingindo também.",
-     "tela": "MARCA O AMIGO",
-     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-15.jpg"
-    }
-   ]
-  },
-  {
-   "id": "08",
-   "formato": "post",
-   "tipo": "documento",
-   "imagem": "gta6/banco/oficial/lugar-vice-city-13.jpg",
-   "cta_bio": "grupo",
-   "titulo_doc": "COMUNICADO AO SONO",
-   "titulo": "COMUNICADO AO SONO",
-   "carimbo": "ADIADO",
-   "tag": "AO SONO",
-   "foto_3x4": "gta6/banco/oficial/pessoa-lucia-caminos-01.jpg",
-   "foco_3x4": [
-    0.48,
-    0.38,
-    0.75
-   ],
-   "corpo": "Comunico ao **Sono** que na madrugada de **quinta-feira** não comparecerei à cama. Estarei em **Leonida** acompanhando Jason e Lucia.",
-   "campos": [
-    [
-     "Motivo:",
-     "GTA 6.",
-     true
-    ],
-    [
-     "Retorno previsto:",
-     "Quando o café acabar.",
-     false
-    ]
-   ],
-   "rodape_doc": "Não insista depois da meia-noite.",
-   "assinatura": [
-    "SEU DONO",
-    "EM MODO GTA VI"
-   ],
-   "legenda": "Comunicado oficial pro seu sono 😴 Manda pro amigo que vai virar a noite com você.\n\nComenta se o sono aceitou."
-  },
-  {
-   "id": "09",
-   "formato": "carrossel",
-   "estilo": "grade",
-   "cta_bio": "grupo",
-   "capa": {
-    "titulo": [
-     "O GTA 6",
-     "PELO MUNDO"
-    ],
-    "destaque": [
-     1
-    ],
-    "sub": "A Nova Zelândia joga 16 horas antes do Brasil",
-    "fotos": [
-     "gta6/banco/oficial/lugar-leonida-keys-05.jpg",
-     "gta6/banco/oficial/lugar-vice-city-16.jpg",
-     "gta6/banco/oficial/pessoa-jason-and-lucia-10.jpg",
-     "gta6/banco/oficial/lugar-vice-city-20.jpg"
-    ]
-   },
-   "puxa_capa": "Arrasta",
-   "slides": [
-    {
-     "titulo": "Os primeiros",
-     "puxa": "E a Europa?",
-     "paineis": [
-      {
-       "foto": "gta6/banco/oficial/lugar-leonida-keys-05.jpg",
-       "rot": "Nova Zelândia",
-       "txt": "Liberou às 8h de hoje, no horário de Brasília."
-      },
-      {
-       "foto": "gta6/banco/oficial/lugar-port-gellhorn-01.jpg",
-       "rot": "16 horas antes",
-       "txt": "É a vantagem deles sobre o Brasil."
-      }
-     ]
-    },
-    {
-     "titulo": "Europa",
-     "puxa": "E o Brasil?",
-     "paineis": [
-      {
-       "foto": "gta6/banco/oficial/lugar-vice-city-16.jpg",
-       "rot": "Reino Unido",
-       "txt": "Meia-noite lá é 21h de hoje em Brasília."
-      },
-      {
-       "foto": "gta6/banco/oficial/lugar-vice-city-18.jpg",
-       "rot": "Fuso a fuso",
-       "txt": "Cada país libera à meia-noite local."
-      }
-     ]
-    },
-    {
-     "titulo": "Brasil",
-     "puxa": "E os EUA?",
-     "paineis": [
-      {
-       "foto": "gta6/banco/oficial/pessoa-jason-and-lucia-10.jpg",
-       "rot": "Brasília",
-       "txt": "Libera à 0h desta quinta, 19/11."
-      },
-      {
-       "foto": "gta6/banco/oficial/lugar-vice-city-11.jpg",
-       "rot": "Manaus",
-       "txt": "No relógio de lá, 23h de hoje."
-      },
-      {
-       "foto": "gta6/banco/oficial/lugar-port-gellhorn-03.jpg",
-       "rot": "Rio Branco",
-       "txt": "No relógio do Acre, 22h de hoje."
-      }
-     ]
-    },
-    {
-     "titulo": "Estados Unidos",
-     "puxa": "E o truque?",
-     "paineis": [
-      {
-       "foto": "gta6/banco/oficial/lugar-vice-city-20.jpg",
-       "rot": "Costa leste",
-       "txt": "Libera às 2h de Brasília, depois de nós."
-      },
-      {
-       "foto": "gta6/banco/oficial/pessoa-jason-duval-11.jpg",
-       "rot": "Ironia",
-       "txt": "Miami, que inspirou Vice City, joga depois do Brasil."
-      }
-     ]
-    },
-    {
-     "titulo": "Truque do relógio",
-     "puxa": "Comenta",
-     "paineis": [
-      {
-       "foto": "gta6/banco/oficial/pessoa-jason-duval-15.jpg",
-       "rot": "Mudar a hora",
-       "txt": "Não muda a região da sua conta."
-      },
-      {
-       "foto": "gta6/banco/oficial/pessoa-lucia-caminos-09.jpg",
-       "rot": "País da conta",
-       "txt": "A Sony diz que não dá pra trocar depois de criada."
-      }
-     ]
-    }
-   ],
-   "fecho": {
-    "foto": "gta6/banco/oficial/lugar-vice-city-01.jpg",
-    "titulo": [
-     "DE ONDE",
-     "VOCÊ JOGA?"
-    ],
-    "texto": "Comenta sua cidade e a hora que vai apertar o play."
-   },
-   "legenda": "O GTA 6 libera à meia-noite de cada país, e a Nova Zelândia saiu na frente 🌍\n\nDe onde você joga? Comenta sua cidade.",
-   "fontes": [
+  "data": "2026-11-18",
+  "fontes": [
     "https://gameoverdrive.com.br/gta-6-18-novembro-horario-8h-nova-zelandia/",
     "https://www.dlcompare.com/gaming-news/gta-6-launch-week-everything-you-need-to-know-before-november-19",
-    "https://criticalhits.com.br/games/gta-6-sera-liberado-a-meia-noite-no-brasil/"
-   ]
-  },
-  {
-   "id": "10",
-   "formato": "reel",
-   "linhas": [
-    "FALTAM",
-    "3 HORAS"
-   ],
-   "destaque": [
-    1
-   ],
-   "sub": "Já sabe por onde começar?",
-   "cta": [
-    "LINK",
-    "NA BIO"
-   ],
-   "cta_sub": "Guia do GTA 6 em português",
-   "tag": "GUIA",
-   "cta_bio": "guia",
-   "legenda": "Faltam menos de 3 horas pro GTA 6 🌴\n\nO guia em português tá no link da bio. Comenta de onde você vai jogar.",
-   "roteiro": [
-    {
-     "fala": "Faltam menos de três horas pro GTA 6.",
-     "tela": "MENOS DE 3 HORAS",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-07.jpg"
-    },
-    {
-     "fala": "À meia-noite, no horário de Brasília, Leonida abre pro Brasil inteiro.",
-     "tela": "MEIA-NOITE",
-     "imagem": "gta6/banco/oficial/lugar-grassrivers-03.jpg"
-    },
-    {
-     "fala": "Vai cair no mapa sem saber por onde começar?",
-     "tela": "POR ONDE COMEÇAR?",
-     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-02.jpg"
-    },
-    {
-     "fala": "O guia do GTA 6 em português tá no link da bio. Comenta de onde você vai jogar.",
-     "tela": "LINK NA BIO",
-     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-16.jpg"
-    }
-   ]
-  },
-  {
-   "id": "11",
-   "hora": "14:07",
-   "formato": "carrossel",
-   "estilo": "grade",
-   "serie": "animais",
-   "cta_bio": "guia",
-   "capa": {
-    "titulo": [
-     "OS BICHOS",
-     "QUE DÃO MEDO"
-    ],
-    "destaque": [
-     1
-    ],
-    "sub": "E os lendários que a Rockstar ainda esconde",
-    "fotos": [
-     "gta6/banco/oficial/lugar-grassrivers-06.jpg",
-     "gta6/banco/oficial/lugar-leonida-keys-07.jpg",
-     "gta6/banco/fotos/jacare-naples.jpg",
-     "gta6/banco/oficial/lugar-grassrivers-01.jpg"
-    ]
-   },
-   "puxa_capa": "Arrasta",
-   "slides": [
-    {
-     "titulo": "Mais de 170",
-     "puxa": "O rei do pântano",
-     "paineis": [
-      {
-       "foto": "gta6/banco/oficial/lugar-grassrivers-04.jpg",
-       "rot": "170+ espécies",
-       "txt": "A maior lista de animais da série, segundo a Rockstar."
-      },
-      {
-       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-05.jpg",
-       "rot": "Aves e mamíferos",
-       "txt": "Mais de 60 tipos de ave e mais de 30 mamíferos terrestres."
-      }
-     ]
-    },
-    {
-     "titulo": "O jacaré",
-     "puxa": "E no mar?",
-     "paineis": [
-      {
-       "foto": "gta6/banco/oficial/lugar-grassrivers-06.jpg",
-       "rot": "Confirmado",
-       "txt": "Citado por Michael Kane, vice-presidente de arte da Rockstar."
-      },
-      {
-       "foto": "gta6/banco/fotos/jacare-lakeland.jpg",
-       "rot": "Na vida real",
-       "txt": "Leonida é a Flórida do jogo, terra de jacaré de verdade."
-      }
-     ]
-    },
-    {
-     "titulo": "No mar",
-     "puxa": "E os invasores?",
-     "paineis": [
-      {
-       "foto": "gta6/banco/oficial/lugar-leonida-keys-07.jpg",
-       "rot": "Tubarões",
-       "txt": "Na lista da vida marinha, cada bicho com seu jeito de nadar."
-      },
-      {
-       "foto": "gta6/banco/oficial/lugar-leonida-keys-04.jpg",
-       "rot": "Raias e águas-vivas",
-       "txt": "Dividem o mar com baleias e tartarugas."
-      }
-     ]
-    },
-    {
-     "titulo": "Os invasores",
-     "puxa": "Agora os raros",
-     "paineis": [
-      {
-       "foto": "gta6/banco/oficial/lugar-leonida-keys-06.jpg",
-       "rot": "Iguana",
-       "txt": "Confirmada entre os animais de Leonida."
-      },
-      {
-       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-06.jpg",
-       "rot": "Macacos e tatus",
-       "txt": "Espécies que nem são nativas da Flórida."
-      }
-     ]
-    },
-    {
-     "titulo": "Raros e lendários",
-     "puxa": "E o detalhe?",
-     "paineis": [
-      {
-       "foto": "gta6/banco/oficial/lugar-grassrivers-08.jpg",
-       "rot": "3 categorias",
-       "txt": "Raro, Descobrível e Lendário, no estilo do Red Dead 2."
-      },
-      {
-       "foto": "gta6/banco/oficial/lugar-mount-kalaga-national-park-03.jpg",
-       "rot": "Segredo",
-       "txt": "A Rockstar ainda não revelou quais são os lendários."
-      }
-     ]
-    },
-    {
-     "titulo": "Detalhe absurdo",
-     "puxa": "Comenta",
-     "paineis": [
-      {
-       "foto": "gta6/banco/oficial/lugar-grassrivers-07.jpg",
-       "rot": "Brilho próprio",
-       "txt": "Tem bicho com bioluminescência e pele translúcida."
-      },
-      {
-       "foto": "gta6/banco/fotos/jacare-everglades.jpg",
-       "rot": "Dá pra rastrear",
-       "txt": "Alguns animais podem ser rastreados pelo mapa."
-      }
-     ]
-    }
-   ],
-   "fecho": {
-    "foto": "gta6/banco/oficial/lugar-grassrivers-03.jpg",
-    "titulo": [
-     "QUAL VOCÊ",
-     "ENCARA?"
-    ],
-    "texto": "Comenta: jacaré, tubarão ou o lendário misterioso."
-   },
-   "legenda": "Animais perigosos de Leonida: jacaré, tubarão e os lendários 🐊🦈\n\nSérie Nerd GTA, parte 8. Qual você encara? Comenta e salva.",
-   "fontes": [
+    "https://criticalhits.com.br/games/gta-6-sera-liberado-a-meia-noite-no-brasil/",
     "https://www.gtaboom.com/everything-new-we-learned-about-gta-6-from-the-game-informer-cover-story-4d76",
     "https://kotaku.com/grand-theft-auto-6-will-include-over-170-species-of-animals-as-well-as-hurricanes-wind-will-blow-ripples-over-the-water-surface-2000738371",
     "https://mp1st.com/?p=315636",
     "https://www.dexerto.com/gta/gta-6-will-feature-over-170-different-animals-including-legendary-ones-3413584/",
     "https://gamingbolt.com/gta-6-features-over-170-animal-species-including-never-before-seen-additions",
-    "https://www.gfinityesports.com/article/gta-6-wildlife-guide-all-confirmed-animals-pets"
-   ]
-  },
-  {
-   "id": "R01",
-   "hora": "07:00",
-   "formato": "reel",
-   "linhas": [
-    "BOM DIA, VÉSPERA"
-   ],
-   "tag": "GTA 6",
-   "cta_bio": "grupo",
-   "postar_story": false,
-   "roteiro": [
-    {
-     "fala": "Bom dia, Leonida. Hoje é o último dia sem GTA 6.",
-     "tela": "ÚLTIMO DIA SEM GTA 6",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg"
-    },
-    {
-     "fala": "À meia-noite o jogo libera aqui no Brasil.",
-     "tela": "LIBERA À MEIA-NOITE",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-27.jpg"
-    },
-    {
-     "fala": "Se você comprou o digital, o pré-download já tá liberado.",
-     "tela": "PRÉ-DOWNLOAD LIBERADO",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
-    },
-    {
-     "fala": "Já tá pronto? Comenta pronto aqui embaixo.",
-     "tela": "COMENTA: PRONTO",
-     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg"
-    }
-   ],
-   "legenda": "Último dia sem GTA 6 ☀️ À meia-noite libera no Brasil.\n\nJá tá pronto? Comenta PRONTO."
-  },
-  {
-   "id": "R02",
-   "hora": "07:30",
-   "formato": "reel",
-   "linhas": [
-    "212 GB: LIBERA ESPAÇO"
-   ],
-   "tag": "GTA 6",
-   "cta_bio": "ofertas",
-   "postar_story": false,
-   "roteiro": [
-    {
-     "fala": "Seu console tem espaço pro GTA 6?",
-     "tela": "TEM ESPAÇO?",
-     "imagem": "gta6/banco/oficial/pessoa-jason-duval-02.jpg"
-    },
-    {
-     "fala": "O jogo pode ocupar até duzentos e doze gigas.",
-     "tela": "ATÉ 212 GB",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-10.jpg"
-    },
-    {
-     "fala": "Apaga hoje o que você não joga mais, pra não perder a meia-noite.",
-     "tela": "APAGA HOJE",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-17.jpg"
-    },
-    {
-     "fala": "Salva esse vídeo e manda pro amigo esquecido.",
-     "tela": "MANDA PRO AMIGO",
-     "imagem": "gta6/banco/oficial/pessoa-cal-hampton-03.jpg"
-    }
-   ],
-   "legenda": "Seu console tem 212 GB livres? 💾 Confere hoje, não deixa pra meia-noite.\n\nSalva e manda pro amigo esquecido."
-  },
-  {
-   "id": "R03",
-   "hora": "08:30",
-   "formato": "reel",
-   "linhas": [
-    "3 COISAS PRA HOJE"
-   ],
-   "tag": "GTA 6",
-   "cta_bio": "guia",
-   "postar_story": false,
-   "roteiro": [
-    {
-     "fala": "Três coisas pra fazer hoje, antes do GTA 6.",
-     "tela": "3 COISAS PRA HOJE",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-08.jpg"
-    },
-    {
-     "fala": "Um: atualiza o console agora, não na hora.",
-     "tela": "1. ATUALIZA O CONSOLE",
-     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-01.jpg"
-    },
-    {
-     "fala": "Dois: termina o pré-download.",
-     "tela": "2. TERMINA O DOWNLOAD",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
-    },
-    {
-     "fala": "Três: deixa o controle carregando a tarde toda.",
-     "tela": "3. CARREGA O CONTROLE",
-     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-08.jpg"
-    }
-   ],
-   "legenda": "3 coisas pra fazer HOJE antes do GTA 6 ✅\n\nSalva pra não esquecer."
-  },
-  {
-   "id": "R04",
-   "hora": "09:00",
-   "formato": "reel",
-   "linhas": [
-    "QUEM JOGA PRIMEIRO"
-   ],
-   "tag": "GTA 6",
-   "cta_bio": "comunidade",
-   "postar_story": false,
-   "roteiro": [
-    {
-     "fala": "Sabia que tem gente que joga GTA 6 antes da gente?",
-     "tela": "QUEM JOGA PRIMEIRO?",
-     "imagem": "gta6/banco/oficial/lugar-leonida-keys-01.jpg"
-    },
-    {
-     "fala": "O jogo libera à meia-noite no horário de cada país.",
-     "tela": "MEIA-NOITE LOCAL",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-27.jpg"
-    },
-    {
-     "fala": "Então quem tá do outro lado do mundo, como a Nova Zelândia, começa horas antes.",
-     "tela": "NOVA ZELÂNDIA PRIMEIRO",
-     "imagem": "gta6/banco/oficial/lugar-leonida-keys-03.jpg"
-    },
-    {
-     "fala": "No Brasil é meia-noite do dia dezenove. Ansioso?",
-     "tela": "BRASIL: 0H DO DIA 19",
-     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg"
-    }
-   ],
-   "legenda": "Tem país que joga GTA 6 antes da gente 😤 Libera à meia-noite no horário local de cada lugar.\n\nNo Brasil: 0h do dia 19. Ansioso?"
-  },
-  {
-   "id": "R05",
-   "hora": "09:30",
-   "formato": "reel",
-   "linhas": [
-    "JASON E LUCIA"
-   ],
-   "tag": "GTA 6",
-   "cta_bio": "comunidade",
-   "postar_story": false,
-   "roteiro": [
-    {
-     "fala": "Você conhece os protagonistas do GTA 6?",
-     "tela": "CONHECE ELES?",
-     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-rooftop.jpg"
-    },
-    {
-     "fala": "Jason Duval e Lucia Caminos.",
-     "tela": "JASON E LUCIA",
-     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-01.jpg"
-    },
-    {
-     "fala": "É a primeira vez que a série tem um casal como protagonista.",
-     "tela": "PRIMEIRO CASAL",
-     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg"
-    },
-    {
-     "fala": "Comenta J ou L: quem você vai gostar mais?",
-     "tela": "J OU L?",
-     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-03.jpg"
-    }
-   ],
-   "legenda": "Jason ou Lucia? 👀 O primeiro casal de protagonistas da série.\n\nComenta J ou L."
-  },
-  {
-   "id": "R06",
-   "hora": "10:30",
-   "formato": "reel",
-   "linhas": [
-    "6 REGIÕES EM 15s"
-   ],
-   "tag": "GTA 6",
-   "cta_bio": "ofertas",
-   "postar_story": false,
-   "roteiro": [
-    {
-     "fala": "O mapa do GTA 6 em quinze segundos.",
-     "tela": "O MAPA EM 15s",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-01.jpg"
-    },
-    {
-     "fala": "Vice City, a cidade de neon.",
-     "tela": "VICE CITY",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg"
-    },
-    {
-     "fala": "Leonida Keys, as ilhas. Grassrivers, o pântano.",
-     "tela": "KEYS E GRASSRIVERS",
-     "imagem": "gta6/banco/oficial/lugar-grassrivers-01.jpg"
-    },
-    {
-     "fala": "Port Gellhorn, Ambrosia e Mount Kalaga no norte. Qual você explora primeiro?",
-     "tela": "QUAL PRIMEIRO?",
-     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-01.jpg"
-    }
-   ],
-   "legenda": "O mapa do GTA 6 em 15 segundos 🗺️\n\nQual região você explora primeiro?"
-  },
-  {
-   "id": "R07",
-   "hora": "11:30",
-   "formato": "reel",
-   "linhas": [
-    "O REI DO PÂNTANO"
-   ],
-   "tag": "GTA 6",
-   "cta_bio": "guia",
-   "postar_story": false,
-   "roteiro": [
-    {
-     "fala": "Em Leonida tem mais de cento e cinquenta espécies de animais.",
-     "tela": "150+ ANIMAIS",
-     "imagem": "gta6/banco/oficial/lugar-grassrivers-04.jpg"
-    },
-    {
-     "fala": "Mas o rei é ele: o jacaré.",
-     "tela": "O REI: JACARÉ",
-     "imagem": "gta6/banco/oficial/lugar-grassrivers-06.jpg"
-    },
-    {
-     "fala": "Ele aparece no pântano, em piscina e até entrando em loja no trailer.",
-     "tela": "ATÉ NA LOJA",
-     "imagem": "gta6/banco/oficial/lugar-grassrivers-01.jpg"
-    },
-    {
-     "fala": "Você corre ou encara? Comenta.",
-     "tela": "CORRE OU ENCARA?",
-     "imagem": "gta6/banco/oficial/pessoa-jason-duval-11.jpg"
-    }
-   ],
-   "legenda": "O verdadeiro dono de Leonida 🐊\n\nVocê corre ou encara? Comenta."
-  },
-  {
-   "id": "R08",
-   "hora": "12:30",
-   "formato": "reel",
-   "linhas": [
-    "QUANTO CUSTA"
-   ],
-   "tag": "GTA 6",
-   "cta_bio": "ofertas",
-   "postar_story": false,
-   "roteiro": [
-    {
-     "fala": "Quanto custa o GTA 6 no Brasil?",
-     "tela": "QUANTO CUSTA?",
-     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-robbery.jpg"
-    },
-    {
-     "fala": "Na loja digital: quatrocentos e quarenta e nove e noventa a edição Standard.",
-     "tela": "STANDARD R$ 449,90",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-02.jpg"
-    },
-    {
-     "fala": "E quinhentos e quarenta e nove e noventa a Ultimate.",
-     "tela": "ULTIMATE R$ 549,90",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-24.jpg"
-    },
-    {
-     "fala": "Comprando até dia vinte você leva o bônus. Link com oferta na bio.",
-     "tela": "BÔNUS ATÉ 20/11",
-     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-10.jpg"
-    }
-   ],
-   "legenda": "Quanto custa o GTA 6 no Brasil 💸 Standard R$ 449,90 e Ultimate R$ 549,90 nas lojas digitais.\n\nBônus da pré-venda até 20/11. Oferta da mídia física no link da bio."
-  },
-  {
-   "id": "R1330",
-   "hora": "13:30",
-   "formato": "reel",
-   "linhas": [
-    "50 ARTISTAS"
-   ],
-   "tag": "GTA 6",
-   "cta_bio": "guia",
-   "postar_story": true,
-   "roteiro": [
-    {
-     "fala": "Quem pintou os muros de Vice City?",
-     "tela": "QUEM PINTOU VICE CITY?",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-04.jpg"
-    },
-    {
-     "fala": "A Rockstar chamou mais de cinquenta artistas de rua.",
-     "tela": "+50 ARTISTAS DE RUA",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-05.jpg"
-    },
-    {
-     "fala": "O bairro Stockyard foi inspirado em Wynwood, em Miami.",
-     "tela": "STOCKYARD = WYNWOOD",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-06.jpg"
-    },
-    {
-     "fala": "Vai parar pra ver os murais? Comenta aí.",
-     "tela": "VAI PARAR PRA VER?",
-     "imagem": "gta6/banco/oficial/lugar-vice-city-09.jpg"
-    }
-   ],
-   "legenda": "Mais de 50 artistas de rua pintaram os murais de Vice City 🎨 E o bairro Stockyard foi inspirado em Wynwood, Miami.\n\nVai parar pra fotografar os murais? Comenta aí.",
-   "fontes": [
-    "https://canaltech.com.br/games/rockstar-revela-segredos-absurdos-para-dar-vida-a-gta-6"
-   ]
-  },
-  {
-   "id": "R1430",
-   "hora": "14:30",
-   "formato": "reel",
-   "linhas": [
-    "REVÓLVER NOVO"
-   ],
-   "tag": "GTA 6",
-   "cta_bio": "ofertas",
-   "postar_story": false,
-   "roteiro": [
-    {
-     "fala": "Revólver novo na Ultimate Edition.",
-     "tela": "SÓ NA ULTIMATE",
-     "imagem": "gta6/banco/oficial/edicao-ultimate-hawk-and-little-morgan-revolvers-01.jpg"
-    },
-    {
-     "fala": "São os revólveres Hawk e Little Morgan.",
-     "tela": "HAWK E LITTLE MORGAN",
-     "imagem": "gta6/banco/oficial/edicao-ultimate-hawk-and-little-morgan-revolvers-02.jpg"
-    },
-    {
-     "fala": "E ainda pistolas personalizadas de Jason e de Lucia.",
-     "tela": "PISTOLAS DO CASAL",
-     "imagem": "gta6/banco/oficial/edicao-ultimate-weapon-variants-01.jpg"
-    },
-    {
-     "fala": "Qual você equipa primeiro? Comenta.",
-     "tela": "QUAL VOCÊ EQUIPA?",
-     "imagem": "gta6/banco/oficial/pessoa-jason-duval-03.jpg"
-    }
-   ],
-   "legenda": "A Ultimate Edition traz os revólveres Hawk e Little Morgan 🔫 E versões personalizadas da Girardi ES9 do Jason e da Klose K17 da Lucia.\n\nQual você equipa primeiro? Comenta.",
-   "fontes": [
+    "https://www.gfinityesports.com/article/gta-6-wildlife-guide-all-confirmed-animals-pets",
+    "https://canaltech.com.br/games/rockstar-revela-segredos-absurdos-para-dar-vida-a-gta-6",
     "https://www.pushsquare.com/news/2026/06/gta-6-ultimate-edition-and-more-detailed-ahead-of-pre-orders-going-live"
-   ]
-  },
-  {
-   "id": "R1530",
-   "hora": "15:30",
-   "formato": "reel",
-   "linhas": [
-    "SONO E FOME"
-   ],
-   "tag": "GTA 6",
-   "cta_bio": "guia",
-   "postar_story": false,
-   "roteiro": [
+  ],
+  "itens": [
     {
-     "fala": "Jason com sono joga pior?",
-     "tela": "SONO ATRAPALHA?",
-     "imagem": "gta6/banco/oficial/pessoa-jason-duval-05.jpg"
+      "id": "01",
+      "formato": "reel",
+      "linhas": [
+        "FALTA",
+        "1 DIA"
+      ],
+      "destaque": [
+        1
+      ],
+      "sub": "Hoje à meia-noite, Leonida abre",
+      "cta": [
+        "ATIVA",
+        "O SININHO"
+      ],
+      "cta_sub": "Última noite de espera",
+      "tag": "CONTAGEM",
+      "cta_bio": "grupo",
+      "legenda": "Falta 1 dia pro GTA 6 ⏳\n\nNa virada de hoje pra quinta, à meia-noite, o jogo libera no Brasil. Comenta 🔥 se você vai estar acordado.",
+      "roteiro": [
+        {
+          "fala": "Falta um dia pro GTA 6.",
+          "tela": "FALTA 1 DIA",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-02.jpg"
+        },
+        {
+          "fala": "Hoje, à meia-noite, na virada pra quinta, o jogo libera no Brasil.",
+          "tela": "HOJE À MEIA-NOITE",
+          "imagem": "gta6/banco/oficial/lugar-leonida-keys-04.jpg"
+        },
+        {
+          "fala": "É a última noite de espera. Depois de tantos anos.",
+          "tela": "ÚLTIMA NOITE",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-02.jpg"
+        },
+        {
+          "fala": "Ativa o sininho e entra no grupo VIP pelo link da bio pra não perder nada.",
+          "tela": "LINK NA BIO",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-04.jpg"
+        }
+      ]
     },
     {
-     "fala": "A Rockstar contou: fome e sono pesam no jogo.",
-     "tela": "FOME E SONO CONTAM",
-     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-04.jpg"
+      "id": "02",
+      "formato": "carrossel",
+      "capa": [
+        "TEM FURACÃO",
+        "EM LEONIDA"
+      ],
+      "destaque": [
+        1
+      ],
+      "sub": "O 6º detalhe é o mais bonito",
+      "puxa_capa": "ARRASTA  >>",
+      "fotos": [
+        "ceu",
+        "miami"
+      ],
+      "slides": [
+        {
+          "titulo": "Clima refeito do zero",
+          "texto": "A Rockstar diz que refez o sistema de clima pra ser local e persistente.",
+          "puxa": "Na prática?"
+        },
+        {
+          "titulo": "Sol aqui, chuva ali",
+          "texto": "As nuvens andam pelo mapa: pode ter sol onde você está e tempestade logo ao lado.",
+          "puxa": "E depois da chuva?"
+        },
+        {
+          "titulo": "A rua fica molhada",
+          "texto": "A chuva deixa poças e chão molhado que continuam ali depois.",
+          "puxa": "E o vento?"
+        },
+        {
+          "titulo": "Vento de verdade",
+          "texto": "Brisa do mar depois do pôr do sol e prédio alto que corta o vento.",
+          "puxa": "Dá pra ver?"
+        },
+        {
+          "titulo": "Você vê o vento",
+          "texto": "Ele mexe no cabelo, na sujeira do telhado, na água e no capim do pântano.",
+          "puxa": "Agora o bonito"
+        },
+        {
+          "titulo": "Arco-íris",
+          "texto": "Na condição certa, aparece arco-íris depois da chuva.",
+          "puxa": "E o perigo?"
+        },
+        {
+          "titulo": "Furacão confirmado",
+          "texto": "Tempestade tropical e furacão, com chuva forte, raio e trovão. A Rockstar não disse com que frequência."
+        }
+      ],
+      "fecho": {
+        "titulo": [
+          "SOL OU",
+          "TEMPESTADE?"
+        ],
+        "texto": "Comenta como você quer o tempo na sua primeira volta por Vice City."
+      },
+      "cta_bio": "comunidade",
+      "legenda": "Leonida vai ter furacão de verdade 🌀⛈️\n\nVocê quer sol ou tempestade na primeira volta? Comenta e salva."
     },
     {
-     "fala": "Afetam o desempenho e o controle do casal.",
-     "tela": "MUDA O CONTROLE",
-     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-05.jpg"
+      "id": "04",
+      "formato": "reel",
+      "linhas": [
+        "DÁ PRA FAZER",
+        "CARINHO NO",
+        "CACHORRO"
+      ],
+      "destaque": [
+        2
+      ],
+      "sub": "E também dar bronca",
+      "cta": [
+        "COMENTA",
+        "AQUI"
+      ],
+      "cta_sub": "Carinho ou bronca?",
+      "tag": "CURIOSIDADE",
+      "cta_bio": "comunidade",
+      "legenda": "No GTA 6 dá pra fazer carinho no cachorro 🐶\n\nVocê faz carinho ou dá bronca? Comenta.",
+      "roteiro": [
+        {
+          "fala": "Dá pra fazer carinho no cachorro no GTA 6.",
+          "tela": "CARINHO NO CACHORRO",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-19.jpg"
+        },
+        {
+          "fala": "Na prévia da Rockstar, o Jason chega perto de um cachorro e aparecem três opções: carinho, bronca ou estudar.",
+          "tela": "3 OPÇÕES",
+          "imagem": "gta6/banco/oficial/pessoa-jason-duval-06.jpg"
+        },
+        {
+          "fala": "E tem raça de todo tipo: chihuahua, doberman, pastor alemão e rottweiler.",
+          "tela": "VÁRIAS RAÇAS",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-17.jpg"
+        },
+        {
+          "fala": "Comenta aí: você faz carinho ou dá bronca?",
+          "tela": "CARINHO OU BRONCA?",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-06.jpg"
+        }
+      ]
     },
     {
-     "fala": "Salva esse vídeo e cuida bem do Jason e da Lucia.",
-     "tela": "SALVA ESSA DICA",
-     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-07.jpg"
+      "id": "07",
+      "formato": "reel",
+      "linhas": [
+        "EU FINGINDO",
+        "QUE NÃO TÔ",
+        "ANSIOSO"
+      ],
+      "destaque": [
+        2
+      ],
+      "sub": "Véspera do GTA 6",
+      "cta": [
+        "MARCA",
+        "O AMIGO"
+      ],
+      "cta_sub": "que tá fingindo também",
+      "tag": "HUMOR",
+      "cta_bio": "grupo",
+      "legenda": "Tranquilo. Super tranquilo. Só olhei o relógio 30 vezes 😅\n\nMarca o amigo que tá fingindo também.",
+      "roteiro": [
+        {
+          "fala": "Eu, na véspera do GTA 6, fingindo que tô tranquilo.",
+          "tela": "SUPER TRANQUILO",
+          "imagem": "gta6/banco/oficial/pessoa-jason-duval-14.jpg"
+        },
+        {
+          "fala": "Ninguém percebeu que eu olhei o relógio trinta vezes.",
+          "tela": "30 VEZES",
+          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-06.jpg"
+        },
+        {
+          "fala": "Nem que o controle tá carregado desde domingo.",
+          "tela": "DESDE DOMINGO",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-23.jpg"
+        },
+        {
+          "fala": "Marca o amigo que tá fingindo também.",
+          "tela": "MARCA O AMIGO",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-15.jpg"
+        }
+      ]
+    },
+    {
+      "id": "10",
+      "formato": "reel",
+      "linhas": [
+        "FALTAM",
+        "3 HORAS"
+      ],
+      "destaque": [
+        1
+      ],
+      "sub": "Já sabe por onde começar?",
+      "cta": [
+        "LINK",
+        "NA BIO"
+      ],
+      "cta_sub": "Guia do GTA 6 em português",
+      "tag": "GUIA",
+      "cta_bio": "guia",
+      "legenda": "Faltam menos de 3 horas pro GTA 6 🌴\n\nO guia em português tá no link da bio. Comenta de onde você vai jogar.",
+      "roteiro": [
+        {
+          "fala": "Faltam menos de três horas pro GTA 6.",
+          "tela": "MENOS DE 3 HORAS",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-07.jpg"
+        },
+        {
+          "fala": "À meia-noite, no horário de Brasília, Leonida abre pro Brasil inteiro.",
+          "tela": "MEIA-NOITE",
+          "imagem": "gta6/banco/oficial/lugar-grassrivers-03.jpg"
+        },
+        {
+          "fala": "Vai cair no mapa sem saber por onde começar?",
+          "tela": "POR ONDE COMEÇAR?",
+          "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-02.jpg"
+        },
+        {
+          "fala": "O guia do GTA 6 em português tá no link da bio. Comenta de onde você vai jogar.",
+          "tela": "LINK NA BIO",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-16.jpg"
+        }
+      ]
+    },
+    {
+      "id": "R01",
+      "hora": "07:00",
+      "formato": "reel",
+      "linhas": [
+        "BOM DIA, VÉSPERA"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "grupo",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Bom dia, Leonida. Hoje é o último dia sem GTA 6.",
+          "tela": "ÚLTIMO DIA SEM GTA 6",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg"
+        },
+        {
+          "fala": "À meia-noite o jogo libera aqui no Brasil.",
+          "tela": "LIBERA À MEIA-NOITE",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-27.jpg"
+        },
+        {
+          "fala": "Se você comprou o digital, o pré-download já tá liberado.",
+          "tela": "PRÉ-DOWNLOAD LIBERADO",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
+        },
+        {
+          "fala": "Já tá pronto? Comenta pronto aqui embaixo.",
+          "tela": "COMENTA: PRONTO",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg"
+        }
+      ],
+      "legenda": "Último dia sem GTA 6 ☀️ À meia-noite libera no Brasil.\n\nJá tá pronto? Comenta PRONTO."
+    },
+    {
+      "id": "R02",
+      "hora": "07:30",
+      "formato": "reel",
+      "linhas": [
+        "212 GB: LIBERA ESPAÇO"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "ofertas",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Seu console tem espaço pro GTA 6?",
+          "tela": "TEM ESPAÇO?",
+          "imagem": "gta6/banco/oficial/pessoa-jason-duval-02.jpg"
+        },
+        {
+          "fala": "O jogo pode ocupar até duzentos e doze gigas.",
+          "tela": "ATÉ 212 GB",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-10.jpg"
+        },
+        {
+          "fala": "Apaga hoje o que você não joga mais, pra não perder a meia-noite.",
+          "tela": "APAGA HOJE",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-17.jpg"
+        },
+        {
+          "fala": "Salva esse vídeo e manda pro amigo esquecido.",
+          "tela": "MANDA PRO AMIGO",
+          "imagem": "gta6/banco/oficial/pessoa-cal-hampton-03.jpg"
+        }
+      ],
+      "legenda": "Seu console tem 212 GB livres? 💾 Confere hoje, não deixa pra meia-noite.\n\nSalva e manda pro amigo esquecido."
+    },
+    {
+      "id": "R03",
+      "hora": "08:30",
+      "formato": "reel",
+      "linhas": [
+        "3 COISAS PRA HOJE"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "guia",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Três coisas pra fazer hoje, antes do GTA 6.",
+          "tela": "3 COISAS PRA HOJE",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-08.jpg"
+        },
+        {
+          "fala": "Um: atualiza o console agora, não na hora.",
+          "tela": "1. ATUALIZA O CONSOLE",
+          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-01.jpg"
+        },
+        {
+          "fala": "Dois: termina o pré-download.",
+          "tela": "2. TERMINA O DOWNLOAD",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
+        },
+        {
+          "fala": "Três: deixa o controle carregando a tarde toda.",
+          "tela": "3. CARREGA O CONTROLE",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-08.jpg"
+        }
+      ],
+      "legenda": "3 coisas pra fazer HOJE antes do GTA 6 ✅\n\nSalva pra não esquecer."
+    },
+    {
+      "id": "R04",
+      "hora": "09:00",
+      "formato": "reel",
+      "linhas": [
+        "QUEM JOGA PRIMEIRO"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "comunidade",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Sabia que tem gente que joga GTA 6 antes da gente?",
+          "tela": "QUEM JOGA PRIMEIRO?",
+          "imagem": "gta6/banco/oficial/lugar-leonida-keys-01.jpg"
+        },
+        {
+          "fala": "O jogo libera à meia-noite no horário de cada país.",
+          "tela": "MEIA-NOITE LOCAL",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-27.jpg"
+        },
+        {
+          "fala": "Então quem tá do outro lado do mundo, como a Nova Zelândia, começa horas antes.",
+          "tela": "NOVA ZELÂNDIA PRIMEIRO",
+          "imagem": "gta6/banco/oficial/lugar-leonida-keys-03.jpg"
+        },
+        {
+          "fala": "No Brasil é meia-noite do dia dezenove. Ansioso?",
+          "tela": "BRASIL: 0H DO DIA 19",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg"
+        }
+      ],
+      "legenda": "Tem país que joga GTA 6 antes da gente 😤 Libera à meia-noite no horário local de cada lugar.\n\nNo Brasil: 0h do dia 19. Ansioso?"
+    },
+    {
+      "id": "R05",
+      "hora": "09:30",
+      "formato": "reel",
+      "linhas": [
+        "JASON E LUCIA"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "comunidade",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Você conhece os protagonistas do GTA 6?",
+          "tela": "CONHECE ELES?",
+          "imagem": "gta6/banco/oficial/arte-jason-and-lucia-rooftop.jpg"
+        },
+        {
+          "fala": "Jason Duval e Lucia Caminos.",
+          "tela": "JASON E LUCIA",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-01.jpg"
+        },
+        {
+          "fala": "É a primeira vez que a série tem um casal como protagonista.",
+          "tela": "PRIMEIRO CASAL",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg"
+        },
+        {
+          "fala": "Comenta J ou L: quem você vai gostar mais?",
+          "tela": "J OU L?",
+          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-03.jpg"
+        }
+      ],
+      "legenda": "Jason ou Lucia? 👀 O primeiro casal de protagonistas da série.\n\nComenta J ou L."
+    },
+    {
+      "id": "R06",
+      "hora": "10:30",
+      "formato": "reel",
+      "linhas": [
+        "6 REGIÕES EM 15s"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "ofertas",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "O mapa do GTA 6 em quinze segundos.",
+          "tela": "O MAPA EM 15s",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-01.jpg"
+        },
+        {
+          "fala": "Vice City, a cidade de neon.",
+          "tela": "VICE CITY",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg"
+        },
+        {
+          "fala": "Leonida Keys, as ilhas. Grassrivers, o pântano.",
+          "tela": "KEYS E GRASSRIVERS",
+          "imagem": "gta6/banco/oficial/lugar-grassrivers-01.jpg"
+        },
+        {
+          "fala": "Port Gellhorn, Ambrosia e Mount Kalaga no norte. Qual você explora primeiro?",
+          "tela": "QUAL PRIMEIRO?",
+          "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-01.jpg"
+        }
+      ],
+      "legenda": "O mapa do GTA 6 em 15 segundos 🗺️\n\nQual região você explora primeiro?"
+    },
+    {
+      "id": "R07",
+      "hora": "11:30",
+      "formato": "reel",
+      "linhas": [
+        "O REI DO PÂNTANO"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "guia",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Em Leonida tem mais de cento e cinquenta espécies de animais.",
+          "tela": "150+ ANIMAIS",
+          "imagem": "gta6/banco/oficial/lugar-grassrivers-04.jpg"
+        },
+        {
+          "fala": "Mas o rei é ele: o jacaré.",
+          "tela": "O REI: JACARÉ",
+          "imagem": "gta6/banco/oficial/lugar-grassrivers-06.jpg"
+        },
+        {
+          "fala": "Ele aparece no pântano, em piscina e até entrando em loja no trailer.",
+          "tela": "ATÉ NA LOJA",
+          "imagem": "gta6/banco/oficial/lugar-grassrivers-01.jpg"
+        },
+        {
+          "fala": "Você corre ou encara? Comenta.",
+          "tela": "CORRE OU ENCARA?",
+          "imagem": "gta6/banco/oficial/pessoa-jason-duval-11.jpg"
+        }
+      ],
+      "legenda": "O verdadeiro dono de Leonida 🐊\n\nVocê corre ou encara? Comenta."
+    },
+    {
+      "id": "R08",
+      "hora": "12:30",
+      "formato": "reel",
+      "linhas": [
+        "QUANTO CUSTA"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "ofertas",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Quanto custa o GTA 6 no Brasil?",
+          "tela": "QUANTO CUSTA?",
+          "imagem": "gta6/banco/oficial/arte-jason-and-lucia-robbery.jpg"
+        },
+        {
+          "fala": "Na loja digital: quatrocentos e quarenta e nove e noventa a edição Standard.",
+          "tela": "STANDARD R$ 449,90",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-02.jpg"
+        },
+        {
+          "fala": "E quinhentos e quarenta e nove e noventa a Ultimate.",
+          "tela": "ULTIMATE R$ 549,90",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-24.jpg"
+        },
+        {
+          "fala": "Comprando até dia vinte você leva o bônus. Link com oferta na bio.",
+          "tela": "BÔNUS ATÉ 20/11",
+          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-10.jpg"
+        }
+      ],
+      "legenda": "Quanto custa o GTA 6 no Brasil 💸 Standard R$ 449,90 e Ultimate R$ 549,90 nas lojas digitais.\n\nBônus da pré-venda até 20/11. Oferta da mídia física no link da bio."
+    },
+    {
+      "id": "R1330",
+      "hora": "13:30",
+      "formato": "reel",
+      "linhas": [
+        "50 ARTISTAS"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "guia",
+      "postar_story": true,
+      "roteiro": [
+        {
+          "fala": "Quem pintou os muros de Vice City?",
+          "tela": "QUEM PINTOU VICE CITY?",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-04.jpg"
+        },
+        {
+          "fala": "A Rockstar chamou mais de cinquenta artistas de rua.",
+          "tela": "+50 ARTISTAS DE RUA",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-05.jpg"
+        },
+        {
+          "fala": "O bairro Stockyard foi inspirado em Wynwood, em Miami.",
+          "tela": "STOCKYARD = WYNWOOD",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-06.jpg"
+        },
+        {
+          "fala": "Vai parar pra ver os murais? Comenta aí.",
+          "tela": "VAI PARAR PRA VER?",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-09.jpg"
+        }
+      ],
+      "legenda": "Mais de 50 artistas de rua pintaram os murais de Vice City 🎨 E o bairro Stockyard foi inspirado em Wynwood, Miami.\n\nVai parar pra fotografar os murais? Comenta aí.",
+      "fontes": [
+        "https://canaltech.com.br/games/rockstar-revela-segredos-absurdos-para-dar-vida-a-gta-6"
+      ]
+    },
+    {
+      "id": "R1430",
+      "hora": "14:30",
+      "formato": "reel",
+      "linhas": [
+        "REVÓLVER NOVO"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "ofertas",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Revólver novo na Ultimate Edition.",
+          "tela": "SÓ NA ULTIMATE",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-hawk-and-little-morgan-revolvers-01.jpg"
+        },
+        {
+          "fala": "São os revólveres Hawk e Little Morgan.",
+          "tela": "HAWK E LITTLE MORGAN",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-hawk-and-little-morgan-revolvers-02.jpg"
+        },
+        {
+          "fala": "E ainda pistolas personalizadas de Jason e de Lucia.",
+          "tela": "PISTOLAS DO CASAL",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-weapon-variants-01.jpg"
+        },
+        {
+          "fala": "Qual você equipa primeiro? Comenta.",
+          "tela": "QUAL VOCÊ EQUIPA?",
+          "imagem": "gta6/banco/oficial/pessoa-jason-duval-03.jpg"
+        }
+      ],
+      "legenda": "A Ultimate Edition traz os revólveres Hawk e Little Morgan 🔫 E versões personalizadas da Girardi ES9 do Jason e da Klose K17 da Lucia.\n\nQual você equipa primeiro? Comenta.",
+      "fontes": [
+        "https://www.pushsquare.com/news/2026/06/gta-6-ultimate-edition-and-more-detailed-ahead-of-pre-orders-going-live"
+      ]
+    },
+    {
+      "id": "R1530",
+      "hora": "15:30",
+      "formato": "reel",
+      "linhas": [
+        "SONO E FOME"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "guia",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "Jason com sono joga pior?",
+          "tela": "SONO ATRAPALHA?",
+          "imagem": "gta6/banco/oficial/pessoa-jason-duval-05.jpg"
+        },
+        {
+          "fala": "A Rockstar contou: fome e sono pesam no jogo.",
+          "tela": "FOME E SONO CONTAM",
+          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-04.jpg"
+        },
+        {
+          "fala": "Afetam o desempenho e o controle do casal.",
+          "tela": "MUDA O CONTROLE",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-05.jpg"
+        },
+        {
+          "fala": "Salva esse vídeo e cuida bem do Jason e da Lucia.",
+          "tela": "SALVA ESSA DICA",
+          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-07.jpg"
+        }
+      ],
+      "legenda": "Em GTA 6, comer e dormir mal tem consequência 😴 Segundo a Rockstar, alimentação e privação de sono afetam o desempenho e o controle de Jason e Lucia.\n\nSalva pra lembrar no dia 19.",
+      "fontes": [
+        "https://canaltech.com.br/games/rockstar-revela-segredos-absurdos-para-dar-vida-a-gta-6"
+      ]
+    },
+    {
+      "id": "R1600",
+      "hora": "16:00",
+      "formato": "reel",
+      "linhas": [
+        "CARRO X LANCHA"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "comunidade",
+      "postar_story": true,
+      "roteiro": [
+        {
+          "fala": "Carro ou lancha: qual você pega?",
+          "tela": "CARRO OU LANCHA?",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-01.jpg"
+        },
+        {
+          "fala": "De um lado, o Grotti Cheetah de noventa e cinco.",
+          "tela": "GROTTI CHEETAH '95",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-02.jpg"
+        },
+        {
+          "fala": "Do outro, a lancha Shitzu Squalo.",
+          "tela": "SHITZU SQUALO",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-squalo-01.jpg"
+        },
+        {
+          "fala": "Os dois vêm na Ultimate. Comenta: um ou dois?",
+          "tela": "COMENTA: 1 OU 2",
+          "imagem": "gta6/banco/oficial/edicao-ultimate-squalo-02.jpg"
+        }
+      ],
+      "legenda": "Grotti Cheetah ’95 ou lancha Shitzu Squalo? 🚗🚤 Os dois fazem parte da Ultimate Edition.\n\nComenta 1 pro carro ou 2 pra lancha.",
+      "fontes": [
+        "https://www.pushsquare.com/news/2026/06/gta-6-ultimate-edition-and-more-detailed-ahead-of-pre-orders-going-live"
+      ]
+    },
+    {
+      "id": "R1630",
+      "hora": "16:30",
+      "formato": "reel",
+      "linhas": [
+        "GTA 5 X GTA 6"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "comunidade",
+      "postar_story": false,
+      "roteiro": [
+        {
+          "fala": "GTA 5 contra GTA 6: o que muda?",
+          "tela": "GTA 5 X GTA 6",
+          "imagem": "gta6/banco/oficial/arte-jason-and-lucia-01.jpg"
+        },
+        {
+          "fala": "Trocar de personagem ficou mais simples que no 5.",
+          "tela": "TROCA MAIS SIMPLES",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-07.jpg"
+        },
+        {
+          "fala": "Jason e Lucia são casal: a escolha de um afeta o outro.",
+          "tela": "UM AFETA O OUTRO",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-09.jpg"
+        },
+        {
+          "fala": "E agora é um final só. Curtiu? Comenta.",
+          "tela": "UM FINAL SÓ. CURTIU?",
+          "imagem": "gta6/banco/oficial/arte-jason-lucia-motel.jpg"
+        }
+      ],
+      "legenda": "O que muda do GTA 5 pro GTA 6 🔄 Troca de personagem mais simples, decisões do casal ligadas e um final só, segundo a Rockstar.\n\nPrefere um final só ou vários? Comenta.",
+      "fontes": [
+        "https://canaltech.com.br/games/rockstar-revela-segredos-absurdos-para-dar-vida-a-gta-6"
+      ]
+    },
+    {
+      "id": "R1730",
+      "hora": "17:30",
+      "formato": "reel",
+      "linhas": [
+        "BÔNUS VINTAGE"
+      ],
+      "tag": "GTA 6",
+      "cta_bio": "ofertas",
+      "postar_story": true,
+      "roteiro": [
+        {
+          "fala": "Comprou na pré-venda? Olha o bônus.",
+          "tela": "BÔNUS DA PRÉ-VENDA",
+          "imagem": "gta6/banco/oficial/pacote-vintage-01.jpg"
+        },
+        {
+          "fala": "Vem o Vapid Stanier cinquenta e cinco e uma garagem em Ocean Beach.",
+          "tela": "STANIER '55 + GARAGEM",
+          "imagem": "gta6/banco/oficial/pacote-vintage-vapid-stanier-01.jpg"
+        },
+        {
+          "fala": "Mais roupas vintage e padrões de arma inspirados em Tommy Vercetti.",
+          "tela": "ESTILO TOMMY VERCETTI",
+          "imagem": "gta6/banco/oficial/pacote-vintage-exclusive-looks-01.jpg"
+        },
+        {
+          "fala": "Vale pra qualquer edição. Manda pro amigo e veja o link na bio.",
+          "tela": "LINK NA BIO",
+          "imagem": "gta6/banco/oficial/pacote-vintage-02.jpg"
+        }
+      ],
+      "legenda": "O bônus de pré-venda do GTA 6 🌴 Pacote Vintage Vice City: Vapid Stanier ’55, garagem em Ocean Beach, roupas vintage e padrões de arma inspirados em Tommy Vercetti. Vale pra qualquer edição.\n\nManda pro amigo que ainda não garantiu. Oferta da mídia física no link da bio.",
+      "fontes": [
+        "https://www.pushsquare.com/news/2026/06/gta-6-ultimate-edition-and-more-detailed-ahead-of-pre-orders-going-live"
+      ]
     }
-   ],
-   "legenda": "Em GTA 6, comer e dormir mal tem consequência 😴 Segundo a Rockstar, alimentação e privação de sono afetam o desempenho e o controle de Jason e Lucia.\n\nSalva pra lembrar no dia 19.",
-   "fontes": [
-    "https://canaltech.com.br/games/rockstar-revela-segredos-absurdos-para-dar-vida-a-gta-6"
-   ]
-  },
-  {
-   "id": "R1600",
-   "hora": "16:00",
-   "formato": "reel",
-   "linhas": [
-    "CARRO X LANCHA"
-   ],
-   "tag": "GTA 6",
-   "cta_bio": "comunidade",
-   "postar_story": true,
-   "roteiro": [
-    {
-     "fala": "Carro ou lancha: qual você pega?",
-     "tela": "CARRO OU LANCHA?",
-     "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-01.jpg"
-    },
-    {
-     "fala": "De um lado, o Grotti Cheetah de noventa e cinco.",
-     "tela": "GROTTI CHEETAH '95",
-     "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-02.jpg"
-    },
-    {
-     "fala": "Do outro, a lancha Shitzu Squalo.",
-     "tela": "SHITZU SQUALO",
-     "imagem": "gta6/banco/oficial/edicao-ultimate-squalo-01.jpg"
-    },
-    {
-     "fala": "Os dois vêm na Ultimate. Comenta: um ou dois?",
-     "tela": "COMENTA: 1 OU 2",
-     "imagem": "gta6/banco/oficial/edicao-ultimate-squalo-02.jpg"
-    }
-   ],
-   "legenda": "Grotti Cheetah ’95 ou lancha Shitzu Squalo? 🚗🚤 Os dois fazem parte da Ultimate Edition.\n\nComenta 1 pro carro ou 2 pra lancha.",
-   "fontes": [
-    "https://www.pushsquare.com/news/2026/06/gta-6-ultimate-edition-and-more-detailed-ahead-of-pre-orders-going-live"
-   ]
-  },
-  {
-   "id": "R1630",
-   "hora": "16:30",
-   "formato": "reel",
-   "linhas": [
-    "GTA 5 X GTA 6"
-   ],
-   "tag": "GTA 6",
-   "cta_bio": "comunidade",
-   "postar_story": false,
-   "roteiro": [
-    {
-     "fala": "GTA 5 contra GTA 6: o que muda?",
-     "tela": "GTA 5 X GTA 6",
-     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-01.jpg"
-    },
-    {
-     "fala": "Trocar de personagem ficou mais simples que no 5.",
-     "tela": "TROCA MAIS SIMPLES",
-     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-07.jpg"
-    },
-    {
-     "fala": "Jason e Lucia são casal: a escolha de um afeta o outro.",
-     "tela": "UM AFETA O OUTRO",
-     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-09.jpg"
-    },
-    {
-     "fala": "E agora é um final só. Curtiu? Comenta.",
-     "tela": "UM FINAL SÓ. CURTIU?",
-     "imagem": "gta6/banco/oficial/arte-jason-lucia-motel.jpg"
-    }
-   ],
-   "legenda": "O que muda do GTA 5 pro GTA 6 🔄 Troca de personagem mais simples, decisões do casal ligadas e um final só, segundo a Rockstar.\n\nPrefere um final só ou vários? Comenta.",
-   "fontes": [
-    "https://canaltech.com.br/games/rockstar-revela-segredos-absurdos-para-dar-vida-a-gta-6"
-   ]
-  },
-  {
-   "id": "R1730",
-   "hora": "17:30",
-   "formato": "reel",
-   "linhas": [
-    "BÔNUS VINTAGE"
-   ],
-   "tag": "GTA 6",
-   "cta_bio": "ofertas",
-   "postar_story": true,
-   "roteiro": [
-    {
-     "fala": "Comprou na pré-venda? Olha o bônus.",
-     "tela": "BÔNUS DA PRÉ-VENDA",
-     "imagem": "gta6/banco/oficial/pacote-vintage-01.jpg"
-    },
-    {
-     "fala": "Vem o Vapid Stanier cinquenta e cinco e uma garagem em Ocean Beach.",
-     "tela": "STANIER '55 + GARAGEM",
-     "imagem": "gta6/banco/oficial/pacote-vintage-vapid-stanier-01.jpg"
-    },
-    {
-     "fala": "Mais roupas vintage e padrões de arma inspirados em Tommy Vercetti.",
-     "tela": "ESTILO TOMMY VERCETTI",
-     "imagem": "gta6/banco/oficial/pacote-vintage-exclusive-looks-01.jpg"
-    },
-    {
-     "fala": "Vale pra qualquer edição. Manda pro amigo e veja o link na bio.",
-     "tela": "LINK NA BIO",
-     "imagem": "gta6/banco/oficial/pacote-vintage-02.jpg"
-    }
-   ],
-   "legenda": "O bônus de pré-venda do GTA 6 🌴 Pacote Vintage Vice City: Vapid Stanier ’55, garagem em Ocean Beach, roupas vintage e padrões de arma inspirados em Tommy Vercetti. Vale pra qualquer edição.\n\nManda pro amigo que ainda não garantiu. Oferta da mídia física no link da bio.",
-   "fontes": [
-    "https://www.pushsquare.com/news/2026/06/gta-6-ultimate-edition-and-more-detailed-ahead-of-pre-orders-going-live"
-   ]
-  }
- ]
+  ]
 }
