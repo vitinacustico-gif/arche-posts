@@ -1933,6 +1933,38 @@
   "base": "midia-2026-11-18"
  },
  {
+  "id": "2026-11-18-R2330",
+  "pauta": "2026-11-18",
+  "data": "2026-11-18",
+  "hora": "23:30",
+  "formato": "reel",
+  "titulo": "FALTAM 30 MIN",
+  "arquivos": [
+   "gta6/midia/2026-11-18/R2330.mp4"
+  ],
+  "legenda": "Faltam 30 minutos pro GTA 6 ⏳🔥 À meia-noite libera no Brasil.\n\nComenta TÔ ON se você vai estar acordado e segue a página pra não perder o aviso.\n\n🔗 Quer as ofertas de PS5, Xbox e acessórios antes de todo mundo? Entra no Grupo VIP grátis pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "capa": "gta6/midia/2026-11-18/R2330_capa.jpg",
+  "thumb_offset_ms": 450,
+  "story": "gta6/midia/2026-11-18/R2330.mp4",
+  "base": "midia-2026-11-18"
+ },
+ {
+  "id": "2026-11-19-R0000",
+  "pauta": "2026-11-19",
+  "data": "2026-11-19",
+  "hora": "00:00",
+  "formato": "reel",
+  "titulo": "LIBEROU!",
+  "arquivos": [
+   "gta6/midia/2026-11-19/R0000.mp4"
+  ],
+  "legenda": "LIBEROU! 🚨 O GTA 6 já está no ar no Brasil. Bem-vindo a Leonida 🌴\n\nJá entrou? Comenta o que você fez primeiro. E segue a página: a partir de hoje tem dica, segredo e cheat confirmado todo dia.\n\n🔗 O guia do GTA 6 em PT-BR está quase pronto. Garante seu lugar na lista de espera pelo link na bio.\n\nPágina de fã, sem vínculo com a Rockstar Games.\n#GTA6 #GTAVI #GTA6Brasil #NerdGTA #Leonida #ViceCity #PS5 #XboxSeriesX #gamer",
+  "capa": "gta6/midia/2026-11-19/R0000_capa.jpg",
+  "thumb_offset_ms": 450,
+  "story": "gta6/midia/2026-11-19/R0000.mp4",
+  "base": "midia-2026-11-19"
+ },
+ {
   "id": "2026-11-19-01",
   "pauta": "2026-11-19",
   "data": "2026-11-19",

@@ -180,6 +180,42 @@
           "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-19.jpg"
         }
       ]
+    },
+    {
+      "id": "R0000",
+      "hora": "00:00",
+      "formato": "reel",
+      "linhas": [
+        "LIBEROU!"
+      ],
+      "tag": "LANÇAMENTO",
+      "estilo": "manchete",
+      "cta_bio": "guia",
+      "postar_story": true,
+      "roteiro": [
+        {
+          "fala": "Liberou! O GTA 6 já está no ar no Brasil.",
+          "tela": "LIBEROU!",
+          "imagem": "gta6/banco/oficial/arte-jason-and-lucia-rooftop.jpg"
+        },
+        {
+          "fala": "Se o seu já baixou, é só entrar e começar a história de Jason e Lucia.",
+          "tela": "JÁ PODE JOGAR",
+          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-07.jpg"
+        },
+        {
+          "fala": "Ainda não apareceu? Reinicia o console e confere a biblioteca.",
+          "tela": "NÃO APARECEU?",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-21.jpg"
+        },
+        {
+          "fala": "Segue a página: a partir de hoje tem dica, segredo e cheat confirmado todo dia.",
+          "tela": "SEGUE A PÁGINA",
+          "imagem": "gta6/banco/oficial/arte-jason-and-lucia-robbery.jpg"
+        }
+      ],
+      "legenda": "LIBEROU! 🚨 O GTA 6 já está no ar no Brasil. Bem-vindo a Leonida 🌴\n\nJá entrou? Comenta o que você fez primeiro. E segue a página: a partir de hoje tem dica, segredo e cheat confirmado todo dia.",
+      "fontes": []
     }
   ]
 }

@@ -739,6 +739,42 @@
       "fontes": [
         "https://www.pushsquare.com/news/2026/06/gta-6-ultimate-edition-and-more-detailed-ahead-of-pre-orders-going-live"
       ]
+    },
+    {
+      "id": "R2330",
+      "hora": "23:30",
+      "formato": "reel",
+      "linhas": [
+        "FALTAM 30 MIN"
+      ],
+      "tag": "LANÇAMENTO",
+      "estilo": "impacto",
+      "cta_bio": "grupo",
+      "postar_story": true,
+      "roteiro": [
+        {
+          "fala": "Faltam trinta minutos pro GTA 6.",
+          "tela": "FALTAM 30 MIN",
+          "imagem": "gta6/banco/oficial/arte-official-cover-art.jpg"
+        },
+        {
+          "fala": "À meia-noite o jogo libera no Brasil.",
+          "tela": "MEIA-NOITE LIBERA",
+          "imagem": "gta6/banco/oficial/arte-jason-and-lucia-01.jpg"
+        },
+        {
+          "fala": "Download feito, controle carregado e energético na mão?",
+          "tela": "TÁ TUDO PRONTO?",
+          "imagem": "gta6/banco/oficial/lugar-vice-city-12.jpg"
+        },
+        {
+          "fala": "Comenta tô on e segue a página, que à meia-noite eu aviso aqui.",
+          "tela": "COMENTA TÔ ON",
+          "imagem": "gta6/banco/oficial/arte-jason-and-lucia-lock-and-load.jpg"
+        }
+      ],
+      "legenda": "Faltam 30 minutos pro GTA 6 ⏳🔥 À meia-noite libera no Brasil.\n\nComenta TÔ ON se você vai estar acordado e segue a página pra não perder o aviso.",
+      "fontes": []
     }
   ]
 }
