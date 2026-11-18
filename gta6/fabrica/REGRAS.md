@@ -45,9 +45,9 @@ Se o `status.py` devolver `serie_no_dia_gerado`, o dia tem 1 peça a mais: um ca
 
 ## Reels narrados (obrigatório desde 12/11)
 Todo reel leva `"roteiro"`: 3 a 5 cenas `{"fala": "...", "tela": "TEXTO CURTO", "imagem": "gta6/banco/oficial/..."}`. A 1ª fala é o gancho (pergunta, aviso ou número) e a última pede comentário ou compartilhamento. Fala curta e falada (números por extenso quando soa melhor, "PlayStation 5" em vez de "PS5"). Cada cena com imagem diferente, sem repetir no mesmo dia.
-Como gerar a voz (ElevenLabs via Composio, voz `TX3LPaxmHKxFdv7VOQHJ`, modelo `eleven_multilingual_v2`, stability 0.4, similarity 0.8, style 0.3):
+Como gerar a voz (GRATUITA: voz neural da Microsoft via edge-tts, `pt-BR-AntonioNeural`, rate +10%; Victor não usa ElevenLabs pago):
 1. Escreva `gta6/narracao_job.json` = lista `[{"path": "gta6/narracao/<data>-<id>/NN.mp3", "text": fala}]`, faça commit e push.
-2. No COMPOSIO_REMOTE_WORKBENCH: baixe o job pelo raw do GitHub, chame `ELEVENLABS_TEXT_TO_SPEECH` para cada fala (8 em paralelo), baixe o `data.file.s3url` com requests e suba todos os mp3 num commit só pela API Git do GitHub (`proxy_execute` com toolkit "github": blobs → tree com base_tree → commit → PATCH refs/heads/gta6).
+2. No COMPOSIO_REMOTE_WORKBENCH: `pip install -q edge-tts`, baixe o job pelo raw do GitHub, gere cada fala com `edge_tts.Communicate(texto, "pt-BR-AntonioNeural", rate="+10%").save(arquivo)` (até 4 ao mesmo tempo) e suba todos os mp3 num commit só pela API Git do GitHub (`proxy_execute` com toolkit "github": blobs → tree com base_tree → commit → PATCH refs/heads/gta6).
 3. `git pull` e rode o gerar.py normalmente: o reel com roteiro sai narrado (narrado.py).
 Se a voz falhar (cota do plano grátis: 10 mil caracteres por mês), remova o "roteiro" do item e gere o reel no estilo antigo, e avise Victor na mensagem final.
 
