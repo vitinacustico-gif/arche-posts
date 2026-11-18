@@ -638,6 +638,278 @@
     "https://gamingbolt.com/gta-6-features-over-170-animal-species-including-never-before-seen-additions",
     "https://www.gfinityesports.com/article/gta-6-wildlife-guide-all-confirmed-animals-pets"
    ]
+  },
+  {
+   "id": "R01",
+   "hora": "07:00",
+   "formato": "reel",
+   "linhas": [
+    "BOM DIA, VÉSPERA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Bom dia, Leonida. Hoje é o último dia sem GTA 6.",
+     "tela": "ÚLTIMO DIA SEM GTA 6",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg"
+    },
+    {
+     "fala": "À meia-noite o jogo libera aqui no Brasil.",
+     "tela": "LIBERA À MEIA-NOITE",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-27.jpg"
+    },
+    {
+     "fala": "Se você comprou o digital, o pré-download já tá liberado.",
+     "tela": "PRÉ-DOWNLOAD LIBERADO",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
+    },
+    {
+     "fala": "Já tá pronto? Comenta pronto aqui embaixo.",
+     "tela": "COMENTA: PRONTO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg"
+    }
+   ],
+   "legenda": "Último dia sem GTA 6 ☀️ À meia-noite libera no Brasil.\n\nJá tá pronto? Comenta PRONTO."
+  },
+  {
+   "id": "R02",
+   "hora": "07:30",
+   "formato": "reel",
+   "linhas": [
+    "212 GB: LIBERA ESPAÇO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Seu console tem espaço pro GTA 6?",
+     "tela": "TEM ESPAÇO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-02.jpg"
+    },
+    {
+     "fala": "O jogo pode ocupar até duzentos e doze gigas.",
+     "tela": "ATÉ 212 GB",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-10.jpg"
+    },
+    {
+     "fala": "Apaga hoje o que você não joga mais, pra não perder a meia-noite.",
+     "tela": "APAGA HOJE",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-17.jpg"
+    },
+    {
+     "fala": "Salva esse vídeo e manda pro amigo esquecido.",
+     "tela": "MANDA PRO AMIGO",
+     "imagem": "gta6/banco/oficial/pessoa-cal-hampton-03.jpg"
+    }
+   ],
+   "legenda": "Seu console tem 212 GB livres? 💾 Confere hoje, não deixa pra meia-noite.\n\nSalva e manda pro amigo esquecido."
+  },
+  {
+   "id": "R03",
+   "hora": "08:30",
+   "formato": "reel",
+   "linhas": [
+    "3 COISAS PRA HOJE"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Três coisas pra fazer hoje, antes do GTA 6.",
+     "tela": "3 COISAS PRA HOJE",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-08.jpg"
+    },
+    {
+     "fala": "Um: atualiza o console agora, não na hora.",
+     "tela": "1. ATUALIZA O CONSOLE",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-01.jpg"
+    },
+    {
+     "fala": "Dois: termina o pré-download.",
+     "tela": "2. TERMINA O DOWNLOAD",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
+    },
+    {
+     "fala": "Três: deixa o controle carregando a tarde toda.",
+     "tela": "3. CARREGA O CONTROLE",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-08.jpg"
+    }
+   ],
+   "legenda": "3 coisas pra fazer HOJE antes do GTA 6 ✅\n\nSalva pra não esquecer."
+  },
+  {
+   "id": "R04",
+   "hora": "09:00",
+   "formato": "reel",
+   "linhas": [
+    "QUEM JOGA PRIMEIRO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Sabia que tem gente que joga GTA 6 antes da gente?",
+     "tela": "QUEM JOGA PRIMEIRO?",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-01.jpg"
+    },
+    {
+     "fala": "O jogo libera à meia-noite no horário de cada país.",
+     "tela": "MEIA-NOITE LOCAL",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-27.jpg"
+    },
+    {
+     "fala": "Então quem tá do outro lado do mundo, como a Nova Zelândia, começa horas antes.",
+     "tela": "NOVA ZELÂNDIA PRIMEIRO",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-03.jpg"
+    },
+    {
+     "fala": "No Brasil é meia-noite do dia dezenove. Ansioso?",
+     "tela": "BRASIL: 0H DO DIA 19",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg"
+    }
+   ],
+   "legenda": "Tem país que joga GTA 6 antes da gente 😤 Libera à meia-noite no horário local de cada lugar.\n\nNo Brasil: 0h do dia 19. Ansioso?"
+  },
+  {
+   "id": "R05",
+   "hora": "09:30",
+   "formato": "reel",
+   "linhas": [
+    "JASON E LUCIA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Você conhece os protagonistas do GTA 6?",
+     "tela": "CONHECE ELES?",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-rooftop.jpg"
+    },
+    {
+     "fala": "Jason Duval e Lucia Caminos.",
+     "tela": "JASON E LUCIA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-01.jpg"
+    },
+    {
+     "fala": "É a primeira vez que a série tem um casal como protagonista.",
+     "tela": "PRIMEIRO CASAL",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg"
+    },
+    {
+     "fala": "Comenta J ou L: quem você vai gostar mais?",
+     "tela": "J OU L?",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-03.jpg"
+    }
+   ],
+   "legenda": "Jason ou Lucia? 👀 O primeiro casal de protagonistas da série.\n\nComenta J ou L."
+  },
+  {
+   "id": "R06",
+   "hora": "10:30",
+   "formato": "reel",
+   "linhas": [
+    "6 REGIÕES EM 15s"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "O mapa do GTA 6 em quinze segundos.",
+     "tela": "O MAPA EM 15s",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-01.jpg"
+    },
+    {
+     "fala": "Vice City, a cidade de neon.",
+     "tela": "VICE CITY",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg"
+    },
+    {
+     "fala": "Leonida Keys, as ilhas. Grassrivers, o pântano.",
+     "tela": "KEYS E GRASSRIVERS",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-01.jpg"
+    },
+    {
+     "fala": "Port Gellhorn, Ambrosia e Mount Kalaga no norte. Qual você explora primeiro?",
+     "tela": "QUAL PRIMEIRO?",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-01.jpg"
+    }
+   ],
+   "legenda": "O mapa do GTA 6 em 15 segundos 🗺️\n\nQual região você explora primeiro?"
+  },
+  {
+   "id": "R07",
+   "hora": "11:30",
+   "formato": "reel",
+   "linhas": [
+    "O REI DO PÂNTANO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Em Leonida tem mais de cento e cinquenta espécies de animais.",
+     "tela": "150+ ANIMAIS",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-04.jpg"
+    },
+    {
+     "fala": "Mas o rei é ele: o jacaré.",
+     "tela": "O REI: JACARÉ",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-06.jpg"
+    },
+    {
+     "fala": "Ele aparece no pântano, em piscina e até entrando em loja no trailer.",
+     "tela": "ATÉ NA LOJA",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-01.jpg"
+    },
+    {
+     "fala": "Você corre ou encara? Comenta.",
+     "tela": "CORRE OU ENCARA?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-11.jpg"
+    }
+   ],
+   "legenda": "O verdadeiro dono de Leonida 🐊\n\nVocê corre ou encara? Comenta."
+  },
+  {
+   "id": "R08",
+   "hora": "12:30",
+   "formato": "reel",
+   "linhas": [
+    "QUANTO CUSTA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Quanto custa o GTA 6 no Brasil?",
+     "tela": "QUANTO CUSTA?",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-robbery.jpg"
+    },
+    {
+     "fala": "Na loja digital: quatrocentos e quarenta e nove e noventa a edição Standard.",
+     "tela": "STANDARD R$ 449,90",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-02.jpg"
+    },
+    {
+     "fala": "E quinhentos e quarenta e nove e noventa a Ultimate.",
+     "tela": "ULTIMATE R$ 549,90",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-24.jpg"
+    },
+    {
+     "fala": "Comprando até dia vinte você leva o bônus. Link com oferta na bio.",
+     "tela": "BÔNUS ATÉ 20/11",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-10.jpg"
+    }
+   ],
+   "legenda": "Quanto custa o GTA 6 no Brasil 💸 Standard R$ 449,90 e Ultimate R$ 549,90 nas lojas digitais.\n\nBônus da pré-venda até 20/11. Oferta da mídia física no link da bio."
   }
  ]
 }

@@ -28,7 +28,7 @@ def _fala_ativa(v, sr):
     """início e fim reais da voz dentro do mp3 (corta silêncio)."""
     e = np.convolve(np.abs(v), np.ones(441) / 441, "same")
     idx = np.where(e > 0.02)[0]
-    if len(idx) == 0: return 0, len(v) / sr
+    if len(idx) == 0: return 0.15, len(v) / sr - 0.2
     return idx[0] / sr, idx[-1] / sr
 
 
@@ -70,7 +70,14 @@ def reel_narrado(item, saida, g):
     W, H, FPS, SR = 1080, 1920, g.FPS, g.SR
     pasta = g.RAIZ / "narracao" / f'{item["_pauta"]}-{item["id"]}'
     cenas = item["roteiro"]
-    vozes = [_audio(pasta / f"{k + 1:02d}.mp3", SR) for k in range(len(cenas))]
+    def _voz(k):
+        mp3 = pasta / f"{k + 1:02d}.mp3"
+        if mp3.exists():
+            return _audio(mp3, SR)
+        d = max(2.2, min(4.5, 0.075 * len(cenas[k]["fala"]) + 0.9))  # sem voz: tempo de leitura
+        return np.zeros(int(d * SR), np.float32)
+    vozes = [_voz(k) for k in range(len(cenas))]
+    sem_voz = all(not (pasta / f"{k + 1:02d}.mp3").exists() for k in range(len(cenas)))
     PAD, FIM = 0.12, 1.6
     t0, durs, falas = [], [], []
     acc = 0.05
@@ -88,6 +95,8 @@ def reel_narrado(item, saida, g):
     mus = g.trilha(total, bpm=118, seed=len(item["id"]) + 7, eventos=eventos)[:, 0][:n]
     envv = np.convolve(np.abs(voz), np.ones(2400) / 2400, "same")
     duck = np.convolve(np.where(envv > 0.01, 0.15, 0.45), np.ones(4800) / 4800, "same")
+    if sem_voz:
+        duck = np.full(n, 0.9, np.float32)
     mix = voz + mus * duck
     mix = mix / (np.abs(mix).max() + 1e-9) * 0.95
     tmp = pathlib.Path(tempfile.mkdtemp()); wav = tmp / "a.wav"
