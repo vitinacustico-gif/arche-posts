@@ -12,17 +12,24 @@ agora = datetime.datetime.now(BR)
 margem = agora + datetime.timedelta(minutes=int(sys.argv[1]) if len(sys.argv) > 1 else 45)
 ocupado = {(c["data"], c["hora"][:5]) for c in cal}
 # horários da fábrica diária (posts/carrosséis/série) ficam reservados mesmo antes de o dia ser gerado
-reservado = set(CFG["horarios"]) | {CFG["serie"]["hora_normal"]}
+reservado_antigo = set(CFG["horarios"]) | {CFG["serie"]["hora_normal"]}
+SD = R.get("serie_diaria")
 livres = []
 for dd in range(0, 3):
     d = (agora.date() + datetime.timedelta(days=dd)).isoformat()
     if d < R["de"]:
         continue
-    for h in R["slots"]:
+    grade = R["slots_24"] if d >= R.get("grade_24_de", "9999") else R["slots"]
+    reservado = set() if d >= R.get("so_reels_de", "9999") else reservado_antigo
+    for h in grade:
         quando = datetime.datetime.fromisoformat(f"{d}T{h}:00").replace(tzinfo=BR)
         if quando < margem or (d, h) in ocupado or h in reservado:
             continue
-        livres.append({"data": d, "hora": h, "id": "R" + h.replace(":", "")})
+        s_ = {"data": d, "hora": h, "id": "R" + h.replace(":", "")}
+        if SD and d >= SD["de"] and h == SD["hora"]:
+            n = SD["n_inicial"] + (datetime.date.fromisoformat(d) - datetime.date.fromisoformat(SD["de"])).days
+            s_["serie"] = SD["titulo"].format(n=n)
+        livres.append(s_)
 livres = livres[: R["por_execucao"]]
 stories = {}
 for dd in range(0, 3):

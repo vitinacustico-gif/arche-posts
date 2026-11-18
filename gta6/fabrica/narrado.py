@@ -242,9 +242,9 @@ def reel_narrado(item, saida, g):
             lin = _linhas(c["tela"])
             titulos.append(g.bloco_titulo(lin, W - 120, tam=150, tam_min=70, altura_max=420, destaque=[len(lin) - 1]))
         karas.append(Karaoke(g, c["fala"], falas[k][0], falas[k][1], W, E["kfonte"][0], E["kfonte"][1], acento, E["kcaixa"]))
-    cta_l = item.get("cta", ["LINK", "NA BIO"])
+    cta_l = item.get("cta", ["SEGUE", "@NERD_GTA"])
     cta = g.bloco_titulo(cta_l, W - 140, tam=190, destaque=[len(cta_l) - 1]) if estilo == "neon" else _titulo_impacto(g, " ".join(cta_l), W, acento)
-    cta_sub = g.bloco_texto(item.get("cta_sub", "Grupo VIP, ofertas e o guia do GTA 6"), W - 200, 46, "700")
+    cta_sub = g.bloco_texto(item.get("cta_sub", "Todo dia tem mais GTA 6 aqui. Ofertas e grupo VIP no link da bio"), W - 200, 46, "700")
     fh = g.ft(g.INTER["900"], 38); fm = g.ft(g.INTER["900"], 26)
     arq = saida / f"{item['id']}.mp4"
     enc = subprocess.Popen(["ffmpeg", "-v", "error", "-y", "-f", "rawvideo", "-pix_fmt", "rgb24", "-s", f"{W}x{H}", "-r", str(FPS), "-i", "-",

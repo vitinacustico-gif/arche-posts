@@ -1,4 +1,11 @@
-# Fábrica de Reels (2 publicações por hora)
+# Fábrica de Reels
+
+## Decisões do Victor em 18/11 (com base nos números do perfil)
+- SÓ REELS: posts e carrosséis chegavam a ~5 contas; Reels a ~200. Não faça mais post nem carrossel.
+- A partir de 19/11: 24 Reels por dia, 1 por hora (00:00 a 23:00). Até 18/11 seguem 2 por hora.
+- Todo Reel termina pedindo para SEGUIR (o motor já põe "SEGUE @NERD_GTA" no cartão final). A última fala também pede para seguir: "segue a página que amanhã tem mais" ou parecido.
+- Série diária às 8h: "DIA N EM LEONIDA" (o status_reels.py manda o título no campo "serie"). Formato campeão do perfil (a contagem regressiva teve média de 387 contas). Gancho: o que aconteceu/descobriram no dia N, dica do dia N, ou desafio do dia N.
+- O que mais funcionou: dúvida real respondida ("GTA 6 no PC dia 19? Ainda não": 1.061 contas), coisa útil ("3 coisas pra fazer hoje"), pergunta que divide ("quem joga primeiro"). O que menos funcionou: aviso sem utilidade, enquete genérica.
 
 Desde 18/11 o feed do @nerd_gta tem 36 horários por dia: 00:00, 00:30 e de 7:00 às 23:30, de meia em meia hora.
 A fábrica diária ocupa 11 (posts, carrosséis, comunicado, série); a **fábrica de Reels** preenche o resto com Reels narrados, sempre 45+ min antes do horário.
@@ -7,7 +14,7 @@ A fábrica diária ocupa 11 (posts, carrosséis, comunicado, série); a **fábri
 O motor tem 5 estilos de Reel: neon, manchete, cinema, tweet e impacto. Ele gira sozinho pela meia hora (dois Reels seguidos nunca ficam iguais). Só ponha "estilo" no item para forçar quando combinar muito: "manchete" para notícia, "tweet" para opinião/pergunta, "impacto" para número/lista, "cinema" para personagem/lugar.
 
 ## Cada execução
-1. `python3 gta6/fabrica/status_reels.py` → `slots` (até 6 horários vazios), `stories_livres` por dia e `recentes` (não repetir tema nem título).
+1. `python3 gta6/fabrica/status_reels.py` → `slots` (até 6 horários vazios; se o slot tiver "serie", o Reel é dessa série e o título da 1ª cena é o da série), `stories_livres` por dia e `recentes` (não repetir tema nem título).
    Sem slots: termine sem mensagem.
 2. Pesquisa rápida (WebSearch modo standard, várias no mesmo turno): "GTA 6 notícias hoje", "GTA 6 news", "GTA 6 dicas" e, a partir de 19/11, "GTA 6 review", "GTA 6 easter egg", "GTA 6 how to". Abra com WebFetch o que for virar fato. Guarde as URLs em `fontes` do item.
 3. Um Reel por slot, **assuntos variados** no mesmo lote (não repita categoria seguida): notícia do dia, dica prática, curiosidade/easter egg, personagem, região do mapa, veículo, arma, animal, humor da espera ou do lançamento, enquete (A ou B), comparação GTA 5 x GTA 6, oferta (jogo/console/acessório com link na bio, sem preço fixo), pergunta pra comunidade.

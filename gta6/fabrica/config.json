@@ -165,6 +165,41 @@
     "por_execucao": 6,
     "limite_api_24h": 50,
     "stories_max_dia": 14,
-    "nota": "2 publicações por hora (7h às 0h30) = 36 no feed por dia; stories só até completar 50 por dia. Reels feitos pela tarefa 'GTA 6: fábrica de Reels' (status_reels.py)."
+    "nota": "Desde 18/11 só Reels (posts e carrosséis chegavam a ~5 contas). Até 18/11: 2 por hora. A partir de 19/11: 1 por hora, 24 por dia, todos feitos pela Fábrica de Reels; a fábrica da noite não gera mais peças.",
+    "so_reels_de": "2026-11-18",
+    "grade_24_de": "2026-11-19",
+    "slots_24": [
+      "00:00",
+      "01:00",
+      "02:00",
+      "03:00",
+      "04:00",
+      "05:00",
+      "06:00",
+      "07:00",
+      "08:00",
+      "09:00",
+      "10:00",
+      "11:00",
+      "12:00",
+      "13:00",
+      "14:00",
+      "15:00",
+      "16:00",
+      "17:00",
+      "18:00",
+      "19:00",
+      "20:00",
+      "21:00",
+      "22:00",
+      "23:00"
+    ],
+    "serie_diaria": {
+      "de": "2026-11-21",
+      "hora": "08:00",
+      "titulo": "DIA {n} EM LEONIDA",
+      "n_inicial": 3,
+      "nota": "19/11 = Dia 1 (É HOJE), 20/11 = Dia 2; daí em diante todo dia às 8h"
+    }
   }
 }
