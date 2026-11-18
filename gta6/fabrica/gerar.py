@@ -1016,6 +1016,7 @@ def reel(item, saida):
             capa = rgb
         enc.stdin.write(rgb.tobytes())
     enc.stdin.close(); enc.wait()
+    limpar_video(arq)
     capa_arq = saida / f"{item['id']}_capa.jpg"
     (capa or rgb).save(capa_arq, quality=88)
     item["_thumb_ms"] = int(capa_t * 1000)
@@ -1034,6 +1035,15 @@ CTA_BIO = {
 # arquivos limpos: sem tags de encoder, sem SEI do x264, sem datas
 SEM_METADADOS = ["-map_metadata", "-1", "-map_chapters", "-1", "-fflags", "+bitexact", "-flags:v", "+bitexact",
                  "-flags:a", "+bitexact", "-bsf:v", "filter_units=remove_types=6", "-metadata", "encoder=", "-metadata:s", "handler_name=", "-metadata:s:v", "encoder=", "-metadata:s:a", "encoder="]
+
+
+def limpar_video(arq):
+    """Remux sem reencode: tira a etiqueta de encoder que o ffmpeg grava no stream ao codificar."""
+    tmp = str(arq) + ".tmp.mp4"
+    subprocess.run(["ffmpeg", "-v", "error", "-y", "-i", str(arq), "-map", "0", "-c", "copy", "-map_metadata", "-1", "-fflags", "+bitexact",
+                    "-metadata", "encoder=", "-metadata:s", "handler_name=", "-metadata:s:v", "encoder=", "-metadata:s:a", "encoder=",
+                    "-movflags", "+faststart", tmp], check=True)
+    os.replace(tmp, arq)
 
 
 def legenda(item, n=0):

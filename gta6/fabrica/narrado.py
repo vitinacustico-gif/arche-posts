@@ -215,6 +215,7 @@ def reel_narrado(item, saida, g):
             capa = rgb
         enc.stdin.write(rgb.tobytes())
     enc.stdin.close(); enc.wait()
+    g.limpar_video(arq)
     capa_arq = saida / f"{item['id']}_capa.jpg"
     capa.save(capa_arq, quality=88)
     item["_thumb_ms"] = 450
