@@ -41,7 +41,7 @@ Só o corpo: gancho forte de 1 linha (curiosidade, número ou polêmica leve) + 
 Antes de escolher os temas do dia, leia `gta6/fabrica/SUGESTOES.md` e use a primeira pauta não riscada (marque [x] depois de usar).
 
 ## Série Nerd GTA (30 dias, 11/11 a 10/12)
-Se o `status.py` devolver `serie_no_dia_gerado`, o dia tem 1 peça a mais: um carrossel "tela dividida" do tema indicado, seguindo `gta6/fabrica/SERIE.md` (assunto do dia, regras de cheats e de vazamento). Em dias normais, esse item entra com `"hora":"14:07"` e `"serie":"<tema>"`; o total do dia passa a ser 11 (`pecas_no_dia_gerado`). Marque [feito] na tabela do SERIE.md.
+Se o `status.py` devolver `serie_no_dia_gerado`, o dia tem 1 peça a mais: um carrossel "tela dividida" do tema indicado, seguindo `gta6/fabrica/SERIE.md` (assunto do dia, regras de cheats e de vazamento). Em dias normais, esse item entra com `"hora":"14:00"` e `"serie":"<tema>"`; o total do dia passa a ser 11 (`pecas_no_dia_gerado`). Marque [feito] na tabela do SERIE.md.
 
 ## Reels narrados (obrigatório desde 12/11)
 Todo reel leva `"roteiro"`: 3 a 5 cenas `{"fala": "...", "tela": "TEXTO CURTO", "imagem": "gta6/banco/oficial/..."}`. A 1ª fala é o gancho (pergunta, aviso ou número) e a última pede comentário ou compartilhamento. Fala curta e falada (números por extenso quando soa melhor, "PlayStation 5" em vez de "PS5"). Cada cena com imagem diferente, sem repetir no mesmo dia.
