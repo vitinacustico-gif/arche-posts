@@ -12,7 +12,8 @@
   "https://www.gtabase.com/articles/gta-6/gta-6-previews-recap-all-new-gameplay-features-revealed",
   "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/",
   "https://www.techspot.com/news/113647-gta-6-80-hour-story-3x-bigger-map.html?rand=98523",
-  "https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-revealed-rockstar-says-for-the-first-time-in-grand-theft-auto-history-there-are-also-in-game-podcasts/"
+  "https://www.gamesradar.com/games/grand-theft-auto/gta-6-radio-stations-revealed-rockstar-says-for-the-first-time-in-grand-theft-auto-history-there-are-also-in-game-podcasts/",
+  "https://www.fox5dc.com/news/grand-theft-auto-6-already-1-billion-sales-week-before-launch"
  ],
  "itens": [
   {
@@ -885,6 +886,44 @@
    "legenda": "❤️ No GTA 6 tem barra de relacionamento entre Jason e Lucia, segundo as prévias: mensagem respondida ajuda, ignorada pesa com o tempo. E dá pra andar de mão dada e abrir a porta um pro outro.\n\nVocê responde rápido ou deixa no vácuo? Comenta.",
    "fontes": [
     "https://exputer.com/news/games/gta-6-extended-look-new-gameplay-details/"
+   ]
+  },
+  {
+   "id": "R2300",
+   "hora": "23:00",
+   "formato": "reel",
+   "linhas": [
+    "12 MILHÕES"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "estilo": "manchete",
+   "roteiro": [
+    {
+     "fala": "Doze milhões de cópias antes de lançar.",
+     "tela": "12 MILHÕES DE CÓPIAS",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-01.jpg"
+    },
+    {
+     "fala": "A Sensor Tower estimou mais de um bilhão de dólares só em pré-venda.",
+     "tela": "US$ 1 BI NA PRÉ-VENDA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-04.jpg"
+    },
+    {
+     "fala": "E três em cada quatro compras foram no PlayStation 5.",
+     "tela": "75% NO PLAYSTATION 5",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-08.jpg"
+    },
+    {
+     "fala": "Você tá nessa conta? Comenta e segue a página.",
+     "tela": "VOCÊ TÁ NESSA CONTA?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-02.jpg"
+    }
+   ],
+   "legenda": "💰 Uma semana antes do lançamento, a Sensor Tower estimou que GTA 6 já tinha passado de 1 bilhão de dólares em pré-venda: cerca de 12,13 milhões de cópias, com uns 75% no PlayStation 5 e 25% no Xbox Series X|S.\n\nVocê entrou nessa conta ou vai comprar depois? Comenta.",
+   "fontes": [
+    "https://www.fox5dc.com/news/grand-theft-auto-6-already-1-billion-sales-week-before-launch"
    ]
   }
  ]

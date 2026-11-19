@@ -1,182 +1,369 @@
 {
-  "data": "2026-11-20",
-  "fontes": [
-    "https://www.gtabase.com/articles/gta-6/gta-6-previews-recap-all-new-gameplay-features-revealed",
-    "https://gamerant.com/gta-6-side-activities-fishing-hunting/",
-    "https://gtabase.com/gta-6/side-missions",
-    "https://www.gfinityesports.com/article/gta-6-minigames-every-side-activity-revealed-in-netflix-showcase",
-    "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
-    "https://www.vice.com/en/article/gta-6-release-date-launch-times-new-zealand-method/"
-  ],
-  "itens": [
+ "data": "2026-11-20",
+ "fontes": [
+  "https://www.gtabase.com/articles/gta-6/gta-6-previews-recap-all-new-gameplay-features-revealed",
+  "https://gamerant.com/gta-6-side-activities-fishing-hunting/",
+  "https://gtabase.com/gta-6/side-missions",
+  "https://www.gfinityesports.com/article/gta-6-minigames-every-side-activity-revealed-in-netflix-showcase",
+  "https://en.wikipedia.org/wiki/Grand_Theft_Auto_VI",
+  "https://www.vice.com/en/article/gta-6-release-date-launch-times-new-zealand-method/",
+  "https://www.notebookcheck.net/Here-s-how-GTA-6-s-character-switching-will-work.1380168.0.html",
+  "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/",
+  "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/"
+ ],
+ "itens": [
+  {
+   "id": "01",
+   "formato": "reel",
+   "linhas": [
+    "1ª SEXTA",
+    "COM GTA 6"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O fim de semana mais esperado",
+   "cta": [
+    "ENTRA NO",
+    "GRUPO VIP"
+   ],
+   "cta_sub": "Ofertas e avisos no link da bio",
+   "tag": "SEXTOU",
+   "cta_bio": "grupo",
+   "legenda": "Primeira sexta-feira com GTA 6 no console 🌴🎮\n\nQual o seu plano pro fim de semana em Leonida? Comenta.",
+   "roteiro": [
     {
-      "id": "01",
-      "formato": "reel",
-      "linhas": [
-        "1ª SEXTA",
-        "COM GTA 6"
-      ],
-      "destaque": [
-        1
-      ],
-      "sub": "O fim de semana mais esperado",
-      "cta": [
-        "ENTRA NO",
-        "GRUPO VIP"
-      ],
-      "cta_sub": "Ofertas e avisos no link da bio",
-      "tag": "SEXTOU",
-      "cta_bio": "grupo",
-      "legenda": "Primeira sexta-feira com GTA 6 no console 🌴🎮\n\nQual o seu plano pro fim de semana em Leonida? Comenta.",
-      "roteiro": [
-        {
-          "fala": "Primeira sexta-feira com GTA 6 no console. Já sabe o que vai fazer?",
-          "tela": "SEXTOU",
-          "imagem": "gta6/banco/oficial/lugar-vice-city-26.jpg"
-        },
-        {
-          "fala": "Tem praia nas Keys, pântano em Grassrivers e trilha no Mount Kalaga.",
-          "tela": "PRAIA OU TRILHA?",
-          "imagem": "gta6/banco/oficial/lugar-leonida-keys-05.jpg"
-        },
-        {
-          "fala": "E à noite, Vice City não dorme.",
-          "tela": "VICE CITY À NOITE",
-          "imagem": "gta6/banco/oficial/lugar-vice-city-13.jpg"
-        },
-        {
-          "fala": "Comenta seu plano pro fim de semana. E entra no grupo VIP pelo link da bio.",
-          "tela": "QUAL SEU PLANO?",
-          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg"
-        }
-      ]
+     "fala": "Primeira sexta-feira com GTA 6 no console. Já sabe o que vai fazer?",
+     "tela": "SEXTOU",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-26.jpg"
     },
     {
-      "id": "04",
-      "formato": "reel",
-      "linhas": [
-        "SÓ MAIS UMA",
-        "MISSÃO"
-      ],
-      "destaque": [
-        1
-      ],
-      "sub": "Disse isso às 22h. Agora são 4h.",
-      "cta": [
-        "MARCA",
-        "O AMIGO"
-      ],
-      "cta_sub": "que vive dizendo isso",
-      "tag": "HUMOR",
-      "cta_bio": "comunidade",
-      "legenda": "\"Só mais uma missão\" 😅🌙\n\nMarca o amigo que vive dizendo isso.",
-      "roteiro": [
-        {
-          "fala": "Eu, às dez da noite: só mais uma missão.",
-          "tela": "SÓ MAIS UMA",
-          "imagem": "gta6/banco/oficial/pessoa-jason-duval-04.jpg"
-        },
-        {
-          "fala": "Meia-noite: só vou abastecer o carro e já paro.",
-          "tela": "SÓ ABASTECER",
-          "imagem": "gta6/banco/oficial/lugar-vice-city-22.jpg"
-        },
-        {
-          "fala": "Duas da manhã: só vou ver o pôr do sol nas Keys.",
-          "tela": "SÓ O PÔR DO SOL",
-          "imagem": "gta6/banco/oficial/lugar-vice-city-10.jpg"
-        },
-        {
-          "fala": "Quatro da manhã: o sol nasceu de verdade. Marca o amigo que vive dizendo isso.",
-          "tela": "MARCA O AMIGO",
-          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-16.jpg"
-        }
-      ]
+     "fala": "Tem praia nas Keys, pântano em Grassrivers e trilha no Mount Kalaga.",
+     "tela": "PRAIA OU TRILHA?",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-05.jpg"
     },
     {
-      "id": "07",
-      "formato": "reel",
-      "linhas": [
-        "TREINA 3",
-        "DIAS SEGUIDOS"
-      ],
-      "destaque": [
-        1
-      ],
-      "sub": "O segredo da academia no GTA 6",
-      "cta": [
-        "LINK",
-        "NA BIO"
-      ],
-      "cta_sub": "Guia do GTA 6 em português",
-      "tag": "DICA",
-      "cta_bio": "guia",
-      "legenda": "No GTA 6, músculo não vem de um dia pro outro 💪\n\nMais dicas no guia em português, no link da bio. Comenta se você já treinou hoje.",
-      "roteiro": [
-        {
-          "fala": "Quer o Jason e a Lucia mais fortes? Tem regra.",
-          "tela": "QUER FICAR FORTE?",
-          "imagem": "gta6/banco/oficial/pessoa-jason-duval-15.jpg"
-        },
-        {
-          "fala": "Nas prévias, a imprensa contou: o ganho de força só vem treinando três dias seguidos.",
-          "tela": "3 DIAS SEGUIDOS",
-          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-09.jpg"
-        },
-        {
-          "fala": "Barra de proteína ajuda no ganho, e energético segura o fôlego no treino.",
-          "tela": "PROTEÍNA E ENERGÉTICO",
-          "imagem": "gta6/banco/oficial/lugar-leonida-keys-02.jpg"
-        },
-        {
-          "fala": "Mais dicas no guia do GTA 6 em português, no link da bio. Comenta se você já treinou hoje.",
-          "tela": "LINK NA BIO",
-          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-01.jpg"
-        }
-      ]
+     "fala": "E à noite, Vice City não dorme.",
+     "tela": "VICE CITY À NOITE",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-13.jpg"
     },
     {
-      "id": "10",
-      "formato": "reel",
-      "linhas": [
-        "JOGA MAIS",
-        "DE JASON OU",
-        "DE LUCIA?"
-      ],
-      "destaque": [
-        2
-      ],
-      "sub": "Dois protagonistas, um controle",
-      "cta": [
-        "ENTRA NO",
-        "GRUPO VIP"
-      ],
-      "cta_sub": "Ofertas e avisos no link da bio",
-      "tag": "ENQUETE",
-      "cta_bio": "grupo",
-      "legenda": "Jason ou Lucia: com quem você joga mais? 🎮\n\nComenta J ou L.",
-      "roteiro": [
-        {
-          "fala": "Segundo dia de GTA 6. Com quem você joga mais?",
-          "tela": "JASON OU LUCIA?",
-          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-09.jpg"
-        },
-        {
-          "fala": "Time Jason: briga de rua, no estilo mais bruto.",
-          "tela": "TIME JASON",
-          "imagem": "gta6/banco/oficial/pessoa-jason-duval-11.jpg"
-        },
-        {
-          "fala": "Time Lucia: treinada em kickboxing e MMA.",
-          "tela": "TIME LUCIA",
-          "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-13.jpg"
-        },
-        {
-          "fala": "Comenta J ou L. E entra no grupo VIP pelo link da bio.",
-          "tela": "COMENTA J OU L",
-          "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-13.jpg"
-        }
-      ]
+     "fala": "Comenta seu plano pro fim de semana. E entra no grupo VIP pelo link da bio.",
+     "tela": "QUAL SEU PLANO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg"
     }
-  ]
+   ]
+  },
+  {
+   "id": "04",
+   "formato": "reel",
+   "linhas": [
+    "SÓ MAIS UMA",
+    "MISSÃO"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "Disse isso às 22h. Agora são 4h.",
+   "cta": [
+    "MARCA",
+    "O AMIGO"
+   ],
+   "cta_sub": "que vive dizendo isso",
+   "tag": "HUMOR",
+   "cta_bio": "comunidade",
+   "legenda": "\"Só mais uma missão\" 😅🌙\n\nMarca o amigo que vive dizendo isso.",
+   "roteiro": [
+    {
+     "fala": "Eu, às dez da noite: só mais uma missão.",
+     "tela": "SÓ MAIS UMA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-04.jpg"
+    },
+    {
+     "fala": "Meia-noite: só vou abastecer o carro e já paro.",
+     "tela": "SÓ ABASTECER",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-22.jpg"
+    },
+    {
+     "fala": "Duas da manhã: só vou ver o pôr do sol nas Keys.",
+     "tela": "SÓ O PÔR DO SOL",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-10.jpg"
+    },
+    {
+     "fala": "Quatro da manhã: o sol nasceu de verdade. Marca o amigo que vive dizendo isso.",
+     "tela": "MARCA O AMIGO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-16.jpg"
+    }
+   ]
+  },
+  {
+   "id": "07",
+   "formato": "reel",
+   "linhas": [
+    "TREINA 3",
+    "DIAS SEGUIDOS"
+   ],
+   "destaque": [
+    1
+   ],
+   "sub": "O segredo da academia no GTA 6",
+   "cta": [
+    "LINK",
+    "NA BIO"
+   ],
+   "cta_sub": "Guia do GTA 6 em português",
+   "tag": "DICA",
+   "cta_bio": "guia",
+   "legenda": "No GTA 6, músculo não vem de um dia pro outro 💪\n\nMais dicas no guia em português, no link da bio. Comenta se você já treinou hoje.",
+   "roteiro": [
+    {
+     "fala": "Quer o Jason e a Lucia mais fortes? Tem regra.",
+     "tela": "QUER FICAR FORTE?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-15.jpg"
+    },
+    {
+     "fala": "Nas prévias, a imprensa contou: o ganho de força só vem treinando três dias seguidos.",
+     "tela": "3 DIAS SEGUIDOS",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-09.jpg"
+    },
+    {
+     "fala": "Barra de proteína ajuda no ganho, e energético segura o fôlego no treino.",
+     "tela": "PROTEÍNA E ENERGÉTICO",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-02.jpg"
+    },
+    {
+     "fala": "Mais dicas no guia do GTA 6 em português, no link da bio. Comenta se você já treinou hoje.",
+     "tela": "LINK NA BIO",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-01.jpg"
+    }
+   ]
+  },
+  {
+   "id": "10",
+   "formato": "reel",
+   "linhas": [
+    "JOGA MAIS",
+    "DE JASON OU",
+    "DE LUCIA?"
+   ],
+   "destaque": [
+    2
+   ],
+   "sub": "Dois protagonistas, um controle",
+   "cta": [
+    "ENTRA NO",
+    "GRUPO VIP"
+   ],
+   "cta_sub": "Ofertas e avisos no link da bio",
+   "tag": "ENQUETE",
+   "cta_bio": "grupo",
+   "legenda": "Jason ou Lucia: com quem você joga mais? 🎮\n\nComenta J ou L.",
+   "roteiro": [
+    {
+     "fala": "Segundo dia de GTA 6. Com quem você joga mais?",
+     "tela": "JASON OU LUCIA?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-09.jpg"
+    },
+    {
+     "fala": "Time Jason: briga de rua, no estilo mais bruto.",
+     "tela": "TIME JASON",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-11.jpg"
+    },
+    {
+     "fala": "Time Lucia: treinada em kickboxing e MMA.",
+     "tela": "TIME LUCIA",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-13.jpg"
+    },
+    {
+     "fala": "Comenta J ou L. E entra no grupo VIP pelo link da bio.",
+     "tela": "COMENTA J OU L",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-13.jpg"
+    }
+   ]
+  },
+  {
+   "id": "R0000",
+   "hora": "00:00",
+   "formato": "reel",
+   "linhas": [
+    "MEU 1º CARRO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Anos esperando pra isso?",
+     "tela": "ANOS ESPERANDO...",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-stock-305-01.jpg"
+    },
+    {
+     "fala": "Primeiro carro: bati no poste.",
+     "tela": "1º CARRO: POSTE",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vapid-buggy-02.jpg"
+    },
+    {
+     "fala": "Segundo carro: a polícia já conhece minha cara.",
+     "tela": "A POLÍCIA JÁ ME CONHECE",
+     "imagem": "gta6/banco/oficial/pacote-vintage-vapid-stanier-01.jpg"
+    },
+    {
+     "fala": "Conta como foi seu primeiro carro e segue a página.",
+     "tela": "E O SEU 1º CARRO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-02.jpg"
+    }
+   ],
+   "legenda": "😂 Tantos anos esperando e o primeiro carro em Leonida durou 10 segundos.\n\nComo foi o seu primeiro carro no GTA 6? Conta nos comentários.",
+   "fontes": []
+  },
+  {
+   "id": "R0100",
+   "hora": "01:00",
+   "formato": "reel",
+   "linhas": [
+    "TROCA NA HORA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Dá pra trocar de personagem dirigindo?",
+     "tela": "TROCA NO VOLANTE?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-04.jpg"
+    },
+    {
+     "fala": "Dá. Segundo a Rockstar North, a troca entre Jason e Lucia é quase instantânea.",
+     "tela": "TROCA QUASE NA HORA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-05.jpg"
+    },
+    {
+     "fala": "Na fuga, um dirige e o outro atira pela janela.",
+     "tela": "UM DIRIGE, OUTRO ATIRA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-06.jpg"
+    },
+    {
+     "fala": "Salva pra testar na próxima fuga e segue a página.",
+     "tela": "SALVA ESSA DICA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-12.jpg"
+    }
+   ],
+   "legenda": "🔁 No GTA 6 a troca entre Jason e Lucia é quase instantânea, sem aquele zoom pelo mapa do GTA 5 (segundo executivos da Rockstar North em entrevista à Dazed). Se a Lucia tá no banco do carona, dá pra trocar e assumir o volante, ou dirigir com o Jason e atirar pela janela com a Lucia.\n\nSalva pra testar na próxima fuga.",
+   "fontes": [
+    "https://www.notebookcheck.net/Here-s-how-GTA-6-s-character-switching-will-work.1380168.0.html"
+   ]
+  },
+  {
+   "id": "R0200",
+   "hora": "02:00",
+   "formato": "reel",
+   "linhas": [
+    "17 ROLÊS"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "estilo": "impacto",
+   "roteiro": [
+    {
+     "fala": "Cansou de missão? Tem dezessete rolês.",
+     "tela": "17 ROLÊS SEM MISSÃO",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-03.jpg"
+    },
+    {
+     "fala": "Minigolfe com tema de jacaré, pescaria num iate...",
+     "tela": "MINIGOLFE COM JACARÉ",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-04.jpg"
+    },
+    {
+     "fala": "Mergulho com raias, luta no quintal e corrida de moto na terra.",
+     "tela": "MERGULHO E LUTA LIVRE",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-01.jpg"
+    },
+    {
+     "fala": "Qual você faz primeiro? Comenta e segue a página.",
+     "tela": "QUAL VOCÊ FAZ 1º?",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-02.jpg"
+    }
+   ],
+   "legenda": "🎣 A prévia estendida mostrou 17 atividades fora das missões. Tem minigolfe com tema de jacaré, pescaria no iate, mergulho com raias, luta no quintal, motocross, academia, estande de tiro, corrida e até TV pra assistir com um drink na mão.\n\nQual você faz primeiro? Comenta.",
+   "fontes": [
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/",
+    "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/"
+   ]
+  },
+  {
+   "id": "R0300",
+   "hora": "03:00",
+   "formato": "reel",
+   "linhas": [
+    "TIRO OU SOCO?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": true,
+   "estilo": "tweet",
+   "roteiro": [
+    {
+     "fala": "Você é do tiro ou do soco?",
+     "tela": "TIRO OU SOCO?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-weapon-variants-01.jpg"
+    },
+    {
+     "fala": "Pelas prévias, o Jason parece o das armas, com mira em câmera lenta.",
+     "tela": "JASON: MIRA LENTA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-03.jpg"
+    },
+    {
+     "fala": "E a Lucia parece a que resolve na mão.",
+     "tela": "LUCIA: NA MÃO",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-04.jpg"
+    },
+    {
+     "fala": "Comenta: tiro ou soco? E segue a página.",
+     "tela": "COMENTA: TIRO OU SOCO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-hawk-and-little-morgan-revolvers-01.jpg"
+    }
+   ],
+   "legenda": "🥊 Pelas prévias, o Jason parece o especialista em armas (dá pra desacelerar o tempo e mirar nos pontos fracos) e a Lucia, a que resolve no braço.\n\nVocê é do tiro ou do soco? Comenta.",
+   "fontes": [
+    "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/"
+   ]
+  },
+  {
+   "id": "R0400",
+   "hora": "04:00",
+   "formato": "reel",
+   "linhas": [
+    "AINDA SEM O JOGO?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Ainda não comprou o GTA 6?",
+     "tela": "AINDA SEM O JOGO?",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-01.jpg"
+    },
+    {
+     "fala": "A versão em mídia pro PlayStation 5 tá no link da bio.",
+     "tela": "MÍDIA FÍSICA NA BIO",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-02.jpg"
+    },
+    {
+     "fala": "Mídia física você empresta pro amigo depois.",
+     "tela": "DÁ PRA EMPRESTAR",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-beach.jpg"
+    },
+    {
+     "fala": "Manda pra quem ainda não comprou e segue a página.",
+     "tela": "MANDA PRO AMIGO",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-lock-and-load.jpg"
+    }
+   ],
+   "legenda": "🎮 Ainda não pegou o GTA 6? A versão em mídia física pro PlayStation 5 está no link da bio (Mercado Livre). O preço muda todo dia, então confere lá antes.\n\nManda pra quem ainda tá sem o jogo.",
+   "fontes": []
+  }
+ ]
 }
