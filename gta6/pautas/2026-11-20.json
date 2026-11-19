@@ -9,7 +9,10 @@
   "https://www.vice.com/en/article/gta-6-release-date-launch-times-new-zealand-method/",
   "https://www.notebookcheck.net/Here-s-how-GTA-6-s-character-switching-will-work.1380168.0.html",
   "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/",
-  "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/"
+  "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/",
+  "https://beebom.com/gta-6-easter-eggs/",
+  "https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-map-will-include-a-lush-national-park-in-the-mountains-featuring-hillbilly-mystics-and-paranoid-radicals",
+  "https://www.videogameschronicle.com/news/gta-6s-cast-of-characters-revealed-including-a-conspiracy-theorist-and-strip-club-gangster"
  ],
  "itens": [
   {
@@ -363,6 +366,226 @@
     }
    ],
    "legenda": "🎮 Ainda não pegou o GTA 6? A versão em mídia física pro PlayStation 5 está no link da bio (Mercado Livre). O preço muda todo dia, então confere lá antes.\n\nManda pra quem ainda tá sem o jogo.",
+   "fontes": []
+  },
+  {
+   "id": "R0500",
+   "hora": "05:00",
+   "formato": "reel",
+   "linhas": [
+    "BIG SMOKE?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Você viu o Big Smoke no GTA 6?",
+     "tela": "ACHOU O BIG SMOKE?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-04.jpg"
+    },
+    {
+     "fala": "No gameplay estendido aparece a loja Big Smoke Cigar Co.",
+     "tela": "BIG SMOKE CIGAR CO.",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-18.jpg"
+    },
+    {
+     "fala": "E a camiseta do Jason cita North Fort Law, base do primeiro GTA.",
+     "tela": "NORTH FORT LAW NO JASON",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-07.jpg"
+    },
+    {
+     "fala": "Achou outro? Comenta aqui e segue a página.",
+     "tela": "ACHOU OUTRO? COMENTA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-08.jpg"
+    }
+   ],
+   "legenda": "👀 Easter egg pra quem é raiz: no gameplay estendido do GTA 6 aparece a loja Big Smoke Cigar Co. (alô, San Andreas), e a camiseta do Jason no trailer de lançamento cita North Fort Law, base militar do primeiro GTA, de 1997.\n\nAchou mais algum? Comenta aqui.",
+   "fontes": [
+    "https://beebom.com/gta-6-easter-eggs/"
+   ]
+  },
+  {
+   "id": "R0600",
+   "hora": "06:00",
+   "formato": "reel",
+   "linhas": [
+    "6 DA MANHÃ"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Seis da manhã e eu já tô em Leonida.",
+     "tela": "6H E JÁ TÔ EM LEONIDA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-07.jpg"
+    },
+    {
+     "fala": "O despertador nem tocou, o controle já tava na mão.",
+     "tela": "ACORDEI SEM DESPERTADOR",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-02.jpg"
+    },
+    {
+     "fala": "O café? Esfriou do lado da TV.",
+     "tela": "O CAFÉ ESFRIOU",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-rooftop.jpg"
+    },
+    {
+     "fala": "Marca quem também acordou cedo pra jogar e segue a página.",
+     "tela": "MARCA O MADRUGADOR",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-06.jpg"
+    }
+   ],
+   "legenda": "☕ Sexta-feira, seis da manhã, e o controle já tá na mão. Quem mais acordou antes do despertador pra jogar GTA 6?\n\nMarca o madrugador da sua turma.",
+   "fontes": [],
+   "estilo": "tweet"
+  },
+  {
+   "id": "R0700",
+   "hora": "07:00",
+   "formato": "reel",
+   "linhas": [
+    "ESCONDE A ARMA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Vai entrar na loja? Esconde a arma.",
+     "tela": "ESCONDE A ARMA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-08.jpg"
+    },
+    {
+     "fala": "No GTA 6 dá pra guardar a arma antes de entrar em lojas.",
+     "tela": "GUARDA ANTES DE ENTRAR",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-11.jpg"
+    },
+    {
+     "fala": "E fica esperto: em assalto, tem cliente que reage.",
+     "tela": "TEM CLIENTE QUE REAGE",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-robbery.jpg"
+    },
+    {
+     "fala": "Salva essa dica e segue a página pra mais.",
+     "tela": "SALVA ESSA DICA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-13.jpg"
+    }
+   ],
+   "legenda": "🔫 Dica rápida de GTA 6: dá pra esconder a arma antes de entrar numa loja. E se a ideia for assalto, cuidado, porque os clientes podem reagir.\n\nSalva pra não esquecer e manda pro parceiro de crime.",
+   "fontes": [
+    "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/"
+   ]
+  },
+  {
+   "id": "R0900",
+   "hora": "09:00",
+   "formato": "reel",
+   "linhas": [
+    "MOUNT KALAGA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Tem um parque nacional no GTA 6.",
+     "tela": "PARQUE NACIONAL",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-01.jpg"
+    },
+    {
+     "fala": "O Mount Kalaga fica no norte de Leonida, com caça, pesca e trilha.",
+     "tela": "CAÇA, PESCA E TRILHA",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-03.jpg"
+    },
+    {
+     "fala": "E segundo a Rockstar, no mato vivem místicos e radicais paranoicos.",
+     "tela": "VIZINHOS ESTRANHOS",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-05.jpg"
+    },
+    {
+     "fala": "Você vai pra cidade ou pro mato? Comenta e segue a página.",
+     "tela": "CIDADE OU MATO?",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-02.jpg"
+    }
+   ],
+   "legenda": "🌲 Mount Kalaga é o parque nacional no norte de Leonida: a Rockstar promete caça, pesca e trilhas off-road, e avisa que no mato vivem místicos e radicais paranoicos, longe do governo.\n\nPrimeiro rolê: cidade ou mato? Comenta aí.",
+   "fontes": [
+    "https://www.pcgamer.com/games/grand-theft-auto/the-gta-6-map-will-include-a-lush-national-park-in-the-mountains-featuring-hillbilly-mystics-and-paranoid-radicals"
+   ],
+   "estilo": "cinema"
+  },
+  {
+   "id": "R1000",
+   "hora": "10:00",
+   "formato": "reel",
+   "linhas": [
+    "BOOBIE IKE"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Quem é o Boobie Ike?",
+     "tela": "QUEM É O BOOBIE IKE?",
+     "imagem": "gta6/banco/oficial/pessoa-boobie-ike-01.jpg"
+    },
+    {
+     "fala": "Uma lenda local de Vice City, segundo a Rockstar.",
+     "tela": "LENDA DE VICE CITY",
+     "imagem": "gta6/banco/oficial/pessoa-boobie-ike-02.jpg"
+    },
+    {
+     "fala": "Das ruas, ele montou um império: imóveis, boate e estúdio.",
+     "tela": "IMÓVEIS, BOATE E ESTÚDIO",
+     "imagem": "gta6/banco/oficial/pessoa-boobie-ike-03.jpg"
+    },
+    {
+     "fala": "Só sorriso até a hora do negócio. Confia nele? Comenta e segue.",
+     "tela": "CONFIA NELE?",
+     "imagem": "gta6/banco/oficial/arte-boobie-ike.jpg"
+    }
+   ],
+   "legenda": "🎙️ Boobie Ike é, nas palavras da Rockstar, uma lenda local de Vice City: das ruas, montou um império com imóveis, uma casa noturna e um estúdio de gravação. Só sorriso... até a hora de falar de negócio.\n\nVocê confiaria nele? Comenta.",
+   "fontes": [
+    "https://www.videogameschronicle.com/news/gta-6s-cast-of-characters-revealed-including-a-conspiracy-theorist-and-strip-club-gangster"
+   ]
+  },
+  {
+   "id": "R1100",
+   "hora": "11:00",
+   "formato": "reel",
+   "linhas": [
+    "SOM NO TALO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "O rádio de Vice City merece som alto.",
+     "tela": "RÁDIO NO TALO",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-21.jpg"
+    },
+    {
+     "fala": "A caixa JBL Boombox 4 tá no link da bio.",
+     "tela": "JBL BOOMBOX: LINK NA BIO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vice-city-style-02.jpg"
+    },
+    {
+     "fala": "Pareia no Bluetooth e deixa a trilha tocar.",
+     "tela": "SOM DE FESTA EM CASA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg"
+    },
+    {
+     "fala": "Manda pro amigo do som alto e segue a página.",
+     "tela": "MANDA PRO AMIGO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-18.jpg"
+    }
+   ],
+   "legenda": "🔊 Rádio de Vice City no volume baixo não dá. A caixa de som JBL Boombox 4 está no link da bio (Mercado Livre). O preço muda todo dia, então confere lá.\n\nManda pro amigo que joga com o som no talo.",
    "fontes": []
   }
  ]
