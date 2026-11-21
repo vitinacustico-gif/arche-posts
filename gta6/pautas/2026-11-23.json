@@ -1,0 +1,150 @@
+{
+ "data": "2026-11-23",
+ "fontes": [],
+ "itens": [
+  {
+   "id": "R0000",
+   "hora": "00:00",
+   "formato": "reel",
+   "linhas": [
+    "DIRIJA DIREITO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Segunda-feira: dirija como gente, hein.",
+     "tela": "SEGUNDA: DIRIJA DIREITO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-03.jpg"
+    },
+    {
+     "fala": "No trânsito de verdade não tem replay.",
+     "tela": "AQUI NÃO TEM REPLAY",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-26.jpg"
+    },
+    {
+     "fala": "E o sinal vermelho vale pra você também.",
+     "tela": "VERMELHO É PRA PARAR",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-06.jpg"
+    },
+    {
+     "fala": "Manda pro amigo que dirige igual no GTA. E segue a página.",
+     "tela": "MANDA PRO AMIGO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-06.jpg"
+    }
+   ],
+   "legenda": "🚦 Fim de semana em Leonida acabou. Segunda é trânsito de verdade: sem replay, sem garagem pra esconder o carro.\n\nManda pro amigo que sai do GTA e pega o volante achando que tá em Vice City 😂",
+   "fontes": [],
+   "estilo": "tweet"
+  },
+  {
+   "id": "R0100",
+   "hora": "01:00",
+   "formato": "reel",
+   "linhas": [
+    "QUAL O MELHOR?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Qual coadjuvante rouba a cena?",
+     "tela": "QUEM ROUBA A CENA?",
+     "imagem": "gta6/banco/oficial/pessoa-raul-bautista-03.jpg"
+    },
+    {
+     "fala": "Raul Bautista ou Brian Heder?",
+     "tela": "RAUL OU BRIAN?",
+     "imagem": "gta6/banco/oficial/pessoa-brian-heder-03.jpg"
+    },
+    {
+     "fala": "Ou Cal Hampton, Drequan Priest, Boobie Ike ou Real Dimez?",
+     "tela": "CAL, DREQUAN OU BOOBIE?",
+     "imagem": "gta6/banco/oficial/pessoa-cal-hampton-01.jpg"
+    },
+    {
+     "fala": "Comenta o seu favorito e segue a página.",
+     "tela": "COMENTA O FAVORITO",
+     "imagem": "gta6/banco/oficial/pessoa-drequan-priest-02.jpg"
+    }
+   ],
+   "legenda": "🎬 Jason e Lucia são os protagonistas, mas tem coadjuvante roubando a cena em Leonida.\n\nRaul Bautista, Brian Heder, Cal Hampton, Dre'Quan Priest, Boobie Ike ou Real Dimez: qual é o seu favorito? Comenta 👇",
+   "fontes": [],
+   "estilo": "cinema"
+  },
+  {
+   "id": "R0200",
+   "hora": "02:00",
+   "formato": "reel",
+   "linhas": [
+    "PATINETE"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Sabia que tem patinete elétrico?",
+     "tela": "PATINETE ELÉTRICO",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-05.jpg"
+    },
+    {
+     "fala": "Em Leonida dá pra alugar e carregar o patinete.",
+     "tela": "ALUGA E CARREGA",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-04.jpg"
+    },
+    {
+     "fala": "Perfeito pra passear pela orla de Vice City.",
+     "tela": "ROLÊ NA ORLA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-13.jpg"
+    },
+    {
+     "fala": "Salva pra lembrar e segue a página.",
+     "tela": "SALVA ESSA",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-07.jpg"
+    }
+   ],
+   "legenda": "🛴 Nem só de carro esportivo vive Leonida: GTA 6 tem patinete elétrico que dá pra alugar e carregar.\n\nSalva pra testar no próximo rolê pela orla de Vice City.",
+   "fontes": [
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/"
+   ]
+  },
+  {
+   "id": "R0300",
+   "hora": "03:00",
+   "formato": "reel",
+   "linhas": [
+    "CONTROLE NOVO?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Seu analógico anda sozinho?",
+     "tela": "ANALÓGICO ANDA SOZINHO?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-electric-fang-03.jpg"
+    },
+    {
+     "fala": "Perseguição em Leonida não perdoa controle ruim.",
+     "tela": "SEM CONTROLE RUIM",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-squalo-03.jpg"
+    },
+    {
+     "fala": "Tem controle Xbox Carbon Black, da Microsoft, no link da bio.",
+     "tela": "CONTROLE XBOX NA BIO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-stock-305-04.jpg"
+    },
+    {
+     "fala": "Manda pra quem joga no Xbox e segue a página.",
+     "tela": "MANDA PRO PARCEIRO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-08.jpg"
+    }
+   ],
+   "legenda": "🎮 Analógico puxando pro lado no meio da fuga? O controle Xbox Carbon Black (Microsoft, Xbox Series X|S e PC) tá no link da bio (Mercado Livre). O preço muda todo dia, então confere lá.\n\nManda pro parceiro que joga no Xbox.",
+   "fontes": []
+  }
+ ]
+}

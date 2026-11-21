@@ -803,6 +803,81 @@
    ],
    "legenda": "📺 Leonida merece cor de verdade: a Smart TV TCL 43\" QLED Full HD com Google TV tá no link da bio (Mercado Livre). O preço muda todo dia, então confere lá.\n\nManda pra quem divide a sala (e o controle) com você.",
    "fontes": []
+  },
+  {
+   "id": "R2200",
+   "hora": "22:00",
+   "formato": "reel",
+   "linhas": [
+    "NOTA 99"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Noventa e nove de cem. Sério.",
+     "tela": "99 DE 100",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-08.jpg"
+    },
+    {
+     "fala": "É a nota do GTA 6 no Metacritic, com mais de cento e cinquenta análises.",
+     "tela": "METACRITIC: 99",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-lock-and-load.jpg"
+    },
+    {
+     "fala": "A IGN chamou de o jogo mais impressionante que já jogou.",
+     "tela": "IGN: O MAIS IMPRESSIONANTE",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-06.jpg"
+    },
+    {
+     "fala": "E você, dá quanto? Comenta a sua nota e segue a página.",
+     "tela": "E A SUA NOTA?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-04.jpg"
+    }
+   ],
+   "legenda": "🏆 99 de 100 no Metacritic, com mais de 150 análises da crítica (dados citados pela Al Jazeera em 19/11). A IGN chamou GTA 6 de \"o jogo mais impressionante\" que já jogou.\n\nE pra você, quanto vale? Comenta sua nota de 0 a 100 👇",
+   "fontes": [
+    "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait"
+   ],
+   "estilo": "manchete"
+  },
+  {
+   "id": "R2300",
+   "hora": "23:00",
+   "formato": "reel",
+   "linhas": [
+    "SINUCA VOLTOU"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Lembra da sinuca do San Andreas?",
+     "tela": "SINUCA DO SAN ANDREAS?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg"
+    },
+    {
+     "fala": "Ela já tinha aparecido no GTA 4 e no San Andreas.",
+     "tela": "GTA 4 E SAN ANDREAS",
+     "imagem": "gta6/banco/oficial/pessoa-real-dimez-03.jpg"
+    },
+    {
+     "fala": "No GTA 6, sinuca e minigolfe estão confirmados.",
+     "tela": "SINUCA E MINIGOLFE",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-02.jpg"
+    },
+    {
+     "fala": "Quem te ganha na sinuca? Marca aqui e segue a página.",
+     "tela": "MARCA O RIVAL",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-07.jpg"
+    }
+   ],
+   "legenda": "🎱 A sinuca do GTA 4 e do San Andreas tá de volta: sinuca e minigolfe estão na lista de atividades confirmadas de GTA 6.\n\nMarca aquele amigo que se acha o rei da sinuca 👇",
+   "fontes": [
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/"
+   ]
   }
  ]
 }
