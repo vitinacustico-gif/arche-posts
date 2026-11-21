@@ -1,0 +1,225 @@
+{
+ "data": "2026-11-21",
+ "fontes": [
+  "https://www.bgr.com/2322463/gta-6-hidden-fast-and-furious-paul-walker-car/",
+  "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+ ],
+ "itens": [
+  {
+   "id": "R1000",
+   "hora": "10:00",
+   "formato": "reel",
+   "linhas": [
+    "VELOZES NO GTA 6"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Tem Velozes e Furiosos no GTA 6?",
+     "tela": "VELOZES NO GTA 6?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-02.jpg"
+    },
+    {
+     "fala": "Segundo o site BGR, tem um carro em homenagem ao Brian, do Paul Walker.",
+     "tela": "TRIBUTO AO BRIAN",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-04.jpg"
+    },
+    {
+     "fala": "Ele fica na garagem de uma casa branca, no meio de Vespucci Island.",
+     "tela": "GARAGEM EM VESPUCCI",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-07.jpg"
+    },
+    {
+     "fala": "Já achou? Comenta e segue a página pra mais segredos.",
+     "tela": "JÁ ACHOU? COMENTA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-12.jpg"
+    }
+   ],
+   "legenda": "🏁 Tem homenagem a Velozes e Furiosos em Leonida. Segundo o site BGR, um carro tributo ao Brian (personagem do Paul Walker) está escondido na garagem de uma casa branca no meio de Vespucci Island.\n\nJá achou? Comenta aqui e salva pra procurar depois.",
+   "fontes": [
+    "https://www.bgr.com/2322463/gta-6-hidden-fast-and-furious-paul-walker-car/"
+   ]
+  },
+  {
+   "id": "R1100",
+   "hora": "11:00",
+   "formato": "reel",
+   "linhas": [
+    "OUVIU? PARA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Ouviu barulho dirigindo? Para o carro.",
+     "tela": "OUVIU BARULHO? PARA",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-02.jpg"
+    },
+    {
+     "fala": "No GTA 6 rolam eventos pelo mapa, com som e legenda na tela.",
+     "tela": "EVENTOS NO CAMINHO",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-03.jpg"
+    },
+    {
+     "fala": "Num deles, a Forbes pegou uma bolsa de vinte mil dólares de um carro-forte.",
+     "tela": "CARRO-FORTE: US$ 20 MIL",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-04.jpg"
+    },
+    {
+     "fala": "Salva essa dica e segue a página.",
+     "tela": "SALVA ESSA DICA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-07.jpg"
+    }
+   ],
+   "legenda": "🚨 Dirigindo e ouviu algo estranho? Não passa reto. Segundo a Forbes, que jogou mais de 130 horas, o GTA 6 tem eventos pelo mapa avisados por som e legenda. Num deles, rolou um assalto a carro-forte com uma bolsa de 20 mil dólares.\n\nSalva essa dica pra não esquecer.",
+   "fontes": [
+    "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+   ]
+  },
+  {
+   "id": "R1200",
+   "hora": "12:00",
+   "formato": "reel",
+   "linhas": [
+    "CIDADE OU ILHA?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Onde você moraria em Leonida?",
+     "tela": "ONDE VOCÊ MORARIA?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-03.jpg"
+    },
+    {
+     "fala": "Vice City: praia, neon e balada toda noite.",
+     "tela": "VICE CITY",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-20.jpg"
+    },
+    {
+     "fala": "Ou Leonida Keys: ilha, barco e pôr do sol.",
+     "tela": "LEONIDA KEYS",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-02.jpg"
+    },
+    {
+     "fala": "Comenta: cidade ou ilha? E segue a página.",
+     "tela": "CIDADE OU ILHA?",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-05.jpg"
+    }
+   ],
+   "legenda": "🌴 Se você pudesse morar em Leonida: Vice City ou Leonida Keys?\n\nComenta CIDADE ou ILHA e marca quem iria com você.",
+   "fontes": []
+  },
+  {
+   "id": "R1300",
+   "hora": "13:00",
+   "formato": "reel",
+   "linhas": [
+    "FICHA CRIMINAL"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Cuidado: tem ficha criminal no GTA 6.",
+     "tela": "SUA FICHA CRIMINAL",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-04.jpg"
+    },
+    {
+     "fala": "O jogo guarda um perfil de como você se comporta.",
+     "tela": "O JOGO TE OBSERVA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-18.jpg"
+    },
+    {
+     "fala": "Segundo a Forbes, machucar inocentes leva ao nível irredimível, e esse não baixa mais.",
+     "tela": "IRREDIMÍVEL: SEM VOLTA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-11.jpg"
+    },
+    {
+     "fala": "Você joga de bonzinho ou não? Comenta e segue a página.",
+     "tela": "BONZINHO OU NÃO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-09.jpg"
+    }
+   ],
+   "legenda": "⚖️ O GTA 6 tem um perfil criminal que acompanha como você joga. Segundo a Forbes, quem pega pesado com inocentes cai no nível \"irredimível\", que não dá mais pra baixar. E a Rockstar diz que isso não é jeito \"errado\" de jogar.\n\nVocê joga de bonzinho ou não? Comenta.",
+   "fontes": [
+    "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+   ]
+  },
+  {
+   "id": "R1400",
+   "hora": "14:00",
+   "formato": "reel",
+   "linhas": [
+    "SÁBADO EM CASA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Sábado: o plano era sair de casa.",
+     "tela": "SÁBADO: PLANO DE SAIR",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-beach.jpg"
+    },
+    {
+     "fala": "Aí eu liguei o GTA 6 só pra dar uma volta.",
+     "tela": "SÓ UMA VOLTINHA...",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-22.jpg"
+    },
+    {
+     "fala": "Cinco horas depois, ainda de pijama em Vice City.",
+     "tela": "5 HORAS DEPOIS",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-12.jpg"
+    },
+    {
+     "fala": "Marca o amigo que sumiu no fim de semana e segue a página.",
+     "tela": "MARCA QUEM SUMIU",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-rooftop.jpg"
+    }
+   ],
+   "legenda": "😅 O plano do sábado era sair. O GTA 6 tinha outros planos.\n\nMarca aquele amigo que sumiu do grupo desde quinta.",
+   "fontes": []
+  },
+  {
+   "id": "R1500",
+   "hora": "15:00",
+   "formato": "reel",
+   "linhas": [
+    "JOGA SEM FONE?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Joga GTA 6 sem fone?",
+     "tela": "JOGA SEM FONE?",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-09.jpg"
+    },
+    {
+     "fala": "Tem headset gamer com microfone no link da bio.",
+     "tela": "HEADSET: LINK NA BIO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-goodtime-gear-01.jpg"
+    },
+    {
+     "fala": "Serve no PlayStation 5, no Xbox, no PC e no celular.",
+     "tela": "PS5, XBOX, PC E CELULAR",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-25.jpg"
+    },
+    {
+     "fala": "Manda pro amigo que joga no volume baixo e segue a página.",
+     "tela": "MANDA PRO AMIGO",
+     "imagem": "gta6/banco/oficial/arte-real-dimez.jpg"
+    }
+   ],
+   "legenda": "🎧 Rádio, perseguição e tiroteio de Leonida merecem um fone. O headset gamer RGB com microfone (PS5, Xbox, PC e celular) está no link da bio, no Mercado Livre. O preço muda todo dia, então confere lá.\n\nManda pro amigo que joga com o volume no mínimo.",
+   "fontes": []
+  }
+ ]
+}
