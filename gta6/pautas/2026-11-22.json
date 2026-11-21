@@ -1,6 +1,9 @@
 {
  "data": "2026-11-22",
- "fontes": [],
+ "fontes": [
+  "https://www.omelete.com.br/gta-6/gta-6-jogadores-ja-encontraram-alienigenas-e-pe-grande",
+  "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+ ],
  "itens": [
   {
    "id": "R0000",
@@ -581,6 +584,224 @@
     }
    ],
    "legenda": "🤔 Jason e Lucia cruzam com muita gente em Leonida. Se fosse você, confiaria em quem: Raul Bautista, Brian Heder ou Real Dimez?\n\nComenta o nome (sem spoiler da história, por favor).",
+   "fontes": []
+  },
+  {
+   "id": "R1600",
+   "hora": "16:00",
+   "formato": "reel",
+   "linhas": [
+    "ÓVNI EM LEONIDA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Tem disco voador no GTA 6?",
+     "tela": "DISCO VOADOR NO GTA 6?",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-07.jpg"
+    },
+    {
+     "fala": "Um jogador achou uma nave abduzindo uma pessoa em Leonida.",
+     "tela": "NAVE ABDUZINDO GENTE",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-07.jpg"
+    },
+    {
+     "fala": "Outro topou com o Pé-Grande, e o Jason acordou no carro.",
+     "tela": "E O PÉ-GRANDE APARECEU",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-01.jpg"
+    },
+    {
+     "fala": "Já viu algum? Comenta e segue a página.",
+     "tela": "JÁ VIU? COMENTA",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-04.jpg"
+    }
+   ],
+   "legenda": "🛸 Mal saiu e já tem disco voador em Leonida: segundo o Omelete, um jogador achou uma nave abduzindo uma pessoa (e dá pra ajudar a vítima), e outro encontrou o Pé-Grande, com o Jason alucinando e acordando no carro.\n\nVocê já cruzou com algum dos dois? Comenta onde (sem spoiler da história).",
+   "fontes": [
+    "https://www.omelete.com.br/gta-6/gta-6-jogadores-ja-encontraram-alienigenas-e-pe-grande"
+   ]
+  },
+  {
+   "id": "R1700",
+   "hora": "17:00",
+   "formato": "reel",
+   "linhas": [
+    "VISÃO DE ÁGUIA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Tá perdendo missão sem saber?",
+     "tela": "PERDENDO MISSÃO?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-safehouse-vehicles-02.jpg"
+    },
+    {
+     "fala": "Conversas e eventos do mundo aparecem como legenda enquanto você dirige.",
+     "tela": "EVENTO VIRA LEGENDA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-12.jpg"
+    },
+    {
+     "fala": "Liga a visão de águia: círculos mostram a direção do evento.",
+     "tela": "VISÃO DE ÁGUIA MOSTRA",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-14.jpg"
+    },
+    {
+     "fala": "Salva e manda pro amigo que só corre. E segue a página.",
+     "tela": "SALVA ESSA DICA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-01.jpg"
+    }
+   ],
+   "legenda": "🦅 Dica de GTA 6: segundo a Forbes, os eventos do mundo aparecem como legenda enquanto você dirige, e com a visão de águia surgem círculos indicando a direção. Tem dezenas dessas missões espalhadas por Leonida.\n\nSalva pra não perder nenhuma e manda pro amigo que só corre.",
+   "fontes": [
+    "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+   ]
+  },
+  {
+   "id": "R1800",
+   "hora": "18:00",
+   "formato": "reel",
+   "linhas": [
+    "DOMINGO 18H"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Domingo, seis da tarde. Bateu?",
+     "tela": "DOMINGO, 18H",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vice-city-style-04.jpg"
+    },
+    {
+     "fala": "Amanhã tem segunda-feira e despertador.",
+     "tela": "AMANHÃ É SEGUNDA...",
+     "imagem": "gta6/banco/oficial/pessoa-boobie-ike-04.jpg"
+    },
+    {
+     "fala": "Mas Leonida ainda tá aberta hoje à noite.",
+     "tela": "LEONIDA TÁ ABERTA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-16.jpg"
+    },
+    {
+     "fala": "Vai jogar até que horas? Comenta e segue a página.",
+     "tela": "ATÉ QUE HORAS?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vice-city-style-05.jpg"
+    }
+   ],
+   "legenda": "😅 Domingo, 18h: aquela sensação de que a segunda tá chegando… mas Leonida ainda tá aberta.\n\nVai jogar até que horas hoje? Comenta a hora e marca o amigo que vai virar a noite.",
+   "fontes": []
+  },
+  {
+   "id": "R1900",
+   "hora": "19:00",
+   "formato": "reel",
+   "linhas": [
+    "ARMA NAS COSTAS"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Fuzil nas costas chama atenção.",
+     "tela": "FUZIL NAS COSTAS?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-weapon-variants-01.jpg"
+    },
+    {
+     "fala": "Arma longa à mostra incomoda quem tá na rua e piora se você tá procurado.",
+     "tela": "ASSUSTA E CHAMA POLÍCIA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-hawk-and-little-morgan-revolvers-01.jpg"
+    },
+    {
+     "fala": "Dá pra largar no chão sem perder: ela vai pro armário ou pro porta-malas.",
+     "tela": "LARGA SEM PERDER",
+     "imagem": "gta6/banco/oficial/pacote-vintage-weapon-pattern-01.jpg"
+    },
+    {
+     "fala": "Salva e segue a página que amanhã tem mais.",
+     "tela": "SALVA E SEGUE",
+     "imagem": "gta6/banco/oficial/pacote-vintage-exclusive-looks-04.jpg"
+    }
+   ],
+   "legenda": "🔫 Dica de GTA 6: segundo a Forbes, carregar arma longa incomoda os civis e alerta a polícia se você estiver procurado como armado. A boa: dá pra largar a arma longa no chão sem perder, ela fica no armário de armas ou no porta-malas.\n\nSalva essa e manda pro amigo que anda de fuzil no shopping.",
+   "fontes": [
+    "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+   ]
+  },
+  {
+   "id": "R2000",
+   "hora": "20:00",
+   "formato": "reel",
+   "linhas": [
+    "MOTO OU CARRO?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Pra fugir da polícia: moto ou carro?",
+     "tela": "MOTO OU CARRO?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-electric-fang-01.jpg"
+    },
+    {
+     "fala": "Moto desvia do trânsito e faz curva fechada.",
+     "tela": "MOTO: DESVIA DE TUDO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-electric-fang-02.jpg"
+    },
+    {
+     "fala": "Mas uma batida de moto pode ser fatal. Usa capacete!",
+     "tela": "MAS BATEU, JÁ ERA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-rideout-customs-03.jpg"
+    },
+    {
+     "fala": "E você, qual escolhe? Comenta e segue a página.",
+     "tela": "COMENTA: MOTO OU CARRO",
+     "imagem": "gta6/banco/oficial/pacote-vintage-vapid-stanier-04.jpg"
+    }
+   ],
+   "legenda": "🏍️ Na Forbes, o autor diz que moto de rua é o melhor veículo pra fuga em GTA 6: desvia do trânsito e faz curva quase perfeita. Só que uma batida pode matar na hora (usa capacete!).\n\nE você, foge de moto ou de carro? Comenta 🏍️ ou 🚗.",
+   "fontes": [
+    "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+   ]
+  },
+  {
+   "id": "R2100",
+   "hora": "21:00",
+   "formato": "reel",
+   "linhas": [
+    "TV NOVA?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Ainda joga GTA 6 na TV velha?",
+     "tela": "TV VELHA?",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-06.jpg"
+    },
+    {
+     "fala": "Leonida merece tela com cor forte.",
+     "tela": "LEONIDA MERECE COR",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-03.jpg"
+    },
+    {
+     "fala": "Tem Smart TV TCL de quarenta e três polegadas no link da bio.",
+     "tela": "TV TCL 43\" NA BIO",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-19.jpg"
+    },
+    {
+     "fala": "Manda pra quem divide a sala com você. E segue a página.",
+     "tela": "MANDA PRA FAMÍLIA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-04.jpg"
+    }
+   ],
+   "legenda": "📺 Leonida merece cor de verdade: a Smart TV TCL 43\" QLED Full HD com Google TV tá no link da bio (Mercado Livre). O preço muda todo dia, então confere lá.\n\nManda pra quem divide a sala (e o controle) com você.",
    "fontes": []
   }
  ]
