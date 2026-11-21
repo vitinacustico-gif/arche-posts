@@ -368,6 +368,220 @@
    ],
    "legenda": "😂 Todo domingo é isso: a comida esfriando e você no meio da perseguição.\n\nMarca aquele amigo que nunca chega na mesa.",
    "fontes": []
+  },
+  {
+   "id": "R1000",
+   "hora": "10:00",
+   "formato": "reel",
+   "linhas": [
+    "CARRO SEM CHAVE?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Carro sem chave no GTA 6? Cuidado.",
+     "tela": "CARRO SEM CHAVE?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-01.jpg"
+    },
+    {
+     "fala": "Carro sem chave não dá pra fazer ligação direta: precisa de um clonador de chave.",
+     "tela": "PRECISA DE CLONADOR",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-03.jpg"
+    },
+    {
+     "fala": "E o rastreador avançado avisa a polícia, a não ser que você esteja em alta velocidade.",
+     "tela": "RASTREADOR DEDURA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-rideout-customs-01.jpg"
+    },
+    {
+     "fala": "Salva essa dica e segue a página.",
+     "tela": "SALVA ESSA DICA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-05.jpg"
+    }
+   ],
+   "legenda": "🔑 Antes de pegar aquele carrão em Leonida: segundo o guia do GTABase, carro sem chave (keyless) não aceita ligação direta, só abre com clonador de chave. E o rastreador avançado manda a localização do carro pra polícia, a não ser que você esteja em alta velocidade.\n\nSalva pra não cair nessa e manda pro amigo que rouba tudo que vê.",
+   "fontes": [
+    "https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles"
+   ]
+  },
+  {
+   "id": "R1100",
+   "hora": "11:00",
+   "formato": "reel",
+   "linhas": [
+    "BUGGY OU LANCHA?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Domingo em Leonida: terra ou mar?",
+     "tela": "TERRA OU MAR?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-squalo-01.jpg"
+    },
+    {
+     "fala": "Um: Vapid Buggy na lama.",
+     "tela": "1: BUGGY NA LAMA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vapid-buggy-01.jpg"
+    },
+    {
+     "fala": "Dois: lancha Squalo em Vice City.",
+     "tela": "2: LANCHA SQUALO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-squalo-02.jpg"
+    },
+    {
+     "fala": "Comenta um ou dois e segue a página.",
+     "tela": "COMENTA 1 OU 2",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vapid-buggy-02.jpg"
+    }
+   ],
+   "legenda": "🏁 Domingo livre em Leonida: você sai de Vapid Buggy na lama ou de lancha Squalo pelo mar de Vice City?\n\nComenta 1 ou 2 e chama o parceiro pro rolê.",
+   "fontes": []
+  },
+  {
+   "id": "R1200",
+   "hora": "12:00",
+   "formato": "reel",
+   "linhas": [
+    "DIA DE SALÃO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Antes do assalto, uma paradinha.",
+     "tela": "ANTES DO ASSALTO...",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-saras-salon-01.jpg"
+    },
+    {
+     "fala": "Jason: só vou dar um tapa no cabelo.",
+     "tela": "SÓ UM TAPA NO CABELO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-saras-salon-02.jpg"
+    },
+    {
+     "fala": "Lucia: e eu vou fazer a unha.",
+     "tela": "E EU NA UNHA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-saras-salon-03.jpg"
+    },
+    {
+     "fala": "Marca quem faz isso no jogo e segue a página.",
+     "tela": "MARCA ESSE AMIGO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vice-city-style-01.jpg"
+    }
+   ],
+   "legenda": "💇 O plano era assaltar. Duas horas depois: cabelo novo, unha feita e nenhuma missão.\n\nMarca aquele amigo que passa mais tempo no visual do que na história.",
+   "fontes": []
+  },
+  {
+   "id": "R1300",
+   "hora": "13:00",
+   "formato": "reel",
+   "linhas": [
+    "PORTA-MALAS"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Guardou coisa no porta-malas? Atenção.",
+     "tela": "PORTA-MALAS: ATENÇÃO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-stock-305-01.jpg"
+    },
+    {
+     "fala": "Em carro roubado, o porta-malas esvazia se você morre ou é preso.",
+     "tela": "CARRO ROUBADO ESVAZIA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-stock-305-03.jpg"
+    },
+    {
+     "fala": "Já carro seu dá pra ver no mapa e sempre recuperar.",
+     "tela": "CARRO SEU VOLTA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-safehouse-vehicles-01.jpg"
+    },
+    {
+     "fala": "Salva e manda pro amigo que perde tudo.",
+     "tela": "SALVA E MANDA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-safehouse-vehicles-03.jpg"
+    }
+   ],
+   "legenda": "🚗 Dica de GTA 6: segundo o guia do GTABase, o porta-malas de carro roubado é esvaziado se você morre ou é preso. Carro que é seu aparece no mapa e sempre pode ser recuperado. Registrar e vender carro roubado vai liberando com a história de Jason e Lucia.\n\nSalva pra não perder tudo e manda pro amigo bagunceiro.",
+   "fontes": [
+    "https://www.gtabase.com/articles/gta-6/gta-6-car-stealing-guide-how-to-steal-sell-keep-vehicles"
+   ]
+  },
+  {
+   "id": "R1400",
+   "hora": "14:00",
+   "formato": "reel",
+   "linhas": [
+    "PRESENTE DE NATAL"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Natal chegando e você não sabe o que pedir?",
+     "tela": "NÃO SABE O QUE PEDIR?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-geral-01.jpg"
+    },
+    {
+     "fala": "Cartão presente da PlayStation Store.",
+     "tela": "CARTÃO PLAYSTATION STORE",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-ptt-store-01.jpg"
+    },
+    {
+     "fala": "Serve pra jogo, edição e o que vier na loja.",
+     "tela": "LINK NA BIO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-goodtime-gear-01.jpg"
+    },
+    {
+     "fala": "Manda esse vídeo pra quem vai te dar presente.",
+     "tela": "MANDA PRA ELE(A)",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vice-city-style-03.jpg"
+    }
+   ],
+   "legenda": "🎁 Natal chegando: em vez de arriscar o presente, pede um cartão presente da PlayStation Store. Tá no link da bio (Mercado Livre). O preço muda, então confere lá.\n\nManda esse vídeo pra quem vai te dar presente 😉",
+   "fontes": []
+  },
+  {
+   "id": "R1500",
+   "hora": "15:00",
+   "formato": "reel",
+   "linhas": [
+    "CONFIA EM QUEM?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Em quem você confia em Leonida?",
+     "tela": "CONFIA EM QUEM?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-12.jpg"
+    },
+    {
+     "fala": "Raul Bautista?",
+     "tela": "RAUL BAUTISTA?",
+     "imagem": "gta6/banco/oficial/pessoa-raul-bautista-02.jpg"
+    },
+    {
+     "fala": "Brian Heder?",
+     "tela": "BRIAN HEDER?",
+     "imagem": "gta6/banco/oficial/pessoa-brian-heder-02.jpg"
+    },
+    {
+     "fala": "Ou Real Dimez? Comenta e segue a página.",
+     "tela": "OU REAL DIMEZ?",
+     "imagem": "gta6/banco/oficial/pessoa-real-dimez-02.jpg"
+    }
+   ],
+   "legenda": "🤔 Jason e Lucia cruzam com muita gente em Leonida. Se fosse você, confiaria em quem: Raul Bautista, Brian Heder ou Real Dimez?\n\nComenta o nome (sem spoiler da história, por favor).",
+   "fontes": []
   }
  ]
 }
