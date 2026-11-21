@@ -445,6 +445,78 @@
    "fontes": [
     "https://www.redbull.com/gb-en/gta-6-beginners-guide"
    ]
+  },
+  {
+   "id": "R2200",
+   "hora": "22:00",
+   "formato": "reel",
+   "linhas": [
+    "TROCA DE ROUPA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Polícia na cola? Troca de roupa.",
+     "tela": "POLÍCIA NA COLA?",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-03.jpg"
+    },
+    {
+     "fala": "Dá pra guardar até cinco roupas no carro.",
+     "tela": "ATÉ 5 ROUPAS NO CARRO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vice-city-style-01.jpg"
+    },
+    {
+     "fala": "Trocou fora do alerta da polícia, o problema some.",
+     "tela": "TROCOU, SUMIU",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vice-city-style-03.jpg"
+    },
+    {
+     "fala": "Salva essa dica e segue a página pra mais.",
+     "tela": "SALVA E SEGUE",
+     "imagem": "gta6/banco/oficial/pacote-vintage-exclusive-looks-01.jpg"
+    }
+   ],
+   "legenda": "👕 Dica de fuga no GTA 6: dá pra guardar até cinco roupas no carro. Segundo a Forbes (que jogou mais de 130 horas), trocar de roupa quando não tem alerta ativo da polícia elimina o problema na hora.\n\nSalva pra não esquecer e manda pro parceiro de crime.",
+   "fontes": [
+    "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+   ]
+  },
+  {
+   "id": "R2300",
+   "hora": "23:00",
+   "formato": "reel",
+   "linhas": [
+    "CHEETAH OU STANIER?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Qual desses vai pra sua garagem?",
+     "tela": "QUAL VAI PRA GARAGEM?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-01.jpg"
+    },
+    {
+     "fala": "De um lado, o Grotti Cheetah.",
+     "tela": "GROTTI CHEETAH",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-02.jpg"
+    },
+    {
+     "fala": "Do outro, o clássico Vapid Stanier.",
+     "tela": "VAPID STANIER",
+     "imagem": "gta6/banco/oficial/pacote-vintage-vapid-stanier-02.jpg"
+    },
+    {
+     "fala": "Comenta Cheetah ou Stanier e segue a página.",
+     "tela": "CHEETAH OU STANIER?",
+     "imagem": "gta6/banco/oficial/pacote-vintage-vapid-stanier-03.jpg"
+    }
+   ],
+   "legenda": "🏎️ Garagem de Leonida tem espaço pra um só: Grotti Cheetah ou Vapid Stanier?\n\nComenta CHEETAH ou STANIER e marca quem ia escolher errado 😂",
+   "fontes": []
   }
  ]
 }

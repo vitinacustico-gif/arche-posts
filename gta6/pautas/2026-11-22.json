@@ -1,0 +1,152 @@
+{
+ "data": "2026-11-22",
+ "fontes": [],
+ "itens": [
+  {
+   "id": "R0000",
+   "hora": "00:00",
+   "formato": "reel",
+   "linhas": [
+    "1 BILHÃO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Mais de um bilhão de dólares.",
+     "tela": "MAIS DE US$ 1 BILHÃO",
+     "imagem": "gta6/banco/oficial/arte-official-cover-art.jpg"
+    },
+    {
+     "fala": "É o custo estimado pra fazer o GTA 6.",
+     "tela": "CUSTO ESTIMADO DO JOGO",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-01.jpg"
+    },
+    {
+     "fala": "Treze anos depois do GTA 5, de 2013.",
+     "tela": "13 ANOS DEPOIS DO GTA 5",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-06.jpg"
+    },
+    {
+     "fala": "Valeu cada centavo? Comenta e segue a página.",
+     "tela": "VALEU? COMENTA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-14.jpg"
+    }
+   ],
+   "legenda": "💸 Segundo a Al Jazeera, o GTA 6 custou mais de 1 bilhão de dólares (estimativa) e é o primeiro GTA desde o GTA 5, de 2013.\n\nPra você, valeu a espera? Comenta SIM ou NÃO. Avisos e novidades no grupo, link na bio.",
+   "fontes": [
+    "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait"
+   ]
+  },
+  {
+   "id": "R0100",
+   "hora": "01:00",
+   "formato": "reel",
+   "linhas": [
+    "DESLIGA ESSE JOGO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Uma da manhã. Mãe: desliga esse jogo.",
+     "tela": "1H: \"DESLIGA ESSE JOGO\"",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-11.jpg"
+    },
+    {
+     "fala": "Eu: só vou levar o Jason pra casa.",
+     "tela": "SÓ LEVAR O JASON PRA CASA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-14.jpg"
+    },
+    {
+     "fala": "Três da manhã. Eu, ainda em Vice City.",
+     "tela": "3H: AINDA EM VICE CITY",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-17.jpg"
+    },
+    {
+     "fala": "Marca quem faz isso e segue a página.",
+     "tela": "MARCA QUEM FAZ ISSO",
+     "imagem": "gta6/banco/oficial/arte-cal-hampton.jpg"
+    }
+   ],
+   "legenda": "😅 \"Só vou levar o Jason pra casa\" e mais duas horas se passaram.\n\nMarca aquele amigo que tá online agora.",
+   "fontes": []
+  },
+  {
+   "id": "R0200",
+   "hora": "02:00",
+   "formato": "reel",
+   "linhas": [
+    "PERDEU A MENSAGEM?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Perdeu uma mensagem no GTA 6?",
+     "tela": "PERDEU UMA MENSAGEM?",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-05.jpg"
+    },
+    {
+     "fala": "Aperta o quadrado.",
+     "tela": "APERTA O QUADRADO",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-17.jpg"
+    },
+    {
+     "fala": "Aparece a lista de mensagens, chamadas e notícias.",
+     "tela": "MENSAGENS, CHAMADAS, NOTÍCIAS",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-16.jpg"
+    },
+    {
+     "fala": "Salva a dica e segue a página.",
+     "tela": "SALVA A DICA",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-04.jpg"
+    }
+   ],
+   "legenda": "📱 Dica rápida de GTA 6: perdeu uma notificação? Segundo a Forbes, apertar o quadrado mostra a lista de mensagens, chamadas, notícias e posts que passaram.\n\nSalva e manda pra quem vive perdendo missão. Guia em português no link da bio.",
+   "fontes": [
+    "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+   ]
+  },
+  {
+   "id": "R0300",
+   "hora": "03:00",
+   "formato": "reel",
+   "linhas": [
+    "BLACK FRIDAY"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Esperando a Black Friday pro console?",
+     "tela": "ESPERANDO A BLACK FRIDAY?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-geral-01.jpg"
+    },
+    {
+     "fala": "O GTA 6 saiu pra PlayStation 5 e Xbox Series.",
+     "tela": "PS5 E XBOX SERIES",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-geral-02.jpg"
+    },
+    {
+     "fala": "O PlayStation 5 tá no link da bio.",
+     "tela": "PS5 NO LINK DA BIO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-ptt-store-01.jpg"
+    },
+    {
+     "fala": "Comenta qual console você tem e segue a página.",
+     "tela": "QUAL É O SEU CONSOLE?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-24.jpg"
+    }
+   ],
+   "legenda": "🛒 GTA 6 saiu pra PlayStation 5 e Xbox Series. Se ainda falta o console, o PlayStation 5 Slim Digital (pacote Astro Bot + Gran Turismo 7) está no link da bio (Mercado Livre). O preço muda todo dia, então confere lá.\n\nComenta: PlayStation ou Xbox?",
+   "fontes": [
+    "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait"
+   ]
+  }
+ ]
+}
