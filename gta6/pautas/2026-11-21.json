@@ -2,7 +2,10 @@
  "data": "2026-11-21",
  "fontes": [
   "https://www.bgr.com/2322463/gta-6-hidden-fast-and-furious-paul-walker-car/",
-  "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+  "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/",
+  "https://www.fox5ny.com/news/gta-vi-pulls-estimated-1-84-billion-release-day-more-than-double-gta-vs-launch-record",
+  "https://www.redbull.com/gb-en/gta-6-beginners-guide",
+  "https://www.ibtimes.co.uk/gta-6-player-discovers-literal-easter-egg-leonida-1833342"
  ],
  "itens": [
   {
@@ -220,6 +223,228 @@
    ],
    "legenda": "🎧 Rádio, perseguição e tiroteio de Leonida merecem um fone. O headset gamer RGB com microfone (PS5, Xbox, PC e celular) está no link da bio, no Mercado Livre. O preço muda todo dia, então confere lá.\n\nManda pro amigo que joga com o volume no mínimo.",
    "fontes": []
+  },
+  {
+   "id": "R1600",
+   "hora": "16:00",
+   "formato": "reel",
+   "linhas": [
+    "19 MILHÕES"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Dezenove milhões de cópias no dia do lançamento.",
+     "tela": "19 MILHÕES DE CÓPIAS",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-05.jpg"
+    },
+    {
+     "fala": "É a estimativa da Sensor Tower: um vírgula oitenta e quatro bilhão de dólares.",
+     "tela": "US$ 1,84 BI ESTIMADOS",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-09.jpg"
+    },
+    {
+     "fala": "O GTA 5 vendeu onze milhões nas primeiras vinte e quatro horas.",
+     "tela": "GTA 5: 11 MILHÕES",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-16.jpg"
+    },
+    {
+     "fala": "Você já tá nessa conta? Comenta e segue a página.",
+     "tela": "VOCÊ TÁ NESSA CONTA?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-10.jpg"
+    }
+   ],
+   "legenda": "📈 GTA 6 chegou a cerca de 19 milhões de cópias no dia do lançamento, segundo estimativa da Sensor Tower citada pela FOX 5 NY: perto de US$ 1,84 bilhão, somando a pré-venda. O GTA 5 tinha feito 11,21 milhões nas primeiras 24 horas. A Take-Two ainda não divulgou número oficial.\n\nVocê já tá nessa conta? Comenta aí.",
+   "fontes": [
+    "https://www.fox5ny.com/news/gta-vi-pulls-estimated-1-84-billion-release-day-more-than-double-gta-vs-launch-record"
+   ]
+  },
+  {
+   "id": "R1700",
+   "hora": "17:00",
+   "formato": "reel",
+   "linhas": [
+    "GRANA NO PISO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Não anda com dinheiro no bolso no GTA 6.",
+     "tela": "NÃO ANDA COM GRANA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-05.jpg"
+    },
+    {
+     "fala": "Se você morre, perde o dinheiro que tava carregando.",
+     "tela": "MORREU? PERDEU",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-09.jpg"
+    },
+    {
+     "fala": "No começo, esconde no piso solto do quarto do Jason, até liberar a conta no banco.",
+     "tela": "ESCONDE NO PISO DO JASON",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-01.jpg"
+    },
+    {
+     "fala": "Salva essa dica e manda pro amigo que vive perdendo grana.",
+     "tela": "SALVA ESSA DICA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-14.jpg"
+    }
+   ],
+   "legenda": "💰 Dica de começo de jogo: no GTA 6, quem morre perde o dinheiro que estava carregando. Segundo o guia da Red Bull, dá pra guardar a grana no piso solto do quarto do Jason até liberar a conta no banco, na missão \"Buck Me\". E depois de um roubo grande, vende o saque logo.\n\nSalva pra não esquecer e manda pro amigo que vive morrendo cheio de grana.",
+   "fontes": [
+    "https://www.redbull.com/gb-en/gta-6-beginners-guide"
+   ]
+  },
+  {
+   "id": "R1800",
+   "hora": "18:00",
+   "formato": "reel",
+   "linhas": [
+    "OVO NA TORRE"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Tem um ovo de verdade no GTA 6?",
+     "tela": "UM OVO DE VERDADE?",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-03.jpg"
+    },
+    {
+     "fala": "Um jogador subiu uma torre em Leonida e achou um ninho lá no alto.",
+     "tela": "NINHO NO ALTO DA TORRE",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-06.jpg"
+    },
+    {
+     "fala": "Jogou o ovo lá de cima e caiu no para-brisa de um carro, numa cena curta.",
+     "tela": "OVO NO PARA-BRISA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-stock-305-02.jpg"
+    },
+    {
+     "fala": "Ainda não é confirmado. Você vai testar? Comenta aqui.",
+     "tela": "VAI TESTAR?",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-02.jpg"
+    }
+   ],
+   "legenda": "🥚 O easter egg mais literal de Leonida: segundo o IBTimes, um jogador subiu uma torre, achou um ninho com ovos coloridos e jogou um lá de cima. O ovo cai no para-brisa de um carro numa cena curta. Por enquanto é descoberta de jogador, sem confirmação oficial.\n\nVai subir a torre pra testar? Comenta.",
+   "fontes": [
+    "https://www.ibtimes.co.uk/gta-6-player-discovers-literal-easter-egg-leonida-1833342"
+   ]
+  },
+  {
+   "id": "R1900",
+   "hora": "19:00",
+   "formato": "reel",
+   "linhas": [
+    "DIA OU NOITE?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Você joga GTA 6 de dia ou de noite?",
+     "tela": "DIA OU NOITE?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
+    },
+    {
+     "fala": "A hora do jogo muda tudo: tem loja que fecha à noite.",
+     "tela": "TEM LOJA QUE FECHA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-23.jpg"
+    },
+    {
+     "fala": "E dormir na casa do Jason faz o tempo passar.",
+     "tela": "DORMIR PASSA O TEMPO",
+     "imagem": "gta6/banco/oficial/arte-jason-lucia-motel.jpg"
+    },
+    {
+     "fala": "Comenta: sol de Vice City ou neon da madrugada?",
+     "tela": "SOL OU NEON?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-27.jpg"
+    }
+   ],
+   "legenda": "☀️🌙 Em Leonida, o relógio importa: segundo o guia da Red Bull, algumas lojas fecham à noite, e dormir na casa do Jason faz o tempo passar. O relógio fica no celular.\n\nE você, time sol de Vice City ou time neon da madrugada? Comenta.",
+   "fontes": [
+    "https://www.redbull.com/gb-en/gta-6-beginners-guide"
+   ]
+  },
+  {
+   "id": "R2000",
+   "hora": "20:00",
+   "formato": "reel",
+   "linhas": [
+    "AINDA SEM PS5?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Ainda sem PlayStation 5 pro GTA 6?",
+     "tela": "AINDA SEM PS5?",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-07.jpg"
+    },
+    {
+     "fala": "O GTA 6 saiu só pra PlayStation 5 e Xbox Series, sem data no PC.",
+     "tela": "SÓ CONSOLE, SEM PC",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-19.jpg"
+    },
+    {
+     "fala": "O PlayStation 5 Slim Digital tá no link da bio.",
+     "tela": "PS5 SLIM: LINK NA BIO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-safehouse-vehicles-01.jpg"
+    },
+    {
+     "fala": "Manda pro amigo que ainda tá só no vídeo e segue a página.",
+     "tela": "MANDA PRO AMIGO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-15.jpg"
+    }
+   ],
+   "legenda": "🎮 GTA 6 saiu para PlayStation 5 e Xbox Series X|S, e ainda não tem data para PC. Se falta o console, o PlayStation 5 Slim Digital (pacote com Astro Bot e Gran Turismo 7) está no link da bio, no Mercado Livre. O preço muda todo dia, então confere lá.\n\nManda pro amigo que ainda está só assistindo gameplay.",
+   "fontes": [
+    "https://www.fox5ny.com/news/gta-vi-pulls-estimated-1-84-billion-release-day-more-than-double-gta-vs-launch-record"
+   ]
+  },
+  {
+   "id": "R2100",
+   "hora": "21:00",
+   "formato": "reel",
+   "linhas": [
+    "MODO FOCO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Três cores que salvam sua vida no GTA 6.",
+     "tela": "3 CORES DO MODO FOCO",
+     "imagem": "gta6/banco/oficial/pessoa-real-dimez-01.jpg"
+    },
+    {
+     "fala": "Aperta os dois analógicos e liga o Modo Foco.",
+     "tela": "APERTA OS 2 ANALÓGICOS",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-hawk-and-little-morgan-revolvers-02.jpg"
+    },
+    {
+     "fala": "Vermelho é inimigo, amarelo é o que dá pra usar, verde é dinheiro.",
+     "tela": "VERMELHO, AMARELO, VERDE",
+     "imagem": "gta6/banco/oficial/pacote-vintage-weapon-pattern-01.jpg"
+    },
+    {
+     "fala": "Com arma na mão, o tempo ainda desacelera. Salva e compartilha.",
+     "tela": "SALVA E COMPARTILHA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-12.jpg"
+    }
+   ],
+   "legenda": "🎯 Modo Foco no GTA 6: clica os dois analógicos. Segundo o guia da Red Bull, ele marca inimigos em vermelho, o que dá pra interagir em amarelo e dinheiro em verde. Com arma, ainda desacelera o tempo por alguns segundos.\n\nSalva e manda pra quem ainda não descobriu.",
+   "fontes": [
+    "https://www.redbull.com/gb-en/gta-6-beginners-guide"
+   ]
   }
  ]
 }
