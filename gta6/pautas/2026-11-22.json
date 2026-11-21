@@ -147,6 +147,227 @@
    "fontes": [
     "https://www.aljazeera.com/news/2026/11/19/grand-theft-auto-vi-launches-to-rave-reviews-after-13-year-wait"
    ]
+  },
+  {
+   "id": "R0400",
+   "hora": "04:00",
+   "formato": "reel",
+   "linhas": [
+    "DORME EM CASA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Tá jogando GTA 6 sem dormir?",
+     "tela": "SEM DORMIR NO JOGO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-02.jpg"
+    },
+    {
+     "fala": "Se não voltar pra casa pra dormir, perde energia.",
+     "tela": "SEM CAMA = SEM ENERGIA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg"
+    },
+    {
+     "fala": "E um café em casa aumenta energia e foco.",
+     "tela": "CAFÉ = ENERGIA E FOCO",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-01.jpg"
+    },
+    {
+     "fala": "Salva essa dica e segue a página.",
+     "tela": "SALVA E SEGUE",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-02.jpg"
+    }
+   ],
+   "legenda": "☕ Dica de quem já jogou 130 horas (Forbes): no GTA 6 você precisa voltar pra casa pra dormir, senão leva penalidade de energia. E o café em casa aumenta energia e concentração.\n\nSalva pra não esquecer e manda pro parceiro de Leonida.",
+   "fontes": [
+    "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+   ]
+  },
+  {
+   "id": "R0500",
+   "hora": "05:00",
+   "formato": "reel",
+   "linhas": [
+    "RED DEAD NA TV?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Você viu Red Dead no GTA 6?",
+     "tela": "RED DEAD NO GTA 6?",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-01.jpg"
+    },
+    {
+     "fala": "No Extended Look, uma TV passa um comercial com paisagem.",
+     "tela": "UM COMERCIAL NA TV",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-02.jpg"
+    },
+    {
+     "fala": "Um fã achou um lugar quase igual no Red Dead 2.",
+     "tela": "PAISAGEM DO RED DEAD 2?",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-01.jpg"
+    },
+    {
+     "fala": "Comenta se você reparou e segue a página.",
+     "tela": "VOCÊ REPAROU?",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-02.jpg"
+    }
+   ],
+   "legenda": "🐎 Easter egg pra fã raiz: no Extended Look do GTA 6 (por volta de 7:47), uma TV passa um comercial com uma paisagem cheia de animais. Um fã no Reddit achou um ponto quase igual em Red Dead Redemption 2 (Notebookcheck).\n\nReferência ou coincidência? Comenta aí.",
+   "fontes": [
+    "https://www.notebookcheck.net/GTA-6-This-tiny-Easter-egg-may-only-have-been-spotted-by-true-RDR2-fans.1381499.0.html"
+   ]
+  },
+  {
+   "id": "R0600",
+   "hora": "06:00",
+   "formato": "reel",
+   "linhas": [
+    "JET SKI OU AIRBOAT?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Jet ski ou airboat em Leonida?",
+     "tela": "JET SKI OU AIRBOAT?",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-03.jpg"
+    },
+    {
+     "fala": "Jet ski pra rasgar o mar das Keys.",
+     "tela": "JET SKI NO MAR",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-04.jpg"
+    },
+    {
+     "fala": "Airboat pra entrar no pântano de Grassrivers.",
+     "tela": "AIRBOAT NO PÂNTANO",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-05.jpg"
+    },
+    {
+     "fala": "Comenta o seu e segue a página.",
+     "tela": "QUAL É O SEU?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-04.jpg"
+    }
+   ],
+   "legenda": "🌊 Esportes na água em Leonida: jet ski, airboat e até caiaque (GamesRadar+). Mar das Keys ou pântano de Grassrivers?\n\nComenta: JET SKI ou AIRBOAT?",
+   "fontes": [
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/"
+   ]
+  },
+  {
+   "id": "R0700",
+   "hora": "07:00",
+   "formato": "reel",
+   "linhas": [
+    "3 OU 2?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "GTA 5 tinha três protagonistas.",
+     "tela": "GTA 5: TRÊS",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-01.jpg"
+    },
+    {
+     "fala": "Michael, Franklin e Trevor.",
+     "tela": "MICHAEL, FRANKLIN, TREVOR",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-02.jpg"
+    },
+    {
+     "fala": "No GTA 6 são dois: Jason e Lucia.",
+     "tela": "GTA 6: JASON E LUCIA",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-08.jpg"
+    },
+    {
+     "fala": "Três ou dois? Comenta e segue a página.",
+     "tela": "TRÊS OU DOIS?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-05.jpg"
+    }
+   ],
+   "legenda": "🎮 GTA 5 x GTA 6: lá eram três protagonistas (Michael, Franklin e Trevor). Em Leonida são dois, Jason e Lucia (GamesRadar+).\n\nO que é melhor: três histórias ou uma dupla? Comenta.",
+   "fontes": [
+    "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/"
+   ]
+  },
+  {
+   "id": "R0800",
+   "hora": "08:00",
+   "formato": "reel",
+   "linhas": [
+    "DIA 4 EM LEONIDA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Dia 4 em Leonida: vai de moto.",
+     "tela": "DIA 4 EM LEONIDA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-10.jpg"
+    },
+    {
+     "fala": "Moto de rua faz curva quase perfeita.",
+     "tela": "CURVA QUASE PERFEITA",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-01.jpg"
+    },
+    {
+     "fala": "Mas cuidado: uma batida pode matar na hora.",
+     "tela": "BATEU? JÁ ERA",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-01.jpg"
+    },
+    {
+     "fala": "Salva a dica e segue: amanhã tem o dia cinco.",
+     "tela": "AMANHÃ: DIA 5",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-13.jpg"
+    }
+   ],
+   "legenda": "🏍️ DIA 4 EM LEONIDA: segundo quem já jogou 130 horas (Forbes), a maioria das motos de rua faz curva quase perfeita. Só que uma batida pode te matar na hora.\n\nSalva a dica e volta amanhã pro Dia 5.",
+   "fontes": [
+    "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+   ],
+   "serie": "DIA 4 EM LEONIDA"
+  },
+  {
+   "id": "R0900",
+   "hora": "09:00",
+   "formato": "reel",
+   "linhas": [
+    "ALMOÇO DE DOMINGO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Almoço de domingo com GTA 6 em casa?",
+     "tela": "ALMOÇO DE DOMINGO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-03.jpg"
+    },
+    {
+     "fala": "Sua mãe gritando: tá na mesa!",
+     "tela": "MÃE: TÁ NA MESA!",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-10.jpg"
+    },
+    {
+     "fala": "Você: pera, tô fugindo da polícia.",
+     "tela": "PERA, TÔ FUGINDO",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-21.jpg"
+    },
+    {
+     "fala": "Marca quem faz isso e segue a página.",
+     "tela": "MARCA ESSE AMIGO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-06.jpg"
+    }
+   ],
+   "legenda": "😂 Todo domingo é isso: a comida esfriando e você no meio da perseguição.\n\nMarca aquele amigo que nunca chega na mesa.",
+   "fontes": []
   }
  ]
 }
