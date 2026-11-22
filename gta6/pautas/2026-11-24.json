@@ -4,7 +4,10 @@
   "https://kotaku.com/grand-theft-auto-6-the-kotaku-review-2000757842",
   "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/",
   "https://www.redbull.com/gb-en/gta-6-beginners-guide",
-  "https://www.gtabase.com/pt/gta-6/articles/day-one-in-leonida-what-to-do-in-your-first-hour-in-gta-6"
+  "https://www.gtabase.com/pt/gta-6/articles/day-one-in-leonida-what-to-do-in-your-first-hour-in-gta-6",
+  "https://www.ibtimes.co.uk/gta-6-player-discovers-literal-easter-egg-leonida-1833342",
+  "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/",
+  "https://www.gazetadopovo.com.br/economia/quando-e-a-black-friday-2026-veja-data/"
  ],
  "itens": [
   {
@@ -380,6 +383,224 @@
     "https://www.redbull.com/gb-en/gta-6-beginners-guide"
    ],
    "estilo": "manchete"
+  },
+  {
+   "id": "R1000",
+   "hora": "10:00",
+   "formato": "reel",
+   "linhas": [
+    "OVO NA TORRE"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Tem um ovo secreto em GTA 6?",
+     "tela": "OVO SECRETO?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-12.jpg"
+    },
+    {
+     "fala": "Jogadores dizem que no topo de uma torre tem um ninho com ovos coloridos.",
+     "tela": "NINHO NO TOPO DA TORRE",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-01.jpg"
+    },
+    {
+     "fala": "Joga um ovo lá de cima e uma cena mostra ele acertando um carro.",
+     "tela": "OVO NO PARA-BRISA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-04.jpg"
+    },
+    {
+     "fala": "A Rockstar não confirmou. Já achou? Comenta e segue a página.",
+     "tela": "JÁ ACHOU? COMENTA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-01.jpg"
+    }
+   ],
+   "legenda": "🥚 O easter egg mais literal de GTA 6: jogadores contam que, no alto de uma torre em Leonida (uns 7 minutos de escalada), tem um ninho com ovos coloridos. Jogou um lá de baixo? Uma cena curta mostra o ovo acertando o para-brisa de um carro. Ainda é descoberta de jogador, sem confirmação da Rockstar.\n\nVocê já subiu nessa torre? Comenta aqui.",
+   "fontes": [
+    "https://www.ibtimes.co.uk/gta-6-player-discovers-literal-easter-egg-leonida-1833342"
+   ]
+  },
+  {
+   "id": "R1100",
+   "hora": "11:00",
+   "formato": "reel",
+   "linhas": [
+    "DIA OU NOITE?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "estilo": "tweet",
+   "roteiro": [
+    {
+     "fala": "Vice City é melhor de dia ou de noite?",
+     "tela": "DIA OU NOITE?",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-15.jpg"
+    },
+    {
+     "fala": "De dia: praia, sol e carro na orla.",
+     "tela": "DIA: PRAIA E SOL",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-20.jpg"
+    },
+    {
+     "fala": "De noite: neon, balada e perseguição.",
+     "tela": "NOITE: NEON E BALADA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-21.jpg"
+    },
+    {
+     "fala": "Comenta dia ou noite e segue a página.",
+     "tela": "COMENTA: DIA OU NOITE",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-02.jpg"
+    }
+   ],
+   "legenda": "🌴🌙 Pergunta que divide: Vice City é melhor de dia, com praia e sol, ou de noite, no neon?\n\nComenta DIA ou NOITE e marca quem discorda de você.",
+   "fontes": []
+  },
+  {
+   "id": "R1200",
+   "hora": "12:00",
+   "formato": "reel",
+   "linhas": [
+    "MINI GOLFE"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "GTA 6 tem mini golfe!",
+     "tela": "TEM MINI GOLFE",
+     "imagem": "gta6/banco/oficial/arte-cal-hampton.jpg"
+    },
+    {
+     "fala": "A Game Informer confirmou o mini golfe entre as atividades do jogo.",
+     "tela": "GAME INFORMER CONFIRMOU",
+     "imagem": "gta6/banco/oficial/pessoa-brian-heder-01.jpg"
+    },
+    {
+     "fala": "Numa foto oficial, Cal Hampton aparece de taco numa pista com cara de jacaré.",
+     "tela": "PISTA COM TEMA DE JACARÉ",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-02.jpg"
+    },
+    {
+     "fala": "Mini golfe ou crime? Comenta e segue a página.",
+     "tela": "GOLFE OU CRIME?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-03.jpg"
+    }
+   ],
+   "legenda": "⛳ Nem tudo em Leonida é assalto: o mini golfe está entre as atividades confirmadas de GTA 6 (via Game Informer). Numa foto oficial, Cal Hampton aparece de taco na mão numa pista que parece ter tema de jacaré. Também tem sinuca e zoológico na lista.\n\nVocê para pra jogar ou vai direto pro crime? Comenta.",
+   "fontes": [
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/"
+   ]
+  },
+  {
+   "id": "R1300",
+   "hora": "13:00",
+   "formato": "reel",
+   "linhas": [
+    "TERÇA-FEIRA..."
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Terça-feira e a cabeça em Leonida.",
+     "tela": "TERÇA-FEIRA...",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-02.jpg"
+    },
+    {
+     "fala": "O corpo tá no trabalho, mas a mente tá fugindo da polícia.",
+     "tela": "MENTE: FUGINDO DA POLÍCIA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-safehouse-vehicles-01.jpg"
+    },
+    {
+     "fala": "Contando as horas pra chegar em casa e ligar o console.",
+     "tela": "CONTANDO AS HORAS",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-03.jpg"
+    },
+    {
+     "fala": "Marca o amigo que tá assim e segue a página.",
+     "tela": "MARCA ESSE AMIGO",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-06.jpg"
+    }
+   ],
+   "legenda": "😩 Terça-feira, uma da tarde: o corpo no trabalho e a cabeça em Vice City.\n\nMarca aquele amigo que só pensa em GTA 6 desde o dia 19.",
+   "fontes": []
+  },
+  {
+   "id": "R1400",
+   "hora": "14:00",
+   "formato": "reel",
+   "linhas": [
+    "SEXTA É BLACK"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": true,
+   "estilo": "manchete",
+   "roteiro": [
+    {
+     "fala": "Black Friday é nesta sexta!",
+     "tela": "SEXTA É BLACK FRIDAY",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-geral-01.jpg"
+    },
+    {
+     "fala": "Se ainda falta o GTA 6, a mídia pro PlayStation 5 tá no link da bio.",
+     "tela": "GTA 6 NO LINK DA BIO",
+     "imagem": "gta6/banco/oficial/pacote-vintage-vapid-stanier-01.jpg"
+    },
+    {
+     "fala": "O preço muda todo dia, então fica de olho até sexta.",
+     "tela": "PREÇO MUDA TODO DIA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vice-city-style-01.jpg"
+    },
+    {
+     "fala": "Confere no link da bio e segue a página.",
+     "tela": "CONFERE NA BIO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-05.jpg"
+    }
+   ],
+   "legenda": "🛒 A Black Friday 2026 é nesta sexta, 27 de novembro. Se você ainda está sem GTA 6, o GTA VI em mídia pro PS5 está no link da bio (Mercado Livre). O preço muda todo dia, então vale acompanhar até sexta.\n\nManda pro amigo que ainda está esperando baixar o preço.",
+   "fontes": [
+    "https://www.gazetadopovo.com.br/economia/quando-e-a-black-friday-2026-veja-data/"
+   ]
+  },
+  {
+   "id": "R1500",
+   "hora": "15:00",
+   "formato": "reel",
+   "linhas": [
+    "QUAL MISSÃO?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Qual missão te fez largar o controle?",
+     "tela": "QUAL MISSÃO?",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-08.jpg"
+    },
+    {
+     "fala": "Aquela que você tentou cinco vezes e quase desistiu.",
+     "tela": "TENTOU 5 VEZES?",
+     "imagem": "gta6/banco/oficial/pessoa-real-dimez-01.jpg"
+    },
+    {
+     "fala": "Sem spoiler: fala só o apelido que você deu pra ela.",
+     "tela": "SEM SPOILER!",
+     "imagem": "gta6/banco/oficial/pessoa-boobie-ike-01.jpg"
+    },
+    {
+     "fala": "Comenta aqui e segue a página que amanhã tem mais.",
+     "tela": "COMENTA AQUI",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-06.jpg"
+    }
+   ],
+   "legenda": "🎮 Toda campanha tem aquela missão que faz a gente largar o controle no sofá. Qual foi a sua em GTA 6?\n\nSem spoiler: comenta só o apelido que você deu pra ela.",
+   "fontes": []
   }
  ]
 }
