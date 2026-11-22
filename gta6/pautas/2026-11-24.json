@@ -2,7 +2,9 @@
  "data": "2026-11-24",
  "fontes": [
   "https://kotaku.com/grand-theft-auto-6-the-kotaku-review-2000757842",
-  "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+  "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/",
+  "https://www.redbull.com/gb-en/gta-6-beginners-guide",
+  "https://www.gtabase.com/pt/gta-6/articles/day-one-in-leonida-what-to-do-in-your-first-hour-in-gta-6"
  ],
  "itens": [
   {
@@ -152,6 +154,232 @@
    "fontes": [
     "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
    ]
+  },
+  {
+   "id": "R0400",
+   "hora": "04:00",
+   "formato": "reel",
+   "linhas": [
+    "SEM TELEPORTE"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "GTA 6 não tem teleporte no mapa.",
+     "tela": "SEM TELEPORTE NO MAPA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-27.jpg"
+    },
+    {
+     "fala": "Pra ir longe, chama o RydeMe. Com cem dólares a mais, você pula a corrida.",
+     "tela": "RYDEME: +100 PULA A VIAGEM",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-19.jpg"
+    },
+    {
+     "fala": "Ou vai de transporte público, ou troca de personagem.",
+     "tela": "TRANSPORTE OU TROCA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-24.jpg"
+    },
+    {
+     "fala": "Salva essa dica e segue a página.",
+     "tela": "SALVA E SEGUE",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-05.jpg"
+    }
+   ],
+   "legenda": "🚕 Leonida é enorme e não tem teleporte pelo mapa. As 3 saídas: RydeMe (pagando 100 a mais você pula a corrida), transporte público ou trocar de personagem (Red Bull).\n\nSalva pra não ficar dirigindo meia hora à toa.",
+   "fontes": [
+    "https://www.redbull.com/gb-en/gta-6-beginners-guide"
+   ]
+  },
+  {
+   "id": "R0500",
+   "hora": "05:00",
+   "formato": "reel",
+   "linhas": [
+    "SILENCIADOR"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Compra isso antes de qualquer assalto.",
+     "tela": "COMPRE ANTES DO ASSALTO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-weapon-variants-01.jpg"
+    },
+    {
+     "fala": "A Ammu-Nation vende silenciador pra quase toda arma.",
+     "tela": "SILENCIADOR NA AMMU-NATION",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-06.jpg"
+    },
+    {
+     "fala": "Tem loja em Key Lento, logo depois do tutorial.",
+     "tela": "LOJA EM KEY LENTO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-hawk-and-little-morgan-revolvers-01.jpg"
+    },
+    {
+     "fala": "Ganha tempo pra saquear sem onda de polícia. Salva e segue a página.",
+     "tela": "MAIS TEMPO PRA SAQUEAR",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-14.jpg"
+    }
+   ],
+   "legenda": "🔫 Primeira compra que vale a pena em GTA 6: silenciador. A Ammu-Nation vende pra quase toda arma, e tem loja em Key Lento logo depois do tutorial. Ganha tempo pra saquear e evita as ondas de polícia (Red Bull).\n\nQual arma você equipou primeiro? Comenta aí.",
+   "fontes": [
+    "https://www.redbull.com/gb-en/gta-6-beginners-guide"
+   ]
+  },
+  {
+   "id": "R0600",
+   "hora": "06:00",
+   "formato": "reel",
+   "linhas": [
+    "SEM REPLAY"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Errou a missão? Não tem replay.",
+     "tela": "NÃO TEM REPLAY",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-18.jpg"
+    },
+    {
+     "fala": "GTA 6 não tem medalha de ouro nem repetir missão.",
+     "tela": "SEM MEDALHA DE OURO",
+     "imagem": "gta6/banco/oficial/pessoa-raul-bautista-04.jpg"
+    },
+    {
+     "fala": "Opinião: isso deixa cada missão mais tensa.",
+     "tela": "MAIS TENSO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-20.jpg"
+    },
+    {
+     "fala": "Curtiu ou queria o replay de volta? Comenta e segue a página.",
+     "tela": "CURTIU OU NÃO?",
+     "imagem": "gta6/banco/oficial/arte-drequan-priest.jpg"
+    }
+   ],
+   "legenda": "🎬 GTA 6 tirou as medalhas de ouro e o replay de missão (GTA Base). Uma chance, do jeito que sair.\n\nVocê curtiu a mudança ou queria o replay de volta? Comenta SIM ou NÃO.",
+   "fontes": [
+    "https://www.gtabase.com/pt/gta-6/articles/day-one-in-leonida-what-to-do-in-your-first-hour-in-gta-6"
+   ],
+   "estilo": "tweet"
+  },
+  {
+   "id": "R0700",
+   "hora": "07:00",
+   "formato": "reel",
+   "linhas": [
+    "277 CARROS"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Duzentos e setenta e sete veículos básicos.",
+     "tela": "277 VEÍCULOS BÁSICOS",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-one-eyed-willie-02.jpg"
+    },
+    {
+     "fala": "Dá pra escanear os carros pelo app do celular.",
+     "tela": "ESCANEIA NO CELULAR",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-stock-305-03.jpg"
+    },
+    {
+     "fala": "Escaneou duzentos? Conta pros cem por cento do jogo.",
+     "tela": "200 CONTAM PRO 100%",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vapid-ganado-retro-build-01.jpg"
+    },
+    {
+     "fala": "Quantos você já escaneou? Comenta e segue a página.",
+     "tela": "QUANTOS VOCÊ TEM?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-02.jpg"
+    }
+   ],
+   "legenda": "🚗 GTA 6 tem 277 veículos básicos, e escanear 200 deles conta para os 100% do jogo (GTA Base). O scan é pelo app do celular, mirando o carro estacionado.\n\nQuantos você já escaneou? Comenta o número.",
+   "fontes": [
+    "https://www.gtabase.com/pt/gta-6/articles/day-one-in-leonida-what-to-do-in-your-first-hour-in-gta-6"
+   ],
+   "estilo": "impacto"
+  },
+  {
+   "id": "R0800",
+   "hora": "08:00",
+   "formato": "reel",
+   "linhas": [
+    "DIA 6 EM LEONIDA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Dia 6 em Leonida: lê o mapa direito.",
+     "tela": "DIA 6 EM LEONIDA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-17.jpg"
+    },
+    {
+     "fala": "Prédio azul escuro tem interior ou entrada.",
+     "tela": "AZUL ESCURO: DÁ PRA ENTRAR",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-saras-salon-02.jpg"
+    },
+    {
+     "fala": "Azul claro é só cenário. E no fundo da loja, o minimapa mostra sala escondida.",
+     "tela": "SALA ESCONDIDA NA LOJA",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-04.jpg"
+    },
+    {
+     "fala": "Salva e segue: amanhã tem o dia sete.",
+     "tela": "AMANHÃ: DIA 7",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-25.jpg"
+    }
+   ],
+   "legenda": "🗺️ DIA 6 EM LEONIDA: no mapa, prédio azul escuro tem interior ou entrada; azul claro é só cenário. E andando pro fundo das lojas, o minimapa mostra salas escondidas, escadas e portas (Red Bull).\n\nSalva e volta amanhã pro Dia 7.",
+   "fontes": [
+    "https://www.redbull.com/gb-en/gta-6-beginners-guide"
+   ],
+   "serie": "DIA 6 EM LEONIDA"
+  },
+  {
+   "id": "R0900",
+   "hora": "09:00",
+   "formato": "reel",
+   "linhas": [
+    "BANCO? ESPERA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Não assalta banco ainda!",
+     "tela": "NÃO ASSALTA BANCO AINDA",
+     "imagem": "gta6/banco/oficial/arte-raul-bautista.jpg"
+    },
+    {
+     "fala": "Dinheiro de banco e de loja de empréstimo pode vir com tinta.",
+     "tela": "DINHEIRO COM TINTA",
+     "imagem": "gta6/banco/oficial/pessoa-boobie-ike-03.jpg"
+    },
+    {
+     "fala": "O bloqueador pra isso só chega no capítulo três.",
+     "tela": "BLOQUEADOR: CAPÍTULO 3",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-one-eyed-willie-03.jpg"
+    },
+    {
+     "fala": "Manda pro amigo apressado e segue a página.",
+     "tela": "MANDA PRO APRESSADO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-17.jpg"
+    }
+   ],
+   "legenda": "🏦 Segura a ansiedade: em GTA 6, o dinheiro de banco e de loja de empréstimo pode vir com pacote de tinta, e o bloqueador só aparece no Capítulo 3 (Red Bull). Por enquanto, as lojas de segurança baixa rendem mais.\n\nManda pro amigo que já quer assaltar banco no primeiro dia.",
+   "fontes": [
+    "https://www.redbull.com/gb-en/gta-6-beginners-guide"
+   ],
+   "estilo": "manchete"
   }
  ]
 }
