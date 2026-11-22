@@ -145,6 +145,226 @@
    ],
    "legenda": "🎮 Analógico puxando pro lado no meio da fuga? O controle Xbox Carbon Black (Microsoft, Xbox Series X|S e PC) tá no link da bio (Mercado Livre). O preço muda todo dia, então confere lá.\n\nManda pro parceiro que joga no Xbox.",
    "fontes": []
+  },
+  {
+   "id": "R0400",
+   "hora": "04:00",
+   "formato": "reel",
+   "linhas": [
+    "TEM ZOOLÓGICO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Sabia que GTA 6 tem zoológico?",
+     "tela": "TEM ZOOLÓGICO",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-06.jpg"
+    },
+    {
+     "fala": "A Game Informer confirmou visita ao zoo em Leonida.",
+     "tela": "VISITA AO ZOO",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-03.jpg"
+    },
+    {
+     "fala": "E no mar aparecem golfinho, raia e até tubarão.",
+     "tela": "GOLFINHO, RAIA, TUBARÃO",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-06.jpg"
+    },
+    {
+     "fala": "Qual bicho você quer ver primeiro? Comenta e segue.",
+     "tela": "QUAL BICHO PRIMEIRO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-18.jpg"
+    }
+   ],
+   "legenda": "🐬 Leonida tem até zoológico: a visita ao zoo foi confirmada pela Game Informer (via GamesRadar). E no mar dá pra mergulhar com golfinho e raia, com tubarão, baleia, tartaruga e água-viva na lista.\n\nQual bicho você quer ver primeiro? Comenta aí.",
+   "fontes": [
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/"
+   ]
+  },
+  {
+   "id": "R0500",
+   "hora": "05:00",
+   "formato": "reel",
+   "linhas": [
+    "SEGUNDA 5H"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Cinco da manhã de segunda-feira.",
+     "tela": "SEGUNDA, 5H",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-17.jpg"
+    },
+    {
+     "fala": "O despertador tocou e você pensou em Vice City.",
+     "tela": "PENSOU EM VICE CITY",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-23.jpg"
+    },
+    {
+     "fala": "Trabalho até as seis, Leonida até as duas.",
+     "tela": "LEONIDA ATÉ AS 2H",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-02.jpg"
+    },
+    {
+     "fala": "Marca quem vai virar a noite hoje e segue a página.",
+     "tela": "MARCA O PARCEIRO",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-05.jpg"
+    }
+   ],
+   "legenda": "⏰ Segunda-feira, 5 da manhã, e a cabeça já tá em Vice City. Trabalho até as 6, Leonida até as 2.\n\nMarca o parceiro que vai virar a noite hoje.",
+   "fontes": []
+  },
+  {
+   "id": "R0600",
+   "hora": "06:00",
+   "formato": "reel",
+   "linhas": [
+    "6 ESTRELAS"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Seis estrelas de procurado. Aguenta?",
+     "tela": "6 ESTRELAS",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-07.jpg"
+    },
+    {
+     "fala": "A polícia guarda seu rosto, sua roupa e seu carro.",
+     "tela": "ROSTO, ROUPA E CARRO",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-05.jpg"
+    },
+    {
+     "fala": "No trailer, a fuga foi queimar o carro e trocar por uma van.",
+     "tela": "QUEIMA E TROCA DE CARRO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-squalo-04.jpg"
+    },
+    {
+     "fala": "Até quantas estrelas você já chegou? Comenta e segue.",
+     "tela": "QUANTAS VOCÊ AGUENTA?",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-beach.jpg"
+    }
+   ],
+   "legenda": "🚨 GTA 6 vai até 6 estrelas de procurado. A polícia rastreia rosto, roupa e carro, e o medidor sai do branco pro vermelho quando a coisa esquenta (GamesRadar, sobre o trailer estendido).\n\nAté quantas estrelas você já chegou? Comenta.",
+   "fontes": [
+    "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/"
+   ]
+  },
+  {
+   "id": "R0700",
+   "hora": "07:00",
+   "formato": "reel",
+   "linhas": [
+    "BOLA OU RINGUE?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Basquete ou luta no quintal?",
+     "tela": "BASQUETE OU LUTA?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-05.jpg"
+    },
+    {
+     "fala": "No trailer, Jason joga bola na frente da casa da praia.",
+     "tela": "BOLA NA FRENTE DE CASA",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-07.jpg"
+    },
+    {
+     "fala": "E tem luta num ringue de quintal.",
+     "tela": "RINGUE NO QUINTAL",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-19.jpg"
+    },
+    {
+     "fala": "Qual você joga primeiro? Comenta um ou dois.",
+     "tela": "1 BOLA • 2 RINGUE",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-12.jpg"
+    }
+   ],
+   "legenda": "🏀 No trailer estendido, Jason joga basquete na frente da casa da praia e ainda rola luta num ringue de quintal (GamesRadar).\n\nComenta 1 pra bola ou 2 pro ringue.",
+   "fontes": [
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/"
+   ]
+  },
+  {
+   "id": "R0800",
+   "hora": "08:00",
+   "formato": "reel",
+   "linhas": [
+    "DIA 5 EM LEONIDA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Dia 5 em Leonida: o povo reage.",
+     "tela": "DIA 5 EM LEONIDA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-06.jpg"
+    },
+    {
+     "fala": "Assaltou loja ou posto? O cidadão pode partir pra cima.",
+     "tela": "O CLIENTE REAGE",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-ptt-store-01.jpg"
+    },
+    {
+     "fala": "Cobre o rosto: o mundo lembra de você.",
+     "tela": "COBRE O ROSTO",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-01.jpg"
+    },
+    {
+     "fala": "Salva a dica e segue: amanhã tem o dia seis.",
+     "tela": "AMANHÃ: DIA 6",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-06.jpg"
+    }
+   ],
+   "legenda": "🛒 DIA 5 EM LEONIDA: assaltar loja ou posto não é mais de graça. O cidadão pode reagir, e o mundo lembra mais de você do que nos GTAs antigos. Cobre o rosto (GamesRadar).\n\nSalva a dica e volta amanhã pro Dia 6.",
+   "fontes": [
+    "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/",
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/"
+   ],
+   "serie": "DIA 5 EM LEONIDA"
+  },
+  {
+   "id": "R0900",
+   "hora": "09:00",
+   "formato": "reel",
+   "linhas": [
+    "CASA DO AMIGO?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Ainda joga GTA 6 na casa do amigo?",
+     "tela": "NA CASA DO AMIGO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-01.jpg"
+    },
+    {
+     "fala": "Tá na hora de ter o seu.",
+     "tela": "HORA DE TER O SEU",
+     "imagem": "gta6/banco/oficial/arte-official-cover-art.jpg"
+    },
+    {
+     "fala": "GTA 6 em mídia pro PlayStation 5 tá no link da bio.",
+     "tela": "GTA 6 PS5 NA BIO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-wyman-car-collection-03.jpg"
+    },
+    {
+     "fala": "Manda pro amigo que empresta o console e segue.",
+     "tela": "MANDA PRO AMIGO",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-05.jpg"
+    }
+   ],
+   "legenda": "🎮 Ainda jogando GTA 6 na casa do amigo? O GTA VI em mídia pro PS5 tá no link da bio (Mercado Livre). O preço muda todo dia, então confere lá.\n\nManda pro amigo que sempre empresta o console.",
+   "fontes": []
   }
  ]
 }
