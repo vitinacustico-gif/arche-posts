@@ -1,6 +1,9 @@
 {
  "data": "2026-11-23",
- "fontes": [],
+ "fontes": [
+  "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/",
+  "https://www.gamesradar.com/games/grand-theft-auto/rockstar-gives-us-our-best-look-at-the-gta-6-characters-yet-from-a-beer-loving-conspiracy-believing-hermit-to-a-rap-duo-with-a-relentless-social-media-presence"
+ ],
  "itens": [
   {
    "id": "R0000",
@@ -364,6 +367,222 @@
     }
    ],
    "legenda": "🎮 Ainda jogando GTA 6 na casa do amigo? O GTA VI em mídia pro PS5 tá no link da bio (Mercado Livre). O preço muda todo dia, então confere lá.\n\nManda pro amigo que sempre empresta o console.",
+   "fontes": []
+  },
+  {
+   "id": "R1000",
+   "hora": "10:00",
+   "formato": "reel",
+   "linhas": [
+    "3 CONTAS"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Três lugares pro seu dinheiro.",
+     "tela": "3 LUGARES PRA GRANA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-10.jpg"
+    },
+    {
+     "fala": "Dinheiro vivo, conta corrente e poupança.",
+     "tela": "VIVO, CONTA E POUPANÇA",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-robbery.jpg"
+    },
+    {
+     "fala": "A poupança conta pra história, e o app BuckMe acha o caixa eletrônico.",
+     "tela": "APP BUCKME ACHA O CAIXA",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-11.jpg"
+    },
+    {
+     "fala": "Salva essa dica e segue a página.",
+     "tela": "SALVA E SEGUE",
+     "imagem": "gta6/banco/oficial/lugar-port-gellhorn-06.jpg"
+    }
+   ],
+   "legenda": "💰 No GTA 6 seu dinheiro fica em 3 lugares: dinheiro vivo, conta corrente e poupança. A poupança é usada nas metas da história, e o app BuckMe tem localizador de caixa eletrônico (Forbes).\n\nSalva essa dica e manda pro amigo que gasta tudo.",
+   "fontes": [
+    "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+   ]
+  },
+  {
+   "id": "R1100",
+   "hora": "11:00",
+   "formato": "reel",
+   "linhas": [
+    "CAL HAMPTON"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Quem é o Cal Hampton?",
+     "tela": "QUEM É O CAL?",
+     "imagem": "gta6/banco/oficial/pessoa-cal-hampton-02.jpg"
+    },
+    {
+     "fala": "É o amigo do Jason que quase não sai de casa.",
+     "tela": "AMIGO DO JASON",
+     "imagem": "gta6/banco/oficial/pessoa-cal-hampton-03.jpg"
+    },
+    {
+     "fala": "Segundo a Rockstar, ele bisbilhota o rádio da Guarda Costeira e curte teoria da conspiração.",
+     "tela": "ESPIONA A GUARDA COSTEIRA",
+     "imagem": "gta6/banco/oficial/pessoa-cal-hampton-04.jpg"
+    },
+    {
+     "fala": "Você confiaria no Cal? Comenta e segue a página.",
+     "tela": "CONFIA NO CAL?",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-05.jpg"
+    }
+   ],
+   "legenda": "📻 Cal Hampton, o amigo do Jason que se sente mais seguro em casa, ouvindo escondido as comunicações da Guarda Costeira e acreditando em teoria da conspiração (perfil da Rockstar, via GamesRadar).\n\nVocê confiaria no Cal? Comenta aqui.",
+   "fontes": [
+    "https://www.gamesradar.com/games/grand-theft-auto/rockstar-gives-us-our-best-look-at-the-gta-6-characters-yet-from-a-beer-loving-conspiracy-believing-hermit-to-a-rap-duo-with-a-relentless-social-media-presence"
+   ]
+  },
+  {
+   "id": "R1200",
+   "hora": "12:00",
+   "formato": "reel",
+   "linhas": [
+    "HORA DO ALMOÇO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Segunda, meio-dia: hora do almoço.",
+     "tela": "SEGUNDA, MEIO-DIA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-13.jpg"
+    },
+    {
+     "fala": "Quinze minutos pra comer.",
+     "tela": "15 MIN PRA COMER",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-20.jpg"
+    },
+    {
+     "fala": "Quarenta e cinco pensando em Vice City.",
+     "tela": "45 MIN EM VICE CITY",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-04.jpg"
+    },
+    {
+     "fala": "Marca o colega que faz isso e segue a página.",
+     "tela": "MARCA O COLEGA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-15.jpg"
+    }
+   ],
+   "legenda": "🍽️ Segunda-feira, meio-dia: 15 minutos comendo e 45 pensando em Vice City.\n\nMarca o colega de trabalho que tá igualzinho.",
+   "fontes": []
+  },
+  {
+   "id": "R1300",
+   "hora": "13:00",
+   "formato": "reel",
+   "linhas": [
+    "CARRO OU ROUPA?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Primeira grana grande: gasta com quê?",
+     "tela": "1ª GRANA GRANDE",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-13.jpg"
+    },
+    {
+     "fala": "Um: carro novo na garagem.",
+     "tela": "1: CARRO NOVO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vapid-ganado-retro-build-01.jpg"
+    },
+    {
+     "fala": "Dois: guarda-roupa de Vice City.",
+     "tela": "2: ROUPA NOVA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vice-city-style-02.jpg"
+    },
+    {
+     "fala": "Comenta um ou dois e segue a página.",
+     "tela": "COMENTA 1 OU 2",
+     "imagem": "gta6/banco/oficial/pacote-vintage-exclusive-looks-02.jpg"
+    }
+   ],
+   "legenda": "🚗👕 Caiu a primeira grana grande em Leonida: carro novo ou guarda-roupa de Vice City?\n\nComenta 1 ou 2 e chama o amigo pra votar.",
+   "fontes": []
+  },
+  {
+   "id": "R1400",
+   "hora": "14:00",
+   "formato": "reel",
+   "linhas": [
+    "REAL DIMEZ"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Tem dupla de rap no GTA 6.",
+     "tela": "DUPLA DE RAP EM LEONIDA",
+     "imagem": "gta6/banco/oficial/pessoa-real-dimez-04.jpg"
+    },
+    {
+     "fala": "É a Real Dimez: Bae-Luxe e Roxy.",
+     "tela": "BAE-LUXE E ROXY",
+     "imagem": "gta6/banco/oficial/arte-real-dimez.jpg"
+    },
+    {
+     "fala": "Segundo a Rockstar, elas tiveram um hit há cinco anos e assinaram com a Only Raw Records.",
+     "tela": "CONTRATO: ONLY RAW",
+     "imagem": "gta6/banco/oficial/pessoa-real-dimez-02.jpg"
+    },
+    {
+     "fala": "Ouviria esse som? Comenta e segue a página.",
+     "tela": "OUVIRIA? COMENTA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-09.jpg"
+    }
+   ],
+   "legenda": "🎤 Real Dimez é a dupla de rap de Leonida: Bae-Luxe e Roxy. Segundo o perfil da Rockstar, tiveram um hit cinco anos antes do jogo, vivem nas redes sociais e assinaram com a Only Raw Records (via GamesRadar).\n\nOuviria esse som? Comenta aqui.",
+   "fontes": [
+    "https://www.gamesradar.com/games/grand-theft-auto/rockstar-gives-us-our-best-look-at-the-gta-6-characters-yet-from-a-beer-loving-conspiracy-believing-hermit-to-a-rap-duo-with-a-relentless-social-media-presence"
+   ]
+  },
+  {
+   "id": "R1500",
+   "hora": "15:00",
+   "formato": "reel",
+   "linhas": [
+    "GRAVE NO TALO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Perseguição com som baixo não tem graça.",
+     "tela": "SOM BAIXO NÃO DÁ",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-16.jpg"
+    },
+    {
+     "fala": "Leonida pede grave de verdade.",
+     "tela": "LEONIDA PEDE GRAVE",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-08.jpg"
+    },
+    {
+     "fala": "Tem caixa de som JBL Boombox 4 no link da bio.",
+     "tela": "JBL BOOMBOX 4 NA BIO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-18.jpg"
+    },
+    {
+     "fala": "Manda pro vizinho que vai reclamar e segue a página.",
+     "tela": "MANDA PRO VIZINHO",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-06.jpg"
+    }
+   ],
+   "legenda": "🔊 Perseguição em Leonida com som baixo não tem graça. A caixa de som JBL Boombox 4 tá no link da bio (Mercado Livre). O preço muda todo dia, então confere lá.\n\nManda pro vizinho que vai reclamar do grave.",
    "fontes": []
   }
  ]
