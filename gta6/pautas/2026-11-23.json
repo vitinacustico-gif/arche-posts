@@ -2,7 +2,10 @@
  "data": "2026-11-23",
  "fontes": [
   "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/",
-  "https://www.gamesradar.com/games/grand-theft-auto/rockstar-gives-us-our-best-look-at-the-gta-6-characters-yet-from-a-beer-loving-conspiracy-believing-hermit-to-a-rap-duo-with-a-relentless-social-media-presence"
+  "https://www.gamesradar.com/games/grand-theft-auto/rockstar-gives-us-our-best-look-at-the-gta-6-characters-yet-from-a-beer-loving-conspiracy-believing-hermit-to-a-rap-duo-with-a-relentless-social-media-presence",
+  "https://www.notebookcheck.net/Here-s-how-GTA-6-s-character-switching-will-work.1380168.0.html",
+  "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/",
+  "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/"
  ],
  "itens": [
   {
@@ -584,6 +587,228 @@
    ],
    "legenda": "🔊 Perseguição em Leonida com som baixo não tem graça. A caixa de som JBL Boombox 4 tá no link da bio (Mercado Livre). O preço muda todo dia, então confere lá.\n\nManda pro vizinho que vai reclamar do grave.",
    "fontes": []
+  },
+  {
+   "id": "R1600",
+   "hora": "16:00",
+   "formato": "reel",
+   "linhas": [
+    "TROCA NA HORA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Trocar de personagem ficou instantâneo?",
+     "tela": "TROCA NA HORA?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-09.jpg"
+    },
+    {
+     "fala": "No GTA 5, a câmera subia e viajava pelo mapa.",
+     "tela": "GTA 5: CÂMERA VIAJAVA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
+    },
+    {
+     "fala": "No GTA 6, a Rockstar North contou que dá pra trocar entre Jason e Lucia no mesmo carro.",
+     "tela": "GTA 6: TROCA NO CARRO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-19.jpg"
+    },
+    {
+     "fala": "Você pega o volante ou atira da janela? Comenta e segue a página.",
+     "tela": "VOLANTE OU JANELA?",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-04.jpg"
+    }
+   ],
+   "legenda": "🔁 No GTA 5 a troca de personagem tinha aquela câmera viajando pelo mapa. No GTA 6, a Rockstar North contou que dá pra trocar entre Jason e Lucia no meio da cena, até dentro do mesmo carro: um dirige, o outro atira pela janela.\n\nVocê pega o volante ou a janela? Comenta aí.",
+   "fontes": [
+    "https://www.notebookcheck.net/Here-s-how-GTA-6-s-character-switching-will-work.1380168.0.html",
+    "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/"
+   ]
+  },
+  {
+   "id": "R1700",
+   "hora": "17:00",
+   "formato": "reel",
+   "linhas": [
+    "QUASE 18H"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Segunda, cinco da tarde.",
+     "tela": "SEGUNDA, 17H",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-07.jpg"
+    },
+    {
+     "fala": "O relógio parou de andar.",
+     "tela": "O RELÓGIO NÃO ANDA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-03.jpg"
+    },
+    {
+     "fala": "E a cabeça já tá em Vice City.",
+     "tela": "CABEÇA EM VICE CITY",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-grotti-cheetah-01.jpg"
+    },
+    {
+     "fala": "Marca quem tá contando os minutos e segue a página.",
+     "tela": "MARCA O PARCEIRO",
+     "imagem": "gta6/banco/oficial/lugar-ambrosia-02.jpg"
+    }
+   ],
+   "legenda": "⏰ Segunda, 17h: o corpo no trabalho e a cabeça em Vice City.\n\nMarca aquele amigo que já tá contando os minutos pra ligar o console.",
+   "fontes": [],
+   "estilo": "tweet"
+  },
+  {
+   "id": "R1800",
+   "hora": "18:00",
+   "formato": "reel",
+   "linhas": [
+    "TEM PESCARIA"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Dá pra pescar no GTA 6?",
+     "tela": "TEM PESCARIA?",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-01.jpg"
+    },
+    {
+     "fala": "Na prévia, o Jason aparece pescando de cima de um iate.",
+     "tela": "PESCA NO IATE",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-05.jpg"
+    },
+    {
+     "fala": "E também tem pesca em lago, de água doce.",
+     "tela": "E PESCA NO LAGO",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-04.jpg"
+    },
+    {
+     "fala": "Pescaria ou balada? Comenta e segue a página.",
+     "tela": "PESCA OU BALADA?",
+     "imagem": "gta6/banco/oficial/lugar-grassrivers-03.jpg"
+    }
+   ],
+   "legenda": "🎣 Tem pescaria em Leonida: o Jason aparece pescando de um iate no mar e tem pesca em lago de água doce também (lista de atividades da GamesRadar).\n\nDomingo de pesca ou noite na balada? Comenta a sua.",
+   "fontes": [
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/"
+   ]
+  },
+  {
+   "id": "R1900",
+   "hora": "19:00",
+   "formato": "reel",
+   "linhas": [
+    "CARTÃO PSN"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Sem cartão de crédito? Tem jeito.",
+     "tela": "SEM CARTÃO DE CRÉDITO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-15.jpg"
+    },
+    {
+     "fala": "O cartão presente da PlayStation Store resolve.",
+     "tela": "CARTÃO PLAYSTATION STORE",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-one-eyed-willie-01.jpg"
+    },
+    {
+     "fala": "O de quinhentos e cinquenta reais tá no link da bio.",
+     "tela": "R$ 550 NO LINK DA BIO",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-hawk-and-little-morgan-revolvers-02.jpg"
+    },
+    {
+     "fala": "Manda pra quem vive pedindo presente e segue a página.",
+     "tela": "MANDA PRO AMIGO",
+     "imagem": "gta6/banco/oficial/pacote-vintage-01.jpg"
+    }
+   ],
+   "legenda": "🎁 Sem cartão de crédito pra comprar na PlayStation Store? O cartão presente digital de R$ 550 tá no link da bio (Mercado Livre). Serve pra jogo, edição especial ou de presente pra quem joga.\n\nManda pra quem vive pedindo presente.",
+   "fontes": []
+  },
+  {
+   "id": "R2000",
+   "hora": "20:00",
+   "formato": "reel",
+   "linhas": [
+    "TIRO OU SOCO?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Tiro ou soco: qual é o seu?",
+     "tela": "TIRO OU SOCO?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-12.jpg"
+    },
+    {
+     "fala": "Na prévia, o Jason aparece como o especialista em armas.",
+     "tela": "1: JASON NA MIRA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-09.jpg"
+    },
+    {
+     "fala": "E a Lucia é a que resolve na briga.",
+     "tela": "2: LUCIA NA BRIGA",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-09.jpg"
+    },
+    {
+     "fala": "Comenta um ou dois e segue a página.",
+     "tela": "COMENTA 1 OU 2",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-03.jpg"
+    }
+   ],
+   "legenda": "🥊 Na prévia do GTA 6, o Jason aparece como o especialista em armas e a Lucia como a que resolve na mão (GamesRadar).\n\n1 pra tiro, 2 pra soco. Comenta o seu.",
+   "fontes": [
+    "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/"
+   ],
+   "estilo": "impacto"
+  },
+  {
+   "id": "R2100",
+   "hora": "21:00",
+   "formato": "reel",
+   "linhas": [
+    "JASON ENGORDA?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "O Jason pode engordar?",
+     "tela": "O JASON ENGORDA?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-11.jpg"
+    },
+    {
+     "fala": "Pelo que a Rockstar mostrou, o que você come muda o corpo deles.",
+     "tela": "COMIDA MUDA O CORPO",
+     "imagem": "gta6/banco/oficial/arte-jason-lucia-motel.jpg"
+    },
+    {
+     "fala": "Charuto e batatinha têm consequência. E a Lucia puxa ferro na academia.",
+     "tela": "BATATINHA OU ACADEMIA?",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-02.jpg"
+    },
+    {
+     "fala": "Você deixaria o Jason ficar gordinho? Comenta e segue a página.",
+     "tela": "DEIXARIA? COMENTA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-08.jpg"
+    }
+   ],
+   "legenda": "🍟 No GTA 6, o que você faz com o Jason e a Lucia aparece no corpo: charuto e batatinha têm consequência e a Lucia treina na academia (GamesRadar, com base na prévia da Rockstar).\n\nVocê deixaria o Jason ficar gordinho? Salva e comenta.",
+   "fontes": [
+    "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/",
+    "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/"
+   ]
   }
  ]
 }
