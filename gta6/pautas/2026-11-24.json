@@ -1,0 +1,157 @@
+{
+ "data": "2026-11-24",
+ "fontes": [
+  "https://kotaku.com/grand-theft-auto-6-the-kotaku-review-2000757842",
+  "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+ ],
+ "itens": [
+  {
+   "id": "R0000",
+   "hora": "00:00",
+   "formato": "reel",
+   "linhas": [
+    "152 HORAS"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "grupo",
+   "postar_story": true,
+   "estilo": "impacto",
+   "roteiro": [
+    {
+     "fala": "Cento e cinquenta e duas horas jogadas.",
+     "tela": "152 HORAS",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-19.jpg"
+    },
+    {
+     "fala": "Foi o tempo do crítico do Kotaku pra fechar a história e ver os dois finais.",
+     "tela": "DOIS FINAIS",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-rooftop.jpg"
+    },
+    {
+     "fala": "Ele chamou o mapa de o mundo aberto mais vivo que já viu. E contou mais de seiscentas lojas.",
+     "tela": "+600 LOJAS",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-23.jpg"
+    },
+    {
+     "fala": "Quantas horas você já tem? Comenta e segue a página.",
+     "tela": "QUANTAS HORAS VOCÊ TEM?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-15.jpg"
+    }
+   ],
+   "legenda": "⏱️ O crítico do Kotaku jogou 152 horas de GTA 6 no PlayStation 5 Pro: fechou a história, viu os dois finais e contou mais de 600 lojas no mapa. Para ele, é o mundo aberto mais detalhado e vivo que já jogou.\n\nE você, já está em quantas horas? Comenta aqui.",
+   "fontes": [
+    "https://kotaku.com/grand-theft-auto-6-the-kotaku-review-2000757842"
+   ]
+  },
+  {
+   "id": "R0100",
+   "hora": "01:00",
+   "formato": "reel",
+   "linhas": [
+    "PRAIA OU MATO?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "comunidade",
+   "postar_story": true,
+   "estilo": "tweet",
+   "roteiro": [
+    {
+     "fala": "Praia ou mato: onde você mora?",
+     "tela": "PRAIA OU MATO?",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-05.jpg"
+    },
+    {
+     "fala": "Um: casa de frente pro mar nas Leonida Keys.",
+     "tela": "1: LEONIDA KEYS",
+     "imagem": "gta6/banco/oficial/lugar-leonida-keys-02.jpg"
+    },
+    {
+     "fala": "Dois: cabana no Mount Kalaga National Park.",
+     "tela": "2: MOUNT KALAGA",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-03.jpg"
+    },
+    {
+     "fala": "Comenta um ou dois e segue a página.",
+     "tela": "COMENTA 1 OU 2",
+     "imagem": "gta6/banco/oficial/lugar-mount-kalaga-national-park-05.jpg"
+    }
+   ],
+   "legenda": "🌴 ou 🌲? Se desse pra escolher onde morar em Leonida: de frente pro mar nas Leonida Keys ou no meio do mato no Mount Kalaga National Park?\n\nComenta 1 ou 2 e marca quem iria junto.",
+   "fontes": []
+  },
+  {
+   "id": "R0200",
+   "hora": "02:00",
+   "formato": "reel",
+   "linhas": [
+    "IRREDIMÍVEL"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Cuidado: dá pra virar irredimível.",
+     "tela": "IRREDIMÍVEL?",
+     "imagem": "gta6/banco/oficial/pessoa-drequan-priest-01.jpg"
+    },
+    {
+     "fala": "No GTA 6, matar civil e policial pesa no seu perfil criminal.",
+     "tela": "PERFIL CRIMINAL",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-robbery.jpg"
+    },
+    {
+     "fala": "Exagerou no caos? O ranking não baixa mais, a polícia aperta e a história sente até o final.",
+     "tela": "NÃO TEM VOLTA",
+     "imagem": "gta6/banco/oficial/pessoa-raul-bautista-01.jpg"
+    },
+    {
+     "fala": "Salva e manda pro amigo que só faz caos. E segue a página.",
+     "tela": "MANDA PRO AMIGO",
+     "imagem": "gta6/banco/oficial/arte-jason-and-lucia-lock-and-load.jpg"
+    }
+   ],
+   "legenda": "🚨 No GTA 6, sair matando civil e policial pesa no novo perfil criminal. Com caos demais, você vira \"irredimível\": o ranking não baixa mais, a polícia aperta e isso afeta a história até o final (dicas da Forbes).\n\nManda pro amigo que joga só no modo caos.",
+   "fontes": [
+    "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+   ]
+  },
+  {
+   "id": "R0300",
+   "hora": "03:00",
+   "formato": "reel",
+   "linhas": [
+    "ESCUTA ISSO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "ofertas",
+   "postar_story": true,
+   "roteiro": [
+    {
+     "fala": "Você escuta a sirene chegando?",
+     "tela": "ESCUTA A SIRENE?",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-14.jpg"
+    },
+    {
+     "fala": "Em Leonida, o som avisa evento, conversa e polícia vindo.",
+     "tela": "O SOM AVISA",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-11.jpg"
+    },
+    {
+     "fala": "Tem headset gamer com microfone, pra PlayStation 5, Xbox e PC, no link da bio.",
+     "tela": "HEADSET NO LINK DA BIO",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-12.jpg"
+    },
+    {
+     "fala": "Manda pro amigo que joga no som da TV e segue a página.",
+     "tela": "MANDA PRO AMIGO",
+     "imagem": "gta6/banco/oficial/pacote-vintage-exclusive-looks-03.jpg"
+    }
+   ],
+   "legenda": "🎧 Em Leonida, o som entrega tudo: evento do mundo, conversa na rua e a polícia chegando. Jogar com headset muda a experiência.\n\nO headset gamer RGB com microfone (PS5, Xbox, PC e celular) está no link da bio. Manda pro amigo que ainda joga no som da TV.",
+   "fontes": [
+    "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
+   ]
+  }
+ ]
+}

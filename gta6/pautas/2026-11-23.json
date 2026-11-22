@@ -5,7 +5,8 @@
   "https://www.gamesradar.com/games/grand-theft-auto/rockstar-gives-us-our-best-look-at-the-gta-6-characters-yet-from-a-beer-loving-conspiracy-believing-hermit-to-a-rap-duo-with-a-relentless-social-media-presence",
   "https://www.notebookcheck.net/Here-s-how-GTA-6-s-character-switching-will-work.1380168.0.html",
   "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/",
-  "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/"
+  "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/",
+  "https://www.bgr.com/2322463/gta-6-hidden-fast-and-furious-paul-walker-car/"
  ],
  "itens": [
   {
@@ -808,6 +809,80 @@
    "fontes": [
     "https://www.gamesradar.com/gta-6-biggest-gameplay-changes-and-new-mechanics/",
     "https://www.gamesradar.com/games/grand-theft-auto/gta-6-side-activities/"
+   ]
+  },
+  {
+   "id": "R2200",
+   "hora": "22:00",
+   "formato": "reel",
+   "linhas": [
+    "VELOZES?"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Tem Velozes e Furiosos no GTA 6?",
+     "tela": "VELOZES NO GTA 6?",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-rideout-customs-02.jpg"
+    },
+    {
+     "fala": "Jogadores acharam uma homenagem ao carro do Brian, o personagem do Paul Walker.",
+     "tela": "O CARRO DO BRIAN",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-08.jpg"
+    },
+    {
+     "fala": "Ele fica numa garagem de uma casa branca em Vespucci Island. E dá pra sair dirigindo.",
+     "tela": "GARAGEM EM VESPUCCI",
+     "imagem": "gta6/banco/oficial/lugar-vice-city-14.jpg"
+    },
+    {
+     "fala": "Já achou? Manda pro amigo fã de carro e segue a página.",
+     "tela": "JÁ ACHOU? COMENTA",
+     "imagem": "gta6/banco/oficial/edicao-ultimate-vapid-buggy-03.jpg"
+    }
+   ],
+   "legenda": "🏁 Homenagem a Velozes e Furiosos em Leonida: segundo o BGR (com base na Vice), o carro do Brian O'Conner, personagem do Paul Walker, está numa garagem de uma casa branca em Vespucci Island, e dá pra pegar e passear com ele.\n\nJá encontrou? Comenta e manda pro amigo que ama carro.",
+   "fontes": [
+    "https://www.bgr.com/2322463/gta-6-hidden-fast-and-furious-paul-walker-car/"
+   ]
+  },
+  {
+   "id": "R2300",
+   "hora": "23:00",
+   "formato": "reel",
+   "linhas": [
+    "DIA DE TREINO"
+   ],
+   "tag": "GTA 6",
+   "cta_bio": "guia",
+   "postar_story": false,
+   "roteiro": [
+    {
+     "fala": "Parou de treinar? Perde o progresso.",
+     "tela": "PAROU? PERDEU",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-05.jpg"
+    },
+    {
+     "fala": "Na academia do GTA 6, demorar entre um treino e outro faz o ganho sumir.",
+     "tela": "TREINE COM FREQUÊNCIA",
+     "imagem": "gta6/banco/oficial/pessoa-jason-duval-06.jpg"
+    },
+    {
+     "fala": "Dica: se o parceiro treina na mesma academia, ganha o mesmo bônus. E a barra de proteína corta a recuperação pela metade.",
+     "tela": "PROTEÍNA: METADE DO TEMPO",
+     "imagem": "gta6/banco/oficial/pessoa-jason-and-lucia-12.jpg"
+    },
+    {
+     "fala": "Salva essa dica e segue a página.",
+     "tela": "SALVA E SEGUE",
+     "imagem": "gta6/banco/oficial/pessoa-lucia-caminos-09.jpg"
+    }
+   ],
+   "legenda": "💪 Academia no GTA 6 tem regra: se demorar entre os treinos, o progresso some. Se o parceiro treinar na mesma academia, ganha o mesmo bônus, e a barra de proteína corta a recuperação pela metade (dicas da Forbes).\n\nSalva pra não esquecer e manda pro amigo que só pula o treino.",
+   "fontes": [
+    "https://forbes.com.br/forbes-tech/2026/11/confira-10-dicas-que-voce-precisa-saber-para-comecar-a-jogar-gta-6/"
    ]
   }
  ]
